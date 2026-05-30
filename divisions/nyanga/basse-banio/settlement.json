@@ -1,0 +1,4322 @@
+[
+  {
+    "id": "GAB005001001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bana",
+      "en": "Bana",
+      "slug": "bana"
+    },
+    "code": {
+      "id": "GAB005001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "10.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beni Bantou",
+      "en": "Beni Bantou",
+      "slug": "beni-bantou"
+    },
+    "code": {
+      "id": "GAB005001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.85",
+      "lon": "10.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibonga",
+      "en": "Bibonga",
+      "slug": "bibonga"
+    },
+    "code": {
+      "id": "GAB005001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.805",
+      "lon": "10.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bikamba",
+      "en": "Bikamba",
+      "slug": "bikamba"
+    },
+    "code": {
+      "id": "GAB005001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.349",
+      "lon": "10.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilanga",
+      "en": "Bilanga",
+      "slug": "bilanga"
+    },
+    "code": {
+      "id": "GAB005001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.359",
+      "lon": "10.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilengui",
+      "en": "Bilengui",
+      "slug": "bilengui"
+    },
+    "code": {
+      "id": "GAB005001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.897",
+      "lon": "10.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouda",
+      "en": "Bouda",
+      "slug": "bouda"
+    },
+    "code": {
+      "id": "GAB005001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.827",
+      "lon": "10.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dende",
+      "en": "Dende",
+      "slug": "dende"
+    },
+    "code": {
+      "id": "GAB005001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.28",
+      "lon": "10.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diboufou",
+      "en": "Diboufou",
+      "slug": "diboufou"
+    },
+    "code": {
+      "id": "GAB005001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.923",
+      "lon": "10.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diboumfou",
+      "en": "Diboumfou",
+      "slug": "diboumfou"
+    },
+    "code": {
+      "id": "GAB005001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.923",
+      "lon": "10.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Difounda",
+      "en": "Difounda",
+      "slug": "difounda"
+    },
+    "code": {
+      "id": "GAB005001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "10.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digoba",
+      "en": "Digoba",
+      "slug": "digoba"
+    },
+    "code": {
+      "id": "GAB005001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.768",
+      "lon": "10.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digongo",
+      "en": "Digongo",
+      "slug": "digongo"
+    },
+    "code": {
+      "id": "GAB005001013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "10.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digoungou",
+      "en": "Digoungou",
+      "slug": "digoungou"
+    },
+    "code": {
+      "id": "GAB005001014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.856",
+      "lon": "10.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dilemba",
+      "en": "Dilemba",
+      "slug": "dilemba"
+    },
+    "code": {
+      "id": "GAB005001015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.057",
+      "lon": "10.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dilieliga",
+      "en": "Dilieliga",
+      "slug": "dilieliga"
+    },
+    "code": {
+      "id": "GAB005001016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.76",
+      "lon": "10.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dilienga",
+      "en": "Dilienga",
+      "slug": "dilienga"
+    },
+    "code": {
+      "id": "GAB005001017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.76",
+      "lon": "10.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dillieliga",
+      "en": "Dillieliga",
+      "slug": "dillieliga"
+    },
+    "code": {
+      "id": "GAB005001018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.76",
+      "lon": "10.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Disofou",
+      "en": "Disofou",
+      "slug": "disofou"
+    },
+    "code": {
+      "id": "GAB005001019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.882",
+      "lon": "10.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ditoumba Nzambi",
+      "en": "Ditoumba Nzambi",
+      "slug": "ditoumba-nzambi"
+    },
+    "code": {
+      "id": "GAB005001020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.271",
+      "lon": "10.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djema",
+      "en": "Djema",
+      "slug": "djema"
+    },
+    "code": {
+      "id": "GAB005001021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.937",
+      "lon": "10.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djemba",
+      "en": "Djemba",
+      "slug": "djemba"
+    },
+    "code": {
+      "id": "GAB005001022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.937",
+      "lon": "10.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dola",
+      "en": "Dola",
+      "slug": "dola"
+    },
+    "code": {
+      "id": "GAB005001023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.083",
+      "lon": "10.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Douanga",
+      "en": "Douanga",
+      "slug": "douanga"
+    },
+    "code": {
+      "id": "GAB005001024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3",
+      "lon": "10.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Douboumo",
+      "en": "Douboumo",
+      "slug": "douboumo"
+    },
+    "code": {
+      "id": "GAB005001025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.217",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dougou Mamba",
+      "en": "Dougou Mamba",
+      "slug": "dougou-mamba"
+    },
+    "code": {
+      "id": "GAB005001026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.931",
+      "lon": "10.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Douigny",
+      "en": "Douigny",
+      "slug": "douigny"
+    },
+    "code": {
+      "id": "GAB005001027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "10.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doungou",
+      "en": "Doungou",
+      "slug": "doungou"
+    },
+    "code": {
+      "id": "GAB005001028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.776",
+      "lon": "10.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dounvou",
+      "en": "Dounvou",
+      "slug": "dounvou"
+    },
+    "code": {
+      "id": "GAB005001029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.356",
+      "lon": "10.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gobini",
+      "en": "Gobini",
+      "slug": "gobini"
+    },
+    "code": {
+      "id": "GAB005001030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.033",
+      "lon": "10.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Goumbou",
+      "en": "Goumbou",
+      "slug": "goumbou"
+    },
+    "code": {
+      "id": "GAB005001031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.208",
+      "lon": "10.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idemba",
+      "en": "Idemba",
+      "slug": "idemba"
+    },
+    "code": {
+      "id": "GAB005001033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.35",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Inanga",
+      "en": "Inanga",
+      "slug": "inanga"
+    },
+    "code": {
+      "id": "GAB005001034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.813",
+      "lon": "10.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Isogni",
+      "en": "Isogni",
+      "slug": "isogni"
+    },
+    "code": {
+      "id": "GAB005001035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.804",
+      "lon": "10.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabagou",
+      "en": "Mabagou",
+      "slug": "mabagou"
+    },
+    "code": {
+      "id": "GAB005001036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.35",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maboka",
+      "en": "Maboka",
+      "slug": "maboka"
+    },
+    "code": {
+      "id": "GAB005001037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.339",
+      "lon": "10.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makaba Ndilo",
+      "en": "Makaba Ndilo",
+      "slug": "makaba-ndilo"
+    },
+    "code": {
+      "id": "GAB005001038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.067",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makiena",
+      "en": "Makiena",
+      "slug": "makiena"
+    },
+    "code": {
+      "id": "GAB005001039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.35",
+      "lon": "10.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matchiti",
+      "en": "Matchiti",
+      "slug": "matchiti"
+    },
+    "code": {
+      "id": "GAB005001040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "10.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mavumba",
+      "en": "Mavumba",
+      "slug": "mavumba"
+    },
+    "code": {
+      "id": "GAB005001041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "10.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayamba",
+      "en": "Mayamba",
+      "slug": "mayamba"
+    },
+    "code": {
+      "id": "GAB005001042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.976",
+      "lon": "10.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayoumba",
+      "en": "Mayoumba",
+      "slug": "mayoumba"
+    },
+    "code": {
+      "id": "GAB005001043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "10.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayumba",
+      "en": "Mayumba",
+      "slug": "mayumba"
+    },
+    "code": {
+      "id": "GAB005001044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "10.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbissi",
+      "en": "Mbissi",
+      "slug": "mbissi"
+    },
+    "code": {
+      "id": "GAB005001045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.925",
+      "lon": "10.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboma",
+      "en": "Mboma",
+      "slug": "mboma"
+    },
+    "code": {
+      "id": "GAB005001046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.025",
+      "lon": "10.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbouissi",
+      "en": "Mbouissi",
+      "slug": "mbouissi"
+    },
+    "code": {
+      "id": "GAB005001047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.278",
+      "lon": "10.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Miguengui",
+      "en": "Miguengui",
+      "slug": "miguengui"
+    },
+    "code": {
+      "id": "GAB005001048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.033",
+      "lon": "10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Milandou",
+      "en": "Milandou",
+      "slug": "milandou"
+    },
+    "code": {
+      "id": "GAB005001049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.04",
+      "lon": "10.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minguengue",
+      "en": "Minguengue",
+      "slug": "minguengue"
+    },
+    "code": {
+      "id": "GAB005001050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.061",
+      "lon": "10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mirendi",
+      "en": "Mirendi",
+      "slug": "mirendi"
+    },
+    "code": {
+      "id": "GAB005001051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.266",
+      "lon": "10.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mongo Milando",
+      "en": "Mongo Milando",
+      "slug": "mongo-milando"
+    },
+    "code": {
+      "id": "GAB005001052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.05",
+      "lon": "10.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mossamala",
+      "en": "Mossamala",
+      "slug": "mossamala"
+    },
+    "code": {
+      "id": "GAB005001053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.794",
+      "lon": "10.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouenda",
+      "en": "Mouenda",
+      "slug": "mouenda"
+    },
+    "code": {
+      "id": "GAB005001054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.916",
+      "lon": "10.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougnimbou",
+      "en": "Mougnimbou",
+      "slug": "mougnimbou"
+    },
+    "code": {
+      "id": "GAB005001055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.125",
+      "lon": "10.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukangi",
+      "en": "Moukangi",
+      "slug": "moukangi"
+    },
+    "code": {
+      "id": "GAB005001056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.889",
+      "lon": "10.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukondo",
+      "en": "Moukondo",
+      "slug": "moukondo"
+    },
+    "code": {
+      "id": "GAB005001057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "10.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukongo Ndende",
+      "en": "Moukongo Ndende",
+      "slug": "moukongo-ndende"
+    },
+    "code": {
+      "id": "GAB005001058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.865",
+      "lon": "10.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulondo",
+      "en": "Moulondo",
+      "slug": "moulondo"
+    },
+    "code": {
+      "id": "GAB005001059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.07",
+      "lon": "10.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moumou Boumba",
+      "en": "Moumou Boumba",
+      "slug": "moumou-boumba"
+    },
+    "code": {
+      "id": "GAB005001060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.35",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussitou",
+      "en": "Moussitou",
+      "slug": "moussitou"
+    },
+    "code": {
+      "id": "GAB005001061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.089",
+      "lon": "10.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouvanga",
+      "en": "Mouvanga",
+      "slug": "mouvanga"
+    },
+    "code": {
+      "id": "GAB005001062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.017",
+      "lon": "10.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouyamba",
+      "en": "Mouyamba",
+      "slug": "mouyamba"
+    },
+    "code": {
+      "id": "GAB005001063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.333",
+      "lon": "10.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouyoungou",
+      "en": "Mouyoungou",
+      "slug": "mouyoungou"
+    },
+    "code": {
+      "id": "GAB005001064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.19",
+      "lon": "10.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngondi",
+      "en": "Ngondi",
+      "slug": "ngondi"
+    },
+    "code": {
+      "id": "GAB005001065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.347",
+      "lon": "10.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    },
+    "code": {
+      "id": "GAB005001066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.981",
+      "lon": "10.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oueligha",
+      "en": "Oueligha",
+      "slug": "oueligha"
+    },
+    "code": {
+      "id": "GAB005001067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.855",
+      "lon": "10.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Panga",
+      "en": "Panga",
+      "slug": "panga"
+    },
+    "code": {
+      "id": "GAB005001068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.229",
+      "lon": "10.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pembi",
+      "en": "Pembi",
+      "slug": "pembi"
+    },
+    "code": {
+      "id": "GAB005001069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.288",
+      "lon": "10.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sanga Foret",
+      "en": "Sanga Foret",
+      "slug": "sanga-foret"
+    },
+    "code": {
+      "id": "GAB005001070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.098",
+      "lon": "10.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Singa Plaine",
+      "en": "Singa Plaine",
+      "slug": "singa-plaine"
+    },
+    "code": {
+      "id": "GAB005001071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.049",
+      "lon": "10.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tono",
+      "en": "Tono",
+      "slug": "tono"
+    },
+    "code": {
+      "id": "GAB005001072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.075",
+      "lon": "10.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsogni",
+      "en": "Tsogni",
+      "slug": "tsogni"
+    },
+    "code": {
+      "id": "GAB005001073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.804",
+      "lon": "10.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsogui",
+      "en": "Tsogui",
+      "slug": "tsogui"
+    },
+    "code": {
+      "id": "GAB005001074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.045",
+      "lon": "10.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yendji",
+      "en": "Yendji",
+      "slug": "yendji"
+    },
+    "code": {
+      "id": "GAB005001075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.817",
+      "lon": "10.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeyeha",
+      "en": "Yeyeha",
+      "slug": "yeyeha"
+    },
+    "code": {
+      "id": "GAB005001076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.033",
+      "lon": "10.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeyena",
+      "en": "Yeyena",
+      "slug": "yeyena"
+    },
+    "code": {
+      "id": "GAB005001077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.033",
+      "lon": "10.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeyenga",
+      "en": "Yeyenga",
+      "slug": "yeyenga"
+    },
+    "code": {
+      "id": "GAB005001078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.033",
+      "lon": "10.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yoyo",
+      "en": "Yoyo",
+      "slug": "yoyo"
+    },
+    "code": {
+      "id": "GAB005001079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.681",
+      "lon": "11.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zambi Zanza",
+      "en": "Zambi Zanza",
+      "slug": "zambi-zanza"
+    },
+    "code": {
+      "id": "GAB005001080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.419",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zangui Mamba",
+      "en": "Zangui Mamba",
+      "slug": "zangui-mamba"
+    },
+    "code": {
+      "id": "GAB005001081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005001",
+      "level": 2,
+      "name": {
+        "local": "Basse-Banio",
+        "en": "Basse-Banio",
+        "slug": "basse-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005001",
+        "level": 2,
+        "name": {
+          "local": "Basse-Banio",
+          "en": "Basse-Banio",
+          "slug": "basse-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.871",
+      "lon": "10.199"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

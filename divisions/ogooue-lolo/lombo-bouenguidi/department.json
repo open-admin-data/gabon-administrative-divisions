@@ -1,0 +1,47 @@
+{
+  "id": "GAB007002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Lombo-Bouenguidi",
+    "en": "Lombo-Bouenguidi",
+    "slug": "lombo-bouenguidi"
+  },
+  "code": {
+    "id": "GAB007002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB007",
+    "level": 1,
+    "name": {
+      "local": "Ogooue-Lolo",
+      "en": "Ogooue-Lolo",
+      "slug": "ogooue-lolo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB007",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Lolo",
+        "en": "Ogooue-Lolo",
+        "slug": "ogooue-lolo"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 70
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.445",
+    "lon": "12.624"
+  },
+  "metadata": {},
+  "source": {}
+}

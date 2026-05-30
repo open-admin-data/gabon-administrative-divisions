@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "GAB004009001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Billengui",
+      "en": "Billengui",
+      "slug": "billengui"
+    },
+    "code": {
+      "id": "GAB004009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.95",
+      "lon": "10.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Billengui I",
+      "en": "Billengui I",
+      "slug": "billengui-i"
+    },
+    "code": {
+      "id": "GAB004009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.867",
+      "lon": "10.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Billengui II",
+      "en": "Billengui II",
+      "slug": "billengui-ii"
+    },
+    "code": {
+      "id": "GAB004009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "10.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boucanga",
+      "en": "Boucanga",
+      "slug": "boucanga"
+    },
+    "code": {
+      "id": "GAB004009006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.917",
+      "lon": "10.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Degueri",
+      "en": "Degueri",
+      "slug": "degueri"
+    },
+    "code": {
+      "id": "GAB004009007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.139",
+      "lon": "10.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dissegui",
+      "en": "Dissegui",
+      "slug": "dissegui"
+    },
+    "code": {
+      "id": "GAB004009008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.022",
+      "lon": "10.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dissengui",
+      "en": "Dissengui",
+      "slug": "dissengui"
+    },
+    "code": {
+      "id": "GAB004009009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doubambi",
+      "en": "Doubambi",
+      "slug": "doubambi"
+    },
+    "code": {
+      "id": "GAB004009010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.967",
+      "lon": "10.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dougayi",
+      "en": "Dougayi",
+      "slug": "dougayi"
+    },
+    "code": {
+      "id": "GAB004009011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.122",
+      "lon": "10.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Goulougai",
+      "en": "Goulougai",
+      "slug": "goulougai"
+    },
+    "code": {
+      "id": "GAB004009012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.114",
+      "lon": "10.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idemba",
+      "en": "Idemba",
+      "slug": "idemba"
+    },
+    "code": {
+      "id": "GAB004009013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.87",
+      "lon": "10.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idouma",
+      "en": "Idouma",
+      "slug": "idouma"
+    },
+    "code": {
+      "id": "GAB004009014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.051",
+      "lon": "10.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ilendou",
+      "en": "Ilendou",
+      "slug": "ilendou"
+    },
+    "code": {
+      "id": "GAB004009016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.152",
+      "lon": "10.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itala",
+      "en": "Itala",
+      "slug": "itala"
+    },
+    "code": {
+      "id": "GAB004009017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.9",
+      "lon": "10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kedi",
+      "en": "Kedi",
+      "slug": "kedi"
+    },
+    "code": {
+      "id": "GAB004009018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keri II",
+      "en": "Keri II",
+      "slug": "keri-ii"
+    },
+    "code": {
+      "id": "GAB004009019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.045",
+      "lon": "10.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koumbanou",
+      "en": "Koumbanou",
+      "slug": "koumbanou"
+    },
+    "code": {
+      "id": "GAB004009020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.111",
+      "lon": "10.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Liembo Douma",
+      "en": "Liembo Douma",
+      "slug": "liembo-douma"
+    },
+    "code": {
+      "id": "GAB004009021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.143",
+      "lon": "10.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabengo",
+      "en": "Mabengo",
+      "slug": "mabengo"
+    },
+    "code": {
+      "id": "GAB004009022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.95",
+      "lon": "10.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Macanda",
+      "en": "Macanda",
+      "slug": "macanda"
+    },
+    "code": {
+      "id": "GAB004009023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.954",
+      "lon": "10.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makanda",
+      "en": "Makanda",
+      "slug": "makanda"
+    },
+    "code": {
+      "id": "GAB004009024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.954",
+      "lon": "10.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malimba",
+      "en": "Malimba",
+      "slug": "malimba"
+    },
+    "code": {
+      "id": "GAB004009025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.07",
+      "lon": "10.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji",
+      "en": "Mandji",
+      "slug": "mandji"
+    },
+    "code": {
+      "id": "GAB004009026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.108",
+      "lon": "10.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massaya",
+      "en": "Massaya",
+      "slug": "massaya"
+    },
+    "code": {
+      "id": "GAB004009027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.144",
+      "lon": "10.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboukou",
+      "en": "Mboukou",
+      "slug": "mboukou"
+    },
+    "code": {
+      "id": "GAB004009028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.125",
+      "lon": "10.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Migola",
+      "en": "Migola",
+      "slug": "migola"
+    },
+    "code": {
+      "id": "GAB004009029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.153",
+      "lon": "10.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mingola",
+      "en": "Mingola",
+      "slug": "mingola"
+    },
+    "code": {
+      "id": "GAB004009030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.13",
+      "lon": "10.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougounda",
+      "en": "Mougounda",
+      "slug": "mougounda"
+    },
+    "code": {
+      "id": "GAB004009031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.248",
+      "lon": "10.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukiba II",
+      "en": "Moukiba II",
+      "slug": "moukiba-ii"
+    },
+    "code": {
+      "id": "GAB004009032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "10.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussoudou",
+      "en": "Moussoudou",
+      "slug": "moussoudou"
+    },
+    "code": {
+      "id": "GAB004009033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.05",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nganda",
+      "en": "Nganda",
+      "slug": "nganda"
+    },
+    "code": {
+      "id": "GAB004009034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.049",
+      "lon": "10.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nieguianou",
+      "en": "Nieguianou",
+      "slug": "nieguianou"
+    },
+    "code": {
+      "id": "GAB004009035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.134",
+      "lon": "10.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzambi",
+      "en": "Nzambi",
+      "slug": "nzambi"
+    },
+    "code": {
+      "id": "GAB004009036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.152",
+      "lon": "10.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oueliga",
+      "en": "Oueliga",
+      "slug": "oueliga"
+    },
+    "code": {
+      "id": "GAB004009039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.144",
+      "lon": "10.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Paga",
+      "en": "Paga",
+      "slug": "paga"
+    },
+    "code": {
+      "id": "GAB004009040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.966",
+      "lon": "10.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pegny Ivolo",
+      "en": "Pegny Ivolo",
+      "slug": "pegny-ivolo"
+    },
+    "code": {
+      "id": "GAB004009041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.03",
+      "lon": "10.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pegny-Sampana",
+      "en": "Pegny-Sampana",
+      "slug": "pegny-sampana"
+    },
+    "code": {
+      "id": "GAB004009042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.042",
+      "lon": "10.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Polo Mbya",
+      "en": "Polo Mbya",
+      "slug": "polo-mbya"
+    },
+    "code": {
+      "id": "GAB004009043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.135",
+      "lon": "10.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salamou",
+      "en": "Salamou",
+      "slug": "salamou"
+    },
+    "code": {
+      "id": "GAB004009044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.96",
+      "lon": "10.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tchengue-Paga",
+      "en": "Tchengue-Paga",
+      "slug": "tchengue-paga"
+    },
+    "code": {
+      "id": "GAB004009045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.072",
+      "lon": "10.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tchengui-Paga",
+      "en": "Tchengui-Paga",
+      "slug": "tchengui-paga"
+    },
+    "code": {
+      "id": "GAB004009046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.072",
+      "lon": "10.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yetsou",
+      "en": "Yetsou",
+      "slug": "yetsou"
+    },
+    "code": {
+      "id": "GAB004009047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.16",
+      "lon": "10.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yetsou I",
+      "en": "Yetsou I",
+      "slug": "yetsou-i"
+    },
+    "code": {
+      "id": "GAB004009049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.142",
+      "lon": "10.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yetsou II",
+      "en": "Yetsou II",
+      "slug": "yetsou-ii"
+    },
+    "code": {
+      "id": "GAB004009050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004009",
+      "level": 2,
+      "name": {
+        "local": "Mougalaba",
+        "en": "Mougalaba",
+        "slug": "mougalaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004009",
+        "level": 2,
+        "name": {
+          "local": "Mougalaba",
+          "en": "Mougalaba",
+          "slug": "mougalaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.16",
+      "lon": "10.688"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

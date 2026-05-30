@@ -1,0 +1,2258 @@
+[
+  {
+    "id": "GAB003001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Abanga-Bigne",
+      "en": "Abanga-Bigne",
+      "slug": "abanga-bigne"
+    },
+    "code": {
+      "id": "GAB003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003",
+      "level": 1,
+      "name": {
+        "local": "Moyen-Ogooue",
+        "en": "Moyen-Ogooue",
+        "slug": "moyen-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 137
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.175",
+      "lon": "10.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Basse-Banio",
+      "en": "Basse-Banio",
+      "slug": "basse-banio"
+    },
+    "code": {
+      "id": "GAB005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.08",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002011",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bayi-Brikolo",
+      "en": "Bayi-Brikolo",
+      "slug": "bayi-brikolo"
+    },
+    "code": {
+      "id": "GAB002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.5",
+      "lon": "14.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bendje",
+      "en": "Bendje",
+      "slug": "bendje"
+    },
+    "code": {
+      "id": "GAB008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Maritime",
+        "en": "Ogooue-Maritime",
+        "slug": "ogooue-maritime"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 87
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.883",
+      "lon": "9.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Boumi-Louetsi",
+      "en": "Boumi-Louetsi",
+      "slug": "boumi-louetsi"
+    },
+    "code": {
+      "id": "GAB004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 189
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.041",
+      "lon": "11.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Djoue",
+      "en": "Djoue",
+      "slug": "djoue"
+    },
+    "code": {
+      "id": "GAB002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.833",
+      "lon": "14.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Djouori-Agnili",
+      "en": "Djouori-Agnili",
+      "slug": "djouori-agnili"
+    },
+    "code": {
+      "id": "GAB002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.475",
+      "lon": "13.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Dola",
+      "en": "Dola",
+      "slug": "dola"
+    },
+    "code": {
+      "id": "GAB004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 95
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.325",
+      "lon": "11.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Douigni",
+      "en": "Douigni",
+      "slug": "douigni"
+    },
+    "code": {
+      "id": "GAB005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.437",
+      "lon": "10.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Doutsila",
+      "en": "Doutsila",
+      "slug": "doutsila"
+    },
+    "code": {
+      "id": "GAB005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 103
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.76",
+      "lon": "11.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Douya-Onoye",
+      "en": "Douya-Onoye",
+      "slug": "douya-onoye"
+    },
+    "code": {
+      "id": "GAB004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.857",
+      "lon": "11.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Etimboue",
+      "en": "Etimboue",
+      "slug": "etimboue"
+    },
+    "code": {
+      "id": "GAB008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Maritime",
+        "en": "Ogooue-Maritime",
+        "slug": "ogooue-maritime"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 123
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.628",
+      "lon": "9.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Haut-Komo",
+      "en": "Haut-Komo",
+      "slug": "haut-komo"
+    },
+    "code": {
+      "id": "GAB009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.905",
+      "lon": "10.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Haut-Ntem",
+      "en": "Haut-Ntem",
+      "slug": "haut-ntem"
+    },
+    "code": {
+      "id": "GAB009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 123
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.057",
+      "lon": "11.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Haute-Banio",
+      "en": "Haute-Banio",
+      "slug": "haute-banio"
+    },
+    "code": {
+      "id": "GAB005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.731",
+      "lon": "11.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ivindo",
+      "en": "Ivindo",
+      "slug": "ivindo"
+    },
+    "code": {
+      "id": "GAB006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Ivindo",
+        "en": "Ogooue-Ivindo",
+        "slug": "ogooue-ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 122
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.664",
+      "lon": "12.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Komo",
+      "en": "Komo",
+      "slug": "komo"
+    },
+    "code": {
+      "id": "GAB001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001",
+      "level": 1,
+      "name": {
+        "local": "Estuaire",
+        "en": "Estuaire",
+        "slug": "estuaire"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 177
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.277",
+      "lon": "10.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Komo-Mondah",
+      "en": "Komo-Mondah",
+      "slug": "komo-mondah"
+    },
+    "code": {
+      "id": "GAB001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001",
+      "level": 1,
+      "name": {
+        "local": "Estuaire",
+        "en": "Estuaire",
+        "slug": "estuaire"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 140
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.271",
+      "lon": "9.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lebombi-Leyou",
+      "en": "Lebombi-Leyou",
+      "slug": "lebombi-leyou"
+    },
+    "code": {
+      "id": "GAB002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.504",
+      "lon": "13.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lekabi-Lewolo",
+      "en": "Lekabi-Lewolo",
+      "slug": "lekabi-lewolo"
+    },
+    "code": {
+      "id": "GAB002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.322",
+      "lon": "13.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lekoko",
+      "en": "Lekoko",
+      "slug": "lekoko"
+    },
+    "code": {
+      "id": "GAB002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.747",
+      "lon": "13.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lekoni-Lekori",
+      "en": "Lekoni-Lekori",
+      "slug": "lekoni-lekori"
+    },
+    "code": {
+      "id": "GAB002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.151",
+      "lon": "13.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Libreville",
+      "en": "Libreville",
+      "slug": "libreville"
+    },
+    "code": {
+      "id": "GAB001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001",
+      "level": 1,
+      "name": {
+        "local": "Estuaire",
+        "en": "Estuaire",
+        "slug": "estuaire"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.377",
+      "lon": "9.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lolo-Bouenguidi",
+      "en": "Lolo-Bouenguidi",
+      "slug": "lolo-bouenguidi"
+    },
+    "code": {
+      "id": "GAB007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Lolo",
+        "en": "Ogooue-Lolo",
+        "slug": "ogooue-lolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 129
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.376",
+      "lon": "12.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lombo-Bouenguidi",
+      "en": "Lombo-Bouenguidi",
+      "slug": "lombo-bouenguidi"
+    },
+    "code": {
+      "id": "GAB007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Lolo",
+        "en": "Ogooue-Lolo",
+        "slug": "ogooue-lolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 70
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.445",
+      "lon": "12.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lope",
+      "en": "Lope",
+      "slug": "lope"
+    },
+    "code": {
+      "id": "GAB006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Ivindo",
+        "en": "Ogooue-Ivindo",
+        "slug": "ogooue-ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 95
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.086",
+      "lon": "11.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Louetsi-Bibaka",
+      "en": "Louetsi-Bibaka",
+      "slug": "louetsi-bibaka"
+    },
+    "code": {
+      "id": "GAB004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 63
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.202",
+      "lon": "12.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Louetsi-Wano",
+      "en": "Louetsi-Wano",
+      "slug": "louetsi-wano"
+    },
+    "code": {
+      "id": "GAB004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.199",
+      "lon": "11.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mongo",
+      "en": "Mongo",
+      "slug": "mongo"
+    },
+    "code": {
+      "id": "GAB005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.261",
+      "lon": "11.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004009",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mougalaba",
+      "en": "Mougalaba",
+      "slug": "mougalaba"
+    },
+    "code": {
+      "id": "GAB004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.051",
+      "lon": "10.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mougoutsi",
+      "en": "Mougoutsi",
+      "slug": "mougoutsi"
+    },
+    "code": {
+      "id": "GAB005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 106
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.844",
+      "lon": "11.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mouloundou",
+      "en": "Mouloundou",
+      "slug": "mouloundou"
+    },
+    "code": {
+      "id": "GAB007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Lolo",
+        "en": "Ogooue-Lolo",
+        "slug": "ogooue-lolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 182
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.899",
+      "lon": "12.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mvoung",
+      "en": "Mvoung",
+      "slug": "mvoung"
+    },
+    "code": {
+      "id": "GAB006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Ivindo",
+        "en": "Ogooue-Ivindo",
+        "slug": "ogooue-ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.345",
+      "lon": "12.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ndolou",
+      "en": "Ndolou",
+      "slug": "ndolou"
+    },
+    "code": {
+      "id": "GAB004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.585",
+      "lon": "10.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ndougou",
+      "en": "Ndougou",
+      "slug": "ndougou"
+    },
+    "code": {
+      "id": "GAB008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Maritime",
+        "en": "Ogooue-Maritime",
+        "slug": "ogooue-maritime"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.258",
+      "lon": "9.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Noya",
+      "en": "Noya",
+      "slug": "noya"
+    },
+    "code": {
+      "id": "GAB001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001",
+      "level": 1,
+      "name": {
+        "local": "Estuaire",
+        "en": "Estuaire",
+        "slug": "estuaire"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 118
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.788",
+      "lon": "9.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ntem",
+      "en": "Ntem",
+      "slug": "ntem"
+    },
+    "code": {
+      "id": "GAB009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 176
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.095",
+      "lon": "11.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Offoue-Onoye",
+      "en": "Offoue-Onoye",
+      "slug": "offoue-onoye"
+    },
+    "code": {
+      "id": "GAB007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Lolo",
+        "en": "Ogooue-Lolo",
+        "slug": "ogooue-lolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 57
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.094",
+      "lon": "11.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ogooue et Lacs",
+      "en": "Ogooue et Lacs",
+      "slug": "ogooue-et-lacs"
+    },
+    "code": {
+      "id": "GAB003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003",
+      "level": 1,
+      "name": {
+        "local": "Moyen-Ogooue",
+        "en": "Moyen-Ogooue",
+        "slug": "moyen-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 169
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.704",
+      "lon": "10.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ogooue-Letili",
+      "en": "Ogooue-Letili",
+      "slug": "ogooue-letili"
+    },
+    "code": {
+      "id": "GAB002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.147",
+      "lon": "13.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ogoulou",
+      "en": "Ogoulou",
+      "slug": "ogoulou"
+    },
+    "code": {
+      "id": "GAB004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 165
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.439",
+      "lon": "11.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Okano",
+      "en": "Okano",
+      "slug": "okano"
+    },
+    "code": {
+      "id": "GAB009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 205
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.775",
+      "lon": "11.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Passa",
+      "en": "Passa",
+      "slug": "passa"
+    },
+    "code": {
+      "id": "GAB002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 112
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.63",
+      "lon": "13.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux"
+    },
+    "code": {
+      "id": "GAB002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.702",
+      "lon": "14.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Sebe-Brikolo",
+      "en": "Sebe-Brikolo",
+      "slug": "sebe-brikolo"
+    },
+    "code": {
+      "id": "GAB002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 65
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.668",
+      "lon": "13.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tsamba-Magotsi",
+      "en": "Tsamba-Magotsi",
+      "slug": "tsamba-magotsi"
+    },
+    "code": {
+      "id": "GAB004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 110
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.375",
+      "lon": "10.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Woleu",
+      "en": "Woleu",
+      "slug": "woleu"
+    },
+    "code": {
+      "id": "GAB009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 240
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.494",
+      "lon": "11.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Zadie",
+      "en": "Zadie",
+      "slug": "zadie"
+    },
+    "code": {
+      "id": "GAB006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Ivindo",
+        "en": "Ogooue-Ivindo",
+        "slug": "ogooue-ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 101
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.887",
+      "lon": "13.854"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

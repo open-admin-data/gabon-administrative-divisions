@@ -1,0 +1,47 @@
+{
+  "id": "GAB001004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Libreville",
+    "en": "Libreville",
+    "slug": "libreville"
+  },
+  "code": {
+    "id": "GAB001004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB001",
+    "level": 1,
+    "name": {
+      "local": "Estuaire",
+      "en": "Estuaire",
+      "slug": "estuaire"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB001",
+      "level": 1,
+      "name": {
+        "local": "Estuaire",
+        "en": "Estuaire",
+        "slug": "estuaire"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 43
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.377",
+    "lon": "9.493"
+  },
+  "metadata": {},
+  "source": {}
+}

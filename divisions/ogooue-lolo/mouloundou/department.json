@@ -1,0 +1,47 @@
+{
+  "id": "GAB007003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mouloundou",
+    "en": "Mouloundou",
+    "slug": "mouloundou"
+  },
+  "code": {
+    "id": "GAB007003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB007",
+    "level": 1,
+    "name": {
+      "local": "Ogooue-Lolo",
+      "en": "Ogooue-Lolo",
+      "slug": "ogooue-lolo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB007",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Lolo",
+        "en": "Ogooue-Lolo",
+        "slug": "ogooue-lolo"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 182
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.899",
+    "lon": "12.839"
+  },
+  "metadata": {},
+  "source": {}
+}

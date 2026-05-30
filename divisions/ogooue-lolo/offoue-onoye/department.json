@@ -1,0 +1,47 @@
+{
+  "id": "GAB007004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Offoue-Onoye",
+    "en": "Offoue-Onoye",
+    "slug": "offoue-onoye"
+  },
+  "code": {
+    "id": "GAB007004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB007",
+    "level": 1,
+    "name": {
+      "local": "Ogooue-Lolo",
+      "en": "Ogooue-Lolo",
+      "slug": "ogooue-lolo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB007",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Lolo",
+        "en": "Ogooue-Lolo",
+        "slug": "ogooue-lolo"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 57
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.094",
+    "lon": "11.92"
+  },
+  "metadata": {},
+  "source": {}
+}

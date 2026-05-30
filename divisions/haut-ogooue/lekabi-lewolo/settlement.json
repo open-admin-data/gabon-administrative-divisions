@@ -1,0 +1,704 @@
+[
+  {
+    "id": "GAB002004001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akouata",
+      "en": "Akouata",
+      "slug": "akouata"
+    },
+    "code": {
+      "id": "GAB002004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.34",
+      "lon": "13.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Allele",
+      "en": "Allele",
+      "slug": "allele"
+    },
+    "code": {
+      "id": "GAB002004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.246",
+      "lon": "13.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekoungou",
+      "en": "Ekoungou",
+      "slug": "ekoungou"
+    },
+    "code": {
+      "id": "GAB002004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.31",
+      "lon": "13.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Empoussa",
+      "en": "Empoussa",
+      "slug": "empoussa"
+    },
+    "code": {
+      "id": "GAB002004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.241",
+      "lon": "13.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Enkassa",
+      "en": "Enkassa",
+      "slug": "enkassa"
+    },
+    "code": {
+      "id": "GAB002004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "13.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obori",
+      "en": "Obori",
+      "slug": "obori"
+    },
+    "code": {
+      "id": "GAB002004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.244",
+      "lon": "13.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okara",
+      "en": "Okara",
+      "slug": "okara"
+    },
+    "code": {
+      "id": "GAB002004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.39",
+      "lon": "13.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okouba",
+      "en": "Okouba",
+      "slug": "okouba"
+    },
+    "code": {
+      "id": "GAB002004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.393",
+      "lon": "13.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okouba II",
+      "en": "Okouba II",
+      "slug": "okouba-ii"
+    },
+    "code": {
+      "id": "GAB002004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "13.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okoungou",
+      "en": "Okoungou",
+      "slug": "okoungou"
+    },
+    "code": {
+      "id": "GAB002004010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.31",
+      "lon": "13.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ombili",
+      "en": "Ombili",
+      "slug": "ombili"
+    },
+    "code": {
+      "id": "GAB002004011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "13.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Omoi",
+      "en": "Omoi",
+      "slug": "omoi"
+    },
+    "code": {
+      "id": "GAB002004012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.336",
+      "lon": "13.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyou",
+      "en": "Oyou",
+      "slug": "oyou"
+    },
+    "code": {
+      "id": "GAB002004014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002004",
+      "level": 2,
+      "name": {
+        "local": "Lekabi-Lewolo",
+        "en": "Lekabi-Lewolo",
+        "slug": "lekabi-lewolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002004",
+        "level": 2,
+        "name": {
+          "local": "Lekabi-Lewolo",
+          "en": "Lekabi-Lewolo",
+          "slug": "lekabi-lewolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.352",
+      "lon": "13.775"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

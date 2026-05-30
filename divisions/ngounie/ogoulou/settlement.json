@@ -1,0 +1,8912 @@
+[
+  {
+    "id": "GAB004007001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aboukoua",
+      "en": "Aboukoua",
+      "slug": "aboukoua"
+    },
+    "code": {
+      "id": "GAB004007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancien Matica",
+      "en": "Ancien Matica",
+      "slug": "ancien-matica"
+    },
+    "code": {
+      "id": "GAB004007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.933",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancien Mimongo",
+      "en": "Ancien Mimongo",
+      "slug": "ancien-mimongo"
+    },
+    "code": {
+      "id": "GAB004007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.183",
+      "lon": "11.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayoumba",
+      "en": "Ayoumba",
+      "slug": "ayoumba"
+    },
+    "code": {
+      "id": "GAB004007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.733",
+      "lon": "11.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babini",
+      "en": "Babini",
+      "slug": "babini"
+    },
+    "code": {
+      "id": "GAB004007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.983",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bichouin",
+      "en": "Bichouin",
+      "slug": "bichouin"
+    },
+    "code": {
+      "id": "GAB004007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.017",
+      "lon": "11.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Billengue",
+      "en": "Billengue",
+      "slug": "billengue"
+    },
+    "code": {
+      "id": "GAB004007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.962",
+      "lon": "11.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouali",
+      "en": "Bouali",
+      "slug": "bouali"
+    },
+    "code": {
+      "id": "GAB004007008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "11.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boubapobo",
+      "en": "Boubapobo",
+      "slug": "boubapobo"
+    },
+    "code": {
+      "id": "GAB004007009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "11.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boutapobo",
+      "en": "Boutapobo",
+      "slug": "boutapobo"
+    },
+    "code": {
+      "id": "GAB004007010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "11.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boutijobo",
+      "en": "Boutijobo",
+      "slug": "boutijobo"
+    },
+    "code": {
+      "id": "GAB004007011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "11.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boutipabo",
+      "en": "Boutipabo",
+      "slug": "boutipabo"
+    },
+    "code": {
+      "id": "GAB004007012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "11.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boutombi",
+      "en": "Boutombi",
+      "slug": "boutombi"
+    },
+    "code": {
+      "id": "GAB004007013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.447",
+      "lon": "11.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boutomoi",
+      "en": "Boutomoi",
+      "slug": "boutomoi"
+    },
+    "code": {
+      "id": "GAB004007014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.447",
+      "lon": "11.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Camp de Banga",
+      "en": "Camp de Banga",
+      "slug": "camp-de-banga"
+    },
+    "code": {
+      "id": "GAB004007015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.417",
+      "lon": "11.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Camp de Doungo",
+      "en": "Camp de Doungo",
+      "slug": "camp-de-doungo"
+    },
+    "code": {
+      "id": "GAB004007016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.389",
+      "lon": "11.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Camp de Ekoua",
+      "en": "Camp de Ekoua",
+      "slug": "camp-de-ekoua"
+    },
+    "code": {
+      "id": "GAB004007017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "11.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Camp de Massima",
+      "en": "Camp de Massima",
+      "slug": "camp-de-massima"
+    },
+    "code": {
+      "id": "GAB004007018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.435",
+      "lon": "11.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Camp de Moumba",
+      "en": "Camp de Moumba",
+      "slug": "camp-de-moumba"
+    },
+    "code": {
+      "id": "GAB004007019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.383",
+      "lon": "11.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Camp de Mouramda",
+      "en": "Camp de Mouramda",
+      "slug": "camp-de-mouramda"
+    },
+    "code": {
+      "id": "GAB004007020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.467",
+      "lon": "11.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Camp de Obaka",
+      "en": "Camp de Obaka",
+      "slug": "camp-de-obaka"
+    },
+    "code": {
+      "id": "GAB004007021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Camp de Pounga",
+      "en": "Camp de Pounga",
+      "slug": "camp-de-pounga"
+    },
+    "code": {
+      "id": "GAB004007022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "11.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Canda",
+      "en": "Canda",
+      "slug": "canda"
+    },
+    "code": {
+      "id": "GAB004007023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "11.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Comi",
+      "en": "Comi",
+      "slug": "comi"
+    },
+    "code": {
+      "id": "GAB004007024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Coungou",
+      "en": "Coungou",
+      "slug": "coungou"
+    },
+    "code": {
+      "id": "GAB004007025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "11.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dibagni",
+      "en": "Dibagni",
+      "slug": "dibagni"
+    },
+    "code": {
+      "id": "GAB004007026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.533",
+      "lon": "11.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dibamba",
+      "en": "Dibamba",
+      "slug": "dibamba"
+    },
+    "code": {
+      "id": "GAB004007027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.51",
+      "lon": "11.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dibandi",
+      "en": "Dibandi",
+      "slug": "dibandi"
+    },
+    "code": {
+      "id": "GAB004007030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.595",
+      "lon": "11.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diboundi",
+      "en": "Diboundi",
+      "slug": "diboundi"
+    },
+    "code": {
+      "id": "GAB004007032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.433",
+      "lon": "11.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dikouka",
+      "en": "Dikouka",
+      "slug": "dikouka"
+    },
+    "code": {
+      "id": "GAB004007033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "11.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dimbou",
+      "en": "Dimbou",
+      "slug": "dimbou"
+    },
+    "code": {
+      "id": "GAB004007035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.483",
+      "lon": "11.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dipouya",
+      "en": "Dipouya",
+      "slug": "dipouya"
+    },
+    "code": {
+      "id": "GAB004007036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "11.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dirembo",
+      "en": "Dirembo",
+      "slug": "dirembo"
+    },
+    "code": {
+      "id": "GAB004007037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.681",
+      "lon": "11.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divelo",
+      "en": "Divelo",
+      "slug": "divelo"
+    },
+    "code": {
+      "id": "GAB004007038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "11.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divinda",
+      "en": "Divinda",
+      "slug": "divinda"
+    },
+    "code": {
+      "id": "GAB004007039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.1",
+      "lon": "11.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divinde",
+      "en": "Divinde",
+      "slug": "divinde"
+    },
+    "code": {
+      "id": "GAB004007040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.153",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dondo",
+      "en": "Dondo",
+      "slug": "dondo"
+    },
+    "code": {
+      "id": "GAB004007041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.467",
+      "lon": "11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doubi",
+      "en": "Doubi",
+      "slug": "doubi"
+    },
+    "code": {
+      "id": "GAB004007042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "11.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dyanga",
+      "en": "Dyanga",
+      "slug": "dyanga"
+    },
+    "code": {
+      "id": "GAB004007043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "11.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebando",
+      "en": "Ebando",
+      "slug": "ebando"
+    },
+    "code": {
+      "id": "GAB004007044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.583",
+      "lon": "11.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eboundji",
+      "en": "Eboundji",
+      "slug": "eboundji"
+    },
+    "code": {
+      "id": "GAB004007045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.235",
+      "lon": "11.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ecoukou",
+      "en": "Ecoukou",
+      "slug": "ecoukou"
+    },
+    "code": {
+      "id": "GAB004007046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.369",
+      "lon": "11.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Egoumbi",
+      "en": "Egoumbi",
+      "slug": "egoumbi"
+    },
+    "code": {
+      "id": "GAB004007047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.836",
+      "lon": "11.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekeka",
+      "en": "Ekeka",
+      "slug": "ekeka"
+    },
+    "code": {
+      "id": "GAB004007048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekika",
+      "en": "Ekika",
+      "slug": "ekika"
+    },
+    "code": {
+      "id": "GAB004007049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.067",
+      "lon": "11.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Essoukou",
+      "en": "Essoukou",
+      "slug": "essoukou"
+    },
+    "code": {
+      "id": "GAB004007050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.369",
+      "lon": "11.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etaba",
+      "en": "Etaba",
+      "slug": "etaba"
+    },
+    "code": {
+      "id": "GAB004007051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.763",
+      "lon": "11.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eteke",
+      "en": "Eteke",
+      "slug": "eteke"
+    },
+    "code": {
+      "id": "GAB004007052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.498",
+      "lon": "11.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etoughi",
+      "en": "Etoughi",
+      "slug": "etoughi"
+    },
+    "code": {
+      "id": "GAB004007053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.263",
+      "lon": "11.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evouta",
+      "en": "Evouta",
+      "slug": "evouta"
+    },
+    "code": {
+      "id": "GAB004007054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.117",
+      "lon": "11.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evouta II",
+      "en": "Evouta II",
+      "slug": "evouta-ii"
+    },
+    "code": {
+      "id": "GAB004007055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.25",
+      "lon": "11.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eya Nioy",
+      "en": "Eya Nioy",
+      "slug": "eya-nioy"
+    },
+    "code": {
+      "id": "GAB004007056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.283",
+      "lon": "11.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyoumbi",
+      "en": "Eyoumbi",
+      "slug": "eyoumbi"
+    },
+    "code": {
+      "id": "GAB004007057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.283",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fougamou",
+      "en": "Fougamou",
+      "slug": "fougamou"
+    },
+    "code": {
+      "id": "GAB004007058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "11.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ghebida",
+      "en": "Ghebida",
+      "slug": "ghebida"
+    },
+    "code": {
+      "id": "GAB004007059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "11.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ghediba",
+      "en": "Ghediba",
+      "slug": "ghediba"
+    },
+    "code": {
+      "id": "GAB004007060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "11.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Grand Mobigou",
+      "en": "Grand Mobigou",
+      "slug": "grand-mobigou"
+    },
+    "code": {
+      "id": "GAB004007061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.445",
+      "lon": "11.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Guiabeta",
+      "en": "Guiabeta",
+      "slug": "guiabeta"
+    },
+    "code": {
+      "id": "GAB004007062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.05",
+      "lon": "11.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Guidiba",
+      "en": "Guidiba",
+      "slug": "guidiba"
+    },
+    "code": {
+      "id": "GAB004007063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "11.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ibaga",
+      "en": "Ibaga",
+      "slug": "ibaga"
+    },
+    "code": {
+      "id": "GAB004007064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.663",
+      "lon": "11.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iboundji",
+      "en": "Iboundji",
+      "slug": "iboundji"
+    },
+    "code": {
+      "id": "GAB004007065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idema",
+      "en": "Idema",
+      "slug": "idema"
+    },
+    "code": {
+      "id": "GAB004007066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.367",
+      "lon": "11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idemba",
+      "en": "Idemba",
+      "slug": "idemba"
+    },
+    "code": {
+      "id": "GAB004007067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.367",
+      "lon": "11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idemba I",
+      "en": "Idemba I",
+      "slug": "idemba-i"
+    },
+    "code": {
+      "id": "GAB004007069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "11.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idemba II",
+      "en": "Idemba II",
+      "slug": "idemba-ii"
+    },
+    "code": {
+      "id": "GAB004007070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "11.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Igouba",
+      "en": "Igouba",
+      "slug": "igouba"
+    },
+    "code": {
+      "id": "GAB004007071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.667",
+      "lon": "11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Imeno",
+      "en": "Imeno",
+      "slug": "imeno"
+    },
+    "code": {
+      "id": "GAB004007072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.583",
+      "lon": "11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Indamba",
+      "en": "Indamba",
+      "slug": "indamba"
+    },
+    "code": {
+      "id": "GAB004007073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.017",
+      "lon": "11.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Indimba",
+      "en": "Indimba",
+      "slug": "indimba"
+    },
+    "code": {
+      "id": "GAB004007074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "11.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ipamboua",
+      "en": "Ipamboua",
+      "slug": "ipamboua"
+    },
+    "code": {
+      "id": "GAB004007075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.915",
+      "lon": "11.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Issinga",
+      "en": "Issinga",
+      "slug": "issinga"
+    },
+    "code": {
+      "id": "GAB004007076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.716",
+      "lon": "11.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itoughi",
+      "en": "Itoughi",
+      "slug": "itoughi"
+    },
+    "code": {
+      "id": "GAB004007077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.263",
+      "lon": "11.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itougui",
+      "en": "Itougui",
+      "slug": "itougui"
+    },
+    "code": {
+      "id": "GAB004007078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.75",
+      "lon": "11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itsanga",
+      "en": "Itsanga",
+      "slug": "itsanga"
+    },
+    "code": {
+      "id": "GAB004007079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "11.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itsango",
+      "en": "Itsango",
+      "slug": "itsango"
+    },
+    "code": {
+      "id": "GAB004007080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.651",
+      "lon": "11.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itsigou",
+      "en": "Itsigou",
+      "slug": "itsigou"
+    },
+    "code": {
+      "id": "GAB004007081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.717",
+      "lon": "11.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ivouta",
+      "en": "Ivouta",
+      "slug": "ivouta"
+    },
+    "code": {
+      "id": "GAB004007082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.117",
+      "lon": "11.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kanda",
+      "en": "Kanda",
+      "slug": "kanda"
+    },
+    "code": {
+      "id": "GAB004007083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.801",
+      "lon": "11.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kembele",
+      "en": "Kembele",
+      "slug": "kembele"
+    },
+    "code": {
+      "id": "GAB004007085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.714",
+      "lon": "11.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kimbele",
+      "en": "Kimbele",
+      "slug": "kimbele"
+    },
+    "code": {
+      "id": "GAB004007086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.714",
+      "lon": "11.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koungou",
+      "en": "Koungou",
+      "slug": "koungou"
+    },
+    "code": {
+      "id": "GAB004007087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "11.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lambarene",
+      "en": "Lambarene",
+      "slug": "lambarene"
+    },
+    "code": {
+      "id": "GAB004007088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.1",
+      "lon": "11.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lidiembo",
+      "en": "Lidiembo",
+      "slug": "lidiembo"
+    },
+    "code": {
+      "id": "GAB004007089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.967",
+      "lon": "11.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lidyembo",
+      "en": "Lidyembo",
+      "slug": "lidyembo"
+    },
+    "code": {
+      "id": "GAB004007090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.967",
+      "lon": "11.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lounalou",
+      "en": "Lounalou",
+      "slug": "lounalou"
+    },
+    "code": {
+      "id": "GAB004007091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.133",
+      "lon": "11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabangui",
+      "en": "Mabangui",
+      "slug": "mabangui"
+    },
+    "code": {
+      "id": "GAB004007092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.52",
+      "lon": "11.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Macwi",
+      "en": "Macwi",
+      "slug": "macwi"
+    },
+    "code": {
+      "id": "GAB004007093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.334",
+      "lon": "11.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magagana",
+      "en": "Magagana",
+      "slug": "magagana"
+    },
+    "code": {
+      "id": "GAB004007094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "11.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magounga",
+      "en": "Magounga",
+      "slug": "magounga"
+    },
+    "code": {
+      "id": "GAB004007095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.783",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makangonio",
+      "en": "Makangonio",
+      "slug": "makangonio"
+    },
+    "code": {
+      "id": "GAB004007097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.917",
+      "lon": "11.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mallebe",
+      "en": "Mallebe",
+      "slug": "mallebe"
+    },
+    "code": {
+      "id": "GAB004007098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "11.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamania",
+      "en": "Mamania",
+      "slug": "mamania"
+    },
+    "code": {
+      "id": "GAB004007099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.75",
+      "lon": "11.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji",
+      "en": "Mandji",
+      "slug": "mandji"
+    },
+    "code": {
+      "id": "GAB004007101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "11.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Masoui",
+      "en": "Masoui",
+      "slug": "masoui"
+    },
+    "code": {
+      "id": "GAB004007103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.334",
+      "lon": "11.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massika",
+      "en": "Massika",
+      "slug": "massika"
+    },
+    "code": {
+      "id": "GAB004007104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.841",
+      "lon": "11.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massima",
+      "en": "Massima",
+      "slug": "massima"
+    },
+    "code": {
+      "id": "GAB004007105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.435",
+      "lon": "11.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matica",
+      "en": "Matica",
+      "slug": "matica"
+    },
+    "code": {
+      "id": "GAB004007106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.933",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007107",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mavaco",
+      "en": "Mavaco",
+      "slug": "mavaco"
+    },
+    "code": {
+      "id": "GAB004007107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.283",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007108",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayengue",
+      "en": "Mayengue",
+      "slug": "mayengue"
+    },
+    "code": {
+      "id": "GAB004007108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.283",
+      "lon": "11.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbaya",
+      "en": "Mbaya",
+      "slug": "mbaya"
+    },
+    "code": {
+      "id": "GAB004007109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.917",
+      "lon": "11.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007110",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Memba",
+      "en": "Memba",
+      "slug": "memba"
+    },
+    "code": {
+      "id": "GAB004007110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.349",
+      "lon": "11.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007111",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikengue",
+      "en": "Mikengue",
+      "slug": "mikengue"
+    },
+    "code": {
+      "id": "GAB004007111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "11.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimango",
+      "en": "Mimango",
+      "slug": "mimango"
+    },
+    "code": {
+      "id": "GAB004007112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.183",
+      "lon": "11.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimongo",
+      "en": "Mimongo",
+      "slug": "mimongo"
+    },
+    "code": {
+      "id": "GAB004007113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.62",
+      "lon": "11.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007115",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Miongo",
+      "en": "Miongo",
+      "slug": "miongo"
+    },
+    "code": {
+      "id": "GAB004007115",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.917",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007116",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mitingou",
+      "en": "Mitingou",
+      "slug": "mitingou"
+    },
+    "code": {
+      "id": "GAB004007116",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.848",
+      "lon": "11.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007117",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Miyoumba",
+      "en": "Miyoumba",
+      "slug": "miyoumba"
+    },
+    "code": {
+      "id": "GAB004007117",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.25",
+      "lon": "11.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007118",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mobigou",
+      "en": "Mobigou",
+      "slug": "mobigou"
+    },
+    "code": {
+      "id": "GAB004007118",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.395",
+      "lon": "11.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007120",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moghoumou",
+      "en": "Moghoumou",
+      "slug": "moghoumou"
+    },
+    "code": {
+      "id": "GAB004007120",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.402",
+      "lon": "11.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007121",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mogoumou",
+      "en": "Mogoumou",
+      "slug": "mogoumou"
+    },
+    "code": {
+      "id": "GAB004007121",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.402",
+      "lon": "11.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007122",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moubongou",
+      "en": "Moubongou",
+      "slug": "moubongou"
+    },
+    "code": {
+      "id": "GAB004007122",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "11.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007123",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouboungou",
+      "en": "Mouboungou",
+      "slug": "mouboungou"
+    },
+    "code": {
+      "id": "GAB004007123",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "11.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007124",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moucouna",
+      "en": "Moucouna",
+      "slug": "moucouna"
+    },
+    "code": {
+      "id": "GAB004007124",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.667",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007125",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougnegou",
+      "en": "Mougnegou",
+      "slug": "mougnegou"
+    },
+    "code": {
+      "id": "GAB004007125",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.3",
+      "lon": "11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007126",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougnygou",
+      "en": "Mougnygou",
+      "slug": "mougnygou"
+    },
+    "code": {
+      "id": "GAB004007126",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "11.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007127",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukabou",
+      "en": "Moukabou",
+      "slug": "moukabou"
+    },
+    "code": {
+      "id": "GAB004007127",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.623",
+      "lon": "11.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007128",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukandi",
+      "en": "Moukandi",
+      "slug": "moukandi"
+    },
+    "code": {
+      "id": "GAB004007128",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.476",
+      "lon": "11.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007129",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukinga",
+      "en": "Moukinga",
+      "slug": "moukinga"
+    },
+    "code": {
+      "id": "GAB004007129",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.483",
+      "lon": "11.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007130",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukoumou",
+      "en": "Moukoumou",
+      "slug": "moukoumou"
+    },
+    "code": {
+      "id": "GAB004007130",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007131",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moumba",
+      "en": "Moumba",
+      "slug": "moumba"
+    },
+    "code": {
+      "id": "GAB004007131",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.367",
+      "lon": "11.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007133",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moumbou",
+      "en": "Moumbou",
+      "slug": "moumbou"
+    },
+    "code": {
+      "id": "GAB004007133",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.723",
+      "lon": "11.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007134",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mounanga",
+      "en": "Mounanga",
+      "slug": "mounanga"
+    },
+    "code": {
+      "id": "GAB004007134",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.917",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007135",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mounenga",
+      "en": "Mounenga",
+      "slug": "mounenga"
+    },
+    "code": {
+      "id": "GAB004007135",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.933",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007136",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mounongo",
+      "en": "Mounongo",
+      "slug": "mounongo"
+    },
+    "code": {
+      "id": "GAB004007136",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.3",
+      "lon": "11.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007137",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moupaka",
+      "en": "Moupaka",
+      "slug": "moupaka"
+    },
+    "code": {
+      "id": "GAB004007137",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.283",
+      "lon": "11.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007138",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussigue",
+      "en": "Moussigue",
+      "slug": "moussigue"
+    },
+    "code": {
+      "id": "GAB004007138",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.717",
+      "lon": "11.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007139",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussima",
+      "en": "Moussima",
+      "slug": "moussima"
+    },
+    "code": {
+      "id": "GAB004007139",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.467",
+      "lon": "11.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007140",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouyoumbi",
+      "en": "Mouyoumbi",
+      "slug": "mouyoumbi"
+    },
+    "code": {
+      "id": "GAB004007140",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "11.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007141",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "N Dimbou",
+      "en": "N Dimbou",
+      "slug": "n-dimbou"
+    },
+    "code": {
+      "id": "GAB004007141",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.483",
+      "lon": "11.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007142",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndingui",
+      "en": "Ndingui",
+      "slug": "ndingui"
+    },
+    "code": {
+      "id": "GAB004007142",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "11.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007143",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndogo",
+      "en": "Ndogo",
+      "slug": "ndogo"
+    },
+    "code": {
+      "id": "GAB004007143",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.233",
+      "lon": "11.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007144",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndoubi",
+      "en": "Ndoubi",
+      "slug": "ndoubi"
+    },
+    "code": {
+      "id": "GAB004007144",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "11.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007146",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndoungou",
+      "en": "Ndoungou",
+      "slug": "ndoungou"
+    },
+    "code": {
+      "id": "GAB004007146",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.367",
+      "lon": "11.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007147",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngondo",
+      "en": "Ngondo",
+      "slug": "ngondo"
+    },
+    "code": {
+      "id": "GAB004007147",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "11.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007148",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngouassa",
+      "en": "Ngouassa",
+      "slug": "ngouassa"
+    },
+    "code": {
+      "id": "GAB004007148",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "11.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007149",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngouassa Mabounda",
+      "en": "Ngouassa Mabounda",
+      "slug": "ngouassa-mabounda"
+    },
+    "code": {
+      "id": "GAB004007149",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007150",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngouaza Mabounza",
+      "en": "Ngouaza Mabounza",
+      "slug": "ngouaza-mabounza"
+    },
+    "code": {
+      "id": "GAB004007150",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007151",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngwassa Mab",
+      "en": "Ngwassa Mab",
+      "slug": "ngwassa-mab"
+    },
+    "code": {
+      "id": "GAB004007151",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007152",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngwassa Mabounza",
+      "en": "Ngwassa Mabounza",
+      "slug": "ngwassa-mabounza"
+    },
+    "code": {
+      "id": "GAB004007152",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007153",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngwassa Mabouuza",
+      "en": "Ngwassa Mabouuza",
+      "slug": "ngwassa-mabouuza"
+    },
+    "code": {
+      "id": "GAB004007153",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007154",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niole",
+      "en": "Niole",
+      "slug": "niole"
+    },
+    "code": {
+      "id": "GAB004007154",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.033",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007155",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niongue",
+      "en": "Niongue",
+      "slug": "niongue"
+    },
+    "code": {
+      "id": "GAB004007155",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "11.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007156",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niongui",
+      "en": "Niongui",
+      "slug": "niongui"
+    },
+    "code": {
+      "id": "GAB004007156",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.381",
+      "lon": "11.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007157",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyamo",
+      "en": "Nyamo",
+      "slug": "nyamo"
+    },
+    "code": {
+      "id": "GAB004007157",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "11.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007158",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    },
+    "code": {
+      "id": "GAB004007158",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.9",
+      "lon": "11.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007159",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyanga Moubighou",
+      "en": "Nyanga Moubighou",
+      "slug": "nyanga-moubighou"
+    },
+    "code": {
+      "id": "GAB004007159",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.9",
+      "lon": "11.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007160",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyoy",
+      "en": "Nyoy",
+      "slug": "nyoy"
+    },
+    "code": {
+      "id": "GAB004007160",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.283",
+      "lon": "11.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007161",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oboi",
+      "en": "Oboi",
+      "slug": "oboi"
+    },
+    "code": {
+      "id": "GAB004007161",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.3",
+      "lon": "11.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007162",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Petit Masango",
+      "en": "Petit Masango",
+      "slug": "petit-masango"
+    },
+    "code": {
+      "id": "GAB004007162",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007163",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Petit Mobigou",
+      "en": "Petit Mobigou",
+      "slug": "petit-mobigou"
+    },
+    "code": {
+      "id": "GAB004007163",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.4",
+      "lon": "11.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007164",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pingo",
+      "en": "Pingo",
+      "slug": "pingo"
+    },
+    "code": {
+      "id": "GAB004007164",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "11.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007165",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pingou",
+      "en": "Pingou",
+      "slug": "pingou"
+    },
+    "code": {
+      "id": "GAB004007165",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "11.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007166",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Piti Masango",
+      "en": "Piti Masango",
+      "slug": "piti-masango"
+    },
+    "code": {
+      "id": "GAB004007166",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007167",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Piti Massango",
+      "en": "Piti Massango",
+      "slug": "piti-massango"
+    },
+    "code": {
+      "id": "GAB004007167",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.716",
+      "lon": "11.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007168",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poumbou",
+      "en": "Poumbou",
+      "slug": "poumbou"
+    },
+    "code": {
+      "id": "GAB004007168",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007169",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pounga",
+      "en": "Pounga",
+      "slug": "pounga"
+    },
+    "code": {
+      "id": "GAB004007169",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "11.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007171",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poungui",
+      "en": "Poungui",
+      "slug": "poungui"
+    },
+    "code": {
+      "id": "GAB004007171",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.616",
+      "lon": "11.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007172",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soga",
+      "en": "Soga",
+      "slug": "soga"
+    },
+    "code": {
+      "id": "GAB004007172",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.583",
+      "lon": "11.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007173",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soga II",
+      "en": "Soga II",
+      "slug": "soga-ii"
+    },
+    "code": {
+      "id": "GAB004007173",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.233",
+      "lon": "11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007174",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Taki",
+      "en": "Taki",
+      "slug": "taki"
+    },
+    "code": {
+      "id": "GAB004007174",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007175",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tamba",
+      "en": "Tamba",
+      "slug": "tamba"
+    },
+    "code": {
+      "id": "GAB004007175",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "11.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007176",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsamba",
+      "en": "Tsamba",
+      "slug": "tsamba"
+    },
+    "code": {
+      "id": "GAB004007176",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.15",
+      "lon": "11.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007177",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsengui",
+      "en": "Tsengui",
+      "slug": "tsengui"
+    },
+    "code": {
+      "id": "GAB004007177",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.3",
+      "lon": "11.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007178",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vedi",
+      "en": "Vedi",
+      "slug": "vedi"
+    },
+    "code": {
+      "id": "GAB004007178",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.4",
+      "lon": "11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004007179",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeno",
+      "en": "Yeno",
+      "slug": "yeno"
+    },
+    "code": {
+      "id": "GAB004007179",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004007",
+      "level": 2,
+      "name": {
+        "local": "Ogoulou",
+        "en": "Ogoulou",
+        "slug": "ogoulou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004007",
+        "level": 2,
+        "name": {
+          "local": "Ogoulou",
+          "en": "Ogoulou",
+          "slug": "ogoulou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.68",
+      "lon": "11.491"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

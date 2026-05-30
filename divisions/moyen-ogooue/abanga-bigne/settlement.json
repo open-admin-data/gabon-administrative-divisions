@@ -1,0 +1,7400 @@
+[
+  {
+    "id": "GAB003001001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abandou",
+      "en": "Abandou",
+      "slug": "abandou"
+    },
+    "code": {
+      "id": "GAB003001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.267",
+      "lon": "10.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abebea",
+      "en": "Abebea",
+      "slug": "abebea"
+    },
+    "code": {
+      "id": "GAB003001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.175",
+      "lon": "11.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ackok",
+      "en": "Ackok",
+      "slug": "ackok"
+    },
+    "code": {
+      "id": "GAB003001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.3",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adoume",
+      "en": "Adoume",
+      "slug": "adoume"
+    },
+    "code": {
+      "id": "GAB003001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.317",
+      "lon": "10.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Afog Bidzi",
+      "en": "Afog Bidzi",
+      "slug": "afog-bidzi"
+    },
+    "code": {
+      "id": "GAB003001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.269",
+      "lon": "10.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Afogho Bizi",
+      "en": "Afogho Bizi",
+      "slug": "afogho-bizi"
+    },
+    "code": {
+      "id": "GAB003001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.269",
+      "lon": "10.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akighe Nlam",
+      "en": "Akighe Nlam",
+      "slug": "akighe-nlam"
+    },
+    "code": {
+      "id": "GAB003001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.3",
+      "lon": "10.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akoghe",
+      "en": "Akoghe",
+      "slug": "akoghe"
+    },
+    "code": {
+      "id": "GAB003001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "10.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akok",
+      "en": "Akok",
+      "slug": "akok"
+    },
+    "code": {
+      "id": "GAB003001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.274",
+      "lon": "10.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akoreyen",
+      "en": "Akoreyen",
+      "slug": "akoreyen"
+    },
+    "code": {
+      "id": "GAB003001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.133",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akorriyen",
+      "en": "Akorriyen",
+      "slug": "akorriyen"
+    },
+    "code": {
+      "id": "GAB003001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.133",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alat",
+      "en": "Alat",
+      "slug": "alat"
+    },
+    "code": {
+      "id": "GAB003001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.167",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alembe",
+      "en": "Alembe",
+      "slug": "alembe"
+    },
+    "code": {
+      "id": "GAB003001013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.081",
+      "lon": "10.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alene",
+      "en": "Alene",
+      "slug": "alene"
+    },
+    "code": {
+      "id": "GAB003001016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.2",
+      "lon": "10.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancien Andok",
+      "en": "Ancien Andok",
+      "slug": "ancien-andok"
+    },
+    "code": {
+      "id": "GAB003001017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.319",
+      "lon": "11.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancien Founa",
+      "en": "Ancien Founa",
+      "slug": "ancien-founa"
+    },
+    "code": {
+      "id": "GAB003001018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.408",
+      "lon": "11.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancien Okala",
+      "en": "Ancien Okala",
+      "slug": "ancien-okala"
+    },
+    "code": {
+      "id": "GAB003001019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.359",
+      "lon": "10.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancien Poste des Apindji",
+      "en": "Ancien Poste des Apindji",
+      "slug": "ancien-poste-des-apindji"
+    },
+    "code": {
+      "id": "GAB003001020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.083",
+      "lon": "11.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andem I",
+      "en": "Andem I",
+      "slug": "andem-i"
+    },
+    "code": {
+      "id": "GAB003001021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.171",
+      "lon": "10.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andem II",
+      "en": "Andem II",
+      "slug": "andem-ii"
+    },
+    "code": {
+      "id": "GAB003001023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.182",
+      "lon": "10.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andem III",
+      "en": "Andem III",
+      "slug": "andem-iii"
+    },
+    "code": {
+      "id": "GAB003001025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.184",
+      "lon": "10.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andock",
+      "en": "Andock",
+      "slug": "andock"
+    },
+    "code": {
+      "id": "GAB003001027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.35",
+      "lon": "10.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andok",
+      "en": "Andok",
+      "slug": "andok"
+    },
+    "code": {
+      "id": "GAB003001029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.319",
+      "lon": "11.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andoka",
+      "en": "Andoka",
+      "slug": "andoka"
+    },
+    "code": {
+      "id": "GAB003001030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.283",
+      "lon": "10.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Anonebere",
+      "en": "Anonebere",
+      "slug": "anonebere"
+    },
+    "code": {
+      "id": "GAB003001031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.267",
+      "lon": "10.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Apindji",
+      "en": "Apindji",
+      "slug": "apindji"
+    },
+    "code": {
+      "id": "GAB003001032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.083",
+      "lon": "11.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Asseng I",
+      "en": "Asseng I",
+      "slug": "asseng-i"
+    },
+    "code": {
+      "id": "GAB003001033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.141",
+      "lon": "11.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Asseng II",
+      "en": "Asseng II",
+      "slug": "asseng-ii"
+    },
+    "code": {
+      "id": "GAB003001034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.16",
+      "lon": "11.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avormitok",
+      "en": "Avormitok",
+      "slug": "avormitok"
+    },
+    "code": {
+      "id": "GAB003001035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.117",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayambi",
+      "en": "Ayambi",
+      "slug": "ayambi"
+    },
+    "code": {
+      "id": "GAB003001036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.267",
+      "lon": "10.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayebe",
+      "en": "Ayebe",
+      "slug": "ayebe"
+    },
+    "code": {
+      "id": "GAB003001037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.224",
+      "lon": "10.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayeghele-Mindock",
+      "en": "Ayeghele-Mindock",
+      "slug": "ayeghele-mindock"
+    },
+    "code": {
+      "id": "GAB003001039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.35",
+      "lon": "10.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bamvomo",
+      "en": "Bamvomo",
+      "slug": "bamvomo"
+    },
+    "code": {
+      "id": "GAB003001040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.12",
+      "lon": "10.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Befie",
+      "en": "Befie",
+      "slug": "befie"
+    },
+    "code": {
+      "id": "GAB003001041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.195",
+      "lon": "10.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Belleville",
+      "en": "Belleville",
+      "slug": "belleville"
+    },
+    "code": {
+      "id": "GAB003001043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.033",
+      "lon": "11.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bemvom",
+      "en": "Bemvom",
+      "slug": "bemvom"
+    },
+    "code": {
+      "id": "GAB003001044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.12",
+      "lon": "10.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Benvele",
+      "en": "Benvele",
+      "slug": "benvele"
+    },
+    "code": {
+      "id": "GAB003001045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.359",
+      "lon": "10.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Benvelle",
+      "en": "Benvelle",
+      "slug": "benvelle"
+    },
+    "code": {
+      "id": "GAB003001046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.359",
+      "lon": "10.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Benvelle I",
+      "en": "Benvelle I",
+      "slug": "benvelle-i"
+    },
+    "code": {
+      "id": "GAB003001048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.359",
+      "lon": "10.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Benvoghe",
+      "en": "Benvoghe",
+      "slug": "benvoghe"
+    },
+    "code": {
+      "id": "GAB003001049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.167",
+      "lon": "10.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biboulman",
+      "en": "Biboulman",
+      "slug": "biboulman"
+    },
+    "code": {
+      "id": "GAB003001050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.283",
+      "lon": "10.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bifoum",
+      "en": "Bifoum",
+      "slug": "bifoum"
+    },
+    "code": {
+      "id": "GAB003001051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.252",
+      "lon": "10.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bifoun",
+      "en": "Bifoun",
+      "slug": "bifoun"
+    },
+    "code": {
+      "id": "GAB003001052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.252",
+      "lon": "10.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bine",
+      "en": "Bine",
+      "slug": "bine"
+    },
+    "code": {
+      "id": "GAB003001053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.267",
+      "lon": "10.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bingamingami",
+      "en": "Bingamingami",
+      "slug": "bingamingami"
+    },
+    "code": {
+      "id": "GAB003001054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bingamingami I",
+      "en": "Bingamingami I",
+      "slug": "bingamingami-i"
+    },
+    "code": {
+      "id": "GAB003001055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.167",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bingoungou",
+      "en": "Bingoungou",
+      "slug": "bingoungou"
+    },
+    "code": {
+      "id": "GAB003001056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.383",
+      "lon": "10.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissobilam",
+      "en": "Bissobilam",
+      "slug": "bissobilam"
+    },
+    "code": {
+      "id": "GAB003001057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.05",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissobinam",
+      "en": "Bissobinam",
+      "slug": "bissobinam"
+    },
+    "code": {
+      "id": "GAB003001059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.133",
+      "lon": "10.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissobinan",
+      "en": "Bissobinan",
+      "slug": "bissobinan"
+    },
+    "code": {
+      "id": "GAB003001060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.133",
+      "lon": "10.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissoubinlam",
+      "en": "Bissoubinlam",
+      "slug": "bissoubinlam"
+    },
+    "code": {
+      "id": "GAB003001061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.267",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Byene",
+      "en": "Byene",
+      "slug": "byene"
+    },
+    "code": {
+      "id": "GAB003001062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.3",
+      "lon": "10.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebea",
+      "en": "Ebea",
+      "slug": "ebea"
+    },
+    "code": {
+      "id": "GAB003001063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.217",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebel",
+      "en": "Ebel",
+      "slug": "ebel"
+    },
+    "code": {
+      "id": "GAB003001064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.276",
+      "lon": "10.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebel Abanga",
+      "en": "Ebel Abanga",
+      "slug": "ebel-abanga"
+    },
+    "code": {
+      "id": "GAB003001067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.276",
+      "lon": "10.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebele",
+      "en": "Ebele",
+      "slug": "ebele"
+    },
+    "code": {
+      "id": "GAB003001069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.121",
+      "lon": "11.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekorodo",
+      "en": "Ekorodo",
+      "slug": "ekorodo"
+    },
+    "code": {
+      "id": "GAB003001070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.241",
+      "lon": "10.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekorridou",
+      "en": "Ekorridou",
+      "slug": "ekorridou"
+    },
+    "code": {
+      "id": "GAB003001071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.241",
+      "lon": "10.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elebe",
+      "en": "Elebe",
+      "slug": "elebe"
+    },
+    "code": {
+      "id": "GAB003001072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.121",
+      "lon": "11.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elelem",
+      "en": "Elelem",
+      "slug": "elelem"
+    },
+    "code": {
+      "id": "GAB003001073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.017",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elong-Eko",
+      "en": "Elong-Eko",
+      "slug": "elong-eko"
+    },
+    "code": {
+      "id": "GAB003001074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.2",
+      "lon": "10.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Essanvougha",
+      "en": "Essanvougha",
+      "slug": "essanvougha"
+    },
+    "code": {
+      "id": "GAB003001076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.3",
+      "lon": "10.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Essong",
+      "en": "Essong",
+      "slug": "essong"
+    },
+    "code": {
+      "id": "GAB003001077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.13",
+      "lon": "10.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eteing",
+      "en": "Eteing",
+      "slug": "eteing"
+    },
+    "code": {
+      "id": "GAB003001078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eves",
+      "en": "Eves",
+      "slug": "eves"
+    },
+    "code": {
+      "id": "GAB003001079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.3",
+      "lon": "10.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Founa",
+      "en": "Founa",
+      "slug": "founa"
+    },
+    "code": {
+      "id": "GAB003001080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.408",
+      "lon": "11.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Grand Village",
+      "en": "Grand Village",
+      "slug": "grand-village"
+    },
+    "code": {
+      "id": "GAB003001081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.167",
+      "lon": "10.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ikoulam-Vam",
+      "en": "Ikoulam-Vam",
+      "slug": "ikoulam-vam"
+    },
+    "code": {
+      "id": "GAB003001082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.217",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Issoung I",
+      "en": "Issoung I",
+      "slug": "issoung-i"
+    },
+    "code": {
+      "id": "GAB003001083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.13",
+      "lon": "10.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Issoung II",
+      "en": "Issoung II",
+      "slug": "issoung-ii"
+    },
+    "code": {
+      "id": "GAB003001084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.117",
+      "lon": "10.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Junckville",
+      "en": "Junckville",
+      "slug": "junckville"
+    },
+    "code": {
+      "id": "GAB003001085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.062",
+      "lon": "11.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Junokville",
+      "en": "Junokville",
+      "slug": "junokville"
+    },
+    "code": {
+      "id": "GAB003001086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.062",
+      "lon": "11.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Loandou",
+      "en": "Loandou",
+      "slug": "loandou"
+    },
+    "code": {
+      "id": "GAB003001087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.117",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magnon",
+      "en": "Magnon",
+      "slug": "magnon"
+    },
+    "code": {
+      "id": "GAB003001088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makala",
+      "en": "Makala",
+      "slug": "makala"
+    },
+    "code": {
+      "id": "GAB003001089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makaramenzork",
+      "en": "Makaramenzork",
+      "slug": "makaramenzork"
+    },
+    "code": {
+      "id": "GAB003001090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.133",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maleba",
+      "en": "Maleba",
+      "slug": "maleba"
+    },
+    "code": {
+      "id": "GAB003001091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.317",
+      "lon": "10.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malene Bibolo",
+      "en": "Malene Bibolo",
+      "slug": "malene-bibolo"
+    },
+    "code": {
+      "id": "GAB003001092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.3",
+      "lon": "10.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamogo",
+      "en": "Mamogo",
+      "slug": "mamogo"
+    },
+    "code": {
+      "id": "GAB003001093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.267",
+      "lon": "10.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mangama",
+      "en": "Mangama",
+      "slug": "mangama"
+    },
+    "code": {
+      "id": "GAB003001094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.2",
+      "lon": "10.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Manguene",
+      "en": "Manguene",
+      "slug": "manguene"
+    },
+    "code": {
+      "id": "GAB003001095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.19",
+      "lon": "10.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Manguikoume",
+      "en": "Manguikoume",
+      "slug": "manguikoume"
+    },
+    "code": {
+      "id": "GAB003001097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.333",
+      "lon": "10.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Manioc",
+      "en": "Manioc",
+      "slug": "manioc"
+    },
+    "code": {
+      "id": "GAB003001098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.033",
+      "lon": "10.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matete",
+      "en": "Matete",
+      "slug": "matete"
+    },
+    "code": {
+      "id": "GAB003001099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.283",
+      "lon": "10.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matoulou",
+      "en": "Matoulou",
+      "slug": "matoulou"
+    },
+    "code": {
+      "id": "GAB003001100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.25",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayene",
+      "en": "Mayene",
+      "slug": "mayene"
+    },
+    "code": {
+      "id": "GAB003001101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.15",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayene II",
+      "en": "Mayene II",
+      "slug": "mayene-ii"
+    },
+    "code": {
+      "id": "GAB003001103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.1",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbilatem",
+      "en": "Mbilatem",
+      "slug": "mbilatem"
+    },
+    "code": {
+      "id": "GAB003001104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.307",
+      "lon": "10.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbilaten",
+      "en": "Mbilaten",
+      "slug": "mbilaten"
+    },
+    "code": {
+      "id": "GAB003001105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.307",
+      "lon": "10.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meke-Meke",
+      "en": "Meke-Meke",
+      "slug": "meke-meke"
+    },
+    "code": {
+      "id": "GAB003001106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "10.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001107",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Memveme",
+      "en": "Memveme",
+      "slug": "memveme"
+    },
+    "code": {
+      "id": "GAB003001107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.267",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001108",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Menguegn",
+      "en": "Menguegn",
+      "slug": "menguegn"
+    },
+    "code": {
+      "id": "GAB003001108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.19",
+      "lon": "10.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mevang",
+      "en": "Mevang",
+      "slug": "mevang"
+    },
+    "code": {
+      "id": "GAB003001109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.081",
+      "lon": "11.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001110",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meyong",
+      "en": "Meyong",
+      "slug": "meyong"
+    },
+    "code": {
+      "id": "GAB003001110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.1",
+      "lon": "10.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001111",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfoume",
+      "en": "Mfoume",
+      "slug": "mfoume"
+    },
+    "code": {
+      "id": "GAB003001111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "10.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mianga",
+      "en": "Mianga",
+      "slug": "mianga"
+    },
+    "code": {
+      "id": "GAB003001112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.234",
+      "lon": "11.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikoro Missong",
+      "en": "Mikoro Missong",
+      "slug": "mikoro-missong"
+    },
+    "code": {
+      "id": "GAB003001113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.033",
+      "lon": "11.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001114",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimbal Mibe",
+      "en": "Mimbal Mibe",
+      "slug": "mimbal-mibe"
+    },
+    "code": {
+      "id": "GAB003001114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.223",
+      "lon": "10.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001115",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimbale-Mibe",
+      "en": "Mimbale-Mibe",
+      "slug": "mimbale-mibe"
+    },
+    "code": {
+      "id": "GAB003001115",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.223",
+      "lon": "10.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001116",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mindara",
+      "en": "Mindara",
+      "slug": "mindara"
+    },
+    "code": {
+      "id": "GAB003001116",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.267",
+      "lon": "10.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001117",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mtom",
+      "en": "Mtom",
+      "slug": "mtom"
+    },
+    "code": {
+      "id": "GAB003001117",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.3",
+      "lon": "10.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001118",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvanayeme",
+      "en": "Mvanayeme",
+      "slug": "mvanayeme"
+    },
+    "code": {
+      "id": "GAB003001118",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.267",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001119",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvang",
+      "en": "Mvang",
+      "slug": "mvang"
+    },
+    "code": {
+      "id": "GAB003001119",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.3",
+      "lon": "10.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001120",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mveyassi",
+      "en": "Mveyassi",
+      "slug": "mveyassi"
+    },
+    "code": {
+      "id": "GAB003001120",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.2",
+      "lon": "10.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001121",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvoubingome",
+      "en": "Mvoubingome",
+      "slug": "mvoubingome"
+    },
+    "code": {
+      "id": "GAB003001121",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.25",
+      "lon": "10.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001122",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvoulie",
+      "en": "Mvoulie",
+      "slug": "mvoulie"
+    },
+    "code": {
+      "id": "GAB003001122",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.233",
+      "lon": "10.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001123",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Myana",
+      "en": "Myana",
+      "slug": "myana"
+    },
+    "code": {
+      "id": "GAB003001123",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.234",
+      "lon": "11.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001124",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Myanga",
+      "en": "Myanga",
+      "slug": "myanga"
+    },
+    "code": {
+      "id": "GAB003001124",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.234",
+      "lon": "11.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001125",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mzale",
+      "en": "Mzale",
+      "slug": "mzale"
+    },
+    "code": {
+      "id": "GAB003001125",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.167",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001126",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndjole",
+      "en": "Ndjole",
+      "slug": "ndjole"
+    },
+    "code": {
+      "id": "GAB003001126",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.18",
+      "lon": "10.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001127",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndoiny",
+      "en": "Ndoiny",
+      "slug": "ndoiny"
+    },
+    "code": {
+      "id": "GAB003001127",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.3",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001128",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndong-Guema",
+      "en": "Ndong-Guema",
+      "slug": "ndong-guema"
+    },
+    "code": {
+      "id": "GAB003001128",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.15",
+      "lon": "10.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001129",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoma",
+      "en": "Ngoma",
+      "slug": "ngoma"
+    },
+    "code": {
+      "id": "GAB003001129",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.133",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001130",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngomgom",
+      "en": "Ngomgom",
+      "slug": "ngomgom"
+    },
+    "code": {
+      "id": "GAB003001130",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.186",
+      "lon": "11.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001131",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngonbon",
+      "en": "Ngonbon",
+      "slug": "ngonbon"
+    },
+    "code": {
+      "id": "GAB003001131",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.186",
+      "lon": "11.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001132",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nintouma",
+      "en": "Nintouma",
+      "slug": "nintouma"
+    },
+    "code": {
+      "id": "GAB003001132",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "10.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001133",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Njole",
+      "en": "Njole",
+      "slug": "njole"
+    },
+    "code": {
+      "id": "GAB003001133",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.18",
+      "lon": "10.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001134",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkok",
+      "en": "Nkok",
+      "slug": "nkok"
+    },
+    "code": {
+      "id": "GAB003001134",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.274",
+      "lon": "10.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001135",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoumazo",
+      "en": "Nkoumazo",
+      "slug": "nkoumazo"
+    },
+    "code": {
+      "id": "GAB003001135",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.2",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001136",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzagha",
+      "en": "Nzagha",
+      "slug": "nzagha"
+    },
+    "code": {
+      "id": "GAB003001136",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "10.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001137",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzagobibere",
+      "en": "Nzagobibere",
+      "slug": "nzagobibere"
+    },
+    "code": {
+      "id": "GAB003001137",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.133",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001138",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzeberre",
+      "en": "Nzeberre",
+      "slug": "nzeberre"
+    },
+    "code": {
+      "id": "GAB003001138",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.317",
+      "lon": "10.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001139",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzeck",
+      "en": "Nzeck",
+      "slug": "nzeck"
+    },
+    "code": {
+      "id": "GAB003001139",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.233",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001140",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzeng-Boun",
+      "en": "Nzeng-Boun",
+      "slug": "nzeng-boun"
+    },
+    "code": {
+      "id": "GAB003001140",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.25",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001141",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoghengom",
+      "en": "Nzoghengom",
+      "slug": "nzoghengom"
+    },
+    "code": {
+      "id": "GAB003001141",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.017",
+      "lon": "11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001142",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzome",
+      "en": "Nzome",
+      "slug": "nzome"
+    },
+    "code": {
+      "id": "GAB003001142",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.217",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001143",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ossa",
+      "en": "Ossa",
+      "slug": "ossa"
+    },
+    "code": {
+      "id": "GAB003001143",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.317",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001144",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oucha",
+      "en": "Oucha",
+      "slug": "oucha"
+    },
+    "code": {
+      "id": "GAB003001144",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.117",
+      "lon": "10.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001145",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovena",
+      "en": "Ovena",
+      "slug": "ovena"
+    },
+    "code": {
+      "id": "GAB003001145",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.283",
+      "lon": "10.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001146",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyam",
+      "en": "Oyam",
+      "slug": "oyam"
+    },
+    "code": {
+      "id": "GAB003001146",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.2",
+      "lon": "10.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001147",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saint Jean",
+      "en": "Saint Jean",
+      "slug": "saint-jean"
+    },
+    "code": {
+      "id": "GAB003001147",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001148",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sangatane",
+      "en": "Sangatane",
+      "slug": "sangatane"
+    },
+    "code": {
+      "id": "GAB003001148",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.2",
+      "lon": "10.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001149",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tegha",
+      "en": "Tegha",
+      "slug": "tegha"
+    },
+    "code": {
+      "id": "GAB003001149",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.25",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001150",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Thol",
+      "en": "Thol",
+      "slug": "thol"
+    },
+    "code": {
+      "id": "GAB003001150",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.327",
+      "lon": "10.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001151",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tol",
+      "en": "Tol",
+      "slug": "tol"
+    },
+    "code": {
+      "id": "GAB003001151",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.327",
+      "lon": "10.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001152",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yaraka",
+      "en": "Yaraka",
+      "slug": "yaraka"
+    },
+    "code": {
+      "id": "GAB003001152",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.233",
+      "lon": "10.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003001153",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zamata",
+      "en": "Zamata",
+      "slug": "zamata"
+    },
+    "code": {
+      "id": "GAB003001153",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003001",
+      "level": 2,
+      "name": {
+        "local": "Abanga-Bigne",
+        "en": "Abanga-Bigne",
+        "slug": "abanga-bigne"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003001",
+        "level": 2,
+        "name": {
+          "local": "Abanga-Bigne",
+          "en": "Abanga-Bigne",
+          "slug": "abanga-bigne"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.117",
+      "lon": "10.883"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

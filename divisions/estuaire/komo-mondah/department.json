@@ -1,0 +1,47 @@
+{
+  "id": "GAB001002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Komo-Mondah",
+    "en": "Komo-Mondah",
+    "slug": "komo-mondah"
+  },
+  "code": {
+    "id": "GAB001002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB001",
+    "level": 1,
+    "name": {
+      "local": "Estuaire",
+      "en": "Estuaire",
+      "slug": "estuaire"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB001",
+      "level": 1,
+      "name": {
+        "local": "Estuaire",
+        "en": "Estuaire",
+        "slug": "estuaire"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 140
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.271",
+    "lon": "9.504"
+  },
+  "metadata": {},
+  "source": {}
+}

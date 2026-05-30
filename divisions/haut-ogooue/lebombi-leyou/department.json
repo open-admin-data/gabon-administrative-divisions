@@ -1,0 +1,47 @@
+{
+  "id": "GAB002003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Lebombi-Leyou",
+    "en": "Lebombi-Leyou",
+    "slug": "lebombi-leyou"
+  },
+  "code": {
+    "id": "GAB002003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB002",
+    "level": 1,
+    "name": {
+      "local": "Haut-Ogooue",
+      "en": "Haut-Ogooue",
+      "slug": "haut-ogooue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 56
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.504",
+    "lon": "13.192"
+  },
+  "metadata": {},
+  "source": {}
+}

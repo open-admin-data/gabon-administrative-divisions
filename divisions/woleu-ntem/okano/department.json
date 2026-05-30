@@ -1,0 +1,47 @@
+{
+  "id": "GAB009004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Okano",
+    "en": "Okano",
+    "slug": "okano"
+  },
+  "code": {
+    "id": "GAB009004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB009",
+    "level": 1,
+    "name": {
+      "local": "Woleu-Ntem",
+      "en": "Woleu-Ntem",
+      "slug": "woleu-ntem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 205
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.775",
+    "lon": "11.429"
+  },
+  "metadata": {},
+  "source": {}
+}

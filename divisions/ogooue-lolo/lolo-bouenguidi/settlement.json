@@ -1,0 +1,6968 @@
+[
+  {
+    "id": "GAB007001001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Babongo",
+      "en": "Babongo",
+      "slug": "babongo"
+    },
+    "code": {
+      "id": "GAB007001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.317",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Badiabiki",
+      "en": "Badiabiki",
+      "slug": "badiabiki"
+    },
+    "code": {
+      "id": "GAB007001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.683",
+      "lon": "12.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bangondo",
+      "en": "Bangondo",
+      "slug": "bangondo"
+    },
+    "code": {
+      "id": "GAB007001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.4",
+      "lon": "12.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baniati",
+      "en": "Baniati",
+      "slug": "baniati"
+    },
+    "code": {
+      "id": "GAB007001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.004",
+      "lon": "12.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bassaki",
+      "en": "Bassaki",
+      "slug": "bassaki"
+    },
+    "code": {
+      "id": "GAB007001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.317",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bidyabiki",
+      "en": "Bidyabiki",
+      "slug": "bidyabiki"
+    },
+    "code": {
+      "id": "GAB007001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.683",
+      "lon": "12.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bikouala",
+      "en": "Bikouala",
+      "slug": "bikouala"
+    },
+    "code": {
+      "id": "GAB007001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.1",
+      "lon": "12.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Billanda",
+      "en": "Billanda",
+      "slug": "billanda"
+    },
+    "code": {
+      "id": "GAB007001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.417",
+      "lon": "12.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissiba",
+      "en": "Bissiba",
+      "slug": "bissiba"
+    },
+    "code": {
+      "id": "GAB007001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.7",
+      "lon": "12.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bivinde",
+      "en": "Bivinde",
+      "slug": "bivinde"
+    },
+    "code": {
+      "id": "GAB007001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.167",
+      "lon": "12.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bola Pessou",
+      "en": "Bola Pessou",
+      "slug": "bola-pessou"
+    },
+    "code": {
+      "id": "GAB007001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.16",
+      "lon": "12.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boudouga",
+      "en": "Boudouga",
+      "slug": "boudouga"
+    },
+    "code": {
+      "id": "GAB007001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.183",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boulembo",
+      "en": "Boulembo",
+      "slug": "boulembo"
+    },
+    "code": {
+      "id": "GAB007001013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.433",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boundji",
+      "en": "Boundji",
+      "slug": "boundji"
+    },
+    "code": {
+      "id": "GAB007001014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.418",
+      "lon": "12.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boussimbi",
+      "en": "Boussimbi",
+      "slug": "boussimbi"
+    },
+    "code": {
+      "id": "GAB007001015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.371",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouvinga",
+      "en": "Bouvinga",
+      "slug": "bouvinga"
+    },
+    "code": {
+      "id": "GAB007001016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.033",
+      "lon": "12.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouyangoula",
+      "en": "Bouyangoula",
+      "slug": "bouyangoula"
+    },
+    "code": {
+      "id": "GAB007001017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.4",
+      "lon": "12.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Comi",
+      "en": "Comi",
+      "slug": "comi"
+    },
+    "code": {
+      "id": "GAB007001018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.417",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dibouengui",
+      "en": "Dibouengui",
+      "slug": "dibouengui"
+    },
+    "code": {
+      "id": "GAB007001019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.533",
+      "lon": "12.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dibouka",
+      "en": "Dibouka",
+      "slug": "dibouka"
+    },
+    "code": {
+      "id": "GAB007001020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.317",
+      "lon": "12.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dilanda",
+      "en": "Dilanda",
+      "slug": "dilanda"
+    },
+    "code": {
+      "id": "GAB007001021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.424",
+      "lon": "12.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djokonamoyo",
+      "en": "Djokonamoyo",
+      "slug": "djokonamoyo"
+    },
+    "code": {
+      "id": "GAB007001022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.05",
+      "lon": "12.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djongo",
+      "en": "Djongo",
+      "slug": "djongo"
+    },
+    "code": {
+      "id": "GAB007001023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.583",
+      "lon": "12.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djongo II",
+      "en": "Djongo II",
+      "slug": "djongo-ii"
+    },
+    "code": {
+      "id": "GAB007001024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "12.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doumatsengue",
+      "en": "Doumatsengue",
+      "slug": "doumatsengue"
+    },
+    "code": {
+      "id": "GAB007001025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "12.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doumboukombi",
+      "en": "Doumboukombi",
+      "slug": "doumboukombi"
+    },
+    "code": {
+      "id": "GAB007001026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.231",
+      "lon": "12.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gnienzi",
+      "en": "Gnienzi",
+      "slug": "gnienzi"
+    },
+    "code": {
+      "id": "GAB007001027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "12.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gouassa",
+      "en": "Gouassa",
+      "slug": "gouassa"
+    },
+    "code": {
+      "id": "GAB007001028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.417",
+      "lon": "12.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Goungui",
+      "en": "Goungui",
+      "slug": "goungui"
+    },
+    "code": {
+      "id": "GAB007001029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.067",
+      "lon": "12.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ibala",
+      "en": "Ibala",
+      "slug": "ibala"
+    },
+    "code": {
+      "id": "GAB007001030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.7",
+      "lon": "12.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idembe",
+      "en": "Idembe",
+      "slug": "idembe"
+    },
+    "code": {
+      "id": "GAB007001031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "12.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Imeno",
+      "en": "Imeno",
+      "slug": "imeno"
+    },
+    "code": {
+      "id": "GAB007001032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.506",
+      "lon": "12.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iouatchi",
+      "en": "Iouatchi",
+      "slug": "iouatchi"
+    },
+    "code": {
+      "id": "GAB007001033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "12.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ipoungo",
+      "en": "Ipoungo",
+      "slug": "ipoungo"
+    },
+    "code": {
+      "id": "GAB007001034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.367",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ipoungoa",
+      "en": "Ipoungoa",
+      "slug": "ipoungoa"
+    },
+    "code": {
+      "id": "GAB007001035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.367",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ipoungou",
+      "en": "Ipoungou",
+      "slug": "ipoungou"
+    },
+    "code": {
+      "id": "GAB007001036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.402",
+      "lon": "12.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Italatala",
+      "en": "Italatala",
+      "slug": "italatala"
+    },
+    "code": {
+      "id": "GAB007001038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.316",
+      "lon": "12.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itsouadi",
+      "en": "Itsouadi",
+      "slug": "itsouadi"
+    },
+    "code": {
+      "id": "GAB007001039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "12.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ivicou",
+      "en": "Ivicou",
+      "slug": "ivicou"
+    },
+    "code": {
+      "id": "GAB007001040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "12.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Konanadembe",
+      "en": "Konanadembe",
+      "slug": "konanadembe"
+    },
+    "code": {
+      "id": "GAB007001041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "12.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kondakoko",
+      "en": "Kondakoko",
+      "slug": "kondakoko"
+    },
+    "code": {
+      "id": "GAB007001043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.616",
+      "lon": "12.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Konenadembe",
+      "en": "Konenadembe",
+      "slug": "konenadembe"
+    },
+    "code": {
+      "id": "GAB007001044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "12.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouadembe",
+      "en": "Kouadembe",
+      "slug": "kouadembe"
+    },
+    "code": {
+      "id": "GAB007001045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "12.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouanou",
+      "en": "Kouanou",
+      "slug": "kouanou"
+    },
+    "code": {
+      "id": "GAB007001046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.3",
+      "lon": "12.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koubala",
+      "en": "Koubala",
+      "slug": "koubala"
+    },
+    "code": {
+      "id": "GAB007001047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.367",
+      "lon": "12.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koula Moubou",
+      "en": "Koula Moubou",
+      "slug": "koula-moubou"
+    },
+    "code": {
+      "id": "GAB007001048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.13",
+      "lon": "12.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koula Mouta",
+      "en": "Koula Mouta",
+      "slug": "koula-mouta"
+    },
+    "code": {
+      "id": "GAB007001049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.13",
+      "lon": "12.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koulamotou",
+      "en": "Koulamotou",
+      "slug": "koulamotou"
+    },
+    "code": {
+      "id": "GAB007001050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.13",
+      "lon": "12.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koulamoutou",
+      "en": "Koulamoutou",
+      "slug": "koulamoutou"
+    },
+    "code": {
+      "id": "GAB007001051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.13",
+      "lon": "12.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koumamala",
+      "en": "Koumamala",
+      "slug": "koumamala"
+    },
+    "code": {
+      "id": "GAB007001052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.416",
+      "lon": "12.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kounadembe",
+      "en": "Kounadembe",
+      "slug": "kounadembe"
+    },
+    "code": {
+      "id": "GAB007001053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.433",
+      "lon": "12.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouta",
+      "en": "Kouta",
+      "slug": "kouta"
+    },
+    "code": {
+      "id": "GAB007001054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.333",
+      "lon": "12.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebiayou",
+      "en": "Lebiayou",
+      "slug": "lebiayou"
+    },
+    "code": {
+      "id": "GAB007001055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.621",
+      "lon": "12.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ledoumou",
+      "en": "Ledoumou",
+      "slug": "ledoumou"
+    },
+    "code": {
+      "id": "GAB007001056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.683",
+      "lon": "12.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekegni",
+      "en": "Lekegni",
+      "slug": "lekegni"
+    },
+    "code": {
+      "id": "GAB007001057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "12.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Letamba",
+      "en": "Letamba",
+      "slug": "letamba"
+    },
+    "code": {
+      "id": "GAB007001058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.366",
+      "lon": "12.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Libamba",
+      "en": "Libamba",
+      "slug": "libamba"
+    },
+    "code": {
+      "id": "GAB007001059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.233",
+      "lon": "12.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Libela",
+      "en": "Libela",
+      "slug": "libela"
+    },
+    "code": {
+      "id": "GAB007001060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.628",
+      "lon": "12.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lidiambou",
+      "en": "Lidiambou",
+      "slug": "lidiambou"
+    },
+    "code": {
+      "id": "GAB007001061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.4",
+      "lon": "12.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lindembe",
+      "en": "Lindembe",
+      "slug": "lindembe"
+    },
+    "code": {
+      "id": "GAB007001062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.632",
+      "lon": "12.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Louba",
+      "en": "Louba",
+      "slug": "louba"
+    },
+    "code": {
+      "id": "GAB007001063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "12.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabengo",
+      "en": "Mabengo",
+      "slug": "mabengo"
+    },
+    "code": {
+      "id": "GAB007001064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.4",
+      "lon": "12.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabounda",
+      "en": "Mabounda",
+      "slug": "mabounda"
+    },
+    "code": {
+      "id": "GAB007001065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.333",
+      "lon": "12.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahounda",
+      "en": "Mahounda",
+      "slug": "mahounda"
+    },
+    "code": {
+      "id": "GAB007001066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.564",
+      "lon": "12.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malembo",
+      "en": "Malembo",
+      "slug": "malembo"
+    },
+    "code": {
+      "id": "GAB007001068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.417",
+      "lon": "12.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malende",
+      "en": "Malende",
+      "slug": "malende"
+    },
+    "code": {
+      "id": "GAB007001069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.8",
+      "lon": "12.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malengo",
+      "en": "Malengo",
+      "slug": "malengo"
+    },
+    "code": {
+      "id": "GAB007001070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malongo",
+      "en": "Malongo",
+      "slug": "malongo"
+    },
+    "code": {
+      "id": "GAB007001071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.608",
+      "lon": "12.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji",
+      "en": "Mandji",
+      "slug": "mandji"
+    },
+    "code": {
+      "id": "GAB007001073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.089",
+      "lon": "12.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Masoucou",
+      "en": "Masoucou",
+      "slug": "masoucou"
+    },
+    "code": {
+      "id": "GAB007001075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.416",
+      "lon": "12.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massoukou",
+      "en": "Massoukou",
+      "slug": "massoukou"
+    },
+    "code": {
+      "id": "GAB007001076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.416",
+      "lon": "12.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matoumba",
+      "en": "Matoumba",
+      "slug": "matoumba"
+    },
+    "code": {
+      "id": "GAB007001077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.258",
+      "lon": "12.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayani",
+      "en": "Mayani",
+      "slug": "mayani"
+    },
+    "code": {
+      "id": "GAB007001078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.679",
+      "lon": "12.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbighou",
+      "en": "Mbighou",
+      "slug": "mbighou"
+    },
+    "code": {
+      "id": "GAB007001079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.414",
+      "lon": "12.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbigou",
+      "en": "Mbigou",
+      "slug": "mbigou"
+    },
+    "code": {
+      "id": "GAB007001080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.414",
+      "lon": "12.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbomo",
+      "en": "Mbomo",
+      "slug": "mbomo"
+    },
+    "code": {
+      "id": "GAB007001081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "12.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mibaca",
+      "en": "Mibaca",
+      "slug": "mibaca"
+    },
+    "code": {
+      "id": "GAB007001082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.097",
+      "lon": "12.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mibaka",
+      "en": "Mibaka",
+      "slug": "mibaka"
+    },
+    "code": {
+      "id": "GAB007001083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.097",
+      "lon": "12.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Miboko",
+      "en": "Miboko",
+      "slug": "miboko"
+    },
+    "code": {
+      "id": "GAB007001084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.133",
+      "lon": "12.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Midimba",
+      "en": "Midimba",
+      "slug": "midimba"
+    },
+    "code": {
+      "id": "GAB007001085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.183",
+      "lon": "12.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Midouma",
+      "en": "Midouma",
+      "slug": "midouma"
+    },
+    "code": {
+      "id": "GAB007001086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.422",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Midouma et Ngouassa",
+      "en": "Midouma et Ngouassa",
+      "slug": "midouma-et-ngouassa"
+    },
+    "code": {
+      "id": "GAB007001087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.447",
+      "lon": "12.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimongo et Kembele",
+      "en": "Mimongo et Kembele",
+      "slug": "mimongo-et-kembele"
+    },
+    "code": {
+      "id": "GAB007001088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.467",
+      "lon": "12.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Missala",
+      "en": "Missala",
+      "slug": "missala"
+    },
+    "code": {
+      "id": "GAB007001089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.35",
+      "lon": "12.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Modouma",
+      "en": "Modouma",
+      "slug": "modouma"
+    },
+    "code": {
+      "id": "GAB007001090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.422",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mogabo",
+      "en": "Mogabo",
+      "slug": "mogabo"
+    },
+    "code": {
+      "id": "GAB007001091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.039",
+      "lon": "12.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mogombofala",
+      "en": "Mogombofala",
+      "slug": "mogombofala"
+    },
+    "code": {
+      "id": "GAB007001092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.233",
+      "lon": "12.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mogoudi",
+      "en": "Mogoudi",
+      "slug": "mogoudi"
+    },
+    "code": {
+      "id": "GAB007001093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moucouagna",
+      "en": "Moucouagna",
+      "slug": "moucouagna"
+    },
+    "code": {
+      "id": "GAB007001094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.197",
+      "lon": "12.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moucouagnou",
+      "en": "Moucouagnou",
+      "slug": "moucouagnou"
+    },
+    "code": {
+      "id": "GAB007001095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.233",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moucoudangoy",
+      "en": "Moucoudangoy",
+      "slug": "moucoudangoy"
+    },
+    "code": {
+      "id": "GAB007001096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.667",
+      "lon": "12.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moudouma",
+      "en": "Moudouma",
+      "slug": "moudouma"
+    },
+    "code": {
+      "id": "GAB007001097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.422",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouewagnou",
+      "en": "Mouewagnou",
+      "slug": "mouewagnou"
+    },
+    "code": {
+      "id": "GAB007001098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.233",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougongo",
+      "en": "Mougongo",
+      "slug": "mougongo"
+    },
+    "code": {
+      "id": "GAB007001099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.396",
+      "lon": "12.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougonzo",
+      "en": "Mougonzo",
+      "slug": "mougonzo"
+    },
+    "code": {
+      "id": "GAB007001100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "12.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougoubou",
+      "en": "Mougoubou",
+      "slug": "mougoubou"
+    },
+    "code": {
+      "id": "GAB007001101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.211",
+      "lon": "12.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001102",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouila",
+      "en": "Mouila",
+      "slug": "mouila"
+    },
+    "code": {
+      "id": "GAB007001102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.329",
+      "lon": "12.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukaba",
+      "en": "Moukaba",
+      "slug": "moukaba"
+    },
+    "code": {
+      "id": "GAB007001104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.618",
+      "lon": "12.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukoko Mayani",
+      "en": "Moukoko Mayani",
+      "slug": "moukoko-mayani"
+    },
+    "code": {
+      "id": "GAB007001105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.679",
+      "lon": "12.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukouagna",
+      "en": "Moukouagna",
+      "slug": "moukouagna"
+    },
+    "code": {
+      "id": "GAB007001106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.196",
+      "lon": "12.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukounangoye",
+      "en": "Moukounangoye",
+      "slug": "moukounangoye"
+    },
+    "code": {
+      "id": "GAB007001109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.667",
+      "lon": "12.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001110",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulobi",
+      "en": "Moulobi",
+      "slug": "moulobi"
+    },
+    "code": {
+      "id": "GAB007001110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.273",
+      "lon": "12.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001111",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moungongo",
+      "en": "Moungongo",
+      "slug": "moungongo"
+    },
+    "code": {
+      "id": "GAB007001111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.396",
+      "lon": "12.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moupata",
+      "en": "Moupata",
+      "slug": "moupata"
+    },
+    "code": {
+      "id": "GAB007001112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.332",
+      "lon": "12.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussemo",
+      "en": "Moussemo",
+      "slug": "moussemo"
+    },
+    "code": {
+      "id": "GAB007001113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "12.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001114",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndanda",
+      "en": "Ndanda",
+      "slug": "ndanda"
+    },
+    "code": {
+      "id": "GAB007001114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.245",
+      "lon": "12.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001115",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndjouli",
+      "en": "Ndjouli",
+      "slug": "ndjouli"
+    },
+    "code": {
+      "id": "GAB007001115",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.283",
+      "lon": "12.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001116",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoungou",
+      "en": "Ngoungou",
+      "slug": "ngoungou"
+    },
+    "code": {
+      "id": "GAB007001116",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.531",
+      "lon": "12.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001117",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niendze",
+      "en": "Niendze",
+      "slug": "niendze"
+    },
+    "code": {
+      "id": "GAB007001117",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "12.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001118",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Njole",
+      "en": "Njole",
+      "slug": "njole"
+    },
+    "code": {
+      "id": "GAB007001118",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.231",
+      "lon": "12.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001119",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Njoukou",
+      "en": "Njoukou",
+      "slug": "njoukou"
+    },
+    "code": {
+      "id": "GAB007001119",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.383",
+      "lon": "12.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001120",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nsiono",
+      "en": "Nsiono",
+      "slug": "nsiono"
+    },
+    "code": {
+      "id": "GAB007001120",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "12.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001121",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzambi",
+      "en": "Nzambi",
+      "slug": "nzambi"
+    },
+    "code": {
+      "id": "GAB007001121",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.487",
+      "lon": "12.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001122",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzenzele",
+      "en": "Nzenzele",
+      "slug": "nzenzele"
+    },
+    "code": {
+      "id": "GAB007001122",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.464",
+      "lon": "12.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001124",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzinga",
+      "en": "Nzinga",
+      "slug": "nzinga"
+    },
+    "code": {
+      "id": "GAB007001124",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.384",
+      "lon": "12.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001125",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oubendji",
+      "en": "Oubendji",
+      "slug": "oubendji"
+    },
+    "code": {
+      "id": "GAB007001125",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.483",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001126",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pangani",
+      "en": "Pangani",
+      "slug": "pangani"
+    },
+    "code": {
+      "id": "GAB007001126",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.215",
+      "lon": "12.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001127",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Paris",
+      "en": "Paris",
+      "slug": "paris"
+    },
+    "code": {
+      "id": "GAB007001127",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.307",
+      "lon": "12.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001128",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pingou",
+      "en": "Pingou",
+      "slug": "pingou"
+    },
+    "code": {
+      "id": "GAB007001128",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.533",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001129",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Popa",
+      "en": "Popa",
+      "slug": "popa"
+    },
+    "code": {
+      "id": "GAB007001129",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.601",
+      "lon": "12.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001130",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poungo",
+      "en": "Poungo",
+      "slug": "poungo"
+    },
+    "code": {
+      "id": "GAB007001130",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "12.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001131",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poungou",
+      "en": "Poungou",
+      "slug": "poungou"
+    },
+    "code": {
+      "id": "GAB007001131",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.605",
+      "lon": "12.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001134",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poupa",
+      "en": "Poupa",
+      "slug": "poupa"
+    },
+    "code": {
+      "id": "GAB007001134",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.339",
+      "lon": "12.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001136",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Roungassa",
+      "en": "Roungassa",
+      "slug": "roungassa"
+    },
+    "code": {
+      "id": "GAB007001136",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.022",
+      "lon": "12.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001137",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sandoundou",
+      "en": "Sandoundou",
+      "slug": "sandoundou"
+    },
+    "code": {
+      "id": "GAB007001137",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.7",
+      "lon": "12.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001138",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsamba",
+      "en": "Tsamba",
+      "slug": "tsamba"
+    },
+    "code": {
+      "id": "GAB007001138",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.25",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001139",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ville",
+      "en": "Ville",
+      "slug": "ville"
+    },
+    "code": {
+      "id": "GAB007001139",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.7",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001140",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zindzele",
+      "en": "Zindzele",
+      "slug": "zindzele"
+    },
+    "code": {
+      "id": "GAB007001140",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.464",
+      "lon": "12.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007001141",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zoungui",
+      "en": "Zoungui",
+      "slug": "zoungui"
+    },
+    "code": {
+      "id": "GAB007001141",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007001",
+      "level": 2,
+      "name": {
+        "local": "Lolo-Bouenguidi",
+        "en": "Lolo-Bouenguidi",
+        "slug": "lolo-bouenguidi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007001",
+        "level": 2,
+        "name": {
+          "local": "Lolo-Bouenguidi",
+          "en": "Lolo-Bouenguidi",
+          "slug": "lolo-bouenguidi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.649",
+      "lon": "12.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GAB004009",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mougalaba",
+    "en": "Mougalaba",
+    "slug": "mougalaba"
+  },
+  "code": {
+    "id": "GAB004009",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB004",
+    "level": 1,
+    "name": {
+      "local": "Ngounie",
+      "en": "Ngounie",
+      "slug": "ngounie"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.051",
+    "lon": "10.797"
+  },
+  "metadata": {},
+  "source": {}
+}

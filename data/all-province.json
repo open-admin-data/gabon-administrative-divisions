@@ -1,0 +1,272 @@
+[
+  {
+    "id": "GAB005",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    },
+    "code": {
+      "id": "GAB005",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 6,
+      "settlement": 389
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.883",
+      "lon": "11.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ngounie",
+      "en": "Ngounie",
+      "slug": "ngounie"
+    },
+    "code": {
+      "id": "GAB004",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 9,
+      "settlement": 816
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.84",
+      "lon": "11.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ogooue-Maritime",
+      "en": "Ogooue-Maritime",
+      "slug": "ogooue-maritime"
+    },
+    "code": {
+      "id": "GAB008",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 3,
+      "settlement": 261
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.495",
+      "lon": "9.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Haut-Ogooue",
+      "en": "Haut-Ogooue",
+      "slug": "haut-ogooue"
+    },
+    "code": {
+      "id": "GAB002",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 11,
+      "settlement": 364
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.43",
+      "lon": "13.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Moyen-Ogooue",
+      "en": "Moyen-Ogooue",
+      "slug": "moyen-ogooue"
+    },
+    "code": {
+      "id": "GAB003",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 2,
+      "settlement": 306
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.462",
+      "lon": "10.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ogooue-Lolo",
+      "en": "Ogooue-Lolo",
+      "slug": "ogooue-lolo"
+    },
+    "code": {
+      "id": "GAB007",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "settlement": 438
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.155",
+      "lon": "12.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Estuaire",
+      "en": "Estuaire",
+      "slug": "estuaire"
+    },
+    "code": {
+      "id": "GAB001",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "settlement": 478
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.412",
+      "lon": "9.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ogooue-Ivindo",
+      "en": "Ogooue-Ivindo",
+      "slug": "ogooue-ivindo"
+    },
+    "code": {
+      "id": "GAB006",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 4,
+      "settlement": 350
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.496",
+      "lon": "12.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Woleu-Ntem",
+      "en": "Woleu-Ntem",
+      "slug": "woleu-ntem"
+    },
+    "code": {
+      "id": "GAB009",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 5,
+      "settlement": 790
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.513",
+      "lon": "11.549"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

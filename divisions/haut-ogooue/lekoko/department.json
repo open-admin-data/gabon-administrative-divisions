@@ -1,0 +1,47 @@
+{
+  "id": "GAB002005",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Lekoko",
+    "en": "Lekoko",
+    "slug": "lekoko"
+  },
+  "code": {
+    "id": "GAB002005",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB002",
+    "level": 1,
+    "name": {
+      "local": "Haut-Ogooue",
+      "en": "Haut-Ogooue",
+      "slug": "haut-ogooue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.747",
+    "lon": "13.012"
+  },
+  "metadata": {},
+  "source": {}
+}

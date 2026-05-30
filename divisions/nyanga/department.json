@@ -1,0 +1,284 @@
+[
+  {
+    "id": "GAB005001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Basse-Banio",
+      "en": "Basse-Banio",
+      "slug": "basse-banio"
+    },
+    "code": {
+      "id": "GAB005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.08",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Douigni",
+      "en": "Douigni",
+      "slug": "douigni"
+    },
+    "code": {
+      "id": "GAB005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.437",
+      "lon": "10.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Doutsila",
+      "en": "Doutsila",
+      "slug": "doutsila"
+    },
+    "code": {
+      "id": "GAB005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 103
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.76",
+      "lon": "11.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Haute-Banio",
+      "en": "Haute-Banio",
+      "slug": "haute-banio"
+    },
+    "code": {
+      "id": "GAB005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.731",
+      "lon": "11.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mongo",
+      "en": "Mongo",
+      "slug": "mongo"
+    },
+    "code": {
+      "id": "GAB005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.261",
+      "lon": "11.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mougoutsi",
+      "en": "Mougoutsi",
+      "slug": "mougoutsi"
+    },
+    "code": {
+      "id": "GAB005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 106
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.844",
+      "lon": "11.028"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

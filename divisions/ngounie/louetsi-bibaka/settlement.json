@@ -1,0 +1,3404 @@
+[
+  {
+    "id": "GAB004004001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bakamba",
+      "en": "Bakamba",
+      "slug": "bakamba"
+    },
+    "code": {
+      "id": "GAB004004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.313",
+      "lon": "12.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balamboula",
+      "en": "Balamboula",
+      "slug": "balamboula"
+    },
+    "code": {
+      "id": "GAB004004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.313",
+      "lon": "12.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Banginga",
+      "en": "Banginga",
+      "slug": "banginga"
+    },
+    "code": {
+      "id": "GAB004004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.328",
+      "lon": "12.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baposo",
+      "en": "Baposo",
+      "slug": "baposo"
+    },
+    "code": {
+      "id": "GAB004004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.102",
+      "lon": "12.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baposso",
+      "en": "Baposso",
+      "slug": "baposso"
+    },
+    "code": {
+      "id": "GAB004004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.102",
+      "lon": "12.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baposso le Petit",
+      "en": "Baposso le Petit",
+      "slug": "baposso-le-petit"
+    },
+    "code": {
+      "id": "GAB004004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.102",
+      "lon": "12.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baposso le Pointe",
+      "en": "Baposso le Pointe",
+      "slug": "baposso-le-pointe"
+    },
+    "code": {
+      "id": "GAB004004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.102",
+      "lon": "12.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bengue Mamba",
+      "en": "Bengue Mamba",
+      "slug": "bengue-mamba"
+    },
+    "code": {
+      "id": "GAB004004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.124",
+      "lon": "12.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bengue-Memba",
+      "en": "Bengue-Memba",
+      "slug": "bengue-memba"
+    },
+    "code": {
+      "id": "GAB004004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.124",
+      "lon": "12.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilamba",
+      "en": "Bilamba",
+      "slug": "bilamba"
+    },
+    "code": {
+      "id": "GAB004004010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.367",
+      "lon": "12.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bolobilembe",
+      "en": "Bolobilembe",
+      "slug": "bolobilembe"
+    },
+    "code": {
+      "id": "GAB004004011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.324",
+      "lon": "12.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boulamboula",
+      "en": "Boulamboula",
+      "slug": "boulamboula"
+    },
+    "code": {
+      "id": "GAB004004012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.313",
+      "lon": "12.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boumaga",
+      "en": "Boumaga",
+      "slug": "boumaga"
+    },
+    "code": {
+      "id": "GAB004004013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.355",
+      "lon": "12.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boumi",
+      "en": "Boumi",
+      "slug": "boumi"
+    },
+    "code": {
+      "id": "GAB004004014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.303",
+      "lon": "12.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boumiga",
+      "en": "Boumiga",
+      "slug": "boumiga"
+    },
+    "code": {
+      "id": "GAB004004015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.355",
+      "lon": "12.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dianza",
+      "en": "Dianza",
+      "slug": "dianza"
+    },
+    "code": {
+      "id": "GAB004004016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.308",
+      "lon": "12.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dyanza",
+      "en": "Dyanza",
+      "slug": "dyanza"
+    },
+    "code": {
+      "id": "GAB004004017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.308",
+      "lon": "12.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dyenza",
+      "en": "Dyenza",
+      "slug": "dyenza"
+    },
+    "code": {
+      "id": "GAB004004018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "12.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dyenze",
+      "en": "Dyenze",
+      "slug": "dyenze"
+    },
+    "code": {
+      "id": "GAB004004019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "12.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idemba",
+      "en": "Idemba",
+      "slug": "idemba"
+    },
+    "code": {
+      "id": "GAB004004020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.071",
+      "lon": "12.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iouatsi",
+      "en": "Iouatsi",
+      "slug": "iouatsi"
+    },
+    "code": {
+      "id": "GAB004004021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.051",
+      "lon": "12.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kousou",
+      "en": "Kousou",
+      "slug": "kousou"
+    },
+    "code": {
+      "id": "GAB004004022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.395",
+      "lon": "12.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebasa",
+      "en": "Lebasa",
+      "slug": "lebasa"
+    },
+    "code": {
+      "id": "GAB004004023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.409",
+      "lon": "12.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebassa",
+      "en": "Lebassa",
+      "slug": "lebassa"
+    },
+    "code": {
+      "id": "GAB004004024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.409",
+      "lon": "12.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekala",
+      "en": "Lekala",
+      "slug": "lekala"
+    },
+    "code": {
+      "id": "GAB004004025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "12.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lelende",
+      "en": "Lelende",
+      "slug": "lelende"
+    },
+    "code": {
+      "id": "GAB004004026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.05",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lemanga",
+      "en": "Lemanga",
+      "slug": "lemanga"
+    },
+    "code": {
+      "id": "GAB004004027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.124",
+      "lon": "12.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lemba",
+      "en": "Lemba",
+      "slug": "lemba"
+    },
+    "code": {
+      "id": "GAB004004028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.003",
+      "lon": "12.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lemenga",
+      "en": "Lemenga",
+      "slug": "lemenga"
+    },
+    "code": {
+      "id": "GAB004004029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.124",
+      "lon": "12.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lepepe",
+      "en": "Lepepe",
+      "slug": "lepepe"
+    },
+    "code": {
+      "id": "GAB004004030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.177",
+      "lon": "12.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Levinda",
+      "en": "Levinda",
+      "slug": "levinda"
+    },
+    "code": {
+      "id": "GAB004004031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "12.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leyounga",
+      "en": "Leyounga",
+      "slug": "leyounga"
+    },
+    "code": {
+      "id": "GAB004004032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.153",
+      "lon": "12.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Louba",
+      "en": "Louba",
+      "slug": "louba"
+    },
+    "code": {
+      "id": "GAB004004033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.393",
+      "lon": "12.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Loubasa",
+      "en": "Loubasa",
+      "slug": "loubasa"
+    },
+    "code": {
+      "id": "GAB004004034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.409",
+      "lon": "12.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madiba",
+      "en": "Madiba",
+      "slug": "madiba"
+    },
+    "code": {
+      "id": "GAB004004035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.252",
+      "lon": "12.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malanga",
+      "en": "Malanga",
+      "slug": "malanga"
+    },
+    "code": {
+      "id": "GAB004004037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.375",
+      "lon": "12.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malinga",
+      "en": "Malinga",
+      "slug": "malinga"
+    },
+    "code": {
+      "id": "GAB004004038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.418",
+      "lon": "12.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamaososi",
+      "en": "Mamaososi",
+      "slug": "mamaososi"
+    },
+    "code": {
+      "id": "GAB004004039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.042",
+      "lon": "12.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mambounga",
+      "en": "Mambounga",
+      "slug": "mambounga"
+    },
+    "code": {
+      "id": "GAB004004040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "12.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Manbounga",
+      "en": "Manbounga",
+      "slug": "manbounga"
+    },
+    "code": {
+      "id": "GAB004004041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "12.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji",
+      "en": "Mandji",
+      "slug": "mandji"
+    },
+    "code": {
+      "id": "GAB004004042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.037",
+      "lon": "12.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandzi",
+      "en": "Mandzi",
+      "slug": "mandzi"
+    },
+    "code": {
+      "id": "GAB004004043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.037",
+      "lon": "12.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mangoubou",
+      "en": "Mangoubou",
+      "slug": "mangoubou"
+    },
+    "code": {
+      "id": "GAB004004044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.074",
+      "lon": "12.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mazinga",
+      "en": "Mazinga",
+      "slug": "mazinga"
+    },
+    "code": {
+      "id": "GAB004004045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.402",
+      "lon": "12.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbimba",
+      "en": "Mbimba",
+      "slug": "mbimba"
+    },
+    "code": {
+      "id": "GAB004004046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.242",
+      "lon": "12.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikouandza le Petit",
+      "en": "Mikouandza le Petit",
+      "slug": "mikouandza-le-petit"
+    },
+    "code": {
+      "id": "GAB004004047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.95",
+      "lon": "12.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Misonyi",
+      "en": "Misonyi",
+      "slug": "misonyi"
+    },
+    "code": {
+      "id": "GAB004004048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.356",
+      "lon": "12.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mitsandzale le Grand",
+      "en": "Mitsandzale le Grand",
+      "slug": "mitsandzale-le-grand"
+    },
+    "code": {
+      "id": "GAB004004049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.25",
+      "lon": "12.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mombi",
+      "en": "Mombi",
+      "slug": "mombi"
+    },
+    "code": {
+      "id": "GAB004004050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.95",
+      "lon": "12.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moucouagna",
+      "en": "Moucouagna",
+      "slug": "moucouagna"
+    },
+    "code": {
+      "id": "GAB004004051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.299",
+      "lon": "12.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moucwagna",
+      "en": "Moucwagna",
+      "slug": "moucwagna"
+    },
+    "code": {
+      "id": "GAB004004052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.299",
+      "lon": "12.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moueke",
+      "en": "Moueke",
+      "slug": "moueke"
+    },
+    "code": {
+      "id": "GAB004004053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.364",
+      "lon": "12.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougombo",
+      "en": "Mougombo",
+      "slug": "mougombo"
+    },
+    "code": {
+      "id": "GAB004004054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.157",
+      "lon": "12.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougomibo",
+      "en": "Mougomibo",
+      "slug": "mougomibo"
+    },
+    "code": {
+      "id": "GAB004004055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.157",
+      "lon": "12.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukimbi",
+      "en": "Moukimbi",
+      "slug": "moukimbi"
+    },
+    "code": {
+      "id": "GAB004004056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.967",
+      "lon": "12.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukouanga",
+      "en": "Moukouanga",
+      "slug": "moukouanga"
+    },
+    "code": {
+      "id": "GAB004004057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.299",
+      "lon": "12.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukoumou-Nangadi",
+      "en": "Moukoumou-Nangadi",
+      "slug": "moukoumou-nangadi"
+    },
+    "code": {
+      "id": "GAB004004058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.224",
+      "lon": "12.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moupata",
+      "en": "Moupata",
+      "slug": "moupata"
+    },
+    "code": {
+      "id": "GAB004004059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.317",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoudi",
+      "en": "Nzoudi",
+      "slug": "nzoudi"
+    },
+    "code": {
+      "id": "GAB004004060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.33",
+      "lon": "12.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sapina-Wata",
+      "en": "Sapina-Wata",
+      "slug": "sapina-wata"
+    },
+    "code": {
+      "id": "GAB004004061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.195",
+      "lon": "12.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tinga-Tsenge",
+      "en": "Tinga-Tsenge",
+      "slug": "tinga-tsenge"
+    },
+    "code": {
+      "id": "GAB004004062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.133",
+      "lon": "12.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vodvi",
+      "en": "Vodvi",
+      "slug": "vodvi"
+    },
+    "code": {
+      "id": "GAB004004063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.337",
+      "lon": "12.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004004064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vouvi",
+      "en": "Vouvi",
+      "slug": "vouvi"
+    },
+    "code": {
+      "id": "GAB004004064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004004",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Bibaka",
+        "en": "Louetsi-Bibaka",
+        "slug": "louetsi-bibaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004004",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Bibaka",
+          "en": "Louetsi-Bibaka",
+          "slug": "louetsi-bibaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.337",
+      "lon": "12.255"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

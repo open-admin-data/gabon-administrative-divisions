@@ -1,0 +1,237 @@
+[
+  {
+    "id": "GAB009001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Haut-Komo",
+      "en": "Haut-Komo",
+      "slug": "haut-komo"
+    },
+    "code": {
+      "id": "GAB009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.905",
+      "lon": "10.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Haut-Ntem",
+      "en": "Haut-Ntem",
+      "slug": "haut-ntem"
+    },
+    "code": {
+      "id": "GAB009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 123
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.057",
+      "lon": "11.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ntem",
+      "en": "Ntem",
+      "slug": "ntem"
+    },
+    "code": {
+      "id": "GAB009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 176
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.095",
+      "lon": "11.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Okano",
+      "en": "Okano",
+      "slug": "okano"
+    },
+    "code": {
+      "id": "GAB009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 205
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.775",
+      "lon": "11.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Woleu",
+      "en": "Woleu",
+      "slug": "woleu"
+    },
+    "code": {
+      "id": "GAB009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 240
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.494",
+      "lon": "11.573"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

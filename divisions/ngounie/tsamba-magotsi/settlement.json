@@ -1,0 +1,5942 @@
+[
+  {
+    "id": "GAB004008001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayoumba",
+      "en": "Ayoumba",
+      "slug": "ayoumba"
+    },
+    "code": {
+      "id": "GAB004008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.333",
+      "lon": "10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bambari",
+      "en": "Bambari",
+      "slug": "bambari"
+    },
+    "code": {
+      "id": "GAB004008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biamani",
+      "en": "Biamani",
+      "slug": "biamani"
+    },
+    "code": {
+      "id": "GAB004008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.883",
+      "lon": "10.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Billengui III",
+      "en": "Billengui III",
+      "slug": "billengui-iii"
+    },
+    "code": {
+      "id": "GAB004008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.833",
+      "lon": "10.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binda",
+      "en": "Binda",
+      "slug": "binda"
+    },
+    "code": {
+      "id": "GAB004008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.15",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biogou",
+      "en": "Biogou",
+      "slug": "biogou"
+    },
+    "code": {
+      "id": "GAB004008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.133",
+      "lon": "10.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bordou",
+      "en": "Bordou",
+      "slug": "bordou"
+    },
+    "code": {
+      "id": "GAB004008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.505",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boungou",
+      "en": "Boungou",
+      "slug": "boungou"
+    },
+    "code": {
+      "id": "GAB004008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.85",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boussouka",
+      "en": "Boussouka",
+      "slug": "boussouka"
+    },
+    "code": {
+      "id": "GAB004008009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.233",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cameroun",
+      "en": "Cameroun",
+      "slug": "cameroun"
+    },
+    "code": {
+      "id": "GAB004008010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.533",
+      "lon": "10.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Coundou",
+      "en": "Coundou",
+      "slug": "coundou"
+    },
+    "code": {
+      "id": "GAB004008011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "10.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dangui",
+      "en": "Dangui",
+      "slug": "dangui"
+    },
+    "code": {
+      "id": "GAB004008012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.7",
+      "lon": "10.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Degueli",
+      "en": "Degueli",
+      "slug": "degueli"
+    },
+    "code": {
+      "id": "GAB004008013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.698",
+      "lon": "10.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dibimba",
+      "en": "Dibimba",
+      "slug": "dibimba"
+    },
+    "code": {
+      "id": "GAB004008014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.533",
+      "lon": "10.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diekoke",
+      "en": "Diekoke",
+      "slug": "diekoke"
+    },
+    "code": {
+      "id": "GAB004008015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "10.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dignietoumba",
+      "en": "Dignietoumba",
+      "slug": "dignietoumba"
+    },
+    "code": {
+      "id": "GAB004008016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.462",
+      "lon": "10.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dignyetoumba",
+      "en": "Dignyetoumba",
+      "slug": "dignyetoumba"
+    },
+    "code": {
+      "id": "GAB004008017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.462",
+      "lon": "10.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diombi",
+      "en": "Diombi",
+      "slug": "diombi"
+    },
+    "code": {
+      "id": "GAB004008018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "10.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dissango",
+      "en": "Dissango",
+      "slug": "dissango"
+    },
+    "code": {
+      "id": "GAB004008020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.15",
+      "lon": "10.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dissengo",
+      "en": "Dissengo",
+      "slug": "dissengo"
+    },
+    "code": {
+      "id": "GAB004008021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.15",
+      "lon": "10.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dissingo",
+      "en": "Dissingo",
+      "slug": "dissingo"
+    },
+    "code": {
+      "id": "GAB004008022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.15",
+      "lon": "10.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ditounga",
+      "en": "Ditounga",
+      "slug": "ditounga"
+    },
+    "code": {
+      "id": "GAB004008023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.704",
+      "lon": "10.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divangui",
+      "en": "Divangui",
+      "slug": "divangui"
+    },
+    "code": {
+      "id": "GAB004008024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.171",
+      "lon": "10.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dondo I",
+      "en": "Dondo I",
+      "slug": "dondo-i"
+    },
+    "code": {
+      "id": "GAB004008025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dondo Moucoubango",
+      "en": "Dondo Moucoubango",
+      "slug": "dondo-moucoubango"
+    },
+    "code": {
+      "id": "GAB004008026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "11.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Egnounga",
+      "en": "Egnounga",
+      "slug": "egnounga"
+    },
+    "code": {
+      "id": "GAB004008027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.564",
+      "lon": "10.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekengue",
+      "en": "Ekengue",
+      "slug": "ekengue"
+    },
+    "code": {
+      "id": "GAB004008028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.225",
+      "lon": "11.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fala",
+      "en": "Fala",
+      "slug": "fala"
+    },
+    "code": {
+      "id": "GAB004008029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.95",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fougamou",
+      "en": "Fougamou",
+      "slug": "fougamou"
+    },
+    "code": {
+      "id": "GAB004008030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.21",
+      "lon": "10.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fouramouanga",
+      "en": "Fouramouanga",
+      "slug": "fouramouanga"
+    },
+    "code": {
+      "id": "GAB004008031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.108",
+      "lon": "10.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Galoua",
+      "en": "Galoua",
+      "slug": "galoua"
+    },
+    "code": {
+      "id": "GAB004008032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "10.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gikiba",
+      "en": "Gikiba",
+      "slug": "gikiba"
+    },
+    "code": {
+      "id": "GAB004008033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "10.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gnyoungou",
+      "en": "Gnyoungou",
+      "slug": "gnyoungou"
+    },
+    "code": {
+      "id": "GAB004008034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "11.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Guidouma",
+      "en": "Guidouma",
+      "slug": "guidouma"
+    },
+    "code": {
+      "id": "GAB004008035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.618",
+      "lon": "10.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Guietsou",
+      "en": "Guietsou",
+      "slug": "guietsou"
+    },
+    "code": {
+      "id": "GAB004008036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idoumi",
+      "en": "Idoumi",
+      "slug": "idoumi"
+    },
+    "code": {
+      "id": "GAB004008037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.383",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Indende",
+      "en": "Indende",
+      "slug": "indende"
+    },
+    "code": {
+      "id": "GAB004008038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.133",
+      "lon": "10.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ivouta",
+      "en": "Ivouta",
+      "slug": "ivouta"
+    },
+    "code": {
+      "id": "GAB004008039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.283",
+      "lon": "11.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ivouti",
+      "en": "Ivouti",
+      "slug": "ivouti"
+    },
+    "code": {
+      "id": "GAB004008040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.283",
+      "lon": "11.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kalingoue",
+      "en": "Kalingoue",
+      "slug": "kalingoue"
+    },
+    "code": {
+      "id": "GAB004008041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.95",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kenibei",
+      "en": "Kenibei",
+      "slug": "kenibei"
+    },
+    "code": {
+      "id": "GAB004008042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.983",
+      "lon": "10.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kokolo",
+      "en": "Kokolo",
+      "slug": "kokolo"
+    },
+    "code": {
+      "id": "GAB004008043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.7",
+      "lon": "10.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kolimboung",
+      "en": "Kolimboung",
+      "slug": "kolimboung"
+    },
+    "code": {
+      "id": "GAB004008044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.912",
+      "lon": "10.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Komadeke",
+      "en": "Komadeke",
+      "slug": "komadeke"
+    },
+    "code": {
+      "id": "GAB004008045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.85",
+      "lon": "10.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Komi",
+      "en": "Komi",
+      "slug": "komi"
+    },
+    "code": {
+      "id": "GAB004008046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.06",
+      "lon": "10.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koundou",
+      "en": "Koundou",
+      "slug": "koundou"
+    },
+    "code": {
+      "id": "GAB004008047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "10.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Latanda",
+      "en": "Latanda",
+      "slug": "latanda"
+    },
+    "code": {
+      "id": "GAB004008048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.467",
+      "lon": "10.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekengue",
+      "en": "Lekengue",
+      "slug": "lekengue"
+    },
+    "code": {
+      "id": "GAB004008049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "10.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lemboudouma",
+      "en": "Lemboudouma",
+      "slug": "lemboudouma"
+    },
+    "code": {
+      "id": "GAB004008050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.71",
+      "lon": "10.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Likila",
+      "en": "Likila",
+      "slug": "likila"
+    },
+    "code": {
+      "id": "GAB004008051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.859",
+      "lon": "10.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madangou",
+      "en": "Madangou",
+      "slug": "madangou"
+    },
+    "code": {
+      "id": "GAB004008052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malimba",
+      "en": "Malimba",
+      "slug": "malimba"
+    },
+    "code": {
+      "id": "GAB004008053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.726",
+      "lon": "10.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandilou",
+      "en": "Mandilou",
+      "slug": "mandilou"
+    },
+    "code": {
+      "id": "GAB004008054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.274",
+      "lon": "10.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji",
+      "en": "Mandji",
+      "slug": "mandji"
+    },
+    "code": {
+      "id": "GAB004008055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "10.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbadi",
+      "en": "Mbadi",
+      "slug": "mbadi"
+    },
+    "code": {
+      "id": "GAB004008058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.167",
+      "lon": "10.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbigou",
+      "en": "Mbigou",
+      "slug": "mbigou"
+    },
+    "code": {
+      "id": "GAB004008059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "10.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboukou",
+      "en": "Mboukou",
+      "slug": "mboukou"
+    },
+    "code": {
+      "id": "GAB004008060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.716",
+      "lon": "10.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimbanda",
+      "en": "Mimbanda",
+      "slug": "mimbanda"
+    },
+    "code": {
+      "id": "GAB004008061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.916",
+      "lon": "10.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimongo",
+      "en": "Mimongo",
+      "slug": "mimongo"
+    },
+    "code": {
+      "id": "GAB004008062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.771",
+      "lon": "10.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mitsangui",
+      "en": "Mitsangui",
+      "slug": "mitsangui"
+    },
+    "code": {
+      "id": "GAB004008063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.483",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mobouka",
+      "en": "Mobouka",
+      "slug": "mobouka"
+    },
+    "code": {
+      "id": "GAB004008064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.658",
+      "lon": "10.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mopounga",
+      "en": "Mopounga",
+      "slug": "mopounga"
+    },
+    "code": {
+      "id": "GAB004008065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.183",
+      "lon": "10.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moubighou",
+      "en": "Moubighou",
+      "slug": "moubighou"
+    },
+    "code": {
+      "id": "GAB004008066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "10.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moubigou",
+      "en": "Moubigou",
+      "slug": "moubigou"
+    },
+    "code": {
+      "id": "GAB004008067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "10.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougoko",
+      "en": "Mougoko",
+      "slug": "mougoko"
+    },
+    "code": {
+      "id": "GAB004008068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.283",
+      "lon": "10.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukaba",
+      "en": "Moukaba",
+      "slug": "moukaba"
+    },
+    "code": {
+      "id": "GAB004008069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.26",
+      "lon": "10.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukabou",
+      "en": "Moukabou",
+      "slug": "moukabou"
+    },
+    "code": {
+      "id": "GAB004008070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.571",
+      "lon": "10.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukoubango",
+      "en": "Moukoubango",
+      "slug": "moukoubango"
+    },
+    "code": {
+      "id": "GAB004008071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "11.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulamba",
+      "en": "Moulamba",
+      "slug": "moulamba"
+    },
+    "code": {
+      "id": "GAB004008072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.033",
+      "lon": "10.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moundouma",
+      "en": "Moundouma",
+      "slug": "moundouma"
+    },
+    "code": {
+      "id": "GAB004008073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.522",
+      "lon": "10.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moundounga",
+      "en": "Moundounga",
+      "slug": "moundounga"
+    },
+    "code": {
+      "id": "GAB004008074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.983",
+      "lon": "10.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouniegou",
+      "en": "Mouniegou",
+      "slug": "mouniegou"
+    },
+    "code": {
+      "id": "GAB004008075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.717",
+      "lon": "10.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouponou",
+      "en": "Mouponou",
+      "slug": "mouponou"
+    },
+    "code": {
+      "id": "GAB004008076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.371",
+      "lon": "10.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moupoupa",
+      "en": "Moupoupa",
+      "slug": "moupoupa"
+    },
+    "code": {
+      "id": "GAB004008077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.067",
+      "lon": "10.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moutambi",
+      "en": "Moutambi",
+      "slug": "moutambi"
+    },
+    "code": {
+      "id": "GAB004008078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.3",
+      "lon": "10.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "N'Komi",
+      "en": "N'Komi",
+      "slug": "nkomi"
+    },
+    "code": {
+      "id": "GAB004008087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.06",
+      "lon": "10.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Namba",
+      "en": "Namba",
+      "slug": "namba"
+    },
+    "code": {
+      "id": "GAB004008079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.717",
+      "lon": "10.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndjole",
+      "en": "Ndjole",
+      "slug": "ndjole"
+    },
+    "code": {
+      "id": "GAB004008080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.49",
+      "lon": "10.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nengue Dioni",
+      "en": "Nengue Dioni",
+      "slug": "nengue-dioni"
+    },
+    "code": {
+      "id": "GAB004008081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.167",
+      "lon": "10.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngombi",
+      "en": "Ngombi",
+      "slug": "ngombi"
+    },
+    "code": {
+      "id": "GAB004008082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "10.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoumou",
+      "en": "Ngoumou",
+      "slug": "ngoumou"
+    },
+    "code": {
+      "id": "GAB004008083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.742",
+      "lon": "10.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoundou",
+      "en": "Ngoundou",
+      "slug": "ngoundou"
+    },
+    "code": {
+      "id": "GAB004008084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.75",
+      "lon": "10.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nguenza",
+      "en": "Nguenza",
+      "slug": "nguenza"
+    },
+    "code": {
+      "id": "GAB004008085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "10.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niembipanga",
+      "en": "Niembipanga",
+      "slug": "niembipanga"
+    },
+    "code": {
+      "id": "GAB004008086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "10.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyoungou",
+      "en": "Nyoungou",
+      "slug": "nyoungou"
+    },
+    "code": {
+      "id": "GAB004008088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "11.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obaye",
+      "en": "Obaye",
+      "slug": "obaye"
+    },
+    "code": {
+      "id": "GAB004008089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.067",
+      "lon": "10.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obeye",
+      "en": "Obeye",
+      "slug": "obeye"
+    },
+    "code": {
+      "id": "GAB004008090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.067",
+      "lon": "10.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okondja",
+      "en": "Okondja",
+      "slug": "okondja"
+    },
+    "code": {
+      "id": "GAB004008091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.301",
+      "lon": "11.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Paga",
+      "en": "Paga",
+      "slug": "paga"
+    },
+    "code": {
+      "id": "GAB004008092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.595",
+      "lon": "10.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Paga-Dianzi",
+      "en": "Paga-Dianzi",
+      "slug": "paga-dianzi"
+    },
+    "code": {
+      "id": "GAB004008093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.314",
+      "lon": "10.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Petit Dondo",
+      "en": "Petit Dondo",
+      "slug": "petit-dondo"
+    },
+    "code": {
+      "id": "GAB004008094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Petit Mandilou",
+      "en": "Petit Mandilou",
+      "slug": "petit-mandilou"
+    },
+    "code": {
+      "id": "GAB004008095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.289",
+      "lon": "10.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pingou",
+      "en": "Pingou",
+      "slug": "pingou"
+    },
+    "code": {
+      "id": "GAB004008096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "11.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poungou",
+      "en": "Poungou",
+      "slug": "poungou"
+    },
+    "code": {
+      "id": "GAB004008097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poungou I",
+      "en": "Poungou I",
+      "slug": "poungou-i"
+    },
+    "code": {
+      "id": "GAB004008098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.589",
+      "lon": "10.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poungou II",
+      "en": "Poungou II",
+      "slug": "poungou-ii"
+    },
+    "code": {
+      "id": "GAB004008099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Samba",
+      "en": "Samba",
+      "slug": "samba"
+    },
+    "code": {
+      "id": "GAB004008100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.04",
+      "lon": "10.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sette-Cama",
+      "en": "Sette-Cama",
+      "slug": "sette-cama"
+    },
+    "code": {
+      "id": "GAB004008101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.721",
+      "lon": "10.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008102",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sindara",
+      "en": "Sindara",
+      "slug": "sindara"
+    },
+    "code": {
+      "id": "GAB004008102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.036",
+      "lon": "10.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toubaganga",
+      "en": "Toubaganga",
+      "slug": "toubaganga"
+    },
+    "code": {
+      "id": "GAB004008103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.689",
+      "lon": "10.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsiengui Panga",
+      "en": "Tsiengui Panga",
+      "slug": "tsiengui-panga"
+    },
+    "code": {
+      "id": "GAB004008104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.505",
+      "lon": "10.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsienguifala",
+      "en": "Tsienguifala",
+      "slug": "tsienguifala"
+    },
+    "code": {
+      "id": "GAB004008105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.593",
+      "lon": "10.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsifala",
+      "en": "Tsifala",
+      "slug": "tsifala"
+    },
+    "code": {
+      "id": "GAB004008106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "10.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008107",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vouta",
+      "en": "Vouta",
+      "slug": "vouta"
+    },
+    "code": {
+      "id": "GAB004008107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.283",
+      "lon": "11.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008108",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yamba",
+      "en": "Yamba",
+      "slug": "yamba"
+    },
+    "code": {
+      "id": "GAB004008108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.817",
+      "lon": "10.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yamba I",
+      "en": "Yamba I",
+      "slug": "yamba-i"
+    },
+    "code": {
+      "id": "GAB004008109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.817",
+      "lon": "10.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008110",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yamba II",
+      "en": "Yamba II",
+      "slug": "yamba-ii"
+    },
+    "code": {
+      "id": "GAB004008110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.817",
+      "lon": "10.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008111",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yamba III",
+      "en": "Yamba III",
+      "slug": "yamba-iii"
+    },
+    "code": {
+      "id": "GAB004008111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.817",
+      "lon": "10.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yembi",
+      "en": "Yembi",
+      "slug": "yembi"
+    },
+    "code": {
+      "id": "GAB004008112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.409",
+      "lon": "10.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004008113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yombi",
+      "en": "Yombi",
+      "slug": "yombi"
+    },
+    "code": {
+      "id": "GAB004008113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004008",
+      "level": 2,
+      "name": {
+        "local": "Tsamba-Magotsi",
+        "en": "Tsamba-Magotsi",
+        "slug": "tsamba-magotsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004008",
+        "level": 2,
+        "name": {
+          "local": "Tsamba-Magotsi",
+          "en": "Tsamba-Magotsi",
+          "slug": "tsamba-magotsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.409",
+      "lon": "10.628"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

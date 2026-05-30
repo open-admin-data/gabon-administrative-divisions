@@ -1,0 +1,30 @@
+{
+  "id": "GAB001",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Estuaire",
+    "en": "Estuaire",
+    "slug": "estuaire"
+  },
+  "code": {
+    "id": "GAB001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "settlement": 478
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.412",
+    "lon": "9.857"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,866 @@
+[
+  {
+    "id": "GAB002006001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akaga",
+      "en": "Akaga",
+      "slug": "akaga"
+    },
+    "code": {
+      "id": "GAB002006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.163",
+      "lon": "13.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akieni",
+      "en": "Akieni",
+      "slug": "akieni"
+    },
+    "code": {
+      "id": "GAB002006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.175",
+      "lon": "13.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Entsaka",
+      "en": "Entsaka",
+      "slug": "entsaka"
+    },
+    "code": {
+      "id": "GAB002006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.158",
+      "lon": "13.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Intogo",
+      "en": "Intogo",
+      "slug": "intogo"
+    },
+    "code": {
+      "id": "GAB002006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.183",
+      "lon": "13.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndjanga",
+      "en": "Ndjanga",
+      "slug": "ndjanga"
+    },
+    "code": {
+      "id": "GAB002006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.066",
+      "lon": "13.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obala",
+      "en": "Obala",
+      "slug": "obala"
+    },
+    "code": {
+      "id": "GAB002006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.133",
+      "lon": "13.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obegue I",
+      "en": "Obegue I",
+      "slug": "obegue-i"
+    },
+    "code": {
+      "id": "GAB002006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.148",
+      "lon": "13.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obegue II",
+      "en": "Obegue II",
+      "slug": "obegue-ii"
+    },
+    "code": {
+      "id": "GAB002006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.133",
+      "lon": "13.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obeguey",
+      "en": "Obeguey",
+      "slug": "obeguey"
+    },
+    "code": {
+      "id": "GAB002006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.148",
+      "lon": "13.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obia",
+      "en": "Obia",
+      "slug": "obia"
+    },
+    "code": {
+      "id": "GAB002006010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.213",
+      "lon": "13.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obia II",
+      "en": "Obia II",
+      "slug": "obia-ii"
+    },
+    "code": {
+      "id": "GAB002006011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.213",
+      "lon": "13.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obwo",
+      "en": "Obwo",
+      "slug": "obwo"
+    },
+    "code": {
+      "id": "GAB002006012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.204",
+      "lon": "13.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oma",
+      "en": "Oma",
+      "slug": "oma"
+    },
+    "code": {
+      "id": "GAB002006013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.133",
+      "lon": "13.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Onguia",
+      "en": "Onguia",
+      "slug": "onguia"
+    },
+    "code": {
+      "id": "GAB002006014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.058",
+      "lon": "13.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ossele",
+      "en": "Ossele",
+      "slug": "ossele"
+    },
+    "code": {
+      "id": "GAB002006015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.109",
+      "lon": "13.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyabi",
+      "en": "Oyabi",
+      "slug": "oyabi"
+    },
+    "code": {
+      "id": "GAB002006016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002006",
+      "level": 2,
+      "name": {
+        "local": "Lekoni-Lekori",
+        "en": "Lekoni-Lekori",
+        "slug": "lekoni-lekori"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002006",
+        "level": 2,
+        "name": {
+          "local": "Lekoni-Lekori",
+          "en": "Lekoni-Lekori",
+          "slug": "lekoni-lekori"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.181",
+      "lon": "13.876"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,6374 @@
+[
+  {
+    "id": "GAB001003001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abas",
+      "en": "Abas",
+      "slug": "abas"
+    },
+    "code": {
+      "id": "GAB001003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.968",
+      "lon": "9.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abenelang",
+      "en": "Abenelang",
+      "slug": "abenelang"
+    },
+    "code": {
+      "id": "GAB001003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "9.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aboume",
+      "en": "Aboume",
+      "slug": "aboume"
+    },
+    "code": {
+      "id": "GAB001003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.856",
+      "lon": "9.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adza",
+      "en": "Adza",
+      "slug": "adza"
+    },
+    "code": {
+      "id": "GAB001003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.646",
+      "lon": "9.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adzebe",
+      "en": "Adzebe",
+      "slug": "adzebe"
+    },
+    "code": {
+      "id": "GAB001003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.867",
+      "lon": "9.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akanabour",
+      "en": "Akanabour",
+      "slug": "akanabour"
+    },
+    "code": {
+      "id": "GAB001003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.637",
+      "lon": "9.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akanabur",
+      "en": "Akanabur",
+      "slug": "akanabur"
+    },
+    "code": {
+      "id": "GAB001003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.667",
+      "lon": "9.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akolinem",
+      "en": "Akolinem",
+      "slug": "akolinem"
+    },
+    "code": {
+      "id": "GAB001003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.793",
+      "lon": "9.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akonilen",
+      "en": "Akonilen",
+      "slug": "akonilen"
+    },
+    "code": {
+      "id": "GAB001003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.793",
+      "lon": "9.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akoulinem",
+      "en": "Akoulinem",
+      "slug": "akoulinem"
+    },
+    "code": {
+      "id": "GAB001003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.793",
+      "lon": "9.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akounilem",
+      "en": "Akounilem",
+      "slug": "akounilem"
+    },
+    "code": {
+      "id": "GAB001003013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.793",
+      "lon": "9.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akounilen",
+      "en": "Akounilen",
+      "slug": "akounilen"
+    },
+    "code": {
+      "id": "GAB001003014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.793",
+      "lon": "9.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alenakiri",
+      "en": "Alenakiri",
+      "slug": "alenakiri"
+    },
+    "code": {
+      "id": "GAB001003015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "10.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alene",
+      "en": "Alene",
+      "slug": "alene"
+    },
+    "code": {
+      "id": "GAB001003016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.6",
+      "lon": "10.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alos",
+      "en": "Alos",
+      "slug": "alos"
+    },
+    "code": {
+      "id": "GAB001003017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.655",
+      "lon": "9.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alossi",
+      "en": "Alossi",
+      "slug": "alossi"
+    },
+    "code": {
+      "id": "GAB001003018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.655",
+      "lon": "9.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aloum",
+      "en": "Aloum",
+      "slug": "aloum"
+    },
+    "code": {
+      "id": "GAB001003019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "9.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Amoin",
+      "en": "Amoin",
+      "slug": "amoin"
+    },
+    "code": {
+      "id": "GAB001003021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.717",
+      "lon": "9.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Assora-Massona",
+      "en": "Assora-Massona",
+      "slug": "assora-massona"
+    },
+    "code": {
+      "id": "GAB001003022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.733",
+      "lon": "9.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atem",
+      "en": "Atem",
+      "slug": "atem"
+    },
+    "code": {
+      "id": "GAB001003023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.611",
+      "lon": "9.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avelayong",
+      "en": "Avelayong",
+      "slug": "avelayong"
+    },
+    "code": {
+      "id": "GAB001003024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.816",
+      "lon": "9.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avora",
+      "en": "Avora",
+      "slug": "avora"
+    },
+    "code": {
+      "id": "GAB001003025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.967",
+      "lon": "10.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayem",
+      "en": "Ayem",
+      "slug": "ayem"
+    },
+    "code": {
+      "id": "GAB001003026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.8",
+      "lon": "9.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayeme",
+      "en": "Ayeme",
+      "slug": "ayeme"
+    },
+    "code": {
+      "id": "GAB001003028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.5",
+      "lon": "10.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayenabour",
+      "en": "Ayenabour",
+      "slug": "ayenabour"
+    },
+    "code": {
+      "id": "GAB001003030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.6",
+      "lon": "9.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baraka",
+      "en": "Baraka",
+      "slug": "baraka"
+    },
+    "code": {
+      "id": "GAB001003031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "9.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibe",
+      "en": "Bibe",
+      "slug": "bibe"
+    },
+    "code": {
+      "id": "GAB001003032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.917",
+      "lon": "9.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bienam",
+      "en": "Bienam",
+      "slug": "bienam"
+    },
+    "code": {
+      "id": "GAB001003033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.652",
+      "lon": "9.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biliba",
+      "en": "Biliba",
+      "slug": "biliba"
+    },
+    "code": {
+      "id": "GAB001003034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.95",
+      "lon": "10.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binguilinguen",
+      "en": "Binguilinguen",
+      "slug": "binguilinguen"
+    },
+    "code": {
+      "id": "GAB001003035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.817",
+      "lon": "10.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissobinam",
+      "en": "Bissobinam",
+      "slug": "bissobinam"
+    },
+    "code": {
+      "id": "GAB001003036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.943",
+      "lon": "9.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bogofala",
+      "en": "Bogofala",
+      "slug": "bogofala"
+    },
+    "code": {
+      "id": "GAB001003038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1",
+      "lon": "9.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bogotang",
+      "en": "Bogotang",
+      "slug": "bogotang"
+    },
+    "code": {
+      "id": "GAB001003039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.75",
+      "lon": "9.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boutica",
+      "en": "Boutica",
+      "slug": "boutica"
+    },
+    "code": {
+      "id": "GAB001003040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.057",
+      "lon": "9.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Butica",
+      "en": "Butica",
+      "slug": "butica"
+    },
+    "code": {
+      "id": "GAB001003041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.057",
+      "lon": "9.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Butica Uvinia",
+      "en": "Butica Uvinia",
+      "slug": "butica-uvinia"
+    },
+    "code": {
+      "id": "GAB001003042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.057",
+      "lon": "9.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Butika",
+      "en": "Butika",
+      "slug": "butika"
+    },
+    "code": {
+      "id": "GAB001003043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.057",
+      "lon": "9.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cocoabeach",
+      "en": "Cocoabeach",
+      "slug": "cocoabeach"
+    },
+    "code": {
+      "id": "GAB001003044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1",
+      "lon": "9.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cocobeach",
+      "en": "Cocobeach",
+      "slug": "cocobeach"
+    },
+    "code": {
+      "id": "GAB001003045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1",
+      "lon": "9.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebandje",
+      "en": "Ebandje",
+      "slug": "ebandje"
+    },
+    "code": {
+      "id": "GAB001003046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.87",
+      "lon": "9.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebegnakok",
+      "en": "Ebegnakok",
+      "slug": "ebegnakok"
+    },
+    "code": {
+      "id": "GAB001003047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.792",
+      "lon": "9.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebondje",
+      "en": "Ebondje",
+      "slug": "ebondje"
+    },
+    "code": {
+      "id": "GAB001003048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.87",
+      "lon": "9.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebondji",
+      "en": "Ebondji",
+      "slug": "ebondji"
+    },
+    "code": {
+      "id": "GAB001003049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.87",
+      "lon": "9.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebondsche",
+      "en": "Ebondsche",
+      "slug": "ebondsche"
+    },
+    "code": {
+      "id": "GAB001003050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.87",
+      "lon": "9.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekododo",
+      "en": "Ekododo",
+      "slug": "ekododo"
+    },
+    "code": {
+      "id": "GAB001003051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.922",
+      "lon": "9.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Emone",
+      "en": "Emone",
+      "slug": "emone"
+    },
+    "code": {
+      "id": "GAB001003052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.834",
+      "lon": "9.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Engong",
+      "en": "Engong",
+      "slug": "engong"
+    },
+    "code": {
+      "id": "GAB001003053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.6",
+      "lon": "10.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Engoung",
+      "en": "Engoung",
+      "slug": "engoung"
+    },
+    "code": {
+      "id": "GAB001003054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.767",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Enguengang-Medzim",
+      "en": "Enguengang-Medzim",
+      "slug": "enguengang-medzim"
+    },
+    "code": {
+      "id": "GAB001003055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "10"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Enworedule",
+      "en": "Enworedule",
+      "slug": "enworedule"
+    },
+    "code": {
+      "id": "GAB001003056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.723",
+      "lon": "9.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Essoua",
+      "en": "Essoua",
+      "slug": "essoua"
+    },
+    "code": {
+      "id": "GAB001003057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.943",
+      "lon": "9.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evamba",
+      "en": "Evamba",
+      "slug": "evamba"
+    },
+    "code": {
+      "id": "GAB001003058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.933",
+      "lon": "9.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evoredoule",
+      "en": "Evoredoule",
+      "slug": "evoredoule"
+    },
+    "code": {
+      "id": "GAB001003059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.723",
+      "lon": "9.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evoredouleu",
+      "en": "Evoredouleu",
+      "slug": "evoredouleu"
+    },
+    "code": {
+      "id": "GAB001003060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.723",
+      "lon": "9.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyameyong",
+      "en": "Eyameyong",
+      "slug": "eyameyong"
+    },
+    "code": {
+      "id": "GAB001003061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.767",
+      "lon": "9.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foula",
+      "en": "Foula",
+      "slug": "foula"
+    },
+    "code": {
+      "id": "GAB001003062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "9.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foulayong",
+      "en": "Foulayong",
+      "slug": "foulayong"
+    },
+    "code": {
+      "id": "GAB001003064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.857",
+      "lon": "9.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gouale",
+      "en": "Gouale",
+      "slug": "gouale"
+    },
+    "code": {
+      "id": "GAB001003065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.917",
+      "lon": "10.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iboundji",
+      "en": "Iboundji",
+      "slug": "iboundji"
+    },
+    "code": {
+      "id": "GAB001003066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.87",
+      "lon": "9.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idolo",
+      "en": "Idolo",
+      "slug": "idolo"
+    },
+    "code": {
+      "id": "GAB001003067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.8",
+      "lon": "9.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Indombo",
+      "en": "Indombo",
+      "slug": "indombo"
+    },
+    "code": {
+      "id": "GAB001003068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.934",
+      "lon": "9.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kogh-Ebele",
+      "en": "Kogh-Ebele",
+      "slug": "kogh-ebele"
+    },
+    "code": {
+      "id": "GAB001003069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.65",
+      "lon": "9.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leme",
+      "en": "Leme",
+      "slug": "leme"
+    },
+    "code": {
+      "id": "GAB001003070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.968",
+      "lon": "9.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "M'Bafane",
+      "en": "M'Bafane",
+      "slug": "mbafane"
+    },
+    "code": {
+      "id": "GAB001003081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "9.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabendj",
+      "en": "Mabendj",
+      "slug": "mabendj"
+    },
+    "code": {
+      "id": "GAB001003071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.967",
+      "lon": "9.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabengi",
+      "en": "Mabengi",
+      "slug": "mabengi"
+    },
+    "code": {
+      "id": "GAB001003072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.967",
+      "lon": "9.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madekele",
+      "en": "Madekele",
+      "slug": "madekele"
+    },
+    "code": {
+      "id": "GAB001003073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.8",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madekelo",
+      "en": "Madekelo",
+      "slug": "madekelo"
+    },
+    "code": {
+      "id": "GAB001003074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.8",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mala",
+      "en": "Mala",
+      "slug": "mala"
+    },
+    "code": {
+      "id": "GAB001003075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.592",
+      "lon": "10.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mangala",
+      "en": "Mangala",
+      "slug": "mangala"
+    },
+    "code": {
+      "id": "GAB001003076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.979",
+      "lon": "9.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mangono",
+      "en": "Mangono",
+      "slug": "mangono"
+    },
+    "code": {
+      "id": "GAB001003077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.892",
+      "lon": "9.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massai",
+      "en": "Massai",
+      "slug": "massai"
+    },
+    "code": {
+      "id": "GAB001003078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.976",
+      "lon": "9.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Masse",
+      "en": "Masse",
+      "slug": "masse"
+    },
+    "code": {
+      "id": "GAB001003079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.933",
+      "lon": "9.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbafan",
+      "en": "Mbafan",
+      "slug": "mbafan"
+    },
+    "code": {
+      "id": "GAB001003080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "9.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Medegue",
+      "en": "Medegue",
+      "slug": "medegue"
+    },
+    "code": {
+      "id": "GAB001003082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.614",
+      "lon": "10.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mefia",
+      "en": "Mefia",
+      "slug": "mefia"
+    },
+    "code": {
+      "id": "GAB001003083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.8",
+      "lon": "9.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mekamenzogh",
+      "en": "Mekamenzogh",
+      "slug": "mekamenzogh"
+    },
+    "code": {
+      "id": "GAB001003084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.823",
+      "lon": "9.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mekina",
+      "en": "Mekina",
+      "slug": "mekina"
+    },
+    "code": {
+      "id": "GAB001003085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.017",
+      "lon": "9.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mela",
+      "en": "Mela",
+      "slug": "mela"
+    },
+    "code": {
+      "id": "GAB001003086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.592",
+      "lon": "10.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mendouga",
+      "en": "Mendouga",
+      "slug": "mendouga"
+    },
+    "code": {
+      "id": "GAB001003087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "10.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Metala",
+      "en": "Metala",
+      "slug": "metala"
+    },
+    "code": {
+      "id": "GAB001003088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.033",
+      "lon": "9.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikolongo",
+      "en": "Mikolongo",
+      "slug": "mikolongo"
+    },
+    "code": {
+      "id": "GAB001003089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.729",
+      "lon": "9.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Milembie",
+      "en": "Milembie",
+      "slug": "milembie"
+    },
+    "code": {
+      "id": "GAB001003090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.666",
+      "lon": "9.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvanayem",
+      "en": "Mvanayem",
+      "slug": "mvanayem"
+    },
+    "code": {
+      "id": "GAB001003091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.8",
+      "lon": "9.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvanayeme",
+      "en": "Mvanayeme",
+      "slug": "mvanayeme"
+    },
+    "code": {
+      "id": "GAB001003092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.6",
+      "lon": "10.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvanayong",
+      "en": "Mvanayong",
+      "slug": "mvanayong"
+    },
+    "code": {
+      "id": "GAB001003093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.493",
+      "lon": "10.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvang",
+      "en": "Mvang",
+      "slug": "mvang"
+    },
+    "code": {
+      "id": "GAB001003095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.8",
+      "lon": "9.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvomenzogh",
+      "en": "Mvomenzogh",
+      "slug": "mvomenzogh"
+    },
+    "code": {
+      "id": "GAB001003097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.775",
+      "lon": "9.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvone",
+      "en": "Mvone",
+      "slug": "mvone"
+    },
+    "code": {
+      "id": "GAB001003098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.919",
+      "lon": "9.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvoulenzogh",
+      "en": "Mvoulenzogh",
+      "slug": "mvoulenzogh"
+    },
+    "code": {
+      "id": "GAB001003099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.733",
+      "lon": "9.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Myang",
+      "en": "Myang",
+      "slug": "myang"
+    },
+    "code": {
+      "id": "GAB001003100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003102",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "N'Gouala",
+      "en": "N'Gouala",
+      "slug": "ngouala"
+    },
+    "code": {
+      "id": "GAB001003102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.917",
+      "lon": "10.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndombo",
+      "en": "Ndombo",
+      "slug": "ndombo"
+    },
+    "code": {
+      "id": "GAB001003101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.934",
+      "lon": "9.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nguale",
+      "en": "Nguale",
+      "slug": "nguale"
+    },
+    "code": {
+      "id": "GAB001003103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.917",
+      "lon": "10.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nianam",
+      "en": "Nianam",
+      "slug": "nianam"
+    },
+    "code": {
+      "id": "GAB001003104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "10"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nianam I",
+      "en": "Nianam I",
+      "slug": "nianam-i"
+    },
+    "code": {
+      "id": "GAB001003105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.929",
+      "lon": "9.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nianam II",
+      "en": "Nianam II",
+      "slug": "nianam-ii"
+    },
+    "code": {
+      "id": "GAB001003106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.95",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003107",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkan",
+      "en": "Nkan",
+      "slug": "nkan"
+    },
+    "code": {
+      "id": "GAB001003107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.703",
+      "lon": "9.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003108",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoulamvan",
+      "en": "Nkoulamvan",
+      "slug": "nkoulamvan"
+    },
+    "code": {
+      "id": "GAB001003108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.922",
+      "lon": "9.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoulengong",
+      "en": "Nkoulengong",
+      "slug": "nkoulengong"
+    },
+    "code": {
+      "id": "GAB001003109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.826",
+      "lon": "9.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003110",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkourneki",
+      "en": "Nkourneki",
+      "slug": "nkourneki"
+    },
+    "code": {
+      "id": "GAB001003110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "9.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003111",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Noayong",
+      "en": "Noayong",
+      "slug": "noayong"
+    },
+    "code": {
+      "id": "GAB001003111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.733",
+      "lon": "9.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nsogubefame",
+      "en": "Nsogubefame",
+      "slug": "nsogubefame"
+    },
+    "code": {
+      "id": "GAB001003112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.692",
+      "lon": "9.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzingayong",
+      "en": "Nzingayong",
+      "slug": "nzingayong"
+    },
+    "code": {
+      "id": "GAB001003113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "9.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003114",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoghebour",
+      "en": "Nzoghebour",
+      "slug": "nzoghebour"
+    },
+    "code": {
+      "id": "GAB001003114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.692",
+      "lon": "9.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003116",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoghengone",
+      "en": "Nzoghengone",
+      "slug": "nzoghengone"
+    },
+    "code": {
+      "id": "GAB001003116",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.754",
+      "lon": "9.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003117",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzogobefam",
+      "en": "Nzogobefam",
+      "slug": "nzogobefam"
+    },
+    "code": {
+      "id": "GAB001003117",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.692",
+      "lon": "9.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003118",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoguebefame",
+      "en": "Nzoguebefame",
+      "slug": "nzoguebefame"
+    },
+    "code": {
+      "id": "GAB001003118",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.692",
+      "lon": "9.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003119",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzonguebourg",
+      "en": "Nzonguebourg",
+      "slug": "nzonguebourg"
+    },
+    "code": {
+      "id": "GAB001003119",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.692",
+      "lon": "9.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003120",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obour",
+      "en": "Obour",
+      "slug": "obour"
+    },
+    "code": {
+      "id": "GAB001003120",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.9",
+      "lon": "9.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003121",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okam",
+      "en": "Okam",
+      "slug": "okam"
+    },
+    "code": {
+      "id": "GAB001003121",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.687",
+      "lon": "10.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003122",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okan",
+      "en": "Okan",
+      "slug": "okan"
+    },
+    "code": {
+      "id": "GAB001003122",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.687",
+      "lon": "10.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003123",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okola",
+      "en": "Okola",
+      "slug": "okola"
+    },
+    "code": {
+      "id": "GAB001003123",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.817",
+      "lon": "10.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003124",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ongam",
+      "en": "Ongam",
+      "slug": "ongam"
+    },
+    "code": {
+      "id": "GAB001003124",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.642",
+      "lon": "9.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003125",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Regnault",
+      "en": "Regnault",
+      "slug": "regnault"
+    },
+    "code": {
+      "id": "GAB001003125",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.017",
+      "lon": "9.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003126",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ukoko",
+      "en": "Ukoko",
+      "slug": "ukoko"
+    },
+    "code": {
+      "id": "GAB001003126",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1",
+      "lon": "9.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003127",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vombie",
+      "en": "Vombie",
+      "slug": "vombie"
+    },
+    "code": {
+      "id": "GAB001003127",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.958",
+      "lon": "9.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003128",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yong",
+      "en": "Yong",
+      "slug": "yong"
+    },
+    "code": {
+      "id": "GAB001003128",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001003",
+      "level": 2,
+      "name": {
+        "local": "Noya",
+        "en": "Noya",
+        "slug": "noya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001003",
+        "level": 2,
+        "name": {
+          "local": "Noya",
+          "en": "Noya",
+          "slug": "noya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.817",
+      "lon": "9.85"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GAB005003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Doutsila",
+    "en": "Doutsila",
+    "slug": "doutsila"
+  },
+  "code": {
+    "id": "GAB005003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB005",
+    "level": 1,
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 103
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.76",
+    "lon": "11.4"
+  },
+  "metadata": {},
+  "source": {}
+}

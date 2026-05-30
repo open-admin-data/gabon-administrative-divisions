@@ -1,0 +1,47 @@
+{
+  "id": "GAB005001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Basse-Banio",
+    "en": "Basse-Banio",
+    "slug": "basse-banio"
+  },
+  "code": {
+    "id": "GAB005001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB005",
+    "level": 1,
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 80
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.08",
+    "lon": "10.567"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GAB002002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Djouori-Agnili",
+    "en": "Djouori-Agnili",
+    "slug": "djouori-agnili"
+  },
+  "code": {
+    "id": "GAB002002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB002",
+    "level": 1,
+    "name": {
+      "local": "Haut-Ogooue",
+      "en": "Haut-Ogooue",
+      "slug": "haut-ogooue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.475",
+    "lon": "13.909"
+  },
+  "metadata": {},
+  "source": {}
+}

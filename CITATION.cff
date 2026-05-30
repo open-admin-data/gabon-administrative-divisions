@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Gabon Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-30"
+url: "https://github.com/open-admin-data/gabon-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/gabon-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - gabon
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Gabon's administrative hierarchy:
+  9 provinces, 48 departments, 4,192 settlements.
+  Bilingual with coordinates and postal codes where available.

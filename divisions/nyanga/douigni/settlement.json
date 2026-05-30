@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "GAB005002001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bignendzi",
+      "en": "Bignendzi",
+      "slug": "bignendzi"
+    },
+    "code": {
+      "id": "GAB005002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.428",
+      "lon": "10.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bila Gouambi",
+      "en": "Bila Gouambi",
+      "slug": "bila-gouambi"
+    },
+    "code": {
+      "id": "GAB005002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.367",
+      "lon": "11.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilengui",
+      "en": "Bilengui",
+      "slug": "bilengui"
+    },
+    "code": {
+      "id": "GAB005002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.445",
+      "lon": "10.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilombika Keri",
+      "en": "Bilombika Keri",
+      "slug": "bilombika-keri"
+    },
+    "code": {
+      "id": "GAB005002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.25",
+      "lon": "11.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birenki",
+      "en": "Birenki",
+      "slug": "birenki"
+    },
+    "code": {
+      "id": "GAB005002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.605",
+      "lon": "10.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Birouki",
+      "en": "Birouki",
+      "slug": "birouki"
+    },
+    "code": {
+      "id": "GAB005002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bougoulou",
+      "en": "Bougoulou",
+      "slug": "bougoulou"
+    },
+    "code": {
+      "id": "GAB005002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.468",
+      "lon": "10.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dikouta",
+      "en": "Dikouta",
+      "slug": "dikouta"
+    },
+    "code": {
+      "id": "GAB005002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.267",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dissala",
+      "en": "Dissala",
+      "slug": "dissala"
+    },
+    "code": {
+      "id": "GAB005002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.323",
+      "lon": "10.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dissiala",
+      "en": "Dissiala",
+      "slug": "dissiala"
+    },
+    "code": {
+      "id": "GAB005002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.317",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divina",
+      "en": "Divina",
+      "slug": "divina"
+    },
+    "code": {
+      "id": "GAB005002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.493",
+      "lon": "10.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doufouma",
+      "en": "Doufouma",
+      "slug": "doufouma"
+    },
+    "code": {
+      "id": "GAB005002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.399",
+      "lon": "11.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doukendema",
+      "en": "Doukendema",
+      "slug": "doukendema"
+    },
+    "code": {
+      "id": "GAB005002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.3",
+      "lon": "11.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foundou Nzambi",
+      "en": "Foundou Nzambi",
+      "slug": "foundou-nzambi"
+    },
+    "code": {
+      "id": "GAB005002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.453",
+      "lon": "10.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ileka",
+      "en": "Ileka",
+      "slug": "ileka"
+    },
+    "code": {
+      "id": "GAB005002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.444",
+      "lon": "10.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Isogni Salou",
+      "en": "Isogni Salou",
+      "slug": "isogni-salou"
+    },
+    "code": {
+      "id": "GAB005002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.502",
+      "lon": "10.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kaka",
+      "en": "Kaka",
+      "slug": "kaka"
+    },
+    "code": {
+      "id": "GAB005002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.477",
+      "lon": "10.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keri",
+      "en": "Keri",
+      "slug": "keri"
+    },
+    "code": {
+      "id": "GAB005002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.479",
+      "lon": "10.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kondzi",
+      "en": "Kondzi",
+      "slug": "kondzi"
+    },
+    "code": {
+      "id": "GAB005002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.394",
+      "lon": "10.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouango",
+      "en": "Kouango",
+      "slug": "kouango"
+    },
+    "code": {
+      "id": "GAB005002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.488",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koumougani",
+      "en": "Koumougani",
+      "slug": "koumougani"
+    },
+    "code": {
+      "id": "GAB005002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.317",
+      "lon": "11.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Loussala",
+      "en": "Loussala",
+      "slug": "loussala"
+    },
+    "code": {
+      "id": "GAB005002022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.323",
+      "lon": "10.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabala",
+      "en": "Mabala",
+      "slug": "mabala"
+    },
+    "code": {
+      "id": "GAB005002023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.35",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madonga",
+      "en": "Madonga",
+      "slug": "madonga"
+    },
+    "code": {
+      "id": "GAB005002024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.486",
+      "lon": "10.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magabika",
+      "en": "Magabika",
+      "slug": "magabika"
+    },
+    "code": {
+      "id": "GAB005002025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.591",
+      "lon": "10.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magoumba",
+      "en": "Magoumba",
+      "slug": "magoumba"
+    },
+    "code": {
+      "id": "GAB005002026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.35",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makabana",
+      "en": "Makabana",
+      "slug": "makabana"
+    },
+    "code": {
+      "id": "GAB005002027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.513",
+      "lon": "10.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malaba",
+      "en": "Malaba",
+      "slug": "malaba"
+    },
+    "code": {
+      "id": "GAB005002028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.333",
+      "lon": "11.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malolo",
+      "en": "Malolo",
+      "slug": "malolo"
+    },
+    "code": {
+      "id": "GAB005002029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.472",
+      "lon": "10.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maoumba",
+      "en": "Maoumba",
+      "slug": "maoumba"
+    },
+    "code": {
+      "id": "GAB005002032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.56",
+      "lon": "10.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massoti",
+      "en": "Massoti",
+      "slug": "massoti"
+    },
+    "code": {
+      "id": "GAB005002033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.534",
+      "lon": "10.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboukou",
+      "en": "Mboukou",
+      "slug": "mboukou"
+    },
+    "code": {
+      "id": "GAB005002034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.461",
+      "lon": "10.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfoukoualou",
+      "en": "Mfoukoualou",
+      "slug": "mfoukoualou"
+    },
+    "code": {
+      "id": "GAB005002035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.57",
+      "lon": "10.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikoko",
+      "en": "Mikoko",
+      "slug": "mikoko"
+    },
+    "code": {
+      "id": "GAB005002036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.485",
+      "lon": "10.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Missoti",
+      "en": "Missoti",
+      "slug": "missoti"
+    },
+    "code": {
+      "id": "GAB005002037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.509",
+      "lon": "10.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mivangiri",
+      "en": "Mivangiri",
+      "slug": "mivangiri"
+    },
+    "code": {
+      "id": "GAB005002038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.35",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moabi",
+      "en": "Moabi",
+      "slug": "moabi"
+    },
+    "code": {
+      "id": "GAB005002039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.422",
+      "lon": "11.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougouma",
+      "en": "Mougouma",
+      "slug": "mougouma"
+    },
+    "code": {
+      "id": "GAB005002040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.35",
+      "lon": "10.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukaba Neny",
+      "en": "Moukaba Neny",
+      "slug": "moukaba-neny"
+    },
+    "code": {
+      "id": "GAB005002041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.443",
+      "lon": "10.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussamou Kougou",
+      "en": "Moussamou Kougou",
+      "slug": "moussamou-kougou"
+    },
+    "code": {
+      "id": "GAB005002042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.422",
+      "lon": "10.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussitou",
+      "en": "Moussitou",
+      "slug": "moussitou"
+    },
+    "code": {
+      "id": "GAB005002043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.488",
+      "lon": "10.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moutoumba",
+      "en": "Moutoumba",
+      "slug": "moutoumba"
+    },
+    "code": {
+      "id": "GAB005002044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.417",
+      "lon": "11.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moutoungou",
+      "en": "Moutoungou",
+      "slug": "moutoungou"
+    },
+    "code": {
+      "id": "GAB005002046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.434",
+      "lon": "10.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouyombi-Tali",
+      "en": "Mouyombi-Tali",
+      "slug": "mouyombi-tali"
+    },
+    "code": {
+      "id": "GAB005002047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.54",
+      "lon": "10.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "N'Boukou",
+      "en": "N'Boukou",
+      "slug": "nboukou"
+    },
+    "code": {
+      "id": "GAB005002048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.461",
+      "lon": "10.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndende",
+      "en": "Ndende",
+      "slug": "ndende"
+    },
+    "code": {
+      "id": "GAB005002049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.498",
+      "lon": "10.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoungou",
+      "en": "Ngoungou",
+      "slug": "ngoungou"
+    },
+    "code": {
+      "id": "GAB005002050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.523",
+      "lon": "10.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Noumbou",
+      "en": "Noumbou",
+      "slug": "noumbou"
+    },
+    "code": {
+      "id": "GAB005002051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.551",
+      "lon": "10.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pabo Nzambi",
+      "en": "Pabo Nzambi",
+      "slug": "pabo-nzambi"
+    },
+    "code": {
+      "id": "GAB005002052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.496",
+      "lon": "10.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Polombya",
+      "en": "Polombya",
+      "slug": "polombya"
+    },
+    "code": {
+      "id": "GAB005002053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.462",
+      "lon": "10.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Porro",
+      "en": "Porro",
+      "slug": "porro"
+    },
+    "code": {
+      "id": "GAB005002054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.41",
+      "lon": "10.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rima Nzala",
+      "en": "Rima Nzala",
+      "slug": "rima-nzala"
+    },
+    "code": {
+      "id": "GAB005002055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.472",
+      "lon": "10.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sanda",
+      "en": "Sanda",
+      "slug": "sanda"
+    },
+    "code": {
+      "id": "GAB005002056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.367",
+      "lon": "11.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soangui",
+      "en": "Soangui",
+      "slug": "soangui"
+    },
+    "code": {
+      "id": "GAB005002057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.434",
+      "lon": "10.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soukila",
+      "en": "Soukila",
+      "slug": "soukila"
+    },
+    "code": {
+      "id": "GAB005002058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.367",
+      "lon": "11.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005002059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsouka",
+      "en": "Tsouka",
+      "slug": "tsouka"
+    },
+    "code": {
+      "id": "GAB005002059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005002",
+      "level": 2,
+      "name": {
+        "local": "Douigni",
+        "en": "Douigni",
+        "slug": "douigni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005002",
+        "level": 2,
+        "name": {
+          "local": "Douigni",
+          "en": "Douigni",
+          "slug": "douigni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.333",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

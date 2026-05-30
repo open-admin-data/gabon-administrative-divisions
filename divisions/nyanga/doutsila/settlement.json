@@ -1,0 +1,5564 @@
+[
+  {
+    "id": "GAB005003001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Banda Namba",
+      "en": "Banda Namba",
+      "slug": "banda-namba"
+    },
+    "code": {
+      "id": "GAB005003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.105",
+      "lon": "11.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bangola",
+      "en": "Bangola",
+      "slug": "bangola"
+    },
+    "code": {
+      "id": "GAB005003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "11.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Benga",
+      "en": "Benga",
+      "slug": "benga"
+    },
+    "code": {
+      "id": "GAB005003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.917",
+      "lon": "11.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bihindou",
+      "en": "Bihindou",
+      "slug": "bihindou"
+    },
+    "code": {
+      "id": "GAB005003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.55",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bikendzi",
+      "en": "Bikendzi",
+      "slug": "bikendzi"
+    },
+    "code": {
+      "id": "GAB005003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.667",
+      "lon": "11.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilemba",
+      "en": "Bilemba",
+      "slug": "bilemba"
+    },
+    "code": {
+      "id": "GAB005003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.617",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boudiombi",
+      "en": "Boudiombi",
+      "slug": "boudiombi"
+    },
+    "code": {
+      "id": "GAB005003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.086",
+      "lon": "11.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouneni",
+      "en": "Bouneni",
+      "slug": "bouneni"
+    },
+    "code": {
+      "id": "GAB005003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.85",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouyanga",
+      "en": "Bouyanga",
+      "slug": "bouyanga"
+    },
+    "code": {
+      "id": "GAB005003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.617",
+      "lon": "11.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Caye",
+      "en": "Caye",
+      "slug": "caye"
+    },
+    "code": {
+      "id": "GAB005003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.917",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diboueta",
+      "en": "Diboueta",
+      "slug": "diboueta"
+    },
+    "code": {
+      "id": "GAB005003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.717",
+      "lon": "11.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dikassa I",
+      "en": "Dikassa I",
+      "slug": "dikassa-i"
+    },
+    "code": {
+      "id": "GAB005003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.85",
+      "lon": "11.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dikoulou Dimossi",
+      "en": "Dikoulou Dimossi",
+      "slug": "dikoulou-dimossi"
+    },
+    "code": {
+      "id": "GAB005003013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.667",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dinguilila",
+      "en": "Dinguilila",
+      "slug": "dinguilila"
+    },
+    "code": {
+      "id": "GAB005003014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.655",
+      "lon": "11.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divangui",
+      "en": "Divangui",
+      "slug": "divangui"
+    },
+    "code": {
+      "id": "GAB005003015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.717",
+      "lon": "11.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diveia",
+      "en": "Diveia",
+      "slug": "diveia"
+    },
+    "code": {
+      "id": "GAB005003016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.567",
+      "lon": "11.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divevi",
+      "en": "Divevi",
+      "slug": "divevi"
+    },
+    "code": {
+      "id": "GAB005003017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.983",
+      "lon": "11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diveya",
+      "en": "Diveya",
+      "slug": "diveya"
+    },
+    "code": {
+      "id": "GAB005003018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.567",
+      "lon": "11.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djaouri",
+      "en": "Djaouri",
+      "slug": "djaouri"
+    },
+    "code": {
+      "id": "GAB005003019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.883",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dougalou",
+      "en": "Dougalou",
+      "slug": "dougalou"
+    },
+    "code": {
+      "id": "GAB005003020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.132",
+      "lon": "11.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doukanga",
+      "en": "Doukanga",
+      "slug": "doukanga"
+    },
+    "code": {
+      "id": "GAB005003021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.583",
+      "lon": "11.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dounguila",
+      "en": "Dounguila",
+      "slug": "dounguila"
+    },
+    "code": {
+      "id": "GAB005003023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.7",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doussoundzi",
+      "en": "Doussoundzi",
+      "slug": "doussoundzi"
+    },
+    "code": {
+      "id": "GAB005003024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.683",
+      "lon": "11.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Douzanza",
+      "en": "Douzanza",
+      "slug": "douzanza"
+    },
+    "code": {
+      "id": "GAB005003025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "11.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gnali",
+      "en": "Gnali",
+      "slug": "gnali"
+    },
+    "code": {
+      "id": "GAB005003026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.603",
+      "lon": "11.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gondzi",
+      "en": "Gondzi",
+      "slug": "gondzi"
+    },
+    "code": {
+      "id": "GAB005003027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.967",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ibanga",
+      "en": "Ibanga",
+      "slug": "ibanga"
+    },
+    "code": {
+      "id": "GAB005003028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.783",
+      "lon": "11.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Igala",
+      "en": "Igala",
+      "slug": "igala"
+    },
+    "code": {
+      "id": "GAB005003029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.567",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iloba Songui",
+      "en": "Iloba Songui",
+      "slug": "iloba-songui"
+    },
+    "code": {
+      "id": "GAB005003030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.633",
+      "lon": "11.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iloga Magounga",
+      "en": "Iloga Magounga",
+      "slug": "iloga-magounga"
+    },
+    "code": {
+      "id": "GAB005003031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.45",
+      "lon": "11.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ilogo",
+      "en": "Ilogo",
+      "slug": "ilogo"
+    },
+    "code": {
+      "id": "GAB005003032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.683",
+      "lon": "11.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ineni Magno",
+      "en": "Ineni Magno",
+      "slug": "ineni-magno"
+    },
+    "code": {
+      "id": "GAB005003033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.4",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Inominomio",
+      "en": "Inominomio",
+      "slug": "inominomio"
+    },
+    "code": {
+      "id": "GAB005003034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.85",
+      "lon": "11.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iroungou",
+      "en": "Iroungou",
+      "slug": "iroungou"
+    },
+    "code": {
+      "id": "GAB005003035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.917",
+      "lon": "11.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Issibou",
+      "en": "Issibou",
+      "slug": "issibou"
+    },
+    "code": {
+      "id": "GAB005003036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.049",
+      "lon": "11.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ivoundou",
+      "en": "Ivoundou",
+      "slug": "ivoundou"
+    },
+    "code": {
+      "id": "GAB005003038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.9",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kabo Nzambi",
+      "en": "Kabo Nzambi",
+      "slug": "kabo-nzambi"
+    },
+    "code": {
+      "id": "GAB005003039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.733",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kamba",
+      "en": "Kamba",
+      "slug": "kamba"
+    },
+    "code": {
+      "id": "GAB005003040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.12",
+      "lon": "11.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kambala",
+      "en": "Kambala",
+      "slug": "kambala"
+    },
+    "code": {
+      "id": "GAB005003041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "11.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kanapo",
+      "en": "Kanapo",
+      "slug": "kanapo"
+    },
+    "code": {
+      "id": "GAB005003042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.6",
+      "lon": "11.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kebili",
+      "en": "Kebili",
+      "slug": "kebili"
+    },
+    "code": {
+      "id": "GAB005003043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.883",
+      "lon": "11.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kelili",
+      "en": "Kelili",
+      "slug": "kelili"
+    },
+    "code": {
+      "id": "GAB005003044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.65",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koko Magoma",
+      "en": "Koko Magoma",
+      "slug": "koko-magoma"
+    },
+    "code": {
+      "id": "GAB005003045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.583",
+      "lon": "11.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Latsa",
+      "en": "Latsa",
+      "slug": "latsa"
+    },
+    "code": {
+      "id": "GAB005003046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.517",
+      "lon": "11.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabala",
+      "en": "Mabala",
+      "slug": "mabala"
+    },
+    "code": {
+      "id": "GAB005003047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.5",
+      "lon": "11.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabou",
+      "en": "Mabou",
+      "slug": "mabou"
+    },
+    "code": {
+      "id": "GAB005003048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.013",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maboussou",
+      "en": "Maboussou",
+      "slug": "maboussou"
+    },
+    "code": {
+      "id": "GAB005003049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.983",
+      "lon": "11.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magabica",
+      "en": "Magabica",
+      "slug": "magabica"
+    },
+    "code": {
+      "id": "GAB005003050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.917",
+      "lon": "11.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magounga",
+      "en": "Magounga",
+      "slug": "magounga"
+    },
+    "code": {
+      "id": "GAB005003051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makabana",
+      "en": "Makabana",
+      "slug": "makabana"
+    },
+    "code": {
+      "id": "GAB005003052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.917",
+      "lon": "11.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makanana",
+      "en": "Makanana",
+      "slug": "makanana"
+    },
+    "code": {
+      "id": "GAB005003053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.933",
+      "lon": "11.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malabilila",
+      "en": "Malabilila",
+      "slug": "malabilila"
+    },
+    "code": {
+      "id": "GAB005003054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.75",
+      "lon": "11.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malimba",
+      "en": "Malimba",
+      "slug": "malimba"
+    },
+    "code": {
+      "id": "GAB005003055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "11.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mangounga",
+      "en": "Mangounga",
+      "slug": "mangounga"
+    },
+    "code": {
+      "id": "GAB005003056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massanga",
+      "en": "Massanga",
+      "slug": "massanga"
+    },
+    "code": {
+      "id": "GAB005003057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.65",
+      "lon": "11.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massoti",
+      "en": "Massoti",
+      "slug": "massoti"
+    },
+    "code": {
+      "id": "GAB005003058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.483",
+      "lon": "11.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matoungou",
+      "en": "Matoungou",
+      "slug": "matoungou"
+    },
+    "code": {
+      "id": "GAB005003059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.683",
+      "lon": "11.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matsanfou",
+      "en": "Matsanfou",
+      "slug": "matsanfou"
+    },
+    "code": {
+      "id": "GAB005003060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.063",
+      "lon": "11.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbekila",
+      "en": "Mbekila",
+      "slug": "mbekila"
+    },
+    "code": {
+      "id": "GAB005003061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "11.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbidiga",
+      "en": "Mbidiga",
+      "slug": "mbidiga"
+    },
+    "code": {
+      "id": "GAB005003062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.667",
+      "lon": "11.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Midouma",
+      "en": "Midouma",
+      "slug": "midouma"
+    },
+    "code": {
+      "id": "GAB005003063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.75",
+      "lon": "11.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Migamba",
+      "en": "Migamba",
+      "slug": "migamba"
+    },
+    "code": {
+      "id": "GAB005003064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.533",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikanda",
+      "en": "Mikanda",
+      "slug": "mikanda"
+    },
+    "code": {
+      "id": "GAB005003065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.917",
+      "lon": "11.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikanga",
+      "en": "Mikanga",
+      "slug": "mikanga"
+    },
+    "code": {
+      "id": "GAB005003066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.733",
+      "lon": "11.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mindoubi",
+      "en": "Mindoubi",
+      "slug": "mindoubi"
+    },
+    "code": {
+      "id": "GAB005003067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.65",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Missassa",
+      "en": "Missassa",
+      "slug": "missassa"
+    },
+    "code": {
+      "id": "GAB005003068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.45",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Missigou",
+      "en": "Missigou",
+      "slug": "missigou"
+    },
+    "code": {
+      "id": "GAB005003069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.717",
+      "lon": "11.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Missouli",
+      "en": "Missouli",
+      "slug": "missouli"
+    },
+    "code": {
+      "id": "GAB005003070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.967",
+      "lon": "11.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mivengui",
+      "en": "Mivengui",
+      "slug": "mivengui"
+    },
+    "code": {
+      "id": "GAB005003071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.783",
+      "lon": "11.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moabi Koudou",
+      "en": "Moabi Koudou",
+      "slug": "moabi-koudou"
+    },
+    "code": {
+      "id": "GAB005003072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.567",
+      "lon": "11.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouetji",
+      "en": "Mouetji",
+      "slug": "mouetji"
+    },
+    "code": {
+      "id": "GAB005003073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.65",
+      "lon": "11.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougnigou",
+      "en": "Mougnigou",
+      "slug": "mougnigou"
+    },
+    "code": {
+      "id": "GAB005003074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.9",
+      "lon": "11.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougnigou II",
+      "en": "Mougnigou II",
+      "slug": "mougnigou-ii"
+    },
+    "code": {
+      "id": "GAB005003075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.883",
+      "lon": "11.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukakala",
+      "en": "Moukakala",
+      "slug": "moukakala"
+    },
+    "code": {
+      "id": "GAB005003076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.617",
+      "lon": "11.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukambo",
+      "en": "Moukambo",
+      "slug": "moukambo"
+    },
+    "code": {
+      "id": "GAB005003077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.079",
+      "lon": "11.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukenja",
+      "en": "Moukenja",
+      "slug": "moukenja"
+    },
+    "code": {
+      "id": "GAB005003078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.517",
+      "lon": "11.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulandou",
+      "en": "Moulandou",
+      "slug": "moulandou"
+    },
+    "code": {
+      "id": "GAB005003079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.617",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulonda",
+      "en": "Moulonda",
+      "slug": "moulonda"
+    },
+    "code": {
+      "id": "GAB005003080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.583",
+      "lon": "11.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mounanga",
+      "en": "Mounanga",
+      "slug": "mounanga"
+    },
+    "code": {
+      "id": "GAB005003081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.7",
+      "lon": "11.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moungale",
+      "en": "Moungale",
+      "slug": "moungale"
+    },
+    "code": {
+      "id": "GAB005003082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.574",
+      "lon": "11.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moungoundi",
+      "en": "Moungoundi",
+      "slug": "moungoundi"
+    },
+    "code": {
+      "id": "GAB005003083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.95",
+      "lon": "11.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussamba",
+      "en": "Moussamba",
+      "slug": "moussamba"
+    },
+    "code": {
+      "id": "GAB005003084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.95",
+      "lon": "11.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussambo",
+      "en": "Moussambo",
+      "slug": "moussambo"
+    },
+    "code": {
+      "id": "GAB005003085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.95",
+      "lon": "11.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussitoulela",
+      "en": "Moussitoulela",
+      "slug": "moussitoulela"
+    },
+    "code": {
+      "id": "GAB005003086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.8",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoula",
+      "en": "Ngoula",
+      "slug": "ngoula"
+    },
+    "code": {
+      "id": "GAB005003087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.95",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nguenda",
+      "en": "Nguenda",
+      "slug": "nguenda"
+    },
+    "code": {
+      "id": "GAB005003088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.467",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nguenda Pahilo",
+      "en": "Nguenda Pahilo",
+      "slug": "nguenda-pahilo"
+    },
+    "code": {
+      "id": "GAB005003089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.467",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niali",
+      "en": "Niali",
+      "slug": "niali"
+    },
+    "code": {
+      "id": "GAB005003090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.603",
+      "lon": "11.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niengo",
+      "en": "Niengo",
+      "slug": "niengo"
+    },
+    "code": {
+      "id": "GAB005003091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.9",
+      "lon": "11.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nvounda",
+      "en": "Nvounda",
+      "slug": "nvounda"
+    },
+    "code": {
+      "id": "GAB005003092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.717",
+      "lon": "11.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzanza",
+      "en": "Nzanza",
+      "slug": "nzanza"
+    },
+    "code": {
+      "id": "GAB005003093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.733",
+      "lon": "11.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzinga",
+      "en": "Nzinga",
+      "slug": "nzinga"
+    },
+    "code": {
+      "id": "GAB005003094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.967",
+      "lon": "11.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzinga Tchi",
+      "en": "Nzinga Tchi",
+      "slug": "nzinga-tchi"
+    },
+    "code": {
+      "id": "GAB005003095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.983",
+      "lon": "11.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ombila",
+      "en": "Ombila",
+      "slug": "ombila"
+    },
+    "code": {
+      "id": "GAB005003096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.8",
+      "lon": "11.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oueliga",
+      "en": "Oueliga",
+      "slug": "oueliga"
+    },
+    "code": {
+      "id": "GAB005003097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.717",
+      "lon": "11.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poudi",
+      "en": "Poudi",
+      "slug": "poudi"
+    },
+    "code": {
+      "id": "GAB005003098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.094",
+      "lon": "11.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rinanzala",
+      "en": "Rinanzala",
+      "slug": "rinanzala"
+    },
+    "code": {
+      "id": "GAB005003099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.112",
+      "lon": "11.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tono Sangana",
+      "en": "Tono Sangana",
+      "slug": "tono-sangana"
+    },
+    "code": {
+      "id": "GAB005003100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.7",
+      "lon": "11.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toumba",
+      "en": "Toumba",
+      "slug": "toumba"
+    },
+    "code": {
+      "id": "GAB005003101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "11.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tumba",
+      "en": "Tumba",
+      "slug": "tumba"
+    },
+    "code": {
+      "id": "GAB005003103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "11.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Voulougandou",
+      "en": "Voulougandou",
+      "slug": "voulougandou"
+    },
+    "code": {
+      "id": "GAB005003104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.633",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yelo",
+      "en": "Yelo",
+      "slug": "yelo"
+    },
+    "code": {
+      "id": "GAB005003105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.6",
+      "lon": "11.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005003106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yongo",
+      "en": "Yongo",
+      "slug": "yongo"
+    },
+    "code": {
+      "id": "GAB005003106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005003",
+      "level": 2,
+      "name": {
+        "local": "Doutsila",
+        "en": "Doutsila",
+        "slug": "doutsila"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005003",
+        "level": 2,
+        "name": {
+          "local": "Doutsila",
+          "en": "Doutsila",
+          "slug": "doutsila"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.617",
+      "lon": "11.417"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

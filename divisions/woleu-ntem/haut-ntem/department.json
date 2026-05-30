@@ -1,0 +1,47 @@
+{
+  "id": "GAB009002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Haut-Ntem",
+    "en": "Haut-Ntem",
+    "slug": "haut-ntem"
+  },
+  "code": {
+    "id": "GAB009002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB009",
+    "level": 1,
+    "name": {
+      "local": "Woleu-Ntem",
+      "en": "Woleu-Ntem",
+      "slug": "woleu-ntem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 123
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.057",
+    "lon": "11.992"
+  },
+  "metadata": {},
+  "source": {}
+}

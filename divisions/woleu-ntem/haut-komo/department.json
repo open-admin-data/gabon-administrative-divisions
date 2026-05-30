@@ -1,0 +1,47 @@
+{
+  "id": "GAB009001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Haut-Komo",
+    "en": "Haut-Komo",
+    "slug": "haut-komo"
+  },
+  "code": {
+    "id": "GAB009001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB009",
+    "level": 1,
+    "name": {
+      "local": "Woleu-Ntem",
+      "en": "Woleu-Ntem",
+      "slug": "woleu-ntem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB009",
+      "level": 1,
+      "name": {
+        "local": "Woleu-Ntem",
+        "en": "Woleu-Ntem",
+        "slug": "woleu-ntem"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 46
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.905",
+    "lon": "10.676"
+  },
+  "metadata": {},
+  "source": {}
+}

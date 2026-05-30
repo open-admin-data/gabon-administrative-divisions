@@ -1,0 +1,488 @@
+[
+  {
+    "id": "GAB002005001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bekomi",
+      "en": "Bekomi",
+      "slug": "bekomi"
+    },
+    "code": {
+      "id": "GAB002005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002005",
+      "level": 2,
+      "name": {
+        "local": "Lekoko",
+        "en": "Lekoko",
+        "slug": "lekoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002005",
+        "level": 2,
+        "name": {
+          "local": "Lekoko",
+          "en": "Lekoko",
+          "slug": "lekoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.684",
+      "lon": "12.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002005002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djangatebe",
+      "en": "Djangatebe",
+      "slug": "djangatebe"
+    },
+    "code": {
+      "id": "GAB002005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002005",
+      "level": 2,
+      "name": {
+        "local": "Lekoko",
+        "en": "Lekoko",
+        "slug": "lekoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002005",
+        "level": 2,
+        "name": {
+          "local": "Lekoko",
+          "en": "Lekoko",
+          "slug": "lekoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.69",
+      "lon": "13.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002005003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djima",
+      "en": "Djima",
+      "slug": "djima"
+    },
+    "code": {
+      "id": "GAB002005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002005",
+      "level": 2,
+      "name": {
+        "local": "Lekoko",
+        "en": "Lekoko",
+        "slug": "lekoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002005",
+        "level": 2,
+        "name": {
+          "local": "Lekoko",
+          "en": "Lekoko",
+          "slug": "lekoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.68",
+      "lon": "12.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002005004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekamba",
+      "en": "Lekamba",
+      "slug": "lekamba"
+    },
+    "code": {
+      "id": "GAB002005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002005",
+      "level": 2,
+      "name": {
+        "local": "Lekoko",
+        "en": "Lekoko",
+        "slug": "lekoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002005",
+        "level": 2,
+        "name": {
+          "local": "Lekoko",
+          "en": "Lekoko",
+          "slug": "lekoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.862",
+      "lon": "13.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002005005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mipoundi",
+      "en": "Mipoundi",
+      "slug": "mipoundi"
+    },
+    "code": {
+      "id": "GAB002005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002005",
+      "level": 2,
+      "name": {
+        "local": "Lekoko",
+        "en": "Lekoko",
+        "slug": "lekoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002005",
+        "level": 2,
+        "name": {
+          "local": "Lekoko",
+          "en": "Lekoko",
+          "slug": "lekoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.775",
+      "lon": "13.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002005006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mipoundi I",
+      "en": "Mipoundi I",
+      "slug": "mipoundi-i"
+    },
+    "code": {
+      "id": "GAB002005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002005",
+      "level": 2,
+      "name": {
+        "local": "Lekoko",
+        "en": "Lekoko",
+        "slug": "lekoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002005",
+        "level": 2,
+        "name": {
+          "local": "Lekoko",
+          "en": "Lekoko",
+          "slug": "lekoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.778",
+      "lon": "13.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002005007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mipoundi II",
+      "en": "Mipoundi II",
+      "slug": "mipoundi-ii"
+    },
+    "code": {
+      "id": "GAB002005007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002005",
+      "level": 2,
+      "name": {
+        "local": "Lekoko",
+        "en": "Lekoko",
+        "slug": "lekoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002005",
+        "level": 2,
+        "name": {
+          "local": "Lekoko",
+          "en": "Lekoko",
+          "slug": "lekoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.783",
+      "lon": "13.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002005008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mipoundi III",
+      "en": "Mipoundi III",
+      "slug": "mipoundi-iii"
+    },
+    "code": {
+      "id": "GAB002005008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002005",
+      "level": 2,
+      "name": {
+        "local": "Lekoko",
+        "en": "Lekoko",
+        "slug": "lekoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002005",
+        "level": 2,
+        "name": {
+          "local": "Lekoko",
+          "en": "Lekoko",
+          "slug": "lekoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.781",
+      "lon": "13.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002005009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Monkendjoko",
+      "en": "Monkendjoko",
+      "slug": "monkendjoko"
+    },
+    "code": {
+      "id": "GAB002005009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002005",
+      "level": 2,
+      "name": {
+        "local": "Lekoko",
+        "en": "Lekoko",
+        "slug": "lekoko"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002005",
+        "level": 2,
+        "name": {
+          "local": "Lekoko",
+          "en": "Lekoko",
+          "slug": "lekoko"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.69",
+      "lon": "12.89"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

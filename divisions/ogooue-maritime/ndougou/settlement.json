@@ -1,0 +1,2756 @@
+[
+  {
+    "id": "GAB008003001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akaka",
+      "en": "Akaka",
+      "slug": "akaka"
+    },
+    "code": {
+      "id": "GAB008003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.23",
+      "lon": "9.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancien Akaba",
+      "en": "Ancien Akaba",
+      "slug": "ancien-akaba"
+    },
+    "code": {
+      "id": "GAB008003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.23",
+      "lon": "9.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancien Village Akakg",
+      "en": "Ancien Village Akakg",
+      "slug": "ancien-village-akakg"
+    },
+    "code": {
+      "id": "GAB008003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.23",
+      "lon": "9.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aninghe",
+      "en": "Aninghe",
+      "slug": "aninghe"
+    },
+    "code": {
+      "id": "GAB008003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.095",
+      "lon": "9.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aningue",
+      "en": "Aningue",
+      "slug": "aningue"
+    },
+    "code": {
+      "id": "GAB008003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.095",
+      "lon": "9.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bakoli",
+      "en": "Bakoli",
+      "slug": "bakoli"
+    },
+    "code": {
+      "id": "GAB008003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.148",
+      "lon": "10.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bingui",
+      "en": "Bingui",
+      "slug": "bingui"
+    },
+    "code": {
+      "id": "GAB008003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.057",
+      "lon": "10.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bokolo",
+      "en": "Bokolo",
+      "slug": "bokolo"
+    },
+    "code": {
+      "id": "GAB008003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.624",
+      "lon": "10.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bongo",
+      "en": "Bongo",
+      "slug": "bongo"
+    },
+    "code": {
+      "id": "GAB008003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.165",
+      "lon": "10.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boukolo",
+      "en": "Boukolo",
+      "slug": "boukolo"
+    },
+    "code": {
+      "id": "GAB008003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.624",
+      "lon": "10.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diela Vievi",
+      "en": "Diela Vievi",
+      "slug": "diela-vievi"
+    },
+    "code": {
+      "id": "GAB008003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.371",
+      "lon": "10.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divinou",
+      "en": "Divinou",
+      "slug": "divinou"
+    },
+    "code": {
+      "id": "GAB008003013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.067",
+      "lon": "10.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foundou",
+      "en": "Foundou",
+      "slug": "foundou"
+    },
+    "code": {
+      "id": "GAB008003014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.638",
+      "lon": "10.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gamba",
+      "en": "Gamba",
+      "slug": "gamba"
+    },
+    "code": {
+      "id": "GAB008003015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.65",
+      "lon": "10"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Issiari Mandifou",
+      "en": "Issiari Mandifou",
+      "slug": "issiari-mandifou"
+    },
+    "code": {
+      "id": "GAB008003016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.111",
+      "lon": "10.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keleba",
+      "en": "Keleba",
+      "slug": "keleba"
+    },
+    "code": {
+      "id": "GAB008003017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.79",
+      "lon": "10.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji",
+      "en": "Mandji",
+      "slug": "mandji"
+    },
+    "code": {
+      "id": "GAB008003018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.076",
+      "lon": "9.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Manega",
+      "en": "Manega",
+      "slug": "manega"
+    },
+    "code": {
+      "id": "GAB008003019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.09",
+      "lon": "10.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massayi",
+      "en": "Massayi",
+      "slug": "massayi"
+    },
+    "code": {
+      "id": "GAB008003020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.126",
+      "lon": "10.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbengui",
+      "en": "Mbengui",
+      "slug": "mbengui"
+    },
+    "code": {
+      "id": "GAB008003021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.057",
+      "lon": "10.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbira I",
+      "en": "Mbira I",
+      "slug": "mbira-i"
+    },
+    "code": {
+      "id": "GAB008003022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.141",
+      "lon": "10.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbira II",
+      "en": "Mbira II",
+      "slug": "mbira-ii"
+    },
+    "code": {
+      "id": "GAB008003023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.104",
+      "lon": "10.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbourandou",
+      "en": "Mbourandou",
+      "slug": "mbourandou"
+    },
+    "code": {
+      "id": "GAB008003024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.083",
+      "lon": "10.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mengui",
+      "en": "Mengui",
+      "slug": "mengui"
+    },
+    "code": {
+      "id": "GAB008003025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.967",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulemba",
+      "en": "Moulemba",
+      "slug": "moulemba"
+    },
+    "code": {
+      "id": "GAB008003026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.95",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussamo Niambi",
+      "en": "Moussamo Niambi",
+      "slug": "moussamo-niambi"
+    },
+    "code": {
+      "id": "GAB008003027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.785",
+      "lon": "10.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouyamba",
+      "en": "Mouyamba",
+      "slug": "mouyamba"
+    },
+    "code": {
+      "id": "GAB008003028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.5",
+      "lon": "9.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouyomfi",
+      "en": "Mouyomfi",
+      "slug": "mouyomfi"
+    },
+    "code": {
+      "id": "GAB008003029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.504",
+      "lon": "10.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "N'Dama",
+      "en": "N'Dama",
+      "slug": "ndama"
+    },
+    "code": {
+      "id": "GAB008003030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.41",
+      "lon": "9.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "N'Douami",
+      "en": "N'Douami",
+      "slug": "ndouami"
+    },
+    "code": {
+      "id": "GAB008003031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.075",
+      "lon": "10.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndouani",
+      "en": "Ndouani",
+      "slug": "ndouani"
+    },
+    "code": {
+      "id": "GAB008003032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.225",
+      "lon": "9.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoumbi",
+      "en": "Ngoumbi",
+      "slug": "ngoumbi"
+    },
+    "code": {
+      "id": "GAB008003035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.176",
+      "lon": "9.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niongo",
+      "en": "Niongo",
+      "slug": "niongo"
+    },
+    "code": {
+      "id": "GAB008003036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.511",
+      "lon": "9.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nioungou",
+      "en": "Nioungou",
+      "slug": "nioungou"
+    },
+    "code": {
+      "id": "GAB008003037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.282",
+      "lon": "9.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nioungou Goumbi",
+      "en": "Nioungou Goumbi",
+      "slug": "nioungou-goumbi"
+    },
+    "code": {
+      "id": "GAB008003038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.188",
+      "lon": "9.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nombo",
+      "en": "Nombo",
+      "slug": "nombo"
+    },
+    "code": {
+      "id": "GAB008003039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.156",
+      "lon": "9.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nsakalano",
+      "en": "Nsakalano",
+      "slug": "nsakalano"
+    },
+    "code": {
+      "id": "GAB008003040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.05",
+      "lon": "10.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Onguendjo",
+      "en": "Onguendjo",
+      "slug": "onguendjo"
+    },
+    "code": {
+      "id": "GAB008003041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.533",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Panepo",
+      "en": "Panepo",
+      "slug": "panepo"
+    },
+    "code": {
+      "id": "GAB008003042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Papero",
+      "en": "Papero",
+      "slug": "papero"
+    },
+    "code": {
+      "id": "GAB008003043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Passeur",
+      "en": "Passeur",
+      "slug": "passeur"
+    },
+    "code": {
+      "id": "GAB008003044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.765",
+      "lon": "10.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Petit Loanga",
+      "en": "Petit Loanga",
+      "slug": "petit-loanga"
+    },
+    "code": {
+      "id": "GAB008003045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.259",
+      "lon": "9.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Petit Loango",
+      "en": "Petit Loango",
+      "slug": "petit-loango"
+    },
+    "code": {
+      "id": "GAB008003046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.259",
+      "lon": "9.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saguinanga",
+      "en": "Saguinanga",
+      "slug": "saguinanga"
+    },
+    "code": {
+      "id": "GAB008003047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.19",
+      "lon": "10.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saint-Thomas",
+      "en": "Saint-Thomas",
+      "slug": "saint-thomas"
+    },
+    "code": {
+      "id": "GAB008003048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.153",
+      "lon": "10.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sangouronda",
+      "en": "Sangouronda",
+      "slug": "sangouronda"
+    },
+    "code": {
+      "id": "GAB008003049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.139",
+      "lon": "10.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sangourouma",
+      "en": "Sangourouma",
+      "slug": "sangourouma"
+    },
+    "code": {
+      "id": "GAB008003050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.16",
+      "lon": "10.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sette Cama",
+      "en": "Sette Cama",
+      "slug": "sette-cama"
+    },
+    "code": {
+      "id": "GAB008003051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.526",
+      "lon": "9.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sounga",
+      "en": "Sounga",
+      "slug": "sounga"
+    },
+    "code": {
+      "id": "GAB008003052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.41",
+      "lon": "9.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsongo Malongo",
+      "en": "Tsongo Malongo",
+      "slug": "tsongo-malongo"
+    },
+    "code": {
+      "id": "GAB008003053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.103",
+      "lon": "10.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB008003054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vera",
+      "en": "Vera",
+      "slug": "vera"
+    },
+    "code": {
+      "id": "GAB008003054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB008003",
+      "level": 2,
+      "name": {
+        "local": "Ndougou",
+        "en": "Ndougou",
+        "slug": "ndougou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB008",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Maritime",
+          "en": "Ogooue-Maritime",
+          "slug": "ogooue-maritime"
+        }
+      },
+      {
+        "id": "GAB008003",
+        "level": 2,
+        "name": {
+          "local": "Ndougou",
+          "en": "Ndougou",
+          "slug": "ndougou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.612",
+      "lon": "10.122"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

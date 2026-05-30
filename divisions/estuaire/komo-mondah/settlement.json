@@ -1,0 +1,7562 @@
+[
+  {
+    "id": "GAB001002001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abaga",
+      "en": "Abaga",
+      "slug": "abaga"
+    },
+    "code": {
+      "id": "GAB001002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "9.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abenelang",
+      "en": "Abenelang",
+      "slug": "abenelang"
+    },
+    "code": {
+      "id": "GAB001002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.25",
+      "lon": "9.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abouna",
+      "en": "Abouna",
+      "slug": "abouna"
+    },
+    "code": {
+      "id": "GAB001002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.25",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abuna",
+      "en": "Abuna",
+      "slug": "abuna"
+    },
+    "code": {
+      "id": "GAB001002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.25",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adzebe",
+      "en": "Adzebe",
+      "slug": "adzebe"
+    },
+    "code": {
+      "id": "GAB001002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.533",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Afagayong",
+      "en": "Afagayong",
+      "slug": "afagayong"
+    },
+    "code": {
+      "id": "GAB001002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.5",
+      "lon": "9.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Afagenzork",
+      "en": "Afagenzork",
+      "slug": "afagenzork"
+    },
+    "code": {
+      "id": "GAB001002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.483",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Afakma",
+      "en": "Afakma",
+      "slug": "afakma"
+    },
+    "code": {
+      "id": "GAB001002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.263",
+      "lon": "9.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Afrik",
+      "en": "Afrik",
+      "slug": "afrik"
+    },
+    "code": {
+      "id": "GAB001002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "9.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Agouma",
+      "en": "Agouma",
+      "slug": "agouma"
+    },
+    "code": {
+      "id": "GAB001002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.1",
+      "lon": "9.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akagakoa",
+      "en": "Akagakoa",
+      "slug": "akagakoa"
+    },
+    "code": {
+      "id": "GAB001002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "9.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akelayong",
+      "en": "Akelayong",
+      "slug": "akelayong"
+    },
+    "code": {
+      "id": "GAB001002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "9.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akernengoule",
+      "en": "Akernengoule",
+      "slug": "akernengoule"
+    },
+    "code": {
+      "id": "GAB001002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.333",
+      "lon": "9.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akigname",
+      "en": "Akigname",
+      "slug": "akigname"
+    },
+    "code": {
+      "id": "GAB001002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "9.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akok",
+      "en": "Akok",
+      "slug": "akok"
+    },
+    "code": {
+      "id": "GAB001002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.512",
+      "lon": "9.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alarmake",
+      "en": "Alarmake",
+      "slug": "alarmake"
+    },
+    "code": {
+      "id": "GAB001002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.083",
+      "lon": "9.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alarmitang",
+      "en": "Alarmitang",
+      "slug": "alarmitang"
+    },
+    "code": {
+      "id": "GAB001002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alen",
+      "en": "Alen",
+      "slug": "alen"
+    },
+    "code": {
+      "id": "GAB001002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.25",
+      "lon": "9.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aloum",
+      "en": "Aloum",
+      "slug": "aloum"
+    },
+    "code": {
+      "id": "GAB001002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.033",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alum",
+      "en": "Alum",
+      "slug": "alum"
+    },
+    "code": {
+      "id": "GAB001002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.033",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Assore",
+      "en": "Assore",
+      "slug": "assore"
+    },
+    "code": {
+      "id": "GAB001002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "9.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atale Eloun",
+      "en": "Atale Eloun",
+      "slug": "atale-eloun"
+    },
+    "code": {
+      "id": "GAB001002022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.15",
+      "lon": "9.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Averoma",
+      "en": "Averoma",
+      "slug": "averoma"
+    },
+    "code": {
+      "id": "GAB001002023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.6",
+      "lon": "9.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avorbam",
+      "en": "Avorbam",
+      "slug": "avorbam"
+    },
+    "code": {
+      "id": "GAB001002024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.499",
+      "lon": "9.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avore Bamba",
+      "en": "Avore Bamba",
+      "slug": "avore-bamba"
+    },
+    "code": {
+      "id": "GAB001002025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.499",
+      "lon": "9.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayaya",
+      "en": "Ayaya",
+      "slug": "ayaya"
+    },
+    "code": {
+      "id": "GAB001002026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "9.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayeguening",
+      "en": "Ayeguening",
+      "slug": "ayeguening"
+    },
+    "code": {
+      "id": "GAB001002027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "9.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayem",
+      "en": "Ayem",
+      "slug": "ayem"
+    },
+    "code": {
+      "id": "GAB001002029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "9.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayeme",
+      "en": "Ayeme",
+      "slug": "ayeme"
+    },
+    "code": {
+      "id": "GAB001002030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "9.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azebe",
+      "en": "Azebe",
+      "slug": "azebe"
+    },
+    "code": {
+      "id": "GAB001002031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": "9.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bingong",
+      "en": "Bingong",
+      "slug": "bingong"
+    },
+    "code": {
+      "id": "GAB001002032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "9.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissobilam",
+      "en": "Bissobilam",
+      "slug": "bissobilam"
+    },
+    "code": {
+      "id": "GAB001002033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "9.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissobinam",
+      "en": "Bissobinam",
+      "slug": "bissobinam"
+    },
+    "code": {
+      "id": "GAB001002034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.396",
+      "lon": "9.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissobiname",
+      "en": "Bissobiname",
+      "slug": "bissobiname"
+    },
+    "code": {
+      "id": "GAB001002035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "9.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bivebinzogh",
+      "en": "Bivebinzogh",
+      "slug": "bivebinzogh"
+    },
+    "code": {
+      "id": "GAB001002037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": "9.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bolendjo",
+      "en": "Bolendjo",
+      "slug": "bolendjo"
+    },
+    "code": {
+      "id": "GAB001002038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.183",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cap Esterias",
+      "en": "Cap Esterias",
+      "slug": "cap-esterias"
+    },
+    "code": {
+      "id": "GAB001002039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Chinchoua",
+      "en": "Chinchoua",
+      "slug": "chinchoua"
+    },
+    "code": {
+      "id": "GAB001002040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.015",
+      "lon": "9.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Chinchua",
+      "en": "Chinchua",
+      "slug": "chinchua"
+    },
+    "code": {
+      "id": "GAB001002041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.015",
+      "lon": "9.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Denis",
+      "en": "Denis",
+      "slug": "denis"
+    },
+    "code": {
+      "id": "GAB001002042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.329",
+      "lon": "9.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Donghila",
+      "en": "Donghila",
+      "slug": "donghila"
+    },
+    "code": {
+      "id": "GAB001002043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.207",
+      "lon": "9.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dongila",
+      "en": "Dongila",
+      "slug": "dongila"
+    },
+    "code": {
+      "id": "GAB001002044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.207",
+      "lon": "9.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Donguila",
+      "en": "Donguila",
+      "slug": "donguila"
+    },
+    "code": {
+      "id": "GAB001002045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.207",
+      "lon": "9.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dzibe",
+      "en": "Dzibe",
+      "slug": "dzibe"
+    },
+    "code": {
+      "id": "GAB001002046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.233",
+      "lon": "9.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebamayong",
+      "en": "Ebamayong",
+      "slug": "ebamayong"
+    },
+    "code": {
+      "id": "GAB001002047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "9.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekouata",
+      "en": "Ekouata",
+      "slug": "ekouata"
+    },
+    "code": {
+      "id": "GAB001002050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.202",
+      "lon": "9.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekoueta",
+      "en": "Ekoueta",
+      "slug": "ekoueta"
+    },
+    "code": {
+      "id": "GAB001002052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.202",
+      "lon": "9.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekoum-Ebel",
+      "en": "Ekoum-Ebel",
+      "slug": "ekoum-ebel"
+    },
+    "code": {
+      "id": "GAB001002053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.317",
+      "lon": "9.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekwata",
+      "en": "Ekwata",
+      "slug": "ekwata"
+    },
+    "code": {
+      "id": "GAB001002054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.202",
+      "lon": "9.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elane",
+      "en": "Elane",
+      "slug": "elane"
+    },
+    "code": {
+      "id": "GAB001002055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elong Eko",
+      "en": "Elong Eko",
+      "slug": "elong-eko"
+    },
+    "code": {
+      "id": "GAB001002056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.23",
+      "lon": "9.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elong-Eko",
+      "en": "Elong-Eko",
+      "slug": "elong-eko"
+    },
+    "code": {
+      "id": "GAB001002057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.23",
+      "lon": "9.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Endendang",
+      "en": "Endendang",
+      "slug": "endendang"
+    },
+    "code": {
+      "id": "GAB001002058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.083",
+      "lon": "9.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Equata",
+      "en": "Equata",
+      "slug": "equata"
+    },
+    "code": {
+      "id": "GAB001002059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.202",
+      "lon": "9.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Essamvegne",
+      "en": "Essamvegne",
+      "slug": "essamvegne"
+    },
+    "code": {
+      "id": "GAB001002060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.033",
+      "lon": "9.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Essanang",
+      "en": "Essanang",
+      "slug": "essanang"
+    },
+    "code": {
+      "id": "GAB001002061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.05",
+      "lon": "9.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etamayen",
+      "en": "Etamayen",
+      "slug": "etamayen"
+    },
+    "code": {
+      "id": "GAB001002062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.246",
+      "lon": "9.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etamayong",
+      "en": "Etamayong",
+      "slug": "etamayong"
+    },
+    "code": {
+      "id": "GAB001002063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.246",
+      "lon": "9.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etameyong",
+      "en": "Etameyong",
+      "slug": "etameyong"
+    },
+    "code": {
+      "id": "GAB001002064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.246",
+      "lon": "9.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eviename",
+      "en": "Eviename",
+      "slug": "eviename"
+    },
+    "code": {
+      "id": "GAB001002065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "9.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evinayong",
+      "en": "Evinayong",
+      "slug": "evinayong"
+    },
+    "code": {
+      "id": "GAB001002066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "9.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evoredouleux",
+      "en": "Evoredouleux",
+      "slug": "evoredouleux"
+    },
+    "code": {
+      "id": "GAB001002067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "9.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ex-case Boyer",
+      "en": "Ex-case Boyer",
+      "slug": "ex-case-boyer"
+    },
+    "code": {
+      "id": "GAB001002068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.15",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foulenzem",
+      "en": "Foulenzem",
+      "slug": "foulenzem"
+    },
+    "code": {
+      "id": "GAB001002069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.04",
+      "lon": "9.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idokogo",
+      "en": "Idokogo",
+      "slug": "idokogo"
+    },
+    "code": {
+      "id": "GAB001002070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.581",
+      "lon": "9.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Igning-Melene",
+      "en": "Igning-Melene",
+      "slug": "igning-melene"
+    },
+    "code": {
+      "id": "GAB001002071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.483",
+      "lon": "9.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iloneyon-Sekioni",
+      "en": "Iloneyon-Sekioni",
+      "slug": "iloneyon-sekioni"
+    },
+    "code": {
+      "id": "GAB001002072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "9.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kobekobe",
+      "en": "Kobekobe",
+      "slug": "kobekobe"
+    },
+    "code": {
+      "id": "GAB001002073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.027",
+      "lon": "9.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kokobe",
+      "en": "Kokobe",
+      "slug": "kokobe"
+    },
+    "code": {
+      "id": "GAB001002075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.027",
+      "lon": "9.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kougoule",
+      "en": "Kougoule",
+      "slug": "kougoule"
+    },
+    "code": {
+      "id": "GAB001002076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.404",
+      "lon": "9.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kougouleu",
+      "en": "Kougouleu",
+      "slug": "kougouleu"
+    },
+    "code": {
+      "id": "GAB001002077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.404",
+      "lon": "9.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koumazza",
+      "en": "Koumazza",
+      "slug": "koumazza"
+    },
+    "code": {
+      "id": "GAB001002078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.517",
+      "lon": "9.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Little Denis",
+      "en": "Little Denis",
+      "slug": "little-denis"
+    },
+    "code": {
+      "id": "GAB001002079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.233",
+      "lon": "9.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Macoc",
+      "en": "Macoc",
+      "slug": "macoc"
+    },
+    "code": {
+      "id": "GAB001002080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.04",
+      "lon": "9.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Macok",
+      "en": "Macok",
+      "slug": "macok"
+    },
+    "code": {
+      "id": "GAB001002081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.04",
+      "lon": "9.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makok",
+      "en": "Makok",
+      "slug": "makok"
+    },
+    "code": {
+      "id": "GAB001002082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.04",
+      "lon": "9.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mavoul",
+      "en": "Mavoul",
+      "slug": "mavoul"
+    },
+    "code": {
+      "id": "GAB001002083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.017",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayaya",
+      "en": "Mayaya",
+      "slug": "mayaya"
+    },
+    "code": {
+      "id": "GAB001002084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "9.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbamayong",
+      "en": "Mbamayong",
+      "slug": "mbamayong"
+    },
+    "code": {
+      "id": "GAB001002085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.55",
+      "lon": "9.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbolen-Nzork",
+      "en": "Mbolen-Nzork",
+      "slug": "mbolen-nzork"
+    },
+    "code": {
+      "id": "GAB001002086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.183",
+      "lon": "9.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbon Mogel",
+      "en": "Mbon Mogel",
+      "slug": "mbon-mogel"
+    },
+    "code": {
+      "id": "GAB001002087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.333",
+      "lon": "9.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbone",
+      "en": "Mbone",
+      "slug": "mbone"
+    },
+    "code": {
+      "id": "GAB001002088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "9.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meba",
+      "en": "Meba",
+      "slug": "meba"
+    },
+    "code": {
+      "id": "GAB001002089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.444",
+      "lon": "9.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mebba I",
+      "en": "Mebba I",
+      "slug": "mebba-i"
+    },
+    "code": {
+      "id": "GAB001002090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.444",
+      "lon": "9.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mebba II",
+      "en": "Mebba II",
+      "slug": "mebba-ii"
+    },
+    "code": {
+      "id": "GAB001002091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.433",
+      "lon": "9.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mekonanam",
+      "en": "Mekonanam",
+      "slug": "mekonanam"
+    },
+    "code": {
+      "id": "GAB001002092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.387",
+      "lon": "9.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mekonaname",
+      "en": "Mekonaname",
+      "slug": "mekonaname"
+    },
+    "code": {
+      "id": "GAB001002093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.387",
+      "lon": "9.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfoulayong",
+      "en": "Mfoulayong",
+      "slug": "mfoulayong"
+    },
+    "code": {
+      "id": "GAB001002094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.517",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfoulenzem",
+      "en": "Mfoulenzem",
+      "slug": "mfoulenzem"
+    },
+    "code": {
+      "id": "GAB001002095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.049",
+      "lon": "9.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Monda",
+      "en": "Monda",
+      "slug": "monda"
+    },
+    "code": {
+      "id": "GAB001002096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "9.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Monzogh",
+      "en": "Monzogh",
+      "slug": "monzogh"
+    },
+    "code": {
+      "id": "GAB001002097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "9.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mpilou",
+      "en": "Mpilou",
+      "slug": "mpilou"
+    },
+    "code": {
+      "id": "GAB001002098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.45",
+      "lon": "9.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvam",
+      "en": "Mvam",
+      "slug": "mvam"
+    },
+    "code": {
+      "id": "GAB001002099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.224",
+      "lon": "9.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002115",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "N'Tchago",
+      "en": "N'Tchago",
+      "slug": "ntchago"
+    },
+    "code": {
+      "id": "GAB001002115",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.304",
+      "lon": "9.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002117",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "N'Tchoua",
+      "en": "N'Tchoua",
+      "slug": "ntchoua"
+    },
+    "code": {
+      "id": "GAB001002117",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.05",
+      "lon": "9.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nanga",
+      "en": "Nanga",
+      "slug": "nanga"
+    },
+    "code": {
+      "id": "GAB001002100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.1",
+      "lon": "9.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nango",
+      "en": "Nango",
+      "slug": "nango"
+    },
+    "code": {
+      "id": "GAB001002101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.1",
+      "lon": "9.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002102",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndjoue",
+      "en": "Ndjoue",
+      "slug": "ndjoue"
+    },
+    "code": {
+      "id": "GAB001002102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.25",
+      "lon": "9.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndzomoe",
+      "en": "Ndzomoe",
+      "slug": "ndzomoe"
+    },
+    "code": {
+      "id": "GAB001002103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nfoulameyong",
+      "en": "Nfoulameyong",
+      "slug": "nfoulameyong"
+    },
+    "code": {
+      "id": "GAB001002104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "9.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nfoulenzem",
+      "en": "Nfoulenzem",
+      "slug": "nfoulenzem"
+    },
+    "code": {
+      "id": "GAB001002105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.049",
+      "lon": "9.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngouanie",
+      "en": "Ngouanie",
+      "slug": "ngouanie"
+    },
+    "code": {
+      "id": "GAB001002106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.55",
+      "lon": "9.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002107",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Njobermitang",
+      "en": "Njobermitang",
+      "slug": "njobermitang"
+    },
+    "code": {
+      "id": "GAB001002107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002108",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkok",
+      "en": "Nkok",
+      "slug": "nkok"
+    },
+    "code": {
+      "id": "GAB001002108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.379",
+      "lon": "9.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoltang",
+      "en": "Nkoltang",
+      "slug": "nkoltang"
+    },
+    "code": {
+      "id": "GAB001002109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.38",
+      "lon": "9.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoumazza",
+      "en": "Nkoumazza",
+      "slug": "nkoumazza"
+    },
+    "code": {
+      "id": "GAB001002112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.517",
+      "lon": "9.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkourou",
+      "en": "Nkourou",
+      "slug": "nkourou"
+    },
+    "code": {
+      "id": "GAB001002113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.545",
+      "lon": "9.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002114",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nlang-Mbeng",
+      "en": "Nlang-Mbeng",
+      "slug": "nlang-mbeng"
+    },
+    "code": {
+      "id": "GAB001002114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.017",
+      "lon": "9.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002116",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntchogo",
+      "en": "Ntchogo",
+      "slug": "ntchogo"
+    },
+    "code": {
+      "id": "GAB001002116",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.304",
+      "lon": "9.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002118",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntoum",
+      "en": "Ntoum",
+      "slug": "ntoum"
+    },
+    "code": {
+      "id": "GAB001002118",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.391",
+      "lon": "9.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002120",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntsini",
+      "en": "Ntsini",
+      "slug": "ntsini"
+    },
+    "code": {
+      "id": "GAB001002120",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.595",
+      "lon": "9.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002121",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nvanayem",
+      "en": "Nvanayem",
+      "slug": "nvanayem"
+    },
+    "code": {
+      "id": "GAB001002121",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.317",
+      "lon": "9.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002122",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzamalighe",
+      "en": "Nzamalighe",
+      "slug": "nzamalighe"
+    },
+    "code": {
+      "id": "GAB001002122",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.05",
+      "lon": "9.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002123",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzamaligue",
+      "en": "Nzamaligue",
+      "slug": "nzamaligue"
+    },
+    "code": {
+      "id": "GAB001002123",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.05",
+      "lon": "9.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002127",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzamata",
+      "en": "Nzamata",
+      "slug": "nzamata"
+    },
+    "code": {
+      "id": "GAB001002127",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.5",
+      "lon": "9.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002128",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzamou",
+      "en": "Nzamou",
+      "slug": "nzamou"
+    },
+    "code": {
+      "id": "GAB001002128",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "9.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002129",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzang-Ayong",
+      "en": "Nzang-Ayong",
+      "slug": "nzang-ayong"
+    },
+    "code": {
+      "id": "GAB001002129",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.533",
+      "lon": "9.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002130",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzebere",
+      "en": "Nzebere",
+      "slug": "nzebere"
+    },
+    "code": {
+      "id": "GAB001002130",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.017",
+      "lon": "9.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002131",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzeng-Miana",
+      "en": "Nzeng-Miana",
+      "slug": "nzeng-miana"
+    },
+    "code": {
+      "id": "GAB001002131",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "9.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002133",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzog-Mitang",
+      "en": "Nzog-Mitang",
+      "slug": "nzog-mitang"
+    },
+    "code": {
+      "id": "GAB001002133",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.396",
+      "lon": "9.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002132",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoghe-Mintang",
+      "en": "Nzoghe-Mintang",
+      "slug": "nzoghe-mintang"
+    },
+    "code": {
+      "id": "GAB001002132",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "9.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002134",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzogobeyork",
+      "en": "Nzogobeyork",
+      "slug": "nzogobeyork"
+    },
+    "code": {
+      "id": "GAB001002134",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.517",
+      "lon": "9.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002135",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzogomitang",
+      "en": "Nzogomitang",
+      "slug": "nzogomitang"
+    },
+    "code": {
+      "id": "GAB001002135",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.396",
+      "lon": "9.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002136",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzong",
+      "en": "Nzong",
+      "slug": "nzong"
+    },
+    "code": {
+      "id": "GAB001002136",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "9.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002137",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzong Bour",
+      "en": "Nzong Bour",
+      "slug": "nzong-bour"
+    },
+    "code": {
+      "id": "GAB001002137",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "9.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002138",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzong Zeme",
+      "en": "Nzong Zeme",
+      "slug": "nzong-zeme"
+    },
+    "code": {
+      "id": "GAB001002138",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "9.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002139",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obelo",
+      "en": "Obelo",
+      "slug": "obelo"
+    },
+    "code": {
+      "id": "GAB001002139",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "9.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002140",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obeo",
+      "en": "Obeo",
+      "slug": "obeo"
+    },
+    "code": {
+      "id": "GAB001002140",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "9.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002141",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oveng",
+      "en": "Oveng",
+      "slug": "oveng"
+    },
+    "code": {
+      "id": "GAB001002141",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.095",
+      "lon": "9.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002142",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyan",
+      "en": "Oyan",
+      "slug": "oyan"
+    },
+    "code": {
+      "id": "GAB001002142",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.168",
+      "lon": "9.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002143",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyane",
+      "en": "Oyane",
+      "slug": "oyane"
+    },
+    "code": {
+      "id": "GAB001002143",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.168",
+      "lon": "9.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002144",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Petit-Denis",
+      "en": "Petit-Denis",
+      "slug": "petit-denis"
+    },
+    "code": {
+      "id": "GAB001002144",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.233",
+      "lon": "9.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002145",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pointe Denis",
+      "en": "Pointe Denis",
+      "slug": "pointe-denis"
+    },
+    "code": {
+      "id": "GAB001002145",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.329",
+      "lon": "9.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002146",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rigoho",
+      "en": "Rigoho",
+      "slug": "rigoho"
+    },
+    "code": {
+      "id": "GAB001002146",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.317",
+      "lon": "9.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002147",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sahoue",
+      "en": "Sahoue",
+      "slug": "sahoue"
+    },
+    "code": {
+      "id": "GAB001002147",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "9.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002148",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sahue",
+      "en": "Sahue",
+      "slug": "sahue"
+    },
+    "code": {
+      "id": "GAB001002148",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "9.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002149",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sifala",
+      "en": "Sifala",
+      "slug": "sifala"
+    },
+    "code": {
+      "id": "GAB001002149",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.587",
+      "lon": "9.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002150",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sizakang",
+      "en": "Sizakang",
+      "slug": "sizakang"
+    },
+    "code": {
+      "id": "GAB001002150",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "9.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002151",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vonmozel",
+      "en": "Vonmozel",
+      "slug": "vonmozel"
+    },
+    "code": {
+      "id": "GAB001002151",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.333",
+      "lon": "9.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002152",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yombe",
+      "en": "Yombe",
+      "slug": "yombe"
+    },
+    "code": {
+      "id": "GAB001002152",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001002",
+      "level": 2,
+      "name": {
+        "local": "Komo-Mondah",
+        "en": "Komo-Mondah",
+        "slug": "komo-mondah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001002",
+        "level": 2,
+        "name": {
+          "local": "Komo-Mondah",
+          "en": "Komo-Mondah",
+          "slug": "komo-mondah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.6",
+      "lon": "9.483"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,5132 @@
+[
+  {
+    "id": "GAB006002001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Achouka",
+      "en": "Achouka",
+      "slug": "achouka"
+    },
+    "code": {
+      "id": "GAB006002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.096",
+      "lon": "11.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akighilam",
+      "en": "Akighilam",
+      "slug": "akighilam"
+    },
+    "code": {
+      "id": "GAB006002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.053",
+      "lon": "11.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akoba",
+      "en": "Akoba",
+      "slug": "akoba"
+    },
+    "code": {
+      "id": "GAB006002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.02",
+      "lon": "11.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancien Kandjama",
+      "en": "Ancien Kandjama",
+      "slug": "ancien-kandjama"
+    },
+    "code": {
+      "id": "GAB006002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.187",
+      "lon": "11.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancien Okaka",
+      "en": "Ancien Okaka",
+      "slug": "ancien-okaka"
+    },
+    "code": {
+      "id": "GAB006002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.681",
+      "lon": "11.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aschouka",
+      "en": "Aschouka",
+      "slug": "aschouka"
+    },
+    "code": {
+      "id": "GAB006002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.096",
+      "lon": "11.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atsombial",
+      "en": "Atsombial",
+      "slug": "atsombial"
+    },
+    "code": {
+      "id": "GAB006002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.104",
+      "lon": "11.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayem",
+      "en": "Ayem",
+      "slug": "ayem"
+    },
+    "code": {
+      "id": "GAB006002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.111",
+      "lon": "11.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayeme",
+      "en": "Ayeme",
+      "slug": "ayeme"
+    },
+    "code": {
+      "id": "GAB006002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.111",
+      "lon": "11.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balemba I",
+      "en": "Balemba I",
+      "slug": "balemba-i"
+    },
+    "code": {
+      "id": "GAB006002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.128",
+      "lon": "11.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Balemba II",
+      "en": "Balemba II",
+      "slug": "balemba-ii"
+    },
+    "code": {
+      "id": "GAB006002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.1",
+      "lon": "11.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bambila",
+      "en": "Bambila",
+      "slug": "bambila"
+    },
+    "code": {
+      "id": "GAB006002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.282",
+      "lon": "11.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bangou",
+      "en": "Bangou",
+      "slug": "bangou"
+    },
+    "code": {
+      "id": "GAB006002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.067",
+      "lon": "11.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Belem",
+      "en": "Belem",
+      "slug": "belem"
+    },
+    "code": {
+      "id": "GAB006002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.107",
+      "lon": "11.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Benvaga",
+      "en": "Benvaga",
+      "slug": "benvaga"
+    },
+    "code": {
+      "id": "GAB006002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.05",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bindaba",
+      "en": "Bindaba",
+      "slug": "bindaba"
+    },
+    "code": {
+      "id": "GAB006002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.117",
+      "lon": "11.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissoubilam",
+      "en": "Bissoubilam",
+      "slug": "bissoubilam"
+    },
+    "code": {
+      "id": "GAB006002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.016",
+      "lon": "11.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boleko",
+      "en": "Boleko",
+      "slug": "boleko"
+    },
+    "code": {
+      "id": "GAB006002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.082",
+      "lon": "11.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Booue",
+      "en": "Booue",
+      "slug": "booue"
+    },
+    "code": {
+      "id": "GAB006002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.092",
+      "lon": "11.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boque",
+      "en": "Boque",
+      "slug": "boque"
+    },
+    "code": {
+      "id": "GAB006002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.092",
+      "lon": "11.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boue",
+      "en": "Boue",
+      "slug": "boue"
+    },
+    "code": {
+      "id": "GAB006002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.092",
+      "lon": "11.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boumbakari",
+      "en": "Boumbakari",
+      "slug": "boumbakari"
+    },
+    "code": {
+      "id": "GAB006002022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.367",
+      "lon": "12.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Canca",
+      "en": "Canca",
+      "slug": "canca"
+    },
+    "code": {
+      "id": "GAB006002023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.15",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djokonamoi",
+      "en": "Djokonamoi",
+      "slug": "djokonamoi"
+    },
+    "code": {
+      "id": "GAB006002024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.283",
+      "lon": "12.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dolle",
+      "en": "Dolle",
+      "slug": "dolle"
+    },
+    "code": {
+      "id": "GAB006002025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.097",
+      "lon": "11.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Duradzoma",
+      "en": "Duradzoma",
+      "slug": "duradzoma"
+    },
+    "code": {
+      "id": "GAB006002026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.033",
+      "lon": "11.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebaredo",
+      "en": "Ebaredo",
+      "slug": "ebaredo"
+    },
+    "code": {
+      "id": "GAB006002027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.308",
+      "lon": "11.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekarelong",
+      "en": "Ekarelong",
+      "slug": "ekarelong"
+    },
+    "code": {
+      "id": "GAB006002028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.215",
+      "lon": "11.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Embadaga",
+      "en": "Embadaga",
+      "slug": "embadaga"
+    },
+    "code": {
+      "id": "GAB006002029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.1",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evormitok",
+      "en": "Evormitok",
+      "slug": "evormitok"
+    },
+    "code": {
+      "id": "GAB006002030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.083",
+      "lon": "11.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyameyong",
+      "en": "Eyameyong",
+      "slug": "eyameyong"
+    },
+    "code": {
+      "id": "GAB006002031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "11.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyene",
+      "en": "Eyene",
+      "slug": "eyene"
+    },
+    "code": {
+      "id": "GAB006002032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.144",
+      "lon": "11.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foula",
+      "en": "Foula",
+      "slug": "foula"
+    },
+    "code": {
+      "id": "GAB006002033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foula Fieng",
+      "en": "Foula Fieng",
+      "slug": "foula-fieng"
+    },
+    "code": {
+      "id": "GAB006002034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ibakodia",
+      "en": "Ibakodia",
+      "slug": "ibakodia"
+    },
+    "code": {
+      "id": "GAB006002035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.067",
+      "lon": "11.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ibomo",
+      "en": "Ibomo",
+      "slug": "ibomo"
+    },
+    "code": {
+      "id": "GAB006002036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.092",
+      "lon": "11.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Indzanza",
+      "en": "Indzanza",
+      "slug": "indzanza"
+    },
+    "code": {
+      "id": "GAB006002037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.1",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iteke",
+      "en": "Iteke",
+      "slug": "iteke"
+    },
+    "code": {
+      "id": "GAB006002038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.43",
+      "lon": "11.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kan-Kan",
+      "en": "Kan-Kan",
+      "slug": "kan-kan"
+    },
+    "code": {
+      "id": "GAB006002043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.15",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kandjama",
+      "en": "Kandjama",
+      "slug": "kandjama"
+    },
+    "code": {
+      "id": "GAB006002039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.187",
+      "lon": "11.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kandjama Bika",
+      "en": "Kandjama Bika",
+      "slug": "kandjama-bika"
+    },
+    "code": {
+      "id": "GAB006002040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.244",
+      "lon": "11.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kandjama Simba",
+      "en": "Kandjama Simba",
+      "slug": "kandjama-simba"
+    },
+    "code": {
+      "id": "GAB006002042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.117",
+      "lon": "11.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kekele",
+      "en": "Kekele",
+      "slug": "kekele"
+    },
+    "code": {
+      "id": "GAB006002044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.062",
+      "lon": "11.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kendo",
+      "en": "Kendo",
+      "slug": "kendo"
+    },
+    "code": {
+      "id": "GAB006002045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.1",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kombo",
+      "en": "Kombo",
+      "slug": "kombo"
+    },
+    "code": {
+      "id": "GAB006002046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.333",
+      "lon": "12.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kongo Boumba",
+      "en": "Kongo Boumba",
+      "slug": "kongo-boumba"
+    },
+    "code": {
+      "id": "GAB006002047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.082",
+      "lon": "11.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koula-Okak",
+      "en": "Koula-Okak",
+      "slug": "koula-okak"
+    },
+    "code": {
+      "id": "GAB006002048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "11.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koumamayong",
+      "en": "Koumamayong",
+      "slug": "koumamayong"
+    },
+    "code": {
+      "id": "GAB006002049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.202",
+      "lon": "11.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koumameyong",
+      "en": "Koumameyong",
+      "slug": "koumameyong"
+    },
+    "code": {
+      "id": "GAB006002050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.202",
+      "lon": "11.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Laboka",
+      "en": "Laboka",
+      "slug": "laboka"
+    },
+    "code": {
+      "id": "GAB006002051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.312",
+      "lon": "11.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lambassi",
+      "en": "Lambassi",
+      "slug": "lambassi"
+    },
+    "code": {
+      "id": "GAB006002052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.083",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leledi",
+      "en": "Leledi",
+      "slug": "leledi"
+    },
+    "code": {
+      "id": "GAB006002053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.111",
+      "lon": "11.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Linze",
+      "en": "Linze",
+      "slug": "linze"
+    },
+    "code": {
+      "id": "GAB006002054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.099",
+      "lon": "11.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lyodia",
+      "en": "Lyodia",
+      "slug": "lyodia"
+    },
+    "code": {
+      "id": "GAB006002055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.117",
+      "lon": "11.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Macadium",
+      "en": "Macadium",
+      "slug": "macadium"
+    },
+    "code": {
+      "id": "GAB006002056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.317",
+      "lon": "12.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Macadyoum",
+      "en": "Macadyoum",
+      "slug": "macadyoum"
+    },
+    "code": {
+      "id": "GAB006002057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.317",
+      "lon": "12.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magnimba",
+      "en": "Magnimba",
+      "slug": "magnimba"
+    },
+    "code": {
+      "id": "GAB006002058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.491",
+      "lon": "11.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahibore",
+      "en": "Mahibore",
+      "slug": "mahibore"
+    },
+    "code": {
+      "id": "GAB006002059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.067",
+      "lon": "11.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makakou",
+      "en": "Makakou",
+      "slug": "makakou"
+    },
+    "code": {
+      "id": "GAB006002060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "12.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makekou",
+      "en": "Makekou",
+      "slug": "makekou"
+    },
+    "code": {
+      "id": "GAB006002061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "12.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makoubou",
+      "en": "Makoubou",
+      "slug": "makoubou"
+    },
+    "code": {
+      "id": "GAB006002062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.05",
+      "lon": "11.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makoui",
+      "en": "Makoui",
+      "slug": "makoui"
+    },
+    "code": {
+      "id": "GAB006002063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.22",
+      "lon": "12.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malare",
+      "en": "Malare",
+      "slug": "malare"
+    },
+    "code": {
+      "id": "GAB006002064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.059",
+      "lon": "11.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji",
+      "en": "Mandji",
+      "slug": "mandji"
+    },
+    "code": {
+      "id": "GAB006002066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.1",
+      "lon": "11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mantoua",
+      "en": "Mantoua",
+      "slug": "mantoua"
+    },
+    "code": {
+      "id": "GAB006002067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.092",
+      "lon": "11.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maoukafan",
+      "en": "Maoukafan",
+      "slug": "maoukafan"
+    },
+    "code": {
+      "id": "GAB006002068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.067",
+      "lon": "11.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massako",
+      "en": "Massako",
+      "slug": "massako"
+    },
+    "code": {
+      "id": "GAB006002069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.056",
+      "lon": "11.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matora",
+      "en": "Matora",
+      "slug": "matora"
+    },
+    "code": {
+      "id": "GAB006002070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.27",
+      "lon": "11.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mavene",
+      "en": "Mavene",
+      "slug": "mavene"
+    },
+    "code": {
+      "id": "GAB006002071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.1",
+      "lon": "11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayene II",
+      "en": "Mayene II",
+      "slug": "mayene-ii"
+    },
+    "code": {
+      "id": "GAB006002072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.005",
+      "lon": "11.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbembam",
+      "en": "Mbembam",
+      "slug": "mbembam"
+    },
+    "code": {
+      "id": "GAB006002073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.083",
+      "lon": "11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbomao",
+      "en": "Mbomao",
+      "slug": "mbomao"
+    },
+    "code": {
+      "id": "GAB006002074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.334",
+      "lon": "11.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbomo",
+      "en": "Mbomo",
+      "slug": "mbomo"
+    },
+    "code": {
+      "id": "GAB006002075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.317",
+      "lon": "11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbondo Malonge",
+      "en": "Mbondo Malonge",
+      "slug": "mbondo-malonge"
+    },
+    "code": {
+      "id": "GAB006002076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.294",
+      "lon": "11.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Melagni",
+      "en": "Melagni",
+      "slug": "melagni"
+    },
+    "code": {
+      "id": "GAB006002077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.519",
+      "lon": "11.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikongo",
+      "en": "Mikongo",
+      "slug": "mikongo"
+    },
+    "code": {
+      "id": "GAB006002078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.362",
+      "lon": "11.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimvoul",
+      "en": "Mimvoul",
+      "slug": "mimvoul"
+    },
+    "code": {
+      "id": "GAB006002079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.05",
+      "lon": "11.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mitende",
+      "en": "Mitende",
+      "slug": "mitende"
+    },
+    "code": {
+      "id": "GAB006002080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.648",
+      "lon": "11.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mitendi",
+      "en": "Mitendi",
+      "slug": "mitendi"
+    },
+    "code": {
+      "id": "GAB006002081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.648",
+      "lon": "11.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mitsaga",
+      "en": "Mitsaga",
+      "slug": "mitsaga"
+    },
+    "code": {
+      "id": "GAB006002082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.05",
+      "lon": "11.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mocadyoum",
+      "en": "Mocadyoum",
+      "slug": "mocadyoum"
+    },
+    "code": {
+      "id": "GAB006002083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.317",
+      "lon": "12.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mondo",
+      "en": "Mondo",
+      "slug": "mondo"
+    },
+    "code": {
+      "id": "GAB006002084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.065",
+      "lon": "11.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndame-Bene",
+      "en": "Ndame-Bene",
+      "slug": "ndame-bene"
+    },
+    "code": {
+      "id": "GAB006002085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.45",
+      "lon": "11.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niamambaye",
+      "en": "Niamambaye",
+      "slug": "niamambaye"
+    },
+    "code": {
+      "id": "GAB006002086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.436",
+      "lon": "11.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niamanbaye",
+      "en": "Niamanbaye",
+      "slug": "niamanbaye"
+    },
+    "code": {
+      "id": "GAB006002087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.436",
+      "lon": "11.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Njole",
+      "en": "Njole",
+      "slug": "njole"
+    },
+    "code": {
+      "id": "GAB006002088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.117",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntoua",
+      "en": "Ntoua",
+      "slug": "ntoua"
+    },
+    "code": {
+      "id": "GAB006002089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.069",
+      "lon": "11.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzafieng",
+      "en": "Nzafieng",
+      "slug": "nzafieng"
+    },
+    "code": {
+      "id": "GAB006002090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.066",
+      "lon": "11.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obidi",
+      "en": "Obidi",
+      "slug": "obidi"
+    },
+    "code": {
+      "id": "GAB006002091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.35",
+      "lon": "11.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okaka",
+      "en": "Okaka",
+      "slug": "okaka"
+    },
+    "code": {
+      "id": "GAB006002092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.681",
+      "lon": "11.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okano",
+      "en": "Okano",
+      "slug": "okano"
+    },
+    "code": {
+      "id": "GAB006002093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.048",
+      "lon": "11.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ombala",
+      "en": "Ombala",
+      "slug": "ombala"
+    },
+    "code": {
+      "id": "GAB006002094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.117",
+      "lon": "11.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tarangone",
+      "en": "Tarangone",
+      "slug": "tarangone"
+    },
+    "code": {
+      "id": "GAB006002095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.433",
+      "lon": "11.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeng",
+      "en": "Yeng",
+      "slug": "yeng"
+    },
+    "code": {
+      "id": "GAB006002096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.325",
+      "lon": "11.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zoanki",
+      "en": "Zoanki",
+      "slug": "zoanki"
+    },
+    "code": {
+      "id": "GAB006002097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006002",
+      "level": 2,
+      "name": {
+        "local": "Lope",
+        "en": "Lope",
+        "slug": "lope"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006002",
+        "level": 2,
+        "name": {
+          "local": "Lope",
+          "en": "Lope",
+          "slug": "lope"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.067",
+      "lon": "11.683"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

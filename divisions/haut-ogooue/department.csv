@@ -1,0 +1,12 @@
+id,name.local,name.en,name.slug,code.id,children_count.settlement,geo.lat,geo.lon
+GAB002011,Bayi-Brikolo,Bayi-Brikolo,bayi-brikolo,GAB002011,2,-0.5,14.075
+GAB002001,Djoue,Djoue,djoue,GAB002001,3,-0.833,14.128
+GAB002002,Djouori-Agnili,Djouori-Agnili,djouori-agnili,GAB002002,27,-1.475,13.909
+GAB002003,Lebombi-Leyou,Lebombi-Leyou,lebombi-leyou,GAB002003,56,-1.504,13.192
+GAB002004,Lekabi-Lewolo,Lekabi-Lewolo,lekabi-lewolo,GAB002004,13,-1.322,13.736
+GAB002005,Lekoko,Lekoko,lekoko,GAB002005,9,-1.747,13.012
+GAB002006,Lekoni-Lekori,Lekoni-Lekori,lekoni-lekori,GAB002006,16,-1.151,13.866
+GAB002007,Ogooue-Letili,Ogooue-Letili,ogooue-letili,GAB002007,22,-2.147,13.64
+GAB002008,Passa,Passa,passa,GAB002008,112,-1.63,13.593
+GAB002009,Plateaux,Plateaux,plateaux,GAB002009,39,-1.702,14.208
+GAB002010,Sebe-Brikolo,Sebe-Brikolo,sebe-brikolo,GAB002010,65,-0.668,13.738

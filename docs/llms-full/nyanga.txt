@@ -1,0 +1,1595 @@
+# Nyanga — Gabon Administrative Divisions
+
+> 6 departments, 389 settlements
+> Code: GAB005
+> Coordinates: -2.883, 11.048
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Departments
+
+### Basse-Banio
+
+Code: GAB005001, Coordinates: -3.08, 10.567
+Settlements: 80
+
+#### Bana
+
+Code: GAB005001001, Coordinates: -3.452, 10.68
+
+#### Beni Bantou
+
+Code: GAB005001002, Coordinates: -2.85, 10.287
+
+#### Bibonga
+
+Code: GAB005001003, Coordinates: -2.805, 10.195
+
+#### Bikamba
+
+Code: GAB005001004, Coordinates: -3.349, 10.699
+
+#### Bilanga
+
+Code: GAB005001005, Coordinates: -3.359, 10.691
+
+#### Bilengui
+
+Code: GAB005001006, Coordinates: -2.897, 10.496
+
+#### Bouda
+
+Code: GAB005001007, Coordinates: -2.827, 10.316
+
+#### Dende
+
+Code: GAB005001008, Coordinates: -3.28, 10.603
+
+#### Diboufou
+
+Code: GAB005001009, Coordinates: -2.923, 10.532
+
+#### Diboumfou
+
+Code: GAB005001010, Coordinates: -2.923, 10.532
+
+#### Difounda
+
+Code: GAB005001011, Coordinates: -3.037, 10.837
+
+#### Digoba
+
+Code: GAB005001012, Coordinates: -2.768, 10.377
+
+#### Digongo
+
+Code: GAB005001013, Coordinates: -2.989, 10.582
+
+#### Digoungou
+
+Code: GAB005001014, Coordinates: -2.856, 10.632
+
+#### Dilemba
+
+Code: GAB005001015, Coordinates: -3.057, 10.835
+
+#### Dilieliga
+
+Code: GAB005001016, Coordinates: -2.76, 10.416
+
+#### Dilienga
+
+Code: GAB005001017, Coordinates: -2.76, 10.416
+
+#### Dillieliga
+
+Code: GAB005001018, Coordinates: -2.76, 10.416
+
+#### Disofou
+
+Code: GAB005001019, Coordinates: -2.882, 10.485
+
+#### Ditoumba Nzambi
+
+Code: GAB005001020, Coordinates: -3.271, 10.684
+
+#### Djema
+
+Code: GAB005001021, Coordinates: -2.937, 10.355
+
+#### Djemba
+
+Code: GAB005001022, Coordinates: -2.937, 10.355
+
+#### Dola
+
+Code: GAB005001023, Coordinates: -3.083, 10.6
+
+#### Douanga
+
+Code: GAB005001024, Coordinates: -3, 10.383
+
+#### Douboumo
+
+Code: GAB005001025, Coordinates: -3.217, 10.533
+
+#### Dougou Mamba
+
+Code: GAB005001026, Coordinates: -2.931, 10.488
+
+#### Douigny
+
+Code: GAB005001027, Coordinates: -3.183, 10.755
+
+#### Doungou
+
+Code: GAB005001028, Coordinates: -2.776, 10.433
+
+#### Dounvou
+
+Code: GAB005001029, Coordinates: -3.356, 10.745
+
+#### Gobini
+
+Code: GAB005001030, Coordinates: -3.033, 10.45
+
+#### Goumbou
+
+Code: GAB005001031, Coordinates: -3.208, 10.75
+
+#### Idemba
+
+Code: GAB005001033, Coordinates: -3.35, 10.7
+
+#### Inanga
+
+Code: GAB005001034, Coordinates: -2.813, 10.322
+
+#### Isogni
+
+Code: GAB005001035, Coordinates: -2.804, 10.161
+
+#### Mabagou
+
+Code: GAB005001036, Coordinates: -3.35, 10.7
+
+#### Maboka
+
+Code: GAB005001037, Coordinates: -3.339, 10.706
+
+#### Makaba Ndilo
+
+Code: GAB005001038, Coordinates: -3.067, 10.817
+
+#### Makiena
+
+Code: GAB005001039, Coordinates: -3.35, 10.683
+
+#### Matchiti
+
+Code: GAB005001040, Coordinates: -3.448, 10.698
+
+#### Mavumba
+
+Code: GAB005001041, Coordinates: -3.432, 10.655
+
+#### Mayamba
+
+Code: GAB005001042, Coordinates: -2.976, 10.584
+
+#### Mayoumba
+
+Code: GAB005001043, Coordinates: -3.432, 10.655
+
+#### Mayumba
+
+Code: GAB005001044, Coordinates: -3.432, 10.655
+
+#### Mbissi
+
+Code: GAB005001045, Coordinates: -2.925, 10.386
+
+#### Mboma
+
+Code: GAB005001046, Coordinates: -3.025, 10.852
+
+#### Mbouissi
+
+Code: GAB005001047, Coordinates: -3.278, 10.686
+
+#### Miguengui
+
+Code: GAB005001048, Coordinates: -3.033, 10.833
+
+#### Milandou
+
+Code: GAB005001049, Coordinates: -3.04, 10.471
+
+#### Minguengue
+
+Code: GAB005001050, Coordinates: -3.061, 10.833
+
+#### Mirendi
+
+Code: GAB005001051, Coordinates: -3.266, 10.678
+
+#### Mongo Milando
+
+Code: GAB005001052, Coordinates: -3.05, 10.483
+
+#### Mossamala
+
+Code: GAB005001053, Coordinates: -2.794, 10.106
+
+#### Mouenda
+
+Code: GAB005001054, Coordinates: -2.916, 10.513
+
+#### Mougnimbou
+
+Code: GAB005001055, Coordinates: -3.125, 10.787
+
+#### Moukangi
+
+Code: GAB005001056, Coordinates: -2.889, 10.488
+
+#### Moukondo
+
+Code: GAB005001057, Coordinates: -3.039, 10.475
+
+#### Moukongo Ndende
+
+Code: GAB005001058, Coordinates: -2.865, 10.266
+
+#### Moulondo
+
+Code: GAB005001059, Coordinates: -3.07, 10.43
+
+#### Moumou Boumba
+
+Code: GAB005001060, Coordinates: -3.35, 10.7
+
+#### Moussitou
+
+Code: GAB005001061, Coordinates: -3.089, 10.821
+
+#### Mouvanga
+
+Code: GAB005001062, Coordinates: -3.017, 10.85
+
+#### Mouyamba
+
+Code: GAB005001063, Coordinates: -3.333, 10.703
+
+#### Mouyoungou
+
+Code: GAB005001064, Coordinates: -3.19, 10.754
+
+#### Ngondi
+
+Code: GAB005001065, Coordinates: -3.347, 10.703
+
+#### Nyanga
+
+Code: GAB005001066, Coordinates: -2.981, 10.29
+
+#### Oueligha
+
+Code: GAB005001067, Coordinates: -2.855, 10.479
+
+#### Panga
+
+Code: GAB005001068, Coordinates: -3.229, 10.56
+
+#### Pembi
+
+Code: GAB005001069, Coordinates: -3.288, 10.691
+
+#### Sanga Foret
+
+Code: GAB005001070, Coordinates: -3.098, 10.82
+
+#### Singa Plaine
+
+Code: GAB005001071, Coordinates: -3.049, 10.84
+
+#### Tono
+
+Code: GAB005001072, Coordinates: -3.075, 10.826
+
+#### Tsogni
+
+Code: GAB005001073, Coordinates: -2.804, 10.161
+
+#### Tsogui
+
+Code: GAB005001074, Coordinates: -3.045, 10.468
+
+#### Yendji
+
+Code: GAB005001075, Coordinates: -2.817, 10.067
+
+#### Yeyeha
+
+Code: GAB005001076, Coordinates: -3.033, 10.432
+
+#### Yeyena
+
+Code: GAB005001077, Coordinates: -3.033, 10.432
+
+#### Yeyenga
+
+Code: GAB005001078, Coordinates: -3.033, 10.432
+
+#### Yoyo
+
+Code: GAB005001079, Coordinates: -3.681, 11.093
+
+#### Zambi Zanza
+
+Code: GAB005001080, Coordinates: -3.419, 10.7
+
+#### Zangui Mamba
+
+Code: GAB005001081, Coordinates: -2.871, 10.199
+
+### Douigni
+
+Code: GAB005002, Coordinates: -2.437, 10.914
+Settlements: 56
+
+#### Bignendzi
+
+Code: GAB005002001, Coordinates: -2.428, 10.974
+
+#### Bila Gouambi
+
+Code: GAB005002002, Coordinates: -2.367, 11.033
+
+#### Bilengui
+
+Code: GAB005002003, Coordinates: -2.445, 10.74
+
+#### Bilombika Keri
+
+Code: GAB005002004, Coordinates: -2.25, 11.017
+
+#### Birenki
+
+Code: GAB005002005, Coordinates: -2.605, 10.873
+
+#### Birouki
+
+Code: GAB005002006, Coordinates: -2.433, 11.05
+
+#### Bougoulou
+
+Code: GAB005002007, Coordinates: -2.468, 10.757
+
+#### Dikouta
+
+Code: GAB005002008, Coordinates: -2.267, 11.05
+
+#### Dissala
+
+Code: GAB005002009, Coordinates: -2.323, 10.634
+
+#### Dissiala
+
+Code: GAB005002010, Coordinates: -2.317, 11.083
+
+#### Divina
+
+Code: GAB005002011, Coordinates: -2.493, 10.934
+
+#### Doufouma
+
+Code: GAB005002012, Coordinates: -2.399, 11.023
+
+#### Doukendema
+
+Code: GAB005002013, Coordinates: -2.3, 11.067
+
+#### Foundou Nzambi
+
+Code: GAB005002014, Coordinates: -2.453, 10.989
+
+#### Ileka
+
+Code: GAB005002015, Coordinates: -2.444, 10.992
+
+#### Isogni Salou
+
+Code: GAB005002016, Coordinates: -2.502, 10.929
+
+#### Kaka
+
+Code: GAB005002017, Coordinates: -2.477, 10.966
+
+#### Keri
+
+Code: GAB005002018, Coordinates: -2.479, 10.953
+
+#### Kondzi
+
+Code: GAB005002019, Coordinates: -2.394, 10.693
+
+#### Kouango
+
+Code: GAB005002020, Coordinates: -2.488, 10.767
+
+#### Koumougani
+
+Code: GAB005002021, Coordinates: -2.317, 11.067
+
+#### Loussala
+
+Code: GAB005002022, Coordinates: -2.323, 10.634
+
+#### Mabala
+
+Code: GAB005002023, Coordinates: -2.35, 11.083
+
+#### Madonga
+
+Code: GAB005002024, Coordinates: -2.486, 10.939
+
+#### Magabika
+
+Code: GAB005002025, Coordinates: -2.591, 10.86
+
+#### Magoumba
+
+Code: GAB005002026, Coordinates: -2.35, 11.05
+
+#### Makabana
+
+Code: GAB005002027, Coordinates: -2.513, 10.922
+
+#### Malaba
+
+Code: GAB005002028, Coordinates: -2.333, 11.067
+
+#### Malolo
+
+Code: GAB005002029, Coordinates: -2.472, 10.87
+
+#### Maoumba
+
+Code: GAB005002032, Coordinates: -2.56, 10.846
+
+#### Massoti
+
+Code: GAB005002033, Coordinates: -2.534, 10.917
+
+#### Mboukou
+
+Code: GAB005002034, Coordinates: -2.461, 10.758
+
+#### Mfoukoualou
+
+Code: GAB005002035, Coordinates: -2.57, 10.854
+
+#### Mikoko
+
+Code: GAB005002036, Coordinates: -2.485, 10.819
+
+#### Missoti
+
+Code: GAB005002037, Coordinates: -2.509, 10.793
+
+#### Mivangiri
+
+Code: GAB005002038, Coordinates: -2.35, 11.05
+
+#### Moabi
+
+Code: GAB005002039, Coordinates: -2.422, 11.001
+
+#### Mougouma
+
+Code: GAB005002040, Coordinates: -2.35, 10.656
+
+#### Moukaba Neny
+
+Code: GAB005002041, Coordinates: -2.443, 10.95
+
+#### Moussamou Kougou
+
+Code: GAB005002042, Coordinates: -2.422, 10.984
+
+#### Moussitou
+
+Code: GAB005002043, Coordinates: -2.488, 10.852
+
+#### Moutoumba
+
+Code: GAB005002044, Coordinates: -2.417, 11.004
+
+#### Moutoungou
+
+Code: GAB005002046, Coordinates: -2.434, 10.969
+
+#### Mouyombi-Tali
+
+Code: GAB005002047, Coordinates: -2.54, 10.816
+
+#### N&#39;Boukou
+
+Code: GAB005002048, Coordinates: -2.461, 10.758
+
+#### Ndende
+
+Code: GAB005002049, Coordinates: -2.498, 10.782
+
+#### Ngoungou
+
+Code: GAB005002050, Coordinates: -2.523, 10.917
+
+#### Noumbou
+
+Code: GAB005002051, Coordinates: -2.551, 10.83
+
+#### Pabo Nzambi
+
+Code: GAB005002052, Coordinates: -2.496, 10.848
+
+#### Polombya
+
+Code: GAB005002053, Coordinates: -2.462, 10.983
+
+#### Porro
+
+Code: GAB005002054, Coordinates: -2.41, 10.719
+
+#### Rima Nzala
+
+Code: GAB005002055, Coordinates: -2.472, 10.976
+
+#### Sanda
+
+Code: GAB005002056, Coordinates: -2.367, 11.017
+
+#### Soangui
+
+Code: GAB005002057, Coordinates: -2.434, 10.997
+
+#### Soukila
+
+Code: GAB005002058, Coordinates: -2.367, 11.017
+
+#### Tsouka
+
+Code: GAB005002059, Coordinates: -2.333, 11.05
+
+### Doutsila
+
+Code: GAB005003, Coordinates: -2.76, 11.4
+Settlements: 103
+
+#### Banda Namba
+
+Code: GAB005003001, Coordinates: -3.105, 11.705
+
+#### Bangola
+
+Code: GAB005003002, Coordinates: -2.433, 11.2
+
+#### Benga
+
+Code: GAB005003003, Coordinates: -2.917, 11.533
+
+#### Bihindou
+
+Code: GAB005003004, Coordinates: -2.55, 11.183
+
+#### Bikendzi
+
+Code: GAB005003005, Coordinates: -2.667, 11.1
+
+#### Bilemba
+
+Code: GAB005003006, Coordinates: -2.617, 11.3
+
+#### Boudiombi
+
+Code: GAB005003007, Coordinates: -3.086, 11.624
+
+#### Bouneni
+
+Code: GAB005003008, Coordinates: -2.85, 11.3
+
+#### Bouyanga
+
+Code: GAB005003009, Coordinates: -2.617, 11.233
+
+#### Caye
+
+Code: GAB005003010, Coordinates: -2.917, 11.5
+
+#### Diboueta
+
+Code: GAB005003011, Coordinates: -2.717, 11.417
+
+#### Dikassa I
+
+Code: GAB005003012, Coordinates: -2.85, 11.6
+
+#### Dikoulou Dimossi
+
+Code: GAB005003013, Coordinates: -2.667, 11.183
+
+#### Dinguilila
+
+Code: GAB005003014, Coordinates: -2.655, 11.126
+
+#### Divangui
+
+Code: GAB005003015, Coordinates: -2.717, 11.15
+
+#### Diveia
+
+Code: GAB005003016, Coordinates: -2.567, 11.167
+
+#### Divevi
+
+Code: GAB005003017, Coordinates: -2.983, 11.783
+
+#### Diveya
+
+Code: GAB005003018, Coordinates: -2.567, 11.167
+
+#### Djaouri
+
+Code: GAB005003019, Coordinates: -2.883, 11.45
+
+#### Dougalou
+
+Code: GAB005003020, Coordinates: -3.132, 11.72
+
+#### Doukanga
+
+Code: GAB005003021, Coordinates: -2.583, 11.333
+
+#### Dounguila
+
+Code: GAB005003023, Coordinates: -2.7, 11.5
+
+#### Doussoundzi
+
+Code: GAB005003024, Coordinates: -2.683, 11.167
+
+#### Douzanza
+
+Code: GAB005003025, Coordinates: -2.767, 11.567
+
+#### Gnali
+
+Code: GAB005003026, Coordinates: -2.603, 11.298
+
+#### Gondzi
+
+Code: GAB005003027, Coordinates: -2.967, 11.517
+
+#### Ibanga
+
+Code: GAB005003028, Coordinates: -2.783, 11.267
+
+#### Igala
+
+Code: GAB005003029, Coordinates: -2.567, 11.3
+
+#### Iloba Songui
+
+Code: GAB005003030, Coordinates: -2.633, 11.217
+
+#### Iloga Magounga
+
+Code: GAB005003031, Coordinates: -2.45, 11.1
+
+#### Ilogo
+
+Code: GAB005003032, Coordinates: -2.683, 11.167
+
+#### Ineni Magno
+
+Code: GAB005003033, Coordinates: -2.4, 11.117
+
+#### Inominomio
+
+Code: GAB005003034, Coordinates: -2.85, 11.483
+
+#### Iroungou
+
+Code: GAB005003035, Coordinates: -2.917, 11.667
+
+#### Issibou
+
+Code: GAB005003036, Coordinates: -3.049, 11.641
+
+#### Ivoundou
+
+Code: GAB005003038, Coordinates: -2.9, 11.5
+
+#### Kabo Nzambi
+
+Code: GAB005003039, Coordinates: -2.733, 11.517
+
+#### Kamba
+
+Code: GAB005003040, Coordinates: -3.12, 11.723
+
+#### Kambala
+
+Code: GAB005003041, Coordinates: -2.767, 11.317
+
+#### Kanapo
+
+Code: GAB005003042, Coordinates: -2.6, 11.25
+
+#### Kebili
+
+Code: GAB005003043, Coordinates: -2.883, 11.617
+
+#### Kelili
+
+Code: GAB005003044, Coordinates: -2.65, 11.183
+
+#### Koko Magoma
+
+Code: GAB005003045, Coordinates: -2.583, 11.267
+
+#### Latsa
+
+Code: GAB005003046, Coordinates: -2.517, 11.2
+
+#### Mabala
+
+Code: GAB005003047, Coordinates: -2.5, 11.2
+
+#### Mabou
+
+Code: GAB005003048, Coordinates: -3.013, 11.517
+
+#### Maboussou
+
+Code: GAB005003049, Coordinates: -2.983, 11.717
+
+#### Magabica
+
+Code: GAB005003050, Coordinates: -2.917, 11.367
+
+#### Magounga
+
+Code: GAB005003051, Coordinates: -2.433, 11.083
+
+#### Makabana
+
+Code: GAB005003052, Coordinates: -2.917, 11.583
+
+#### Makanana
+
+Code: GAB005003053, Coordinates: -2.933, 11.7
+
+#### Malabilila
+
+Code: GAB005003054, Coordinates: -2.75, 11.533
+
+#### Malimba
+
+Code: GAB005003055, Coordinates: -3.085, 11.621
+
+#### Mangounga
+
+Code: GAB005003056, Coordinates: -2.433, 11.083
+
+#### Massanga
+
+Code: GAB005003057, Coordinates: -2.65, 11.317
+
+#### Massoti
+
+Code: GAB005003058, Coordinates: -2.483, 11.2
+
+#### Matoungou
+
+Code: GAB005003059, Coordinates: -2.683, 11.367
+
+#### Matsanfou
+
+Code: GAB005003060, Coordinates: -3.063, 11.601
+
+#### Mbekila
+
+Code: GAB005003061, Coordinates: -3.037, 11.72
+
+#### Mbidiga
+
+Code: GAB005003062, Coordinates: -2.667, 11.35
+
+#### Midouma
+
+Code: GAB005003063, Coordinates: -2.75, 11.433
+
+#### Migamba
+
+Code: GAB005003064, Coordinates: -2.533, 11.183
+
+#### Mikanda
+
+Code: GAB005003065, Coordinates: -2.917, 11.683
+
+#### Mikanga
+
+Code: GAB005003066, Coordinates: -2.733, 11.35
+
+#### Mindoubi
+
+Code: GAB005003067, Coordinates: -2.65, 11.45
+
+#### Missassa
+
+Code: GAB005003068, Coordinates: -2.45, 11.183
+
+#### Missigou
+
+Code: GAB005003069, Coordinates: -2.717, 11.15
+
+#### Missouli
+
+Code: GAB005003070, Coordinates: -2.967, 11.8
+
+#### Mivengui
+
+Code: GAB005003071, Coordinates: -2.783, 11.283
+
+#### Moabi Koudou
+
+Code: GAB005003072, Coordinates: -2.567, 11.283
+
+#### Mouetji
+
+Code: GAB005003073, Coordinates: -2.65, 11.167
+
+#### Mougnigou
+
+Code: GAB005003074, Coordinates: -2.9, 11.633
+
+#### Mougnigou II
+
+Code: GAB005003075, Coordinates: -2.883, 11.6
+
+#### Moukakala
+
+Code: GAB005003076, Coordinates: -2.617, 11.383
+
+#### Moukambo
+
+Code: GAB005003077, Coordinates: -3.079, 11.631
+
+#### Moukenja
+
+Code: GAB005003078, Coordinates: -2.517, 11.2
+
+#### Moulandou
+
+Code: GAB005003079, Coordinates: -2.617, 11.133
+
+#### Moulonda
+
+Code: GAB005003080, Coordinates: -2.583, 11.267
+
+#### Mounanga
+
+Code: GAB005003081, Coordinates: -2.7, 11.367
+
+#### Moungale
+
+Code: GAB005003082, Coordinates: -2.574, 11.293
+
+#### Moungoundi
+
+Code: GAB005003083, Coordinates: -2.95, 11.417
+
+#### Moussamba
+
+Code: GAB005003084, Coordinates: -2.95, 11.717
+
+#### Moussambo
+
+Code: GAB005003085, Coordinates: -2.95, 11.717
+
+#### Moussitoulela
+
+Code: GAB005003086, Coordinates: -2.8, 11.467
+
+#### Ngoula
+
+Code: GAB005003087, Coordinates: -2.95, 11.45
+
+#### Nguenda
+
+Code: GAB005003088, Coordinates: -2.467, 11.183
+
+#### Nguenda Pahilo
+
+Code: GAB005003089, Coordinates: -2.467, 11.183
+
+#### Niali
+
+Code: GAB005003090, Coordinates: -2.603, 11.298
+
+#### Niengo
+
+Code: GAB005003091, Coordinates: -2.9, 11.383
+
+#### Nvounda
+
+Code: GAB005003092, Coordinates: -2.717, 11.15
+
+#### Nzanza
+
+Code: GAB005003093, Coordinates: -2.733, 11.417
+
+#### Nzinga
+
+Code: GAB005003094, Coordinates: -2.967, 11.567
+
+#### Nzinga Tchi
+
+Code: GAB005003095, Coordinates: -2.983, 11.6
+
+#### Ombila
+
+Code: GAB005003096, Coordinates: -2.8, 11.25
+
+#### Oueliga
+
+Code: GAB005003097, Coordinates: -2.717, 11.383
+
+#### Poudi
+
+Code: GAB005003098, Coordinates: -3.094, 11.652
+
+#### Rinanzala
+
+Code: GAB005003099, Coordinates: -3.112, 11.703
+
+#### Tono Sangana
+
+Code: GAB005003100, Coordinates: -2.7, 11.383
+
+#### Toumba
+
+Code: GAB005003101, Coordinates: -2.867, 11.667
+
+#### Tumba
+
+Code: GAB005003103, Coordinates: -2.867, 11.667
+
+#### Voulougandou
+
+Code: GAB005003104, Coordinates: -2.633, 11.133
+
+#### Yelo
+
+Code: GAB005003105, Coordinates: -2.6, 11.367
+
+#### Yongo
+
+Code: GAB005003106, Coordinates: -2.617, 11.417
+
+### Haute-Banio
+
+Code: GAB005004, Coordinates: -3.731, 11.015
+Settlements: 23
+
+#### Bende Passi Mogno
+
+Code: GAB005004001, Coordinates: -3.532, 10.794
+
+#### Bouggou
+
+Code: GAB005004002, Coordinates: -3.75, 11.206
+
+#### Boukena Boumounou
+
+Code: GAB005004003, Coordinates: -3.767, 11.021
+
+#### Dend
+
+Code: GAB005004004, Coordinates: -3.772, 11.149
+
+#### Dende
+
+Code: GAB005004005, Coordinates: -3.772, 11.149
+
+#### Dendo
+
+Code: GAB005004006, Coordinates: -3.772, 11.149
+
+#### Kayes Congo
+
+Code: GAB005004007, Coordinates: -3.735, 11.036
+
+#### Loungou Zambi
+
+Code: GAB005004008, Coordinates: -3.75, 11.033
+
+#### Makanda
+
+Code: GAB005004009, Coordinates: -3.87, 11.104
+
+#### Mallembe
+
+Code: GAB005004010, Coordinates: -3.566, 10.844
+
+#### Nienzi Mogne
+
+Code: GAB005004011, Coordinates: -3.774, 11.019
+
+#### Sainte-Marie
+
+Code: GAB005004012, Coordinates: -3.795, 11.019
+
+#### Sette Banda
+
+Code: GAB005004013, Coordinates: -3.83, 11.039
+
+#### Tchibenda
+
+Code: GAB005004014, Coordinates: -3.898, 11.138
+
+#### Tchigana
+
+Code: GAB005004015, Coordinates: -3.726, 11.041
+
+#### Tchimbia
+
+Code: GAB005004016, Coordinates: -3.811, 11.019
+
+#### Tchingondo
+
+Code: GAB005004017, Coordinates: -3.517, 10.817
+
+#### Tchitende
+
+Code: GAB005004018, Coordinates: -3.898, 11.138
+
+#### Tia
+
+Code: GAB005004019, Coordinates: -3.627, 10.958
+
+#### Toco Tsiala
+
+Code: GAB005004020, Coordinates: -3.759, 11.024
+
+#### Village Sainte Marie
+
+Code: GAB005004021, Coordinates: -3.795, 11.019
+
+#### Zambi Zanza
+
+Code: GAB005004022, Coordinates: -3.548, 10.817
+
+#### Zembi-Zanza
+
+Code: GAB005004023, Coordinates: -3.548, 10.817
+
+### Mongo
+
+Code: GAB005006, Coordinates: -3.261, 11.583
+Settlements: 21
+
+#### Bibonga
+
+Code: GAB005006001, Coordinates: -3.195, 11.413
+
+#### Bibora
+
+Code: GAB005006002, Coordinates: -3.215, 11.443
+
+#### Boukagni
+
+Code: GAB005006003, Coordinates: -3.207, 11.427
+
+#### Douli
+
+Code: GAB005006004, Coordinates: -3.293, 11.64
+
+#### Ilendo
+
+Code: GAB005006005, Coordinates: -3.269, 11.528
+
+#### Irandou
+
+Code: GAB005006007, Coordinates: -3.196, 11.717
+
+#### Kouri
+
+Code: GAB005006008, Coordinates: -3.343, 11.625
+
+#### Mabili
+
+Code: GAB005006009, Coordinates: -3.268, 11.544
+
+#### Magonga
+
+Code: GAB005006011, Coordinates: -3.284, 11.714
+
+#### Mahina Bouissi
+
+Code: GAB005006012, Coordinates: -3.357, 11.642
+
+#### Makanga
+
+Code: GAB005006013, Coordinates: -3.22, 11.466
+
+#### Makina-Bouissi
+
+Code: GAB005006014, Coordinates: -3.357, 11.642
+
+#### Makounou
+
+Code: GAB005006015, Coordinates: -3.363, 11.644
+
+#### Matsoumba
+
+Code: GAB005006016, Coordinates: -3.239, 11.502
+
+#### Molito
+
+Code: GAB005006017, Coordinates: -3.275, 11.5
+
+#### Mouralou
+
+Code: GAB005006018, Coordinates: -3.353, 11.63
+
+#### Mouroungouya
+
+Code: GAB005006019, Coordinates: -3.288, 11.713
+
+#### Moussamou Ygoyo
+
+Code: GAB005006020, Coordinates: -3.273, 11.594
+
+#### Ndendi
+
+Code: GAB005006021, Coordinates: -3.174, 11.719
+
+#### Povo
+
+Code: GAB005006022, Coordinates: -3.223, 11.495
+
+#### Voumvou
+
+Code: GAB005006023, Coordinates: -3.237, 11.733
+
+### Mougoutsi
+
+Code: GAB005005, Coordinates: -2.844, 11.028
+Settlements: 106
+
+#### Bayadi
+
+Code: GAB005005001, Coordinates: -3.19, 11.389
+
+#### Biello
+
+Code: GAB005005003, Coordinates: -3.157, 11.339
+
+#### Bilombi
+
+Code: GAB005005004, Coordinates: -2.917, 11.25
+
+#### Bivanga
+
+Code: GAB005005005, Coordinates: -2.883, 11.133
+
+#### Boulembi
+
+Code: GAB005005006, Coordinates: -2.619, 10.888
+
+#### Boungou Bouliba
+
+Code: GAB005005007, Coordinates: -2.75, 11.117
+
+#### Diboumba
+
+Code: GAB005005008, Coordinates: -2.691, 10.937
+
+#### Digayi
+
+Code: GAB005005009, Coordinates: -2.579, 10.944
+
+#### Digondji
+
+Code: GAB005005010, Coordinates: -2.867, 11.083
+
+#### Dikoundou
+
+Code: GAB005005011, Coordinates: -3.046, 11.147
+
+#### Divoko
+
+Code: GAB005005013, Coordinates: -2.618, 10.98
+
+#### Doubagni
+
+Code: GAB005005014, Coordinates: -2.751, 10.847
+
+#### Doubogno
+
+Code: GAB005005015, Coordinates: -2.817, 11.05
+
+#### Dougandou I
+
+Code: GAB005005016, Coordinates: -2.733, 10.971
+
+#### Dougandou II
+
+Code: GAB005005017, Coordinates: -2.725, 10.964
+
+#### Doukaki
+
+Code: GAB005005018, Coordinates: -2.917, 11.017
+
+#### Doukoumou
+
+Code: GAB005005019, Coordinates: -2.9, 11.15
+
+#### Dovoyi
+
+Code: GAB005005020, Coordinates: -3.014, 11.123
+
+#### Iantsi
+
+Code: GAB005005021, Coordinates: -3.148, 11.315
+
+#### Ibanga
+
+Code: GAB005005022, Coordinates: -2.745, 10.744
+
+#### Ikeri Issiana
+
+Code: GAB005005024, Coordinates: -2.783, 11.083
+
+#### Ikoli
+
+Code: GAB005005025, Coordinates: -3.135, 11.339
+
+#### Iloumi Ilongo Dibora
+
+Code: GAB005005026, Coordinates: -2.8, 11.083
+
+#### Imboko
+
+Code: GAB005005027, Coordinates: -2.967, 11.083
+
+#### Irendou
+
+Code: GAB005005028, Coordinates: -2.717, 11.083
+
+#### Issigou
+
+Code: GAB005005029, Coordinates: -2.85, 11.233
+
+#### Ivoumounou
+
+Code: GAB005005030, Coordinates: -2.817, 11.067
+
+#### Iyantzi
+
+Code: GAB005005031, Coordinates: -3.003, 11.117
+
+#### Kabi
+
+Code: GAB005005032, Coordinates: -3.072, 11.05
+
+#### Kaki
+
+Code: GAB005005034, Coordinates: -2.933, 11.033
+
+#### Keri Nzambi
+
+Code: GAB005005035, Coordinates: -2.85, 11.064
+
+#### Kouango
+
+Code: GAB005005036, Coordinates: -2.65, 11
+
+#### Koumougari
+
+Code: GAB005005037, Coordinates: -2.822, 10.973
+
+#### Lembe
+
+Code: GAB005005038, Coordinates: -3.082, 11.187
+
+#### Louango
+
+Code: GAB005005039, Coordinates: -2.648, 10.919
+
+#### Louangou
+
+Code: GAB005005040, Coordinates: -3.145, 11.323
+
+#### Mabouma
+
+Code: GAB005005041, Coordinates: -2.725, 11.018
+
+#### Mabounga
+
+Code: GAB005005042, Coordinates: -2.867, 11.017
+
+#### Mabouriga
+
+Code: GAB005005043, Coordinates: -2.813, 11.098
+
+#### Magabiga
+
+Code: GAB005005044, Coordinates: -2.813, 10.971
+
+#### Magassiala
+
+Code: GAB005005045, Coordinates: -2.817, 11.067
+
+#### Makabana
+
+Code: GAB005005046, Coordinates: -3.13, 11.285
+
+#### Makanda
+
+Code: GAB005005048, Coordinates: -3.174, 11.345
+
+#### Malanga
+
+Code: GAB005005050, Coordinates: -3.157, 11.436
+
+#### Malimba
+
+Code: GAB005005051, Coordinates: -2.683, 11.05
+
+#### Massanga I
+
+Code: GAB005005052, Coordinates: -2.833, 11.05
+
+#### Massanga II
+
+Code: GAB005005053, Coordinates: -2.833, 11.05
+
+#### Massanga III
+
+Code: GAB005005054, Coordinates: -2.833, 11.033
+
+#### Massanga IV
+
+Code: GAB005005055, Coordinates: -2.833, 11.05
+
+#### Massoli Oubala
+
+Code: GAB005005056, Coordinates: -2.733, 11.133
+
+#### Mayombo
+
+Code: GAB005005057, Coordinates: -2.749, 10.834
+
+#### Mboula
+
+Code: GAB005005058, Coordinates: -2.694, 10.627
+
+#### Mibili
+
+Code: GAB005005059, Coordinates: -2.933, 11.25
+
+#### Migoma
+
+Code: GAB005005060, Coordinates: -2.878, 11.038
+
+#### Milando
+
+Code: GAB005005061, Coordinates: -2.652, 10.706
+
+#### Milolo
+
+Code: GAB005005062, Coordinates: -2.989, 10.874
+
+#### Minziandzi
+
+Code: GAB005005063, Coordinates: -2.771, 10.898
+
+#### Mivoka
+
+Code: GAB005005064, Coordinates: -2.8, 11.067
+
+#### Moabi-Tsao
+
+Code: GAB005005065, Coordinates: -2.883, 11.133
+
+#### Mogno Souka
+
+Code: GAB005005066, Coordinates: -2.783, 11.083
+
+#### Moubou
+
+Code: GAB005005067, Coordinates: -2.53, 10.62
+
+#### Mougando Dimbo
+
+Code: GAB005005068, Coordinates: -2.779, 10.922
+
+#### Mougandza
+
+Code: GAB005005069, Coordinates: -2.777, 10.996
+
+#### Mougoudi
+
+Code: GAB005005070, Coordinates: -2.718, 10.725
+
+#### Moulagasiala
+
+Code: GAB005005071, Coordinates: -2.67, 10.71
+
+#### Moulamba
+
+Code: GAB005005072, Coordinates: -2.665, 11.008
+
+#### Mounanga
+
+Code: GAB005005073, Coordinates: -2.489, 10.6
+
+#### Mourambo Kata
+
+Code: GAB005005075, Coordinates: -2.743, 10.986
+
+#### Mourima
+
+Code: GAB005005076, Coordinates: -2.667, 11.033
+
+#### Mouringa Issenguele
+
+Code: GAB005005077, Coordinates: -2.75, 11.117
+
+#### Moussangala
+
+Code: GAB005005078, Coordinates: -2.611, 10.682
+
+#### Mouvanga-Panza
+
+Code: GAB005005079, Coordinates: -2.588, 10.659
+
+#### Mouvango-Pinza
+
+Code: GAB005005080, Coordinates: -2.588, 10.659
+
+#### Ndende
+
+Code: GAB005005081, Coordinates: -2.928, 11.109
+
+#### Ndenga
+
+Code: GAB005005082, Coordinates: -2.928, 11.109
+
+#### Nfigou
+
+Code: GAB005005083, Coordinates: -2.555, 10.925
+
+#### Ngoussou
+
+Code: GAB005005084, Coordinates: -3, 11.117
+
+#### Nilolo
+
+Code: GAB005005085, Coordinates: -2.989, 10.874
+
+#### Nyanga
+
+Code: GAB005005086, Coordinates: -2.629, 10.7
+
+#### Nyanga-Vembe
+
+Code: GAB005005087, Coordinates: -2.629, 10.7
+
+#### Nzenzila
+
+Code: GAB005005088, Coordinates: -2.758, 10.996
+
+#### Pahilou
+
+Code: GAB005005089, Coordinates: -2.807, 11.018
+
+#### Pahou N&#39;Zambi
+
+Code: GAB005005090, Coordinates: -2.763, 10.881
+
+#### Pahouzambi
+
+Code: GAB005005091, Coordinates: -2.763, 10.881
+
+#### Pananga
+
+Code: GAB005005092, Coordinates: -3.028, 11.137
+
+#### Pemo
+
+Code: GAB005005093, Coordinates: -3.181, 11.363
+
+#### Peni Gnoundou
+
+Code: GAB005005095, Coordinates: -2.764, 11.151
+
+#### Penignioundo
+
+Code: GAB005005096, Coordinates: -2.764, 11.151
+
+#### Poka
+
+Code: GAB005005097, Coordinates: -2.933, 11.317
+
+#### Pounga-Nganda
+
+Code: GAB005005098, Coordinates: -2.981, 10.88
+
+#### Randi I
+
+Code: GAB005005099, Coordinates: -2.987, 10.959
+
+#### Randi II
+
+Code: GAB005005100, Coordinates: -2.984, 10.972
+
+#### Riranzala
+
+Code: GAB005005101, Coordinates: -2.757, 10.817
+
+#### Sanga
+
+Code: GAB005005102, Coordinates: -2.994, 10.875
+
+#### Sanga-Plaine
+
+Code: GAB005005103, Coordinates: -2.97, 10.982
+
+#### Singna
+
+Code: GAB005005104, Coordinates: -2.9, 11.183
+
+#### Soangui
+
+Code: GAB005005105, Coordinates: -2.489, 10.6
+
+#### Souangui
+
+Code: GAB005005106, Coordinates: -2.489, 10.6
+
+#### Tando Filou
+
+Code: GAB005005107, Coordinates: -2.75, 11.117
+
+#### Tchibanga
+
+Code: GAB005005108, Coordinates: -2.85, 11.033
+
+#### Tonokamba
+
+Code: GAB005005109, Coordinates: -2.664, 10.653
+
+#### Toulougaba
+
+Code: GAB005005110, Coordinates: -2.694, 10.724
+
+#### Tsegnou Bila
+
+Code: GAB005005111, Coordinates: -2.767, 11.117
+
+#### Yabala
+
+Code: GAB005005112, Coordinates: -2.85, 11.267
+
+#### Yandji
+
+Code: GAB005005113, Coordinates: -3.089, 11.23
+
+#### Youmbou
+
+Code: GAB005005114, Coordinates: -3.14, 11.304
+

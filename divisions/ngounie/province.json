@@ -1,0 +1,30 @@
+{
+  "id": "GAB004",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ngounie",
+    "en": "Ngounie",
+    "slug": "ngounie"
+  },
+  "code": {
+    "id": "GAB004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 9,
+    "settlement": 816
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.84",
+    "lon": "11.364"
+  },
+  "metadata": {},
+  "source": {}
+}

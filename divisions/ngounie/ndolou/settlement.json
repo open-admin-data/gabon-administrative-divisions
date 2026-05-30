@@ -1,0 +1,3350 @@
+[
+  {
+    "id": "GAB004006001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Agouma",
+      "en": "Agouma",
+      "slug": "agouma"
+    },
+    "code": {
+      "id": "GAB004006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.541",
+      "lon": "10.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Angouma",
+      "en": "Angouma",
+      "slug": "angouma"
+    },
+    "code": {
+      "id": "GAB004006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.541",
+      "lon": "10.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bakale",
+      "en": "Bakale",
+      "slug": "bakale"
+    },
+    "code": {
+      "id": "GAB004006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "10.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilanzambi",
+      "en": "Bilanzambi",
+      "slug": "bilanzambi"
+    },
+    "code": {
+      "id": "GAB004006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.75",
+      "lon": "10.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilazambi",
+      "en": "Bilazambi",
+      "slug": "bilazambi"
+    },
+    "code": {
+      "id": "GAB004006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.588",
+      "lon": "10.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bimogon",
+      "en": "Bimogon",
+      "slug": "bimogon"
+    },
+    "code": {
+      "id": "GAB004006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.53",
+      "lon": "10.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bindeli",
+      "en": "Bindeli",
+      "slug": "bindeli"
+    },
+    "code": {
+      "id": "GAB004006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "10.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boali",
+      "en": "Boali",
+      "slug": "boali"
+    },
+    "code": {
+      "id": "GAB004006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "10.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boukou",
+      "en": "Boukou",
+      "slug": "boukou"
+    },
+    "code": {
+      "id": "GAB004006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.417",
+      "lon": "10.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boulongo-Bouangani",
+      "en": "Boulongo-Bouangani",
+      "slug": "boulongo-bouangani"
+    },
+    "code": {
+      "id": "GAB004006010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "10.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boungounga",
+      "en": "Boungounga",
+      "slug": "boungounga"
+    },
+    "code": {
+      "id": "GAB004006011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.506",
+      "lon": "10.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Debarcadere d'Angouma",
+      "en": "Debarcadere d'Angouma",
+      "slug": "debarcadere-dangouma"
+    },
+    "code": {
+      "id": "GAB004006012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.541",
+      "lon": "10.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diangui",
+      "en": "Diangui",
+      "slug": "diangui"
+    },
+    "code": {
+      "id": "GAB004006013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.661",
+      "lon": "10.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dibotinefata",
+      "en": "Dibotinefata",
+      "slug": "dibotinefata"
+    },
+    "code": {
+      "id": "GAB004006014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.61",
+      "lon": "9.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diguela",
+      "en": "Diguela",
+      "slug": "diguela"
+    },
+    "code": {
+      "id": "GAB004006015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.583",
+      "lon": "10.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dimbougui",
+      "en": "Dimbougui",
+      "slug": "dimbougui"
+    },
+    "code": {
+      "id": "GAB004006016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Guisse",
+      "en": "Guisse",
+      "slug": "guisse"
+    },
+    "code": {
+      "id": "GAB004006017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "10.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Igolani",
+      "en": "Igolani",
+      "slug": "igolani"
+    },
+    "code": {
+      "id": "GAB004006018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.433",
+      "lon": "10.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Inanga",
+      "en": "Inanga",
+      "slug": "inanga"
+    },
+    "code": {
+      "id": "GAB004006019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.717",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iniounga",
+      "en": "Iniounga",
+      "slug": "iniounga"
+    },
+    "code": {
+      "id": "GAB004006020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.729",
+      "lon": "10.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kiagui",
+      "en": "Kiagui",
+      "slug": "kiagui"
+    },
+    "code": {
+      "id": "GAB004006021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "10.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouroussou",
+      "en": "Kouroussou",
+      "slug": "kouroussou"
+    },
+    "code": {
+      "id": "GAB004006022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.539",
+      "lon": "10.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kroussou",
+      "en": "Kroussou",
+      "slug": "kroussou"
+    },
+    "code": {
+      "id": "GAB004006023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.539",
+      "lon": "10.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lembodouma",
+      "en": "Lembodouma",
+      "slug": "lembodouma"
+    },
+    "code": {
+      "id": "GAB004006024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.494",
+      "lon": "10.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lemboudouma",
+      "en": "Lemboudouma",
+      "slug": "lemboudouma"
+    },
+    "code": {
+      "id": "GAB004006025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.718",
+      "lon": "10.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabey",
+      "en": "Mabey",
+      "slug": "mabey"
+    },
+    "code": {
+      "id": "GAB004006026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.516",
+      "lon": "10.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madiela",
+      "en": "Madiela",
+      "slug": "madiela"
+    },
+    "code": {
+      "id": "GAB004006027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.589",
+      "lon": "10.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makana",
+      "en": "Makana",
+      "slug": "makana"
+    },
+    "code": {
+      "id": "GAB004006028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.433",
+      "lon": "10.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malongo-Mobei",
+      "en": "Malongo-Mobei",
+      "slug": "malongo-mobei"
+    },
+    "code": {
+      "id": "GAB004006029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.516",
+      "lon": "10.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mambi",
+      "en": "Mambi",
+      "slug": "mambi"
+    },
+    "code": {
+      "id": "GAB004006030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "10.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamboukou",
+      "en": "Mamboukou",
+      "slug": "mamboukou"
+    },
+    "code": {
+      "id": "GAB004006031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.35",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji",
+      "en": "Mandji",
+      "slug": "mandji"
+    },
+    "code": {
+      "id": "GAB004006032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.743",
+      "lon": "10.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji-Kili",
+      "en": "Mandji-Kili",
+      "slug": "mandji-kili"
+    },
+    "code": {
+      "id": "GAB004006034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.58",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mangoumbou I",
+      "en": "Mangoumbou I",
+      "slug": "mangoumbou-i"
+    },
+    "code": {
+      "id": "GAB004006035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.663",
+      "lon": "9.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massana",
+      "en": "Massana",
+      "slug": "massana"
+    },
+    "code": {
+      "id": "GAB004006036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.598",
+      "lon": "10.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massimbou",
+      "en": "Massimbou",
+      "slug": "massimbou"
+    },
+    "code": {
+      "id": "GAB004006037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massouka",
+      "en": "Massouka",
+      "slug": "massouka"
+    },
+    "code": {
+      "id": "GAB004006038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mavou",
+      "en": "Mavou",
+      "slug": "mavou"
+    },
+    "code": {
+      "id": "GAB004006039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "10.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbila Nzambi",
+      "en": "Mbila Nzambi",
+      "slug": "mbila-nzambi"
+    },
+    "code": {
+      "id": "GAB004006040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.588",
+      "lon": "10.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meli",
+      "en": "Meli",
+      "slug": "meli"
+    },
+    "code": {
+      "id": "GAB004006041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.678",
+      "lon": "10.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Messana",
+      "en": "Messana",
+      "slug": "messana"
+    },
+    "code": {
+      "id": "GAB004006042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.583",
+      "lon": "10.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moubaga",
+      "en": "Moubaga",
+      "slug": "moubaga"
+    },
+    "code": {
+      "id": "GAB004006043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.767",
+      "lon": "10.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moudimba",
+      "en": "Moudimba",
+      "slug": "moudimba"
+    },
+    "code": {
+      "id": "GAB004006044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.667",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukabou",
+      "en": "Moukabou",
+      "slug": "moukabou"
+    },
+    "code": {
+      "id": "GAB004006045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.608",
+      "lon": "10.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moumbou",
+      "en": "Moumbou",
+      "slug": "moumbou"
+    },
+    "code": {
+      "id": "GAB004006046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.643",
+      "lon": "10.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moupossi",
+      "en": "Moupossi",
+      "slug": "moupossi"
+    },
+    "code": {
+      "id": "GAB004006047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.651",
+      "lon": "10.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussamou",
+      "en": "Moussamou",
+      "slug": "moussamou"
+    },
+    "code": {
+      "id": "GAB004006048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "10.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouteti",
+      "en": "Mouteti",
+      "slug": "mouteti"
+    },
+    "code": {
+      "id": "GAB004006049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.467",
+      "lon": "10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moyenou",
+      "en": "Moyenou",
+      "slug": "moyenou"
+    },
+    "code": {
+      "id": "GAB004006050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.544",
+      "lon": "10.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoudou",
+      "en": "Ngoudou",
+      "slug": "ngoudou"
+    },
+    "code": {
+      "id": "GAB004006051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "10.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoumou",
+      "en": "Ngoumou",
+      "slug": "ngoumou"
+    },
+    "code": {
+      "id": "GAB004006052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.636",
+      "lon": "10.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niambipanga",
+      "en": "Niambipanga",
+      "slug": "niambipanga"
+    },
+    "code": {
+      "id": "GAB004006054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "10.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyambipanga",
+      "en": "Nyambipanga",
+      "slug": "nyambipanga"
+    },
+    "code": {
+      "id": "GAB004006055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "10.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oloumi",
+      "en": "Oloumi",
+      "slug": "oloumi"
+    },
+    "code": {
+      "id": "GAB004006056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.576",
+      "lon": "10.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Omengo",
+      "en": "Omengo",
+      "slug": "omengo"
+    },
+    "code": {
+      "id": "GAB004006058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.579",
+      "lon": "9.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Paguignambi",
+      "en": "Paguignambi",
+      "slug": "paguignambi"
+    },
+    "code": {
+      "id": "GAB004006059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.549",
+      "lon": "10.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poloumbia",
+      "en": "Poloumbia",
+      "slug": "poloumbia"
+    },
+    "code": {
+      "id": "GAB004006060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.417",
+      "lon": "10.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salamou",
+      "en": "Salamou",
+      "slug": "salamou"
+    },
+    "code": {
+      "id": "GAB004006061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.583",
+      "lon": "10.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salano",
+      "en": "Salano",
+      "slug": "salano"
+    },
+    "code": {
+      "id": "GAB004006062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "10.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Samouganga",
+      "en": "Samouganga",
+      "slug": "samouganga"
+    },
+    "code": {
+      "id": "GAB004006063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.75",
+      "lon": "10.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sangala",
+      "en": "Sangala",
+      "slug": "sangala"
+    },
+    "code": {
+      "id": "GAB004006064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.7",
+      "lon": "10.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004006065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toubaghengui",
+      "en": "Toubaghengui",
+      "slug": "toubaghengui"
+    },
+    "code": {
+      "id": "GAB004006065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004006",
+      "level": 2,
+      "name": {
+        "local": "Ndolou",
+        "en": "Ndolou",
+        "slug": "ndolou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004006",
+        "level": 2,
+        "name": {
+          "local": "Ndolou",
+          "en": "Ndolou",
+          "slug": "ndolou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.533",
+      "lon": "10.45"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

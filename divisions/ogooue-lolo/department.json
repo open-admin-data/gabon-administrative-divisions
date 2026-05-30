@@ -1,0 +1,190 @@
+[
+  {
+    "id": "GAB007001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lolo-Bouenguidi",
+      "en": "Lolo-Bouenguidi",
+      "slug": "lolo-bouenguidi"
+    },
+    "code": {
+      "id": "GAB007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Lolo",
+        "en": "Ogooue-Lolo",
+        "slug": "ogooue-lolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 129
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.376",
+      "lon": "12.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lombo-Bouenguidi",
+      "en": "Lombo-Bouenguidi",
+      "slug": "lombo-bouenguidi"
+    },
+    "code": {
+      "id": "GAB007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Lolo",
+        "en": "Ogooue-Lolo",
+        "slug": "ogooue-lolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 70
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.445",
+      "lon": "12.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mouloundou",
+      "en": "Mouloundou",
+      "slug": "mouloundou"
+    },
+    "code": {
+      "id": "GAB007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Lolo",
+        "en": "Ogooue-Lolo",
+        "slug": "ogooue-lolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 182
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.899",
+      "lon": "12.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Offoue-Onoye",
+      "en": "Offoue-Onoye",
+      "slug": "offoue-onoye"
+    },
+    "code": {
+      "id": "GAB007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Lolo",
+        "en": "Ogooue-Lolo",
+        "slug": "ogooue-lolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 57
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.094",
+      "lon": "11.92"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

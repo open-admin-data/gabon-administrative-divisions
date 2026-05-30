@@ -1,0 +1,5132 @@
+[
+  {
+    "id": "GAB004002001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouhoulou",
+      "en": "Bouhoulou",
+      "slug": "bouhoulou"
+    },
+    "code": {
+      "id": "GAB004002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.117",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boungolo",
+      "en": "Boungolo",
+      "slug": "boungolo"
+    },
+    "code": {
+      "id": "GAB004002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.239",
+      "lon": "11.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diboumba",
+      "en": "Diboumba",
+      "slug": "diboumba"
+    },
+    "code": {
+      "id": "GAB004002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.3",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digaba",
+      "en": "Digaba",
+      "slug": "digaba"
+    },
+    "code": {
+      "id": "GAB004002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2",
+      "lon": "11.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dilolo",
+      "en": "Dilolo",
+      "slug": "dilolo"
+    },
+    "code": {
+      "id": "GAB004002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.427",
+      "lon": "11.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diolo",
+      "en": "Diolo",
+      "slug": "diolo"
+    },
+    "code": {
+      "id": "GAB004002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.427",
+      "lon": "11.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divevi",
+      "en": "Divevi",
+      "slug": "divevi"
+    },
+    "code": {
+      "id": "GAB004002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.233",
+      "lon": "11.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doubagni",
+      "en": "Doubagni",
+      "slug": "doubagni"
+    },
+    "code": {
+      "id": "GAB004002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.267",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doukanga",
+      "en": "Doukanga",
+      "slug": "doukanga"
+    },
+    "code": {
+      "id": "GAB004002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.133",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doussala",
+      "en": "Doussala",
+      "slug": "doussala"
+    },
+    "code": {
+      "id": "GAB004002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.657",
+      "lon": "11.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fera",
+      "en": "Fera",
+      "slug": "fera"
+    },
+    "code": {
+      "id": "GAB004002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.328",
+      "lon": "11.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fouelou",
+      "en": "Fouelou",
+      "slug": "fouelou"
+    },
+    "code": {
+      "id": "GAB004002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.183",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ibamba",
+      "en": "Ibamba",
+      "slug": "ibamba"
+    },
+    "code": {
+      "id": "GAB004002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.233",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idemba",
+      "en": "Idemba",
+      "slug": "idemba"
+    },
+    "code": {
+      "id": "GAB004002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.633",
+      "lon": "11.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Igoudi",
+      "en": "Igoudi",
+      "slug": "igoudi"
+    },
+    "code": {
+      "id": "GAB004002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.383",
+      "lon": "11.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ilala",
+      "en": "Ilala",
+      "slug": "ilala"
+    },
+    "code": {
+      "id": "GAB004002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.283",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ilelo",
+      "en": "Ilelo",
+      "slug": "ilelo"
+    },
+    "code": {
+      "id": "GAB004002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.45",
+      "lon": "11.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Illala",
+      "en": "Illala",
+      "slug": "illala"
+    },
+    "code": {
+      "id": "GAB004002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.267",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Inguele",
+      "en": "Inguele",
+      "slug": "inguele"
+    },
+    "code": {
+      "id": "GAB004002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.633",
+      "lon": "11.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Irandou",
+      "en": "Irandou",
+      "slug": "irandou"
+    },
+    "code": {
+      "id": "GAB004002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.617",
+      "lon": "11.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Irendi",
+      "en": "Irendi",
+      "slug": "irendi"
+    },
+    "code": {
+      "id": "GAB004002022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.583",
+      "lon": "11.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Irogo",
+      "en": "Irogo",
+      "slug": "irogo"
+    },
+    "code": {
+      "id": "GAB004002023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.383",
+      "lon": "11.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kaga I",
+      "en": "Kaga I",
+      "slug": "kaga-i"
+    },
+    "code": {
+      "id": "GAB004002024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.417",
+      "lon": "11.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kaga II",
+      "en": "Kaga II",
+      "slug": "kaga-ii"
+    },
+    "code": {
+      "id": "GAB004002025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.4",
+      "lon": "11.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kamba",
+      "en": "Kamba",
+      "slug": "kamba"
+    },
+    "code": {
+      "id": "GAB004002026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.35",
+      "lon": "11.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kamba I",
+      "en": "Kamba I",
+      "slug": "kamba-i"
+    },
+    "code": {
+      "id": "GAB004002028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.35",
+      "lon": "11.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koma",
+      "en": "Koma",
+      "slug": "koma"
+    },
+    "code": {
+      "id": "GAB004002029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.067",
+      "lon": "11.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouangou",
+      "en": "Kouangou",
+      "slug": "kouangou"
+    },
+    "code": {
+      "id": "GAB004002030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.067",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kougouri",
+      "en": "Kougouri",
+      "slug": "kougouri"
+    },
+    "code": {
+      "id": "GAB004002031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.45",
+      "lon": "11.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lembayoungou",
+      "en": "Lembayoungou",
+      "slug": "lembayoungou"
+    },
+    "code": {
+      "id": "GAB004002032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.317",
+      "lon": "11.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Litouga",
+      "en": "Litouga",
+      "slug": "litouga"
+    },
+    "code": {
+      "id": "GAB004002033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.383",
+      "lon": "11.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Louango",
+      "en": "Louango",
+      "slug": "louango"
+    },
+    "code": {
+      "id": "GAB004002034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "11.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Loukaba",
+      "en": "Loukaba",
+      "slug": "loukaba"
+    },
+    "code": {
+      "id": "GAB004002035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.967",
+      "lon": "11.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabanga",
+      "en": "Mabanga",
+      "slug": "mabanga"
+    },
+    "code": {
+      "id": "GAB004002036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.45",
+      "lon": "11.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabengo",
+      "en": "Mabengo",
+      "slug": "mabengo"
+    },
+    "code": {
+      "id": "GAB004002037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.367",
+      "lon": "11.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magabiga",
+      "en": "Magabiga",
+      "slug": "magabiga"
+    },
+    "code": {
+      "id": "GAB004002038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.567",
+      "lon": "11.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magueni",
+      "en": "Magueni",
+      "slug": "magueni"
+    },
+    "code": {
+      "id": "GAB004002039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.317",
+      "lon": "11.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maguidou",
+      "en": "Maguidou",
+      "slug": "maguidou"
+    },
+    "code": {
+      "id": "GAB004002040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.3",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahounga",
+      "en": "Mahounga",
+      "slug": "mahounga"
+    },
+    "code": {
+      "id": "GAB004002041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.333",
+      "lon": "11.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makabana",
+      "en": "Makabana",
+      "slug": "makabana"
+    },
+    "code": {
+      "id": "GAB004002042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.267",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malimba",
+      "en": "Malimba",
+      "slug": "malimba"
+    },
+    "code": {
+      "id": "GAB004002044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "11.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massika",
+      "en": "Massika",
+      "slug": "massika"
+    },
+    "code": {
+      "id": "GAB004002045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.333",
+      "lon": "11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mavoula",
+      "en": "Mavoula",
+      "slug": "mavoula"
+    },
+    "code": {
+      "id": "GAB004002046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.4",
+      "lon": "11.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbengue",
+      "en": "Mbengue",
+      "slug": "mbengue"
+    },
+    "code": {
+      "id": "GAB004002047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.044",
+      "lon": "11.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbouda II",
+      "en": "Mbouda II",
+      "slug": "mbouda-ii"
+    },
+    "code": {
+      "id": "GAB004002048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.25",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboungou",
+      "en": "Mboungou",
+      "slug": "mboungou"
+    },
+    "code": {
+      "id": "GAB004002049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.083",
+      "lon": "11.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mihoumbi",
+      "en": "Mihoumbi",
+      "slug": "mihoumbi"
+    },
+    "code": {
+      "id": "GAB004002050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.317",
+      "lon": "11.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikidou",
+      "en": "Mikidou",
+      "slug": "mikidou"
+    },
+    "code": {
+      "id": "GAB004002051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.35",
+      "lon": "11.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mindala",
+      "en": "Mindala",
+      "slug": "mindala"
+    },
+    "code": {
+      "id": "GAB004002052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.3",
+      "lon": "11.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minganga",
+      "en": "Minganga",
+      "slug": "minganga"
+    },
+    "code": {
+      "id": "GAB004002053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.518",
+      "lon": "11.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mongoungou",
+      "en": "Mongoungou",
+      "slug": "mongoungou"
+    },
+    "code": {
+      "id": "GAB004002054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.517",
+      "lon": "11.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouamba",
+      "en": "Mouamba",
+      "slug": "mouamba"
+    },
+    "code": {
+      "id": "GAB004002055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.467",
+      "lon": "11.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouboukou",
+      "en": "Mouboukou",
+      "slug": "mouboukou"
+    },
+    "code": {
+      "id": "GAB004002056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.3",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moudiombi",
+      "en": "Moudiombi",
+      "slug": "moudiombi"
+    },
+    "code": {
+      "id": "GAB004002057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.267",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moudjina",
+      "en": "Moudjina",
+      "slug": "moudjina"
+    },
+    "code": {
+      "id": "GAB004002058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.4",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouelle",
+      "en": "Mouelle",
+      "slug": "mouelle"
+    },
+    "code": {
+      "id": "GAB004002059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.517",
+      "lon": "11.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougouma",
+      "en": "Mougouma",
+      "slug": "mougouma"
+    },
+    "code": {
+      "id": "GAB004002060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.517",
+      "lon": "11.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukoro",
+      "en": "Moukoro",
+      "slug": "moukoro"
+    },
+    "code": {
+      "id": "GAB004002061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.563",
+      "lon": "11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulaba",
+      "en": "Moulaba",
+      "slug": "moulaba"
+    },
+    "code": {
+      "id": "GAB004002062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.183",
+      "lon": "11.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouliangoula",
+      "en": "Mouliangoula",
+      "slug": "mouliangoula"
+    },
+    "code": {
+      "id": "GAB004002063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.183",
+      "lon": "11.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moumba",
+      "en": "Moumba",
+      "slug": "moumba"
+    },
+    "code": {
+      "id": "GAB004002064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.2",
+      "lon": "11.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mounianga",
+      "en": "Mounianga",
+      "slug": "mounianga"
+    },
+    "code": {
+      "id": "GAB004002065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.167",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouniegou",
+      "en": "Mouniegou",
+      "slug": "mouniegou"
+    },
+    "code": {
+      "id": "GAB004002066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.219",
+      "lon": "11.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mourimbo",
+      "en": "Mourimbo",
+      "slug": "mourimbo"
+    },
+    "code": {
+      "id": "GAB004002067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.313",
+      "lon": "11.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussamba",
+      "en": "Moussamba",
+      "slug": "moussamba"
+    },
+    "code": {
+      "id": "GAB004002068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.167",
+      "lon": "11.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussambo",
+      "en": "Moussambo",
+      "slug": "moussambo"
+    },
+    "code": {
+      "id": "GAB004002069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.262",
+      "lon": "11.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussonga",
+      "en": "Moussonga",
+      "slug": "moussonga"
+    },
+    "code": {
+      "id": "GAB004002072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.367",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouyiamba",
+      "en": "Mouyiamba",
+      "slug": "mouyiamba"
+    },
+    "code": {
+      "id": "GAB004002073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.617",
+      "lon": "11.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouyondzi",
+      "en": "Mouyondzi",
+      "slug": "mouyondzi"
+    },
+    "code": {
+      "id": "GAB004002074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.35",
+      "lon": "11.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nangha",
+      "en": "Nangha",
+      "slug": "nangha"
+    },
+    "code": {
+      "id": "GAB004002075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.19",
+      "lon": "11.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndende",
+      "en": "Ndende",
+      "slug": "ndende"
+    },
+    "code": {
+      "id": "GAB004002076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.401",
+      "lon": "11.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndouma",
+      "en": "Ndouma",
+      "slug": "ndouma"
+    },
+    "code": {
+      "id": "GAB004002077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.35",
+      "lon": "11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nganga",
+      "en": "Nganga",
+      "slug": "nganga"
+    },
+    "code": {
+      "id": "GAB004002078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.267",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoma",
+      "en": "Ngoma",
+      "slug": "ngoma"
+    },
+    "code": {
+      "id": "GAB004002079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.533",
+      "lon": "11.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngondzi",
+      "en": "Ngondzi",
+      "slug": "ngondzi"
+    },
+    "code": {
+      "id": "GAB004002080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.267",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoumou",
+      "en": "Ngoumou",
+      "slug": "ngoumou"
+    },
+    "code": {
+      "id": "GAB004002081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.5",
+      "lon": "11.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoundou",
+      "en": "Ngoundou",
+      "slug": "ngoundou"
+    },
+    "code": {
+      "id": "GAB004002082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.291",
+      "lon": "11.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoussou",
+      "en": "Ngoussou",
+      "slug": "ngoussou"
+    },
+    "code": {
+      "id": "GAB004002083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.383",
+      "lon": "11.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoyo",
+      "en": "Ngoyo",
+      "slug": "ngoyo"
+    },
+    "code": {
+      "id": "GAB004002084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.4",
+      "lon": "11.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nguenda",
+      "en": "Nguenda",
+      "slug": "nguenda"
+    },
+    "code": {
+      "id": "GAB004002085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.383",
+      "lon": "11.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niali",
+      "en": "Niali",
+      "slug": "niali"
+    },
+    "code": {
+      "id": "GAB004002086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.417",
+      "lon": "11.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    },
+    "code": {
+      "id": "GAB004002087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.25",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzai",
+      "en": "Nzai",
+      "slug": "nzai"
+    },
+    "code": {
+      "id": "GAB004002088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.183",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Panga",
+      "en": "Panga",
+      "slug": "panga"
+    },
+    "code": {
+      "id": "GAB004002089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.383",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Porro",
+      "en": "Porro",
+      "slug": "porro"
+    },
+    "code": {
+      "id": "GAB004002090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.567",
+      "lon": "11.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sanga I",
+      "en": "Sanga I",
+      "slug": "sanga-i"
+    },
+    "code": {
+      "id": "GAB004002091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.204",
+      "lon": "11.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sanga II",
+      "en": "Sanga II",
+      "slug": "sanga-ii"
+    },
+    "code": {
+      "id": "GAB004002092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.15",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sangha",
+      "en": "Sangha",
+      "slug": "sangha"
+    },
+    "code": {
+      "id": "GAB004002093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.133",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sette Cama",
+      "en": "Sette Cama",
+      "slug": "sette-cama"
+    },
+    "code": {
+      "id": "GAB004002094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.333",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soangui",
+      "en": "Soangui",
+      "slug": "soangui"
+    },
+    "code": {
+      "id": "GAB004002095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.283",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Souka",
+      "en": "Souka",
+      "slug": "souka"
+    },
+    "code": {
+      "id": "GAB004002096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.55",
+      "lon": "11.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsade",
+      "en": "Tsade",
+      "slug": "tsade"
+    },
+    "code": {
+      "id": "GAB004002097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.267",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsangui",
+      "en": "Tsangui",
+      "slug": "tsangui"
+    },
+    "code": {
+      "id": "GAB004002098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.467",
+      "lon": "11.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yello",
+      "en": "Yello",
+      "slug": "yello"
+    },
+    "code": {
+      "id": "GAB004002099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.4",
+      "lon": "11.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004002100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yengue",
+      "en": "Yengue",
+      "slug": "yengue"
+    },
+    "code": {
+      "id": "GAB004002100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004002",
+      "level": 2,
+      "name": {
+        "local": "Dola",
+        "en": "Dola",
+        "slug": "dola"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004002",
+        "level": 2,
+        "name": {
+          "local": "Dola",
+          "en": "Dola",
+          "slug": "dola"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.233",
+      "lon": "11.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

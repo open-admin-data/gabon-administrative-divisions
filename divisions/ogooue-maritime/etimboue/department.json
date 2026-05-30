@@ -1,0 +1,47 @@
+{
+  "id": "GAB008002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Etimboue",
+    "en": "Etimboue",
+    "slug": "etimboue"
+  },
+  "code": {
+    "id": "GAB008002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB008",
+    "level": 1,
+    "name": {
+      "local": "Ogooue-Maritime",
+      "en": "Ogooue-Maritime",
+      "slug": "ogooue-maritime"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB008",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Maritime",
+        "en": "Ogooue-Maritime",
+        "slug": "ogooue-maritime"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 123
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.628",
+    "lon": "9.498"
+  },
+  "metadata": {},
+  "source": {}
+}

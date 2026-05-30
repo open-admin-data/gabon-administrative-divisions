@@ -1,0 +1,30 @@
+{
+  "id": "GAB005",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Nyanga",
+    "en": "Nyanga",
+    "slug": "nyanga"
+  },
+  "code": {
+    "id": "GAB005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 6,
+    "settlement": 389
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.883",
+    "lon": "11.048"
+  },
+  "metadata": {},
+  "source": {}
+}

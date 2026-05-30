@@ -1,0 +1,30 @@
+{
+  "id": "GAB002",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Haut-Ogooue",
+    "en": "Haut-Ogooue",
+    "slug": "haut-ogooue"
+  },
+  "code": {
+    "id": "GAB002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 11,
+    "settlement": 364
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.43",
+    "lon": "13.659"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "GAB002011001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ambinda",
+      "en": "Ambinda",
+      "slug": "ambinda"
+    },
+    "code": {
+      "id": "GAB002011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002011",
+      "level": 2,
+      "name": {
+        "local": "Bayi-Brikolo",
+        "en": "Bayi-Brikolo",
+        "slug": "bayi-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002011",
+        "level": 2,
+        "name": {
+          "local": "Bayi-Brikolo",
+          "en": "Bayi-Brikolo",
+          "slug": "bayi-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.45",
+      "lon": "14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002011002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekadouba",
+      "en": "Lekadouba",
+      "slug": "lekadouba"
+    },
+    "code": {
+      "id": "GAB002011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002011",
+      "level": 2,
+      "name": {
+        "local": "Bayi-Brikolo",
+        "en": "Bayi-Brikolo",
+        "slug": "bayi-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002011",
+        "level": 2,
+        "name": {
+          "local": "Bayi-Brikolo",
+          "en": "Bayi-Brikolo",
+          "slug": "bayi-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.55",
+      "lon": "14.05"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GAB004003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Douya-Onoye",
+    "en": "Douya-Onoye",
+    "slug": "douya-onoye"
+  },
+  "code": {
+    "id": "GAB004003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB004",
+    "level": 1,
+    "name": {
+      "local": "Ngounie",
+      "en": "Ngounie",
+      "slug": "ngounie"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.857",
+    "lon": "11.095"
+  },
+  "metadata": {},
+  "source": {}
+}

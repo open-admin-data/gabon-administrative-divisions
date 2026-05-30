@@ -1,0 +1,47 @@
+{
+  "id": "GAB004001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Boumi-Louetsi",
+    "en": "Boumi-Louetsi",
+    "slug": "boumi-louetsi"
+  },
+  "code": {
+    "id": "GAB004001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB004",
+    "level": 1,
+    "name": {
+      "local": "Ngounie",
+      "en": "Ngounie",
+      "slug": "ngounie"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 189
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.041",
+    "lon": "11.796"
+  },
+  "metadata": {},
+  "source": {}
+}

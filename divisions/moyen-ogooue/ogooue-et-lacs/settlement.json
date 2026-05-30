@@ -1,0 +1,9128 @@
+[
+  {
+    "id": "GAB003002001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abenelang",
+      "en": "Abenelang",
+      "slug": "abenelang"
+    },
+    "code": {
+      "id": "GAB003002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.383",
+      "lon": "10.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abor-Tikame",
+      "en": "Abor-Tikame",
+      "slug": "abor-tikame"
+    },
+    "code": {
+      "id": "GAB003002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.6",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adane",
+      "en": "Adane",
+      "slug": "adane"
+    },
+    "code": {
+      "id": "GAB003002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.512",
+      "lon": "10.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adanhe",
+      "en": "Adanhe",
+      "slug": "adanhe"
+    },
+    "code": {
+      "id": "GAB003002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.512",
+      "lon": "10.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adole",
+      "en": "Adole",
+      "slug": "adole"
+    },
+    "code": {
+      "id": "GAB003002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.683",
+      "lon": "9.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adouma",
+      "en": "Adouma",
+      "slug": "adouma"
+    },
+    "code": {
+      "id": "GAB003002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.675",
+      "lon": "10.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akobie",
+      "en": "Akobie",
+      "slug": "akobie"
+    },
+    "code": {
+      "id": "GAB003002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.55",
+      "lon": "10"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akore",
+      "en": "Akore",
+      "slug": "akore"
+    },
+    "code": {
+      "id": "GAB003002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.467",
+      "lon": "10.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akountam",
+      "en": "Akountam",
+      "slug": "akountam"
+    },
+    "code": {
+      "id": "GAB003002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.938",
+      "lon": "10.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alomba",
+      "en": "Alomba",
+      "slug": "alomba"
+    },
+    "code": {
+      "id": "GAB003002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.016",
+      "lon": "10.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Along",
+      "en": "Along",
+      "slug": "along"
+    },
+    "code": {
+      "id": "GAB003002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.633",
+      "lon": "9.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alonha",
+      "en": "Alonha",
+      "slug": "alonha"
+    },
+    "code": {
+      "id": "GAB003002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.016",
+      "lon": "10.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aloun",
+      "en": "Aloun",
+      "slug": "aloun"
+    },
+    "code": {
+      "id": "GAB003002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.483",
+      "lon": "10.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Amboki",
+      "en": "Amboki",
+      "slug": "amboki"
+    },
+    "code": {
+      "id": "GAB003002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.84",
+      "lon": "9.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Amengouingani",
+      "en": "Amengouingani",
+      "slug": "amengouingani"
+    },
+    "code": {
+      "id": "GAB003002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.812",
+      "lon": "9.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Anameyong",
+      "en": "Anameyong",
+      "slug": "anameyong"
+    },
+    "code": {
+      "id": "GAB003002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.483",
+      "lon": "10.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andagh",
+      "en": "Andagh",
+      "slug": "andagh"
+    },
+    "code": {
+      "id": "GAB003002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.575",
+      "lon": "10.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andagne",
+      "en": "Andagne",
+      "slug": "andagne"
+    },
+    "code": {
+      "id": "GAB003002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.575",
+      "lon": "10.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aromba",
+      "en": "Aromba",
+      "slug": "aromba"
+    },
+    "code": {
+      "id": "GAB003002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.817",
+      "lon": "10.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atadi",
+      "en": "Atadi",
+      "slug": "atadi"
+    },
+    "code": {
+      "id": "GAB003002022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.683",
+      "lon": "10.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atengame",
+      "en": "Atengame",
+      "slug": "atengame"
+    },
+    "code": {
+      "id": "GAB003002023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.683",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayoumba",
+      "en": "Ayoumba",
+      "slug": "ayoumba"
+    },
+    "code": {
+      "id": "GAB003002024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.867",
+      "lon": "10.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azeriba",
+      "en": "Azeriba",
+      "slug": "azeriba"
+    },
+    "code": {
+      "id": "GAB003002025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.983",
+      "lon": "10.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azo I",
+      "en": "Azo I",
+      "slug": "azo-i"
+    },
+    "code": {
+      "id": "GAB003002026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.817",
+      "lon": "10.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azo II",
+      "en": "Azo II",
+      "slug": "azo-ii"
+    },
+    "code": {
+      "id": "GAB003002027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.85",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Batanga",
+      "en": "Batanga",
+      "slug": "batanga"
+    },
+    "code": {
+      "id": "GAB003002028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.85",
+      "lon": "9.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bellevue",
+      "en": "Bellevue",
+      "slug": "bellevue"
+    },
+    "code": {
+      "id": "GAB003002029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.613",
+      "lon": "10.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bembelie",
+      "en": "Bembelie",
+      "slug": "bembelie"
+    },
+    "code": {
+      "id": "GAB003002030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.733",
+      "lon": "9.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bere",
+      "en": "Bere",
+      "slug": "bere"
+    },
+    "code": {
+      "id": "GAB003002031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.733",
+      "lon": "10.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bigouenya",
+      "en": "Bigouenya",
+      "slug": "bigouenya"
+    },
+    "code": {
+      "id": "GAB003002032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.85",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bimbiole",
+      "en": "Bimbiole",
+      "slug": "bimbiole"
+    },
+    "code": {
+      "id": "GAB003002033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissobilam",
+      "en": "Bissobilam",
+      "slug": "bissobilam"
+    },
+    "code": {
+      "id": "GAB003002034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.6",
+      "lon": "9.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissoubilam",
+      "en": "Bissoubilam",
+      "slug": "bissoubilam"
+    },
+    "code": {
+      "id": "GAB003002035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.617",
+      "lon": "10.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bongo",
+      "en": "Bongo",
+      "slug": "bongo"
+    },
+    "code": {
+      "id": "GAB003002036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.868",
+      "lon": "10.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bonneville",
+      "en": "Bonneville",
+      "slug": "bonneville"
+    },
+    "code": {
+      "id": "GAB003002037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.583",
+      "lon": "10"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bordeaux",
+      "en": "Bordeaux",
+      "slug": "bordeaux"
+    },
+    "code": {
+      "id": "GAB003002038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.828",
+      "lon": "10.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouale",
+      "en": "Bouale",
+      "slug": "bouale"
+    },
+    "code": {
+      "id": "GAB003002039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.75",
+      "lon": "10.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Clainbanego",
+      "en": "Clainbanego",
+      "slug": "clainbanego"
+    },
+    "code": {
+      "id": "GAB003002040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.833",
+      "lon": "9.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dakar",
+      "en": "Dakar",
+      "slug": "dakar"
+    },
+    "code": {
+      "id": "GAB003002041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.137",
+      "lon": "10.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dessima",
+      "en": "Dessima",
+      "slug": "dessima"
+    },
+    "code": {
+      "id": "GAB003002044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.667",
+      "lon": "9.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diboussou",
+      "en": "Diboussou",
+      "slug": "diboussou"
+    },
+    "code": {
+      "id": "GAB003002045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.993",
+      "lon": "10.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dingui",
+      "en": "Dingui",
+      "slug": "dingui"
+    },
+    "code": {
+      "id": "GAB003002046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.6",
+      "lon": "10.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dyelessi",
+      "en": "Dyelessi",
+      "slug": "dyelessi"
+    },
+    "code": {
+      "id": "GAB003002047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.967",
+      "lon": "10.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Edzedzen II",
+      "en": "Edzedzen II",
+      "slug": "edzedzen-ii"
+    },
+    "code": {
+      "id": "GAB003002048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.383",
+      "lon": "10.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekoredo",
+      "en": "Ekoredo",
+      "slug": "ekoredo"
+    },
+    "code": {
+      "id": "GAB003002049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.666",
+      "lon": "10.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekoredor I",
+      "en": "Ekoredor I",
+      "slug": "ekoredor-i"
+    },
+    "code": {
+      "id": "GAB003002050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.666",
+      "lon": "10.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elombe",
+      "en": "Elombe",
+      "slug": "elombe"
+    },
+    "code": {
+      "id": "GAB003002051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.809",
+      "lon": "9.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elong-Eko",
+      "en": "Elong-Eko",
+      "slug": "elong-eko"
+    },
+    "code": {
+      "id": "GAB003002052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.529",
+      "lon": "9.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eloum",
+      "en": "Eloum",
+      "slug": "eloum"
+    },
+    "code": {
+      "id": "GAB003002053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.117",
+      "lon": "10.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Emvouhna",
+      "en": "Emvouhna",
+      "slug": "emvouhna"
+    },
+    "code": {
+      "id": "GAB003002054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.717",
+      "lon": "10.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Epanga",
+      "en": "Epanga",
+      "slug": "epanga"
+    },
+    "code": {
+      "id": "GAB003002056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.664",
+      "lon": "10.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eparga",
+      "en": "Eparga",
+      "slug": "eparga"
+    },
+    "code": {
+      "id": "GAB003002057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.664",
+      "lon": "10.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etouk",
+      "en": "Etouk",
+      "slug": "etouk"
+    },
+    "code": {
+      "id": "GAB003002058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.494",
+      "lon": "9.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evameyonga",
+      "en": "Evameyonga",
+      "slug": "evameyonga"
+    },
+    "code": {
+      "id": "GAB003002059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.45",
+      "lon": "10.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evoung-Voung",
+      "en": "Evoung-Voung",
+      "slug": "evoung-voung"
+    },
+    "code": {
+      "id": "GAB003002060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.367",
+      "lon": "10.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fala-Nzamata",
+      "en": "Fala-Nzamata",
+      "slug": "fala-nzamata"
+    },
+    "code": {
+      "id": "GAB003002061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.6",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fernan Vaz",
+      "en": "Fernan Vaz",
+      "slug": "fernan-vaz"
+    },
+    "code": {
+      "id": "GAB003002062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.418",
+      "lon": "10.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foulameyong",
+      "en": "Foulameyong",
+      "slug": "foulameyong"
+    },
+    "code": {
+      "id": "GAB003002063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.499",
+      "lon": "10.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gabeta",
+      "en": "Gabeta",
+      "slug": "gabeta"
+    },
+    "code": {
+      "id": "GAB003002064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.033",
+      "lon": "10.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Goudou-Fouala",
+      "en": "Goudou-Fouala",
+      "slug": "goudou-fouala"
+    },
+    "code": {
+      "id": "GAB003002065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.715",
+      "lon": "10.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Goundiman",
+      "en": "Goundiman",
+      "slug": "goundiman"
+    },
+    "code": {
+      "id": "GAB003002066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.691",
+      "lon": "9.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Goundimori",
+      "en": "Goundimori",
+      "slug": "goundimori"
+    },
+    "code": {
+      "id": "GAB003002067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.691",
+      "lon": "9.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iguendjo",
+      "en": "Iguendjo",
+      "slug": "iguendjo"
+    },
+    "code": {
+      "id": "GAB003002068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.842",
+      "lon": "9.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Issac",
+      "en": "Issac",
+      "slug": "issac"
+    },
+    "code": {
+      "id": "GAB003002069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.51",
+      "lon": "9.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Issinga",
+      "en": "Issinga",
+      "slug": "issinga"
+    },
+    "code": {
+      "id": "GAB003002070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.889",
+      "lon": "10.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Issoloue",
+      "en": "Issoloue",
+      "slug": "issoloue"
+    },
+    "code": {
+      "id": "GAB003002071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.827",
+      "lon": "9.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Joctane",
+      "en": "Joctane",
+      "slug": "joctane"
+    },
+    "code": {
+      "id": "GAB003002072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.836",
+      "lon": "10.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keri",
+      "en": "Keri",
+      "slug": "keri"
+    },
+    "code": {
+      "id": "GAB003002073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.751",
+      "lon": "10.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kerye",
+      "en": "Kerye",
+      "slug": "kerye"
+    },
+    "code": {
+      "id": "GAB003002074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.617",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koho-Bono",
+      "en": "Koho-Bono",
+      "slug": "koho-bono"
+    },
+    "code": {
+      "id": "GAB003002075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.483",
+      "lon": "10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouagna",
+      "en": "Kouagna",
+      "slug": "kouagna"
+    },
+    "code": {
+      "id": "GAB003002076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.733",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koula-Moutou",
+      "en": "Koula-Moutou",
+      "slug": "koula-moutou"
+    },
+    "code": {
+      "id": "GAB003002077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.717",
+      "lon": "10.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koungoua",
+      "en": "Koungoua",
+      "slug": "koungoua"
+    },
+    "code": {
+      "id": "GAB003002078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.52",
+      "lon": "10.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koungoule",
+      "en": "Koungoule",
+      "slug": "koungoule"
+    },
+    "code": {
+      "id": "GAB003002079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.52",
+      "lon": "10.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lambarene",
+      "en": "Lambarene",
+      "slug": "lambarene"
+    },
+    "code": {
+      "id": "GAB003002080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.699",
+      "lon": "10.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Londen",
+      "en": "Londen",
+      "slug": "londen"
+    },
+    "code": {
+      "id": "GAB003002081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.467",
+      "lon": "10.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Longoue",
+      "en": "Longoue",
+      "slug": "longoue"
+    },
+    "code": {
+      "id": "GAB003002082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.711",
+      "lon": "9.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabele",
+      "en": "Mabele",
+      "slug": "mabele"
+    },
+    "code": {
+      "id": "GAB003002083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.45",
+      "lon": "10.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madankogo",
+      "en": "Madankogo",
+      "slug": "madankogo"
+    },
+    "code": {
+      "id": "GAB003002084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.533",
+      "lon": "10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madankoyo",
+      "en": "Madankoyo",
+      "slug": "madankoyo"
+    },
+    "code": {
+      "id": "GAB003002085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.533",
+      "lon": "10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makokoue",
+      "en": "Makokoue",
+      "slug": "makokoue"
+    },
+    "code": {
+      "id": "GAB003002086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.477",
+      "lon": "10.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malari",
+      "en": "Malari",
+      "slug": "malari"
+    },
+    "code": {
+      "id": "GAB003002087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.517",
+      "lon": "10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malimba",
+      "en": "Malimba",
+      "slug": "malimba"
+    },
+    "code": {
+      "id": "GAB003002089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.85",
+      "lon": "10.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji",
+      "en": "Mandji",
+      "slug": "mandji"
+    },
+    "code": {
+      "id": "GAB003002090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.687",
+      "lon": "9.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mapouti",
+      "en": "Mapouti",
+      "slug": "mapouti"
+    },
+    "code": {
+      "id": "GAB003002091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.467",
+      "lon": "10.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massanga",
+      "en": "Massanga",
+      "slug": "massanga"
+    },
+    "code": {
+      "id": "GAB003002092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.45",
+      "lon": "10.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massika",
+      "en": "Massika",
+      "slug": "massika"
+    },
+    "code": {
+      "id": "GAB003002093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.822",
+      "lon": "10.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massouka",
+      "en": "Massouka",
+      "slug": "massouka"
+    },
+    "code": {
+      "id": "GAB003002094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.7",
+      "lon": "10.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayeliga",
+      "en": "Mayeliga",
+      "slug": "mayeliga"
+    },
+    "code": {
+      "id": "GAB003002095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.733",
+      "lon": "10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayengue",
+      "en": "Mayengue",
+      "slug": "mayengue"
+    },
+    "code": {
+      "id": "GAB003002096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.727",
+      "lon": "10.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbigou",
+      "en": "Mbigou",
+      "slug": "mbigou"
+    },
+    "code": {
+      "id": "GAB003002098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.895",
+      "lon": "10.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Melari II",
+      "en": "Melari II",
+      "slug": "melari-ii"
+    },
+    "code": {
+      "id": "GAB003002099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.629",
+      "lon": "10.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mempolo",
+      "en": "Mempolo",
+      "slug": "mempolo"
+    },
+    "code": {
+      "id": "GAB003002100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.833",
+      "lon": "10.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mesonkore",
+      "en": "Mesonkore",
+      "slug": "mesonkore"
+    },
+    "code": {
+      "id": "GAB003002101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.517",
+      "lon": "10.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002102",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfoua",
+      "en": "Mfoua",
+      "slug": "mfoua"
+    },
+    "code": {
+      "id": "GAB003002102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.367",
+      "lon": "10.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimbalimbe",
+      "en": "Mimbalimbe",
+      "slug": "mimbalimbe"
+    },
+    "code": {
+      "id": "GAB003002103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.883",
+      "lon": "10.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mintone",
+      "en": "Mintone",
+      "slug": "mintone"
+    },
+    "code": {
+      "id": "GAB003002104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.638",
+      "lon": "10.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mission Protestante de Samkita",
+      "en": "Mission Protestante de Samkita",
+      "slug": "mission-protestante-de-samkita"
+    },
+    "code": {
+      "id": "GAB003002105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.405",
+      "lon": "10.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mittone",
+      "en": "Mittone",
+      "slug": "mittone"
+    },
+    "code": {
+      "id": "GAB003002106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.638",
+      "lon": "10.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002108",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mora",
+      "en": "Mora",
+      "slug": "mora"
+    },
+    "code": {
+      "id": "GAB003002108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.983",
+      "lon": "10.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougnigou",
+      "en": "Mougnigou",
+      "slug": "mougnigou"
+    },
+    "code": {
+      "id": "GAB003002109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.783",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002110",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussa-Moukougou",
+      "en": "Moussa-Moukougou",
+      "slug": "moussa-moukougou"
+    },
+    "code": {
+      "id": "GAB003002110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.665",
+      "lon": "10.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouteti",
+      "en": "Mouteti",
+      "slug": "mouteti"
+    },
+    "code": {
+      "id": "GAB003002112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.772",
+      "lon": "10.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvanzama",
+      "en": "Mvanzama",
+      "slug": "mvanzama"
+    },
+    "code": {
+      "id": "GAB003002113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.891",
+      "lon": "10.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002114",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nazareth",
+      "en": "Nazareth",
+      "slug": "nazareth"
+    },
+    "code": {
+      "id": "GAB003002114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.533",
+      "lon": "10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002115",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndendi Gabon",
+      "en": "Ndendi Gabon",
+      "slug": "ndendi-gabon"
+    },
+    "code": {
+      "id": "GAB003002115",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.8",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002116",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndjambalika",
+      "en": "Ndjambalika",
+      "slug": "ndjambalika"
+    },
+    "code": {
+      "id": "GAB003002116",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.833",
+      "lon": "10.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002117",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndong",
+      "en": "Ndong",
+      "slug": "ndong"
+    },
+    "code": {
+      "id": "GAB003002117",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.704",
+      "lon": "10.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002118",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndouma Ntang",
+      "en": "Ndouma Ntang",
+      "slug": "ndouma-ntang"
+    },
+    "code": {
+      "id": "GAB003002118",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.584",
+      "lon": "10.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002119",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndoumantana",
+      "en": "Ndoumantana",
+      "slug": "ndoumantana"
+    },
+    "code": {
+      "id": "GAB003002119",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.584",
+      "lon": "10.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002120",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nendja",
+      "en": "Nendja",
+      "slug": "nendja"
+    },
+    "code": {
+      "id": "GAB003002120",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.583",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002121",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Neumbedouma",
+      "en": "Neumbedouma",
+      "slug": "neumbedouma"
+    },
+    "code": {
+      "id": "GAB003002121",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.925",
+      "lon": "10.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002122",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngole",
+      "en": "Ngole",
+      "slug": "ngole"
+    },
+    "code": {
+      "id": "GAB003002122",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.834",
+      "lon": "10.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002123",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngomo",
+      "en": "Ngomo",
+      "slug": "ngomo"
+    },
+    "code": {
+      "id": "GAB003002123",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.839",
+      "lon": "9.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002124",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngong",
+      "en": "Ngong",
+      "slug": "ngong"
+    },
+    "code": {
+      "id": "GAB003002124",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.704",
+      "lon": "10.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002125",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoss",
+      "en": "Ngoss",
+      "slug": "ngoss"
+    },
+    "code": {
+      "id": "GAB003002125",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.5",
+      "lon": "10.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002126",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngouabilag",
+      "en": "Ngouabilag",
+      "slug": "ngouabilag"
+    },
+    "code": {
+      "id": "GAB003002126",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.358",
+      "lon": "10.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002127",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngouabilaga",
+      "en": "Ngouabilaga",
+      "slug": "ngouabilaga"
+    },
+    "code": {
+      "id": "GAB003002127",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.358",
+      "lon": "10.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002128",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoudoufala",
+      "en": "Ngoudoufala",
+      "slug": "ngoudoufala"
+    },
+    "code": {
+      "id": "GAB003002128",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.715",
+      "lon": "10.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002129",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkangue",
+      "en": "Nkangue",
+      "slug": "nkangue"
+    },
+    "code": {
+      "id": "GAB003002129",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.876",
+      "lon": "10.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002130",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkenga-Mbya",
+      "en": "Nkenga-Mbya",
+      "slug": "nkenga-mbya"
+    },
+    "code": {
+      "id": "GAB003002130",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.983",
+      "lon": "10.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002131",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoule",
+      "en": "Nkoule",
+      "slug": "nkoule"
+    },
+    "code": {
+      "id": "GAB003002131",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.4",
+      "lon": "10.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002132",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoumiti",
+      "en": "Nkoumiti",
+      "slug": "nkoumiti"
+    },
+    "code": {
+      "id": "GAB003002132",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.517",
+      "lon": "10.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002133",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nlovila",
+      "en": "Nlovila",
+      "slug": "nlovila"
+    },
+    "code": {
+      "id": "GAB003002133",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.067",
+      "lon": "9.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002134",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntambe",
+      "en": "Ntambe",
+      "slug": "ntambe"
+    },
+    "code": {
+      "id": "GAB003002134",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.027",
+      "lon": "10.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002135",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntchatanga",
+      "en": "Ntchatanga",
+      "slug": "ntchatanga"
+    },
+    "code": {
+      "id": "GAB003002135",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.826",
+      "lon": "10.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002136",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntsangou-Dimbou",
+      "en": "Ntsangou-Dimbou",
+      "slug": "ntsangou-dimbou"
+    },
+    "code": {
+      "id": "GAB003002136",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.75",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002137",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntsap",
+      "en": "Ntsap",
+      "slug": "ntsap"
+    },
+    "code": {
+      "id": "GAB003002137",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.433",
+      "lon": "10.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002138",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzamakelene",
+      "en": "Nzamakelene",
+      "slug": "nzamakelene"
+    },
+    "code": {
+      "id": "GAB003002138",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.417",
+      "lon": "10.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002139",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzamata",
+      "en": "Nzamata",
+      "slug": "nzamata"
+    },
+    "code": {
+      "id": "GAB003002139",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.998",
+      "lon": "10.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002142",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzebe",
+      "en": "Nzebe",
+      "slug": "nzebe"
+    },
+    "code": {
+      "id": "GAB003002142",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.6",
+      "lon": "10.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002143",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoghi",
+      "en": "Nzoghi",
+      "slug": "nzoghi"
+    },
+    "code": {
+      "id": "GAB003002143",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.533",
+      "lon": "10.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002144",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzognimintana",
+      "en": "Nzognimintana",
+      "slug": "nzognimintana"
+    },
+    "code": {
+      "id": "GAB003002144",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.608",
+      "lon": "10.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002145",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzogue Mintang",
+      "en": "Nzogue Mintang",
+      "slug": "nzogue-mintang"
+    },
+    "code": {
+      "id": "GAB003002145",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.608",
+      "lon": "10.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002146",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzongomintangui",
+      "en": "Nzongomintangui",
+      "slug": "nzongomintangui"
+    },
+    "code": {
+      "id": "GAB003002146",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.05",
+      "lon": "10.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002147",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obenzi I",
+      "en": "Obenzi I",
+      "slug": "obenzi-i"
+    },
+    "code": {
+      "id": "GAB003002147",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.817",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002148",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obenzi II",
+      "en": "Obenzi II",
+      "slug": "obenzi-ii"
+    },
+    "code": {
+      "id": "GAB003002148",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.883",
+      "lon": "10.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002149",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oberting",
+      "en": "Oberting",
+      "slug": "oberting"
+    },
+    "code": {
+      "id": "GAB003002149",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.633",
+      "lon": "9.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002151",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Odimba",
+      "en": "Odimba",
+      "slug": "odimba"
+    },
+    "code": {
+      "id": "GAB003002151",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.139",
+      "lon": "10.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002152",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ogoumalanga",
+      "en": "Ogoumalanga",
+      "slug": "ogoumalanga"
+    },
+    "code": {
+      "id": "GAB003002152",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.717",
+      "lon": "9.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002153",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ompomouena",
+      "en": "Ompomouena",
+      "slug": "ompomouena"
+    },
+    "code": {
+      "id": "GAB003002153",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.842",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002154",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oronga",
+      "en": "Oronga",
+      "slug": "oronga"
+    },
+    "code": {
+      "id": "GAB003002154",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.835",
+      "lon": "9.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002155",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Osso",
+      "en": "Osso",
+      "slug": "osso"
+    },
+    "code": {
+      "id": "GAB003002155",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.4",
+      "lon": "10.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002156",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Otanda",
+      "en": "Otanda",
+      "slug": "otanda"
+    },
+    "code": {
+      "id": "GAB003002156",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.65",
+      "lon": "10.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002157",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ouongue",
+      "en": "Ouongue",
+      "slug": "ouongue"
+    },
+    "code": {
+      "id": "GAB003002157",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.833",
+      "lon": "9.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002158",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Paga",
+      "en": "Paga",
+      "slug": "paga"
+    },
+    "code": {
+      "id": "GAB003002158",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.742",
+      "lon": "10.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002159",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Paris",
+      "en": "Paris",
+      "slug": "paris"
+    },
+    "code": {
+      "id": "GAB003002159",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.567",
+      "lon": "10"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002161",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Petit Paris",
+      "en": "Petit Paris",
+      "slug": "petit-paris"
+    },
+    "code": {
+      "id": "GAB003002161",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.717",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002162",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Petite Elise",
+      "en": "Petite Elise",
+      "slug": "petite-elise"
+    },
+    "code": {
+      "id": "GAB003002162",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.807",
+      "lon": "9.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002163",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Petite Silang",
+      "en": "Petite Silang",
+      "slug": "petite-silang"
+    },
+    "code": {
+      "id": "GAB003002163",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.667",
+      "lon": "9.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002164",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Plus Tard",
+      "en": "Plus Tard",
+      "slug": "plus-tard"
+    },
+    "code": {
+      "id": "GAB003002164",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.756",
+      "lon": "9.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002165",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Plustard",
+      "en": "Plustard",
+      "slug": "plustard"
+    },
+    "code": {
+      "id": "GAB003002165",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.756",
+      "lon": "9.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002166",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pointe-Noire",
+      "en": "Pointe-Noire",
+      "slug": "pointe-noire"
+    },
+    "code": {
+      "id": "GAB003002166",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.978",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002167",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rechenman",
+      "en": "Rechenman",
+      "slug": "rechenman"
+    },
+    "code": {
+      "id": "GAB003002167",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.683",
+      "lon": "10.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002168",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Rinanzala",
+      "en": "Rinanzala",
+      "slug": "rinanzala"
+    },
+    "code": {
+      "id": "GAB003002168",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.7",
+      "lon": "10"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002169",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saint Paul",
+      "en": "Saint Paul",
+      "slug": "saint-paul"
+    },
+    "code": {
+      "id": "GAB003002169",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.7",
+      "lon": "9.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002172",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saint-Francois",
+      "en": "Saint-Francois",
+      "slug": "saint-francois"
+    },
+    "code": {
+      "id": "GAB003002172",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.757",
+      "lon": "9.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002173",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saint-Louis",
+      "en": "Saint-Louis",
+      "slug": "saint-louis"
+    },
+    "code": {
+      "id": "GAB003002173",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.129",
+      "lon": "10.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002174",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saint-Paul",
+      "en": "Saint-Paul",
+      "slug": "saint-paul"
+    },
+    "code": {
+      "id": "GAB003002174",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.7",
+      "lon": "9.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002170",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sainte Benoit",
+      "en": "Sainte Benoit",
+      "slug": "sainte-benoit"
+    },
+    "code": {
+      "id": "GAB003002170",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.833",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002171",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sainte-Croix",
+      "en": "Sainte-Croix",
+      "slug": "sainte-croix"
+    },
+    "code": {
+      "id": "GAB003002171",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.55",
+      "lon": "10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002175",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salangoue",
+      "en": "Salangoue",
+      "slug": "salangoue"
+    },
+    "code": {
+      "id": "GAB003002175",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.905",
+      "lon": "10.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002176",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Samkita",
+      "en": "Samkita",
+      "slug": "samkita"
+    },
+    "code": {
+      "id": "GAB003002176",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.405",
+      "lon": "10.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002177",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sangoua Boma",
+      "en": "Sangoua Boma",
+      "slug": "sangoua-boma"
+    },
+    "code": {
+      "id": "GAB003002177",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.833",
+      "lon": "10.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002178",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Siran-Zangou",
+      "en": "Siran-Zangou",
+      "slug": "siran-zangou"
+    },
+    "code": {
+      "id": "GAB003002178",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.7",
+      "lon": "9.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002179",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tamba",
+      "en": "Tamba",
+      "slug": "tamba"
+    },
+    "code": {
+      "id": "GAB003002179",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.027",
+      "lon": "10.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002180",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tchad",
+      "en": "Tchad",
+      "slug": "tchad"
+    },
+    "code": {
+      "id": "GAB003002180",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.912",
+      "lon": "10.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002181",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tchouka",
+      "en": "Tchouka",
+      "slug": "tchouka"
+    },
+    "code": {
+      "id": "GAB003002181",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.734",
+      "lon": "10.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB003002182",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Viafe",
+      "en": "Viafe",
+      "slug": "viafe"
+    },
+    "code": {
+      "id": "GAB003002182",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB003002",
+      "level": 2,
+      "name": {
+        "local": "Ogooue et Lacs",
+        "en": "Ogooue et Lacs",
+        "slug": "ogooue-et-lacs"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB003",
+        "level": 1,
+        "name": {
+          "local": "Moyen-Ogooue",
+          "en": "Moyen-Ogooue",
+          "slug": "moyen-ogooue"
+        }
+      },
+      {
+        "id": "GAB003002",
+        "level": 2,
+        "name": {
+          "local": "Ogooue et Lacs",
+          "en": "Ogooue et Lacs",
+          "slug": "ogooue-et-lacs"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.6",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

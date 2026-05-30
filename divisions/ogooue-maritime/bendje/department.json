@@ -1,0 +1,47 @@
+{
+  "id": "GAB008001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bendje",
+    "en": "Bendje",
+    "slug": "bendje"
+  },
+  "code": {
+    "id": "GAB008001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB008",
+    "level": 1,
+    "name": {
+      "local": "Ogooue-Maritime",
+      "en": "Ogooue-Maritime",
+      "slug": "ogooue-maritime"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB008",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Maritime",
+        "en": "Ogooue-Maritime",
+        "slug": "ogooue-maritime"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 87
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.883",
+    "lon": "9.302"
+  },
+  "metadata": {},
+  "source": {}
+}

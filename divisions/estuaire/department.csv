@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.settlement,geo.lat,geo.lon
+GAB001001,Komo,Komo,komo,GAB001001,177,0.277,10.261
+GAB001002,Komo-Mondah,Komo-Mondah,komo-mondah,GAB001002,140,0.271,9.504
+GAB001004,Libreville,Libreville,libreville,GAB001004,43,0.377,9.493
+GAB001003,Noya,Noya,noya,GAB001003,118,0.788,9.81

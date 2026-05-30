@@ -1,0 +1,3080 @@
+[
+  {
+    "id": "GAB007004001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boucimbi",
+      "en": "Boucimbi",
+      "slug": "boucimbi"
+    },
+    "code": {
+      "id": "GAB007004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.133",
+      "lon": "11.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boudela",
+      "en": "Boudela",
+      "slug": "boudela"
+    },
+    "code": {
+      "id": "GAB007004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.007",
+      "lon": "12.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boundgi",
+      "en": "Boundgi",
+      "slug": "boundgi"
+    },
+    "code": {
+      "id": "GAB007004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.994",
+      "lon": "11.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boupounza",
+      "en": "Boupounza",
+      "slug": "boupounza"
+    },
+    "code": {
+      "id": "GAB007004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.284",
+      "lon": "11.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Comi",
+      "en": "Comi",
+      "slug": "comi"
+    },
+    "code": {
+      "id": "GAB007004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.961",
+      "lon": "11.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dimbou",
+      "en": "Dimbou",
+      "slug": "dimbou"
+    },
+    "code": {
+      "id": "GAB007004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "11.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dingui",
+      "en": "Dingui",
+      "slug": "dingui"
+    },
+    "code": {
+      "id": "GAB007004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "11.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divinda",
+      "en": "Divinda",
+      "slug": "divinda"
+    },
+    "code": {
+      "id": "GAB007004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.303",
+      "lon": "11.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Domassi",
+      "en": "Domassi",
+      "slug": "domassi"
+    },
+    "code": {
+      "id": "GAB007004010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.999",
+      "lon": "11.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dubendji",
+      "en": "Dubendji",
+      "slug": "dubendji"
+    },
+    "code": {
+      "id": "GAB007004011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.031",
+      "lon": "11.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idimba",
+      "en": "Idimba",
+      "slug": "idimba"
+    },
+    "code": {
+      "id": "GAB007004012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "11.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Igouma",
+      "en": "Igouma",
+      "slug": "igouma"
+    },
+    "code": {
+      "id": "GAB007004013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "11.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Igoumbi",
+      "en": "Igoumbi",
+      "slug": "igoumbi"
+    },
+    "code": {
+      "id": "GAB007004014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.1",
+      "lon": "11.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ikanga",
+      "en": "Ikanga",
+      "slug": "ikanga"
+    },
+    "code": {
+      "id": "GAB007004015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.1",
+      "lon": "11.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ikembele",
+      "en": "Ikembele",
+      "slug": "ikembele"
+    },
+    "code": {
+      "id": "GAB007004016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.017",
+      "lon": "11.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Inzamba",
+      "en": "Inzamba",
+      "slug": "inzamba"
+    },
+    "code": {
+      "id": "GAB007004018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.017",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Inzambo",
+      "en": "Inzambo",
+      "slug": "inzambo"
+    },
+    "code": {
+      "id": "GAB007004019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "11.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Inzombo",
+      "en": "Inzombo",
+      "slug": "inzombo"
+    },
+    "code": {
+      "id": "GAB007004020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.067",
+      "lon": "11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iouasso I",
+      "en": "Iouasso I",
+      "slug": "iouasso-i"
+    },
+    "code": {
+      "id": "GAB007004021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.05",
+      "lon": "11.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iouasso II",
+      "en": "Iouasso II",
+      "slug": "iouasso-ii"
+    },
+    "code": {
+      "id": "GAB007004022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.033",
+      "lon": "11.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iouatchi",
+      "en": "Iouatchi",
+      "slug": "iouatchi"
+    },
+    "code": {
+      "id": "GAB007004023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "11.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ivicou",
+      "en": "Ivicou",
+      "slug": "ivicou"
+    },
+    "code": {
+      "id": "GAB007004024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.17",
+      "lon": "11.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kamalete",
+      "en": "Kamalete",
+      "slug": "kamalete"
+    },
+    "code": {
+      "id": "GAB007004025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.719",
+      "lon": "11.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lessasso",
+      "en": "Lessasso",
+      "slug": "lessasso"
+    },
+    "code": {
+      "id": "GAB007004026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.996",
+      "lon": "11.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamagnia",
+      "en": "Mamagnia",
+      "slug": "mamagnia"
+    },
+    "code": {
+      "id": "GAB007004027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.133",
+      "lon": "11.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji",
+      "en": "Mandji",
+      "slug": "mandji"
+    },
+    "code": {
+      "id": "GAB007004028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.99",
+      "lon": "11.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massiya",
+      "en": "Massiya",
+      "slug": "massiya"
+    },
+    "code": {
+      "id": "GAB007004029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.017",
+      "lon": "11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matchimanangani",
+      "en": "Matchimanangani",
+      "slug": "matchimanangani"
+    },
+    "code": {
+      "id": "GAB007004030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matchinamana",
+      "en": "Matchinamana",
+      "slug": "matchinamana"
+    },
+    "code": {
+      "id": "GAB007004031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayabi",
+      "en": "Mayabi",
+      "slug": "mayabi"
+    },
+    "code": {
+      "id": "GAB007004032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.1",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayingue",
+      "en": "Mayingue",
+      "slug": "mayingue"
+    },
+    "code": {
+      "id": "GAB007004033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.231",
+      "lon": "11.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbigou",
+      "en": "Mbigou",
+      "slug": "mbigou"
+    },
+    "code": {
+      "id": "GAB007004034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.1",
+      "lon": "11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbingal",
+      "en": "Mbingal",
+      "slug": "mbingal"
+    },
+    "code": {
+      "id": "GAB007004035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.983",
+      "lon": "11.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbougou",
+      "en": "Mbougou",
+      "slug": "mbougou"
+    },
+    "code": {
+      "id": "GAB007004036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "11.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mogondzo",
+      "en": "Mogondzo",
+      "slug": "mogondzo"
+    },
+    "code": {
+      "id": "GAB007004037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.925",
+      "lon": "11.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mongadi",
+      "en": "Mongadi",
+      "slug": "mongadi"
+    },
+    "code": {
+      "id": "GAB007004038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.25",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mopoumba",
+      "en": "Mopoumba",
+      "slug": "mopoumba"
+    },
+    "code": {
+      "id": "GAB007004039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.133",
+      "lon": "12.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougombo",
+      "en": "Mougombo",
+      "slug": "mougombo"
+    },
+    "code": {
+      "id": "GAB007004040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.194",
+      "lon": "12.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougomou",
+      "en": "Mougomou",
+      "slug": "mougomou"
+    },
+    "code": {
+      "id": "GAB007004041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.35",
+      "lon": "12.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougoumou",
+      "en": "Mougoumou",
+      "slug": "mougoumou"
+    },
+    "code": {
+      "id": "GAB007004042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.033",
+      "lon": "11.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouloundou",
+      "en": "Mouloundou",
+      "slug": "mouloundou"
+    },
+    "code": {
+      "id": "GAB007004043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.017",
+      "lon": "12.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mounongo",
+      "en": "Mounongo",
+      "slug": "mounongo"
+    },
+    "code": {
+      "id": "GAB007004044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "11.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moupoupa",
+      "en": "Moupoupa",
+      "slug": "moupoupa"
+    },
+    "code": {
+      "id": "GAB007004045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "11.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndengue",
+      "en": "Ndengue",
+      "slug": "ndengue"
+    },
+    "code": {
+      "id": "GAB007004046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.218",
+      "lon": "11.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndinghi",
+      "en": "Ndinghi",
+      "slug": "ndinghi"
+    },
+    "code": {
+      "id": "GAB007004047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.218",
+      "lon": "11.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndingui",
+      "en": "Ndingui",
+      "slug": "ndingui"
+    },
+    "code": {
+      "id": "GAB007004048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.218",
+      "lon": "11.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoasso",
+      "en": "Ngoasso",
+      "slug": "ngoasso"
+    },
+    "code": {
+      "id": "GAB007004049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.3",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niamba",
+      "en": "Niamba",
+      "slug": "niamba"
+    },
+    "code": {
+      "id": "GAB007004050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "12.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Noumbou",
+      "en": "Noumbou",
+      "slug": "noumbou"
+    },
+    "code": {
+      "id": "GAB007004051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.067",
+      "lon": "11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pata",
+      "en": "Pata",
+      "slug": "pata"
+    },
+    "code": {
+      "id": "GAB007004052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.991",
+      "lon": "11.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ramba",
+      "en": "Ramba",
+      "slug": "ramba"
+    },
+    "code": {
+      "id": "GAB007004053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.076",
+      "lon": "11.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Touassi",
+      "en": "Touassi",
+      "slug": "touassi"
+    },
+    "code": {
+      "id": "GAB007004054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "11.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsambalingue",
+      "en": "Tsambalingue",
+      "slug": "tsambalingue"
+    },
+    "code": {
+      "id": "GAB007004055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.017",
+      "lon": "12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsambo",
+      "en": "Tsambo",
+      "slug": "tsambo"
+    },
+    "code": {
+      "id": "GAB007004056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "11.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsambou",
+      "en": "Tsambou",
+      "slug": "tsambou"
+    },
+    "code": {
+      "id": "GAB007004057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "11.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsengue",
+      "en": "Tsengue",
+      "slug": "tsengue"
+    },
+    "code": {
+      "id": "GAB007004058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB007004059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsingui",
+      "en": "Tsingui",
+      "slug": "tsingui"
+    },
+    "code": {
+      "id": "GAB007004059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB007004",
+      "level": 2,
+      "name": {
+        "local": "Offoue-Onoye",
+        "en": "Offoue-Onoye",
+        "slug": "offoue-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB007",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Lolo",
+          "en": "Ogooue-Lolo",
+          "slug": "ogooue-lolo"
+        }
+      },
+      {
+        "id": "GAB007004",
+        "level": 2,
+        "name": {
+          "local": "Offoue-Onoye",
+          "en": "Offoue-Onoye",
+          "slug": "offoue-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.217",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

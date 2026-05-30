@@ -1,0 +1,47 @@
+{
+  "id": "GAB006002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Lope",
+    "en": "Lope",
+    "slug": "lope"
+  },
+  "code": {
+    "id": "GAB006002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB006",
+    "level": 1,
+    "name": {
+      "local": "Ogooue-Ivindo",
+      "en": "Ogooue-Ivindo",
+      "slug": "ogooue-ivindo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB006",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Ivindo",
+        "en": "Ogooue-Ivindo",
+        "slug": "ogooue-ivindo"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 95
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.086",
+    "lon": "11.845"
+  },
+  "metadata": {},
+  "source": {}
+}

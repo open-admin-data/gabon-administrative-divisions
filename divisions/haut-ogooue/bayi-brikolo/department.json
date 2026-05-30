@@ -1,0 +1,47 @@
+{
+  "id": "GAB002011",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bayi-Brikolo",
+    "en": "Bayi-Brikolo",
+    "slug": "bayi-brikolo"
+  },
+  "code": {
+    "id": "GAB002011",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB002",
+    "level": 1,
+    "name": {
+      "local": "Haut-Ogooue",
+      "en": "Haut-Ogooue",
+      "slug": "haut-ogooue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.5",
+    "lon": "14.075"
+  },
+  "metadata": {},
+  "source": {}
+}

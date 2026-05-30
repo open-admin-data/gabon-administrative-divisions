@@ -1,0 +1,29 @@
+# Gabon Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Nyanga](https://github.com/open-admin-data/gabon-administrative-divisions/blob/main/docs/llms-full/nyanga.txt) — 6 departments, 389 settlements
+- [Ngounie](https://github.com/open-admin-data/gabon-administrative-divisions/blob/main/docs/llms-full/ngounie.txt) — 9 departments, 816 settlements
+- [Ogooue-Maritime](https://github.com/open-admin-data/gabon-administrative-divisions/blob/main/docs/llms-full/ogooue-maritime.txt) — 3 departments, 261 settlements
+- [Haut-Ogooue](https://github.com/open-admin-data/gabon-administrative-divisions/blob/main/docs/llms-full/haut-ogooue.txt) — 11 departments, 364 settlements
+- [Moyen-Ogooue](https://github.com/open-admin-data/gabon-administrative-divisions/blob/main/docs/llms-full/moyen-ogooue.txt) — 2 departments, 306 settlements
+- [Ogooue-Lolo](https://github.com/open-admin-data/gabon-administrative-divisions/blob/main/docs/llms-full/ogooue-lolo.txt) — 4 departments, 438 settlements
+- [Estuaire](https://github.com/open-admin-data/gabon-administrative-divisions/blob/main/docs/llms-full/estuaire.txt) — 4 departments, 478 settlements
+- [Ogooue-Ivindo](https://github.com/open-admin-data/gabon-administrative-divisions/blob/main/docs/llms-full/ogooue-ivindo.txt) — 4 departments, 350 settlements
+- [Woleu-Ntem](https://github.com/open-admin-data/gabon-administrative-divisions/blob/main/docs/llms-full/woleu-ntem.txt) — 5 departments, 790 settlements
+
+## Summary
+
+| Province | Departments | Settlements | 
+|---|---|---|
+| Nyanga | 6 | 389 | 
+| Ngounie | 9 | 816 | 
+| Ogooue-Maritime | 3 | 261 | 
+| Haut-Ogooue | 11 | 364 | 
+| Moyen-Ogooue | 2 | 306 | 
+| Ogooue-Lolo | 4 | 438 | 
+| Estuaire | 4 | 478 | 
+| Ogooue-Ivindo | 4 | 350 | 
+| Woleu-Ntem | 5 | 790 | 

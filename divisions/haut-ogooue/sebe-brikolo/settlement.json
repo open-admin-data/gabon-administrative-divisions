@@ -1,0 +1,3512 @@
+[
+  {
+    "id": "GAB002010001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aboto",
+      "en": "Aboto",
+      "slug": "aboto"
+    },
+    "code": {
+      "id": "GAB002010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.783",
+      "lon": "13.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akaraba",
+      "en": "Akaraba",
+      "slug": "akaraba"
+    },
+    "code": {
+      "id": "GAB002010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.019",
+      "lon": "13.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akoki",
+      "en": "Akoki",
+      "slug": "akoki"
+    },
+    "code": {
+      "id": "GAB002010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.7",
+      "lon": "13.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akouaka",
+      "en": "Akouaka",
+      "slug": "akouaka"
+    },
+    "code": {
+      "id": "GAB002010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.4",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alanga I",
+      "en": "Alanga I",
+      "slug": "alanga-i"
+    },
+    "code": {
+      "id": "GAB002010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.762",
+      "lon": "13.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alanga II",
+      "en": "Alanga II",
+      "slug": "alanga-ii"
+    },
+    "code": {
+      "id": "GAB002010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.817",
+      "lon": "13.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alouma",
+      "en": "Alouma",
+      "slug": "alouma"
+    },
+    "code": {
+      "id": "GAB002010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.426",
+      "lon": "13.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Apinda",
+      "en": "Apinda",
+      "slug": "apinda"
+    },
+    "code": {
+      "id": "GAB002010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.367",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atongo",
+      "en": "Atongo",
+      "slug": "atongo"
+    },
+    "code": {
+      "id": "GAB002010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.752",
+      "lon": "13.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bandegue",
+      "en": "Bandegue",
+      "slug": "bandegue"
+    },
+    "code": {
+      "id": "GAB002010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.083",
+      "lon": "13.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bomo Komo I",
+      "en": "Bomo Komo I",
+      "slug": "bomo-komo-i"
+    },
+    "code": {
+      "id": "GAB002010011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.783",
+      "lon": "13.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bomo Komo II",
+      "en": "Bomo Komo II",
+      "slug": "bomo-komo-ii"
+    },
+    "code": {
+      "id": "GAB002010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.8",
+      "lon": "13.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouala",
+      "en": "Bouala",
+      "slug": "bouala"
+    },
+    "code": {
+      "id": "GAB002010013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.824",
+      "lon": "13.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekala",
+      "en": "Ekala",
+      "slug": "ekala"
+    },
+    "code": {
+      "id": "GAB002010014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.69",
+      "lon": "13.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekaye",
+      "en": "Ekaye",
+      "slug": "ekaye"
+    },
+    "code": {
+      "id": "GAB002010015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.022",
+      "lon": "13.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eleko",
+      "en": "Eleko",
+      "slug": "eleko"
+    },
+    "code": {
+      "id": "GAB002010016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.267",
+      "lon": "13.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Engoumou",
+      "en": "Engoumou",
+      "slug": "engoumou"
+    },
+    "code": {
+      "id": "GAB002010017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.688",
+      "lon": "13.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kara",
+      "en": "Kara",
+      "slug": "kara"
+    },
+    "code": {
+      "id": "GAB002010018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1",
+      "lon": "13.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebaladouba",
+      "en": "Lebaladouba",
+      "slug": "lebaladouba"
+    },
+    "code": {
+      "id": "GAB002010019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.727",
+      "lon": "13.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebinga I",
+      "en": "Lebinga I",
+      "slug": "lebinga-i"
+    },
+    "code": {
+      "id": "GAB002010020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.683",
+      "lon": "13.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebiri",
+      "en": "Lebiri",
+      "slug": "lebiri"
+    },
+    "code": {
+      "id": "GAB002010021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.958",
+      "lon": "13.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekila",
+      "en": "Lekila",
+      "slug": "lekila"
+    },
+    "code": {
+      "id": "GAB002010022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.982",
+      "lon": "13.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leklla",
+      "en": "Leklla",
+      "slug": "leklla"
+    },
+    "code": {
+      "id": "GAB002010023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.982",
+      "lon": "13.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leoinga II",
+      "en": "Leoinga II",
+      "slug": "leoinga-ii"
+    },
+    "code": {
+      "id": "GAB002010024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.65",
+      "lon": "13.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Letoubou",
+      "en": "Letoubou",
+      "slug": "letoubou"
+    },
+    "code": {
+      "id": "GAB002010025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.383",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Longa",
+      "en": "Longa",
+      "slug": "longa"
+    },
+    "code": {
+      "id": "GAB002010026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.247",
+      "lon": "13.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makatamagoye",
+      "en": "Makatamagoye",
+      "slug": "makatamagoye"
+    },
+    "code": {
+      "id": "GAB002010027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.283",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbomo",
+      "en": "Mbomo",
+      "slug": "mbomo"
+    },
+    "code": {
+      "id": "GAB002010028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.317",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbounga",
+      "en": "Mbounga",
+      "slug": "mbounga"
+    },
+    "code": {
+      "id": "GAB002010029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.901",
+      "lon": "13.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mina",
+      "en": "Mina",
+      "slug": "mina"
+    },
+    "code": {
+      "id": "GAB002010030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.388",
+      "lon": "13.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngaina",
+      "en": "Ngaina",
+      "slug": "ngaina"
+    },
+    "code": {
+      "id": "GAB002010031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.483",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoma",
+      "en": "Ngoma",
+      "slug": "ngoma"
+    },
+    "code": {
+      "id": "GAB002010032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.021",
+      "lon": "13.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obili",
+      "en": "Obili",
+      "slug": "obili"
+    },
+    "code": {
+      "id": "GAB002010034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.666",
+      "lon": "13.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Odzala",
+      "en": "Odzala",
+      "slug": "odzala"
+    },
+    "code": {
+      "id": "GAB002010035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.335",
+      "lon": "13.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okandja",
+      "en": "Okandja",
+      "slug": "okandja"
+    },
+    "code": {
+      "id": "GAB002010036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.655",
+      "lon": "13.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okila",
+      "en": "Okila",
+      "slug": "okila"
+    },
+    "code": {
+      "id": "GAB002010037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.066",
+      "lon": "13.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okondi",
+      "en": "Okondi",
+      "slug": "okondi"
+    },
+    "code": {
+      "id": "GAB002010038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.655",
+      "lon": "13.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okondja",
+      "en": "Okondja",
+      "slug": "okondja"
+    },
+    "code": {
+      "id": "GAB002010039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.655",
+      "lon": "13.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okoumbi",
+      "en": "Okoumbi",
+      "slug": "okoumbi"
+    },
+    "code": {
+      "id": "GAB002010040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.732",
+      "lon": "13.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Olongo",
+      "en": "Olongo",
+      "slug": "olongo"
+    },
+    "code": {
+      "id": "GAB002010041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.617",
+      "lon": "13.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Olongo II",
+      "en": "Olongo II",
+      "slug": "olongo-ii"
+    },
+    "code": {
+      "id": "GAB002010042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.583",
+      "lon": "14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Olounga",
+      "en": "Olounga",
+      "slug": "olounga"
+    },
+    "code": {
+      "id": "GAB002010043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.893",
+      "lon": "13.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Omoana",
+      "en": "Omoana",
+      "slug": "omoana"
+    },
+    "code": {
+      "id": "GAB002010044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.35",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ondili",
+      "en": "Ondili",
+      "slug": "ondili"
+    },
+    "code": {
+      "id": "GAB002010045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.594",
+      "lon": "13.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ondzeye",
+      "en": "Ondzeye",
+      "slug": "ondzeye"
+    },
+    "code": {
+      "id": "GAB002010046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.739",
+      "lon": "13.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ongouangoubou",
+      "en": "Ongouangoubou",
+      "slug": "ongouangoubou"
+    },
+    "code": {
+      "id": "GAB002010047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.806",
+      "lon": "13.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Onia",
+      "en": "Onia",
+      "slug": "onia"
+    },
+    "code": {
+      "id": "GAB002010048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.967",
+      "lon": "13.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Opakelle",
+      "en": "Opakelle",
+      "slug": "opakelle"
+    },
+    "code": {
+      "id": "GAB002010049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.333",
+      "lon": "13.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Opinda",
+      "en": "Opinda",
+      "slug": "opinda"
+    },
+    "code": {
+      "id": "GAB002010050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.367",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Opoungou",
+      "en": "Opoungou",
+      "slug": "opoungou"
+    },
+    "code": {
+      "id": "GAB002010051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.84",
+      "lon": "13.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ossele",
+      "en": "Ossele",
+      "slug": "ossele"
+    },
+    "code": {
+      "id": "GAB002010052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.95",
+      "lon": "13.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ossiandjobo",
+      "en": "Ossiandjobo",
+      "slug": "ossiandjobo"
+    },
+    "code": {
+      "id": "GAB002010056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.629",
+      "lon": "13.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ossiandjouo",
+      "en": "Ossiandjouo",
+      "slug": "ossiandjouo"
+    },
+    "code": {
+      "id": "GAB002010057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.629",
+      "lon": "13.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ossinga",
+      "en": "Ossinga",
+      "slug": "ossinga"
+    },
+    "code": {
+      "id": "GAB002010058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.64",
+      "lon": "13.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ossinga II",
+      "en": "Ossinga II",
+      "slug": "ossinga-ii"
+    },
+    "code": {
+      "id": "GAB002010059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.64",
+      "lon": "13.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Otala",
+      "en": "Otala",
+      "slug": "otala"
+    },
+    "code": {
+      "id": "GAB002010060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.014",
+      "lon": "13.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Otcouandjoko",
+      "en": "Otcouandjoko",
+      "slug": "otcouandjoko"
+    },
+    "code": {
+      "id": "GAB002010061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.487",
+      "lon": "13.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Otoundou",
+      "en": "Otoundou",
+      "slug": "otoundou"
+    },
+    "code": {
+      "id": "GAB002010062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.784",
+      "lon": "13.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyabi",
+      "en": "Oyabi",
+      "slug": "oyabi"
+    },
+    "code": {
+      "id": "GAB002010063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.627",
+      "lon": "13.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyanza",
+      "en": "Oyanza",
+      "slug": "oyanza"
+    },
+    "code": {
+      "id": "GAB002010064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.852",
+      "lon": "13.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyendze",
+      "en": "Oyendze",
+      "slug": "oyendze"
+    },
+    "code": {
+      "id": "GAB002010065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.711",
+      "lon": "13.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tebe",
+      "en": "Tebe",
+      "slug": "tebe"
+    },
+    "code": {
+      "id": "GAB002010066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.017",
+      "lon": "13.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tebe I",
+      "en": "Tebe I",
+      "slug": "tebe-i"
+    },
+    "code": {
+      "id": "GAB002010068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.017",
+      "lon": "13.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tebe II",
+      "en": "Tebe II",
+      "slug": "tebe-ii"
+    },
+    "code": {
+      "id": "GAB002010069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.183",
+      "lon": "13.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Youma",
+      "en": "Youma",
+      "slug": "youma"
+    },
+    "code": {
+      "id": "GAB002010070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002010",
+      "level": 2,
+      "name": {
+        "local": "Sebe-Brikolo",
+        "en": "Sebe-Brikolo",
+        "slug": "sebe-brikolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002010",
+        "level": 2,
+        "name": {
+          "local": "Sebe-Brikolo",
+          "en": "Sebe-Brikolo",
+          "slug": "sebe-brikolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.843",
+      "lon": "13.929"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

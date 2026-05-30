@@ -1,0 +1,47 @@
+{
+  "id": "GAB004006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Ndolou",
+    "en": "Ndolou",
+    "slug": "ndolou"
+  },
+  "code": {
+    "id": "GAB004006",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB004",
+    "level": 1,
+    "name": {
+      "local": "Ngounie",
+      "en": "Ngounie",
+      "slug": "ngounie"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 62
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.585",
+    "lon": "10.225"
+  },
+  "metadata": {},
+  "source": {}
+}

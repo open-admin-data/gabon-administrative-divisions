@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "GAB002007001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bafounou",
+      "en": "Bafounou",
+      "slug": "bafounou"
+    },
+    "code": {
+      "id": "GAB002007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.25",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bafounou I",
+      "en": "Bafounou I",
+      "slug": "bafounou-i"
+    },
+    "code": {
+      "id": "GAB002007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.239",
+      "lon": "13.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bafounou II",
+      "en": "Bafounou II",
+      "slug": "bafounou-ii"
+    },
+    "code": {
+      "id": "GAB002007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.308",
+      "lon": "13.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boumango",
+      "en": "Boumango",
+      "slug": "boumango"
+    },
+    "code": {
+      "id": "GAB002007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.227",
+      "lon": "13.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doumai",
+      "en": "Doumai",
+      "slug": "doumai"
+    },
+    "code": {
+      "id": "GAB002007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.273",
+      "lon": "13.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gounda",
+      "en": "Gounda",
+      "slug": "gounda"
+    },
+    "code": {
+      "id": "GAB002007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.133",
+      "lon": "13.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kessala",
+      "en": "Kessala",
+      "slug": "kessala"
+    },
+    "code": {
+      "id": "GAB002007008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.173",
+      "lon": "13.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lendoundoungou",
+      "en": "Lendoundoungou",
+      "slug": "lendoundoungou"
+    },
+    "code": {
+      "id": "GAB002007009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.163",
+      "lon": "13.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madiba",
+      "en": "Madiba",
+      "slug": "madiba"
+    },
+    "code": {
+      "id": "GAB002007012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.967",
+      "lon": "13.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboki",
+      "en": "Mboki",
+      "slug": "mboki"
+    },
+    "code": {
+      "id": "GAB002007013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.074",
+      "lon": "13.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboua",
+      "en": "Mboua",
+      "slug": "mboua"
+    },
+    "code": {
+      "id": "GAB002007014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.136",
+      "lon": "13.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Messami",
+      "en": "Messami",
+      "slug": "messami"
+    },
+    "code": {
+      "id": "GAB002007015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.132",
+      "lon": "13.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Messami I",
+      "en": "Messami I",
+      "slug": "messami-i"
+    },
+    "code": {
+      "id": "GAB002007016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.16",
+      "lon": "13.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Messami II",
+      "en": "Messami II",
+      "slug": "messami-ii"
+    },
+    "code": {
+      "id": "GAB002007017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.132",
+      "lon": "13.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mossete",
+      "en": "Mossete",
+      "slug": "mossete"
+    },
+    "code": {
+      "id": "GAB002007018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.229",
+      "lon": "13.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouabi",
+      "en": "Mouabi",
+      "slug": "mouabi"
+    },
+    "code": {
+      "id": "GAB002007019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.241",
+      "lon": "13.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougouango",
+      "en": "Mougouango",
+      "slug": "mougouango"
+    },
+    "code": {
+      "id": "GAB002007020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.051",
+      "lon": "13.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougouango II",
+      "en": "Mougouango II",
+      "slug": "mougouango-ii"
+    },
+    "code": {
+      "id": "GAB002007022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.051",
+      "lon": "13.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouyabi",
+      "en": "Mouyabi",
+      "slug": "mouyabi"
+    },
+    "code": {
+      "id": "GAB002007023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.241",
+      "lon": "13.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzambi",
+      "en": "Nzambi",
+      "slug": "nzambi"
+    },
+    "code": {
+      "id": "GAB002007024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.099",
+      "lon": "13.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oualla",
+      "en": "Oualla",
+      "slug": "oualla"
+    },
+    "code": {
+      "id": "GAB002007025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.082",
+      "lon": "13.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yamba",
+      "en": "Yamba",
+      "slug": "yamba"
+    },
+    "code": {
+      "id": "GAB002007027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002007",
+      "level": 2,
+      "name": {
+        "local": "Ogooue-Letili",
+        "en": "Ogooue-Letili",
+        "slug": "ogooue-letili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002007",
+        "level": 2,
+        "name": {
+          "local": "Ogooue-Letili",
+          "en": "Ogooue-Letili",
+          "slug": "ogooue-letili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.067",
+      "lon": "13.65"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

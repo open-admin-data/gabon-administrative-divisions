@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "GAB006003001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abeng",
+      "en": "Abeng",
+      "slug": "abeng"
+    },
+    "code": {
+      "id": "GAB006003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.333",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Afouma-adzo",
+      "en": "Afouma-adzo",
+      "slug": "afouma-adzo"
+    },
+    "code": {
+      "id": "GAB006003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.46",
+      "lon": "12.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akana",
+      "en": "Akana",
+      "slug": "akana"
+    },
+    "code": {
+      "id": "GAB006003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.45",
+      "lon": "12.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akork",
+      "en": "Akork",
+      "slug": "akork"
+    },
+    "code": {
+      "id": "GAB006003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.517",
+      "lon": "12.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Allar Mourkevock",
+      "en": "Allar Mourkevock",
+      "slug": "allar-mourkevock"
+    },
+    "code": {
+      "id": "GAB006003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bekou-Bekou",
+      "en": "Bekou-Bekou",
+      "slug": "bekou-bekou"
+    },
+    "code": {
+      "id": "GAB006003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.37",
+      "lon": "12.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binong",
+      "en": "Binong",
+      "slug": "binong"
+    },
+    "code": {
+      "id": "GAB006003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.425",
+      "lon": "12.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissobilan",
+      "en": "Bissobilan",
+      "slug": "bissobilan"
+    },
+    "code": {
+      "id": "GAB006003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.492",
+      "lon": "12.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "D'Ovan",
+      "en": "D'Ovan",
+      "slug": "dovan"
+    },
+    "code": {
+      "id": "GAB006003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.311",
+      "lon": "12.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Douradzum",
+      "en": "Douradzum",
+      "slug": "douradzum"
+    },
+    "code": {
+      "id": "GAB006003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.05",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Edabour",
+      "en": "Edabour",
+      "slug": "edabour"
+    },
+    "code": {
+      "id": "GAB006003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.209",
+      "lon": "11.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elata Bakota",
+      "en": "Elata Bakota",
+      "slug": "elata-bakota"
+    },
+    "code": {
+      "id": "GAB006003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.342",
+      "lon": "12.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foubenzok",
+      "en": "Foubenzok",
+      "slug": "foubenzok"
+    },
+    "code": {
+      "id": "GAB006003013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.265",
+      "lon": "11.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foubenzork",
+      "en": "Foubenzork",
+      "slug": "foubenzork"
+    },
+    "code": {
+      "id": "GAB006003015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.265",
+      "lon": "11.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kollioura",
+      "en": "Kollioura",
+      "slug": "kollioura"
+    },
+    "code": {
+      "id": "GAB006003016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.311",
+      "lon": "12.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kombani",
+      "en": "Kombani",
+      "slug": "kombani"
+    },
+    "code": {
+      "id": "GAB006003017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.325",
+      "lon": "12.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lobo",
+      "en": "Lobo",
+      "slug": "lobo"
+    },
+    "code": {
+      "id": "GAB006003018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "12.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Masse",
+      "en": "Masse",
+      "slug": "masse"
+    },
+    "code": {
+      "id": "GAB006003019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.333",
+      "lon": "12.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mebang",
+      "en": "Mebang",
+      "slug": "mebang"
+    },
+    "code": {
+      "id": "GAB006003020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.328",
+      "lon": "12.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Melane",
+      "en": "Melane",
+      "slug": "melane"
+    },
+    "code": {
+      "id": "GAB006003021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.332",
+      "lon": "12.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minte",
+      "en": "Minte",
+      "slug": "minte"
+    },
+    "code": {
+      "id": "GAB006003022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.467",
+      "lon": "12.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mintoum",
+      "en": "Mintoum",
+      "slug": "mintoum"
+    },
+    "code": {
+      "id": "GAB006003023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.42",
+      "lon": "12.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndoumala",
+      "en": "Ndoumala",
+      "slug": "ndoumala"
+    },
+    "code": {
+      "id": "GAB006003024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "12.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoreki",
+      "en": "Ngoreki",
+      "slug": "ngoreki"
+    },
+    "code": {
+      "id": "GAB006003025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.312",
+      "lon": "12.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niallabe",
+      "en": "Niallabe",
+      "slug": "niallabe"
+    },
+    "code": {
+      "id": "GAB006003026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.215",
+      "lon": "11.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkaretom",
+      "en": "Nkaretom",
+      "slug": "nkaretom"
+    },
+    "code": {
+      "id": "GAB006003027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.333",
+      "lon": "12.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoum",
+      "en": "Nzoum",
+      "slug": "nzoum"
+    },
+    "code": {
+      "id": "GAB006003028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.45",
+      "lon": "12.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Omvan",
+      "en": "Omvan",
+      "slug": "omvan"
+    },
+    "code": {
+      "id": "GAB006003029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.311",
+      "lon": "12.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovan",
+      "en": "Ovan",
+      "slug": "ovan"
+    },
+    "code": {
+      "id": "GAB006003030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.311",
+      "lon": "12.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sanghalam",
+      "en": "Sanghalam",
+      "slug": "sanghalam"
+    },
+    "code": {
+      "id": "GAB006003031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "12.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sougalam-Fekele",
+      "en": "Sougalam-Fekele",
+      "slug": "sougalam-fekele"
+    },
+    "code": {
+      "id": "GAB006003032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.299",
+      "lon": "11.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Viong",
+      "en": "Viong",
+      "slug": "viong"
+    },
+    "code": {
+      "id": "GAB006003033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006003",
+      "level": 2,
+      "name": {
+        "local": "Mvoung",
+        "en": "Mvoung",
+        "slug": "mvoung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006003",
+        "level": 2,
+        "name": {
+          "local": "Mvoung",
+          "en": "Mvoung",
+          "slug": "mvoung"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.469",
+      "lon": "12.418"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

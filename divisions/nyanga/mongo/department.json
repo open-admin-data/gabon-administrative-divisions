@@ -1,0 +1,47 @@
+{
+  "id": "GAB005006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mongo",
+    "en": "Mongo",
+    "slug": "mongo"
+  },
+  "code": {
+    "id": "GAB005006",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB005",
+    "level": 1,
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.261",
+    "lon": "11.583"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GAB002009",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Plateaux",
+    "en": "Plateaux",
+    "slug": "plateaux"
+  },
+  "code": {
+    "id": "GAB002009",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB002",
+    "level": 1,
+    "name": {
+      "local": "Haut-Ogooue",
+      "en": "Haut-Ogooue",
+      "slug": "haut-ogooue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.702",
+    "lon": "14.208"
+  },
+  "metadata": {},
+  "source": {}
+}

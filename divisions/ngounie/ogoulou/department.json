@@ -1,0 +1,47 @@
+{
+  "id": "GAB004007",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Ogoulou",
+    "en": "Ogoulou",
+    "slug": "ogoulou"
+  },
+  "code": {
+    "id": "GAB004007",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB004",
+    "level": 1,
+    "name": {
+      "local": "Ngounie",
+      "en": "Ngounie",
+      "slug": "ngounie"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 165
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.439",
+    "lon": "11.569"
+  },
+  "metadata": {},
+  "source": {}
+}

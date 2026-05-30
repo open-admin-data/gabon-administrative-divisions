@@ -1,0 +1,47 @@
+{
+  "id": "GAB002001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Djoue",
+    "en": "Djoue",
+    "slug": "djoue"
+  },
+  "code": {
+    "id": "GAB002001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB002",
+    "level": 1,
+    "name": {
+      "local": "Haut-Ogooue",
+      "en": "Haut-Ogooue",
+      "slug": "haut-ogooue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.833",
+    "lon": "14.128"
+  },
+  "metadata": {},
+  "source": {}
+}

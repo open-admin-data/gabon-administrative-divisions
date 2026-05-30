@@ -1,0 +1,1068 @@
+# Ogooue-Maritime — Gabon Administrative Divisions
+
+> 3 departments, 261 settlements
+> Code: GAB008
+> Coordinates: -1.495, 9.542
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Departments
+
+### Bendje
+
+Code: GAB008001, Coordinates: -0.883, 9.302
+Settlements: 87
+
+#### Abelago
+
+Code: GAB008001001, Coordinates: -0.927, 9.472
+
+#### Abelogo
+
+Code: GAB008001003, Coordinates: -0.919, 9.462
+
+#### Abounaviri
+
+Code: GAB008001004, Coordinates: -0.7, 9.1
+
+#### Achouka
+
+Code: GAB008001005, Coordinates: -1.033, 9.518
+
+#### Afangombona
+
+Code: GAB008001007, Coordinates: -0.867, 9.617
+
+#### Akomba
+
+Code: GAB008001008, Coordinates: -0.831, 9.677
+
+#### Akoumouno
+
+Code: GAB008001009, Coordinates: -0.991, 9.161
+
+#### Allego
+
+Code: GAB008001010, Coordinates: -0.814, 9.651
+
+#### Amboki
+
+Code: GAB008001011, Coordinates: -0.897, 8.97
+
+#### Amengamona
+
+Code: GAB008001012, Coordinates: -0.98, 9.664
+
+#### Apari
+
+Code: GAB008001013, Coordinates: -0.923, 9.698
+
+#### Apomande
+
+Code: GAB008001014, Coordinates: -0.64, 9.011
+
+#### Aranga
+
+Code: GAB008001015, Coordinates: -0.839, 8.882
+
+#### Aschouka
+
+Code: GAB008001016, Coordinates: -0.875, 9.747
+
+#### Ashuka
+
+Code: GAB008001017, Coordinates: -0.875, 9.747
+
+#### Avegombori
+
+Code: GAB008001018, Coordinates: -0.95, 9.725
+
+#### Azegue
+
+Code: GAB008001019, Coordinates: -1.15, 9.517
+
+#### Batanga
+
+Code: GAB008001020, Coordinates: -0.342, 9.314
+
+#### Bengoue
+
+Code: GAB008001021, Coordinates: -0.963, 9.2
+
+#### Bilape-Saint-Pierre
+
+Code: GAB008001022, Coordinates: -0.87, 9.146
+
+#### Echira
+
+Code: GAB008001023, Coordinates: -0.975, 9.409
+
+#### Ekeoua
+
+Code: GAB008001024, Coordinates: -0.733, 9.141
+
+#### Ekwa
+
+Code: GAB008001025, Coordinates: -0.733, 9.141
+
+#### Eliva
+
+Code: GAB008001026, Coordinates: -0.733, 8.967
+
+#### Emanagouga
+
+Code: GAB008001027, Coordinates: -0.714, 9.15
+
+#### Enyonga
+
+Code: GAB008001028, Coordinates: -0.998, 9.375
+
+#### Erogoue
+
+Code: GAB008001029, Coordinates: -0.65, 8.717
+
+#### Esende
+
+Code: GAB008001030, Coordinates: -0.923, 9.591
+
+#### Falaba
+
+Code: GAB008001031, Coordinates: -1.026, 9.087
+
+#### Foulamayong
+
+Code: GAB008001032, Coordinates: -1.194, 9.521
+
+#### Gangoue
+
+Code: GAB008001033, Coordinates: -0.532, 9.221
+
+#### Gongoue
+
+Code: GAB008001034, Coordinates: -0.532, 9.221
+
+#### Guaviri
+
+Code: GAB008001035, Coordinates: -1.106, 9.377
+
+#### Ikassa
+
+Code: GAB008001036, Coordinates: -0.95, 9.72
+
+#### Issinga
+
+Code: GAB008001037, Coordinates: -1.153, 9.527
+
+#### Izamba
+
+Code: GAB008001038, Coordinates: -0.617, 9.117
+
+#### Izambe
+
+Code: GAB008001039, Coordinates: -0.617, 9.117
+
+#### Kaze
+
+Code: GAB008001040, Coordinates: -0.921, 9.617
+
+#### Kendje
+
+Code: GAB008001041, Coordinates: -0.817, 9.15
+
+#### Kepa
+
+Code: GAB008001042, Coordinates: -1.039, 9.146
+
+#### Loanda
+
+Code: GAB008001043, Coordinates: -0.918, 9.01
+
+#### Mbinda
+
+Code: GAB008001044, Coordinates: -1.007, 9.079
+
+#### Mboga
+
+Code: GAB008001045, Coordinates: -0.992, 9.38
+
+#### Mbonde
+
+Code: GAB008001046, Coordinates: -0.633, 8.7
+
+#### Mboudou
+
+Code: GAB008001047, Coordinates: -0.633, 9.117
+
+#### Mboumba
+
+Code: GAB008001048, Coordinates: -0.903, 9.615
+
+#### Mondorobe
+
+Code: GAB008001049, Coordinates: -0.899, 8.96
+
+#### Moussamoukogo
+
+Code: GAB008001050, Coordinates: -1.162, 9.487
+
+#### Mpaga
+
+Code: GAB008001051, Coordinates: -0.944, 9.449
+
+#### Mpembe
+
+Code: GAB008001052, Coordinates: -0.617, 9.117
+
+#### Nabigou
+
+Code: GAB008001053, Coordinates: -1.183, 9.517
+
+#### Ndoumba
+
+Code: GAB008001054, Coordinates: -0.973, 9.602
+
+#### Nendja
+
+Code: GAB008001055, Coordinates: -0.941, 9.732
+
+#### Ngola
+
+Code: GAB008001056, Coordinates: -0.976, 9.054
+
+#### Ngouaviri
+
+Code: GAB008001057, Coordinates: -1.106, 9.377
+
+#### Ngoumbi
+
+Code: GAB008001058, Coordinates: -0.943, 9.601
+
+#### Nguiabeta
+
+Code: GAB008001059, Coordinates: -1.017, 9.067
+
+#### Niolokoue
+
+Code: GAB008001060, Coordinates: -0.86, 8.95
+
+#### Ntchengue
+
+Code: GAB008001061, Coordinates: -0.806, 8.819
+
+#### Nzamene
+
+Code: GAB008001062, Coordinates: -0.883, 9.667
+
+#### Obando
+
+Code: GAB008001063, Coordinates: -1.11, 9.275
+
+#### Odowwenga
+
+Code: GAB008001064, Coordinates: -1.003, 8.96
+
+#### Okolo
+
+Code: GAB008001065, Coordinates: -0.917, 9.552
+
+#### Olamba
+
+Code: GAB008001066, Coordinates: -1.168, 9.527
+
+#### Ossamoudembou
+
+Code: GAB008001067, Coordinates: -0.945, 9.745
+
+#### Oyingo
+
+Code: GAB008001068, Coordinates: -0.812, 9.674
+
+#### Ozomboua
+
+Code: GAB008001069, Coordinates: -0.757, 8.876
+
+#### Ozouri
+
+Code: GAB008001070, Coordinates: -1.018, 8.901
+
+#### Paguilou
+
+Code: GAB008001071, Coordinates: -1.178, 9.533
+
+#### Port-Gentil
+
+Code: GAB008001072, Coordinates: -0.727, 8.792
+
+#### Saira
+
+Code: GAB008001073, Coordinates: -0.871, 9.781
+
+#### Sangatanga
+
+Code: GAB008001074, Coordinates: -0.484, 9.253
+
+#### Simane
+
+Code: GAB008001075, Coordinates: -0.695, 8.947
+
+#### Simani
+
+Code: GAB008001076, Coordinates: -0.695, 8.947
+
+#### Simanic
+
+Code: GAB008001077, Coordinates: -0.695, 8.947
+
+#### Tchangombini
+
+Code: GAB008001078, Coordinates: -0.991, 9.66
+
+#### Tchengue
+
+Code: GAB008001079, Coordinates: -0.806, 8.819
+
+#### Tchibanga
+
+Code: GAB008001080, Coordinates: -1.133, 9.564
+
+#### Vanguenengue
+
+Code: GAB008001081, Coordinates: -1.117, 9.55
+
+#### Veyrie
+
+Code: GAB008001082, Coordinates: -0.967, 9.717
+
+#### Village Erogoue
+
+Code: GAB008001083, Coordinates: -0.65, 8.717
+
+#### Village Mbonde
+
+Code: GAB008001084, Coordinates: -0.633, 8.7
+
+#### Yombe
+
+Code: GAB008001085, Coordinates: -0.746, 8.893
+
+#### Yombe I
+
+Code: GAB008001086, Coordinates: -0.965, 9.427
+
+#### Yombe II
+
+Code: GAB008001087, Coordinates: -0.967, 9.433
+
+#### Yongodoulongo
+
+Code: GAB008001088, Coordinates: -0.984, 9.693
+
+#### Zouri
+
+Code: GAB008001089, Coordinates: -1.018, 8.901
+
+### Etimboue
+
+Code: GAB008002, Coordinates: -1.628, 9.498
+Settlements: 123
+
+#### Achanga
+
+Code: GAB008002001, Coordinates: -1.216, 9.029
+
+#### Agonga
+
+Code: GAB008002002, Coordinates: -1.529, 9.257
+
+#### Akoumounou
+
+Code: GAB008002003, Coordinates: -1.667, 9.35
+
+#### Alembetogo
+
+Code: GAB008002004, Coordinates: -1.254, 9.039
+
+#### Ambroise
+
+Code: GAB008002005, Coordinates: -1.583, 9.433
+
+#### Amendje
+
+Code: GAB008002006, Coordinates: -1.581, 9.289
+
+#### Aouta
+
+Code: GAB008002007, Coordinates: -1.594, 9.469
+
+#### Asseve
+
+Code: GAB008002008, Coordinates: -1.541, 9.49
+
+#### Assibouka
+
+Code: GAB008002009, Coordinates: -1.4, 9.969
+
+#### Atongoouania
+
+Code: GAB008002010, Coordinates: -1.597, 9.374
+
+#### Avegoumbiri
+
+Code: GAB008002011, Coordinates: -1.402, 9.353
+
+#### Balanganga
+
+Code: GAB008002012, Coordinates: -1.933, 10.167
+
+#### Bambous
+
+Code: GAB008002013, Coordinates: -1.75, 9.367
+
+#### Bango
+
+Code: GAB008002014, Coordinates: -1.849, 9.321
+
+#### Batanga
+
+Code: GAB008002015, Coordinates: -1.642, 9.656
+
+#### Batenga
+
+Code: GAB008002016, Coordinates: -1.642, 9.656
+
+#### Bengui
+
+Code: GAB008002017, Coordinates: -1.9, 10.15
+
+#### Boka
+
+Code: GAB008002018, Coordinates: -1.717, 9.433
+
+#### Condafala
+
+Code: GAB008002019, Coordinates: -1.65, 9.45
+
+#### Diaba
+
+Code: GAB008002020, Coordinates: -1.283, 9.2
+
+#### Diabeta
+
+Code: GAB008002021, Coordinates: -1.507, 9.968
+
+#### Diamongo
+
+Code: GAB008002022, Coordinates: -1.726, 9.839
+
+#### Dianongo
+
+Code: GAB008002023, Coordinates: -1.726, 9.839
+
+#### Dibotinafouala
+
+Code: GAB008002024, Coordinates: -1.316, 9.931
+
+#### Dibouatinafala
+
+Code: GAB008002025, Coordinates: -1.316, 9.931
+
+#### Dilalou
+
+Code: GAB008002026, Coordinates: -1.62, 9.89
+
+#### Divangui
+
+Code: GAB008002027, Coordinates: -1.943, 9.994
+
+#### Dogo
+
+Code: GAB008002028, Coordinates: -1.656, 9.666
+
+#### Elomba
+
+Code: GAB008002029, Coordinates: -1.43, 9.347
+
+#### Ezango
+
+Code: GAB008002030, Coordinates: -1.938, 9.335
+
+#### Fernan Vaz
+
+Code: GAB008002031, Coordinates: -1.575, 9.262
+
+#### Fernand-Vaz
+
+Code: GAB008002032, Coordinates: -1.575, 9.262
+
+#### Goudoumayou
+
+Code: GAB008002033, Coordinates: -1.35, 9.961
+
+#### Hublin
+
+Code: GAB008002034, Coordinates: -1.617, 9.533
+
+#### Ibega
+
+Code: GAB008002035, Coordinates: -1.394, 9.288
+
+#### Igela
+
+Code: GAB008002036, Coordinates: -1.917, 9.317
+
+#### Iguela
+
+Code: GAB008002037, Coordinates: -1.917, 9.317
+
+#### Iguene
+
+Code: GAB008002038, Coordinates: -1.487, 9.276
+
+#### Ikengue
+
+Code: GAB008002039, Coordinates: -1.514, 9.477
+
+#### Ikeoue
+
+Code: GAB008002040, Coordinates: -1.212, 9.022
+
+#### Ikeva
+
+Code: GAB008002041, Coordinates: -1.212, 9.022
+
+#### Ikongo
+
+Code: GAB008002042, Coordinates: -1.65, 9.65
+
+#### Ikore
+
+Code: GAB008002043, Coordinates: -1.3, 9.02
+
+#### Ilande
+
+Code: GAB008002044, Coordinates: -1.583, 9.55
+
+#### Ilongo
+
+Code: GAB008002045, Coordinates: -1.8, 9.367
+
+#### Inanie
+
+Code: GAB008002046, Coordinates: -1.55, 9.283
+
+#### Inongo
+
+Code: GAB008002047, Coordinates: -1.533, 9.433
+
+#### Inongo-Aile
+
+Code: GAB008002048, Coordinates: -1.386, 9.369
+
+#### Ipedie
+
+Code: GAB008002049, Coordinates: -1.393, 9.337
+
+#### Ireva
+
+Code: GAB008002050, Coordinates: -1.55, 9.433
+
+#### Ivanga
+
+Code: GAB008002051, Coordinates: -1.533, 9.983
+
+#### Keno
+
+Code: GAB008002052, Coordinates: -1.733, 9.9
+
+#### Kombitoumba
+
+Code: GAB008002053, Coordinates: -1.604, 9.907
+
+#### Konako
+
+Code: GAB008002054, Coordinates: -1.697, 9.781
+
+#### Koumoue
+
+Code: GAB008002055, Coordinates: -1.628, 9.633
+
+#### Koundakoua
+
+Code: GAB008002056, Coordinates: -1.447, 9.236
+
+#### Lambarene
+
+Code: GAB008002057, Coordinates: -1.697, 9.427
+
+#### Lasiko
+
+Code: GAB008002058, Coordinates: -1.686, 9.428
+
+#### Lassonie
+
+Code: GAB008002059, Coordinates: -1.667, 9.428
+
+#### Londe
+
+Code: GAB008002060, Coordinates: -1.717, 9.417
+
+#### Mandaganga
+
+Code: GAB008002061, Coordinates: -1.382, 9.34
+
+#### Manzilo
+
+Code: GAB008002062, Coordinates: -1.794, 9.851
+
+#### Massa
+
+Code: GAB008002063, Coordinates: -1.704, 9.877
+
+#### Menguele
+
+Code: GAB008002064, Coordinates: -1.998, 9.512
+
+#### Mission Sainte-Anne
+
+Code: GAB008002065, Coordinates: -1.644, 9.398
+
+#### Moukouna
+
+Code: GAB008002066, Coordinates: -1.669, 9.883
+
+#### Moussamou
+
+Code: GAB008002067, Coordinates: -1.686, 9.857
+
+#### Mpaga
+
+Code: GAB008002068, Coordinates: -1.683, 9.8
+
+#### Mpana
+
+Code: GAB008002069, Coordinates: -1.677, 9.252
+
+#### Mpando
+
+Code: GAB008002070, Coordinates: -1.677, 9.252
+
+#### Mpere
+
+Code: GAB008002071, Coordinates: -1.676, 9.699
+
+#### Ndjole
+
+Code: GAB008002072, Coordinates: -1.582, 9.405
+
+#### Ndougou
+
+Code: GAB008002073, Coordinates: -1.656, 9.666
+
+#### Nenga Bembe
+
+Code: GAB008002074, Coordinates: -1.946, 9.422
+
+#### Ngoulabona
+
+Code: GAB008002075, Coordinates: -1.817, 9.35
+
+#### Ngoumbi
+
+Code: GAB008002076, Coordinates: -1.368, 9.461
+
+#### Ningoranga
+
+Code: GAB008002077, Coordinates: -1.321, 9.024
+
+#### Nkombeguinoguia
+
+Code: GAB008002078, Coordinates: -2.058, 9.589
+
+#### Nyanga
+
+Code: GAB008002079, Coordinates: -1.102, 9.046
+
+#### Obiro
+
+Code: GAB008002080, Coordinates: -1.98, 9.487
+
+#### Odende
+
+Code: GAB008002081, Coordinates: -1.654, 9.377
+
+#### Odimba
+
+Code: GAB008002082, Coordinates: -2.03, 9.556
+
+#### Odowo
+
+Code: GAB008002083, Coordinates: -1.651, 9.505
+
+#### Ogoga
+
+Code: GAB008002084, Coordinates: -1.848, 9.372
+
+#### Ogogha
+
+Code: GAB008002085, Coordinates: -1.848, 9.372
+
+#### Olago
+
+Code: GAB008002086, Coordinates: -1.55, 9.446
+
+#### Olango
+
+Code: GAB008002087, Coordinates: -1.55, 9.446
+
+#### Omboue
+
+Code: GAB008002088, Coordinates: -1.575, 9.262
+
+#### Ompere
+
+Code: GAB008002089, Coordinates: -1.676, 9.699
+
+#### Ondouma
+
+Code: GAB008002090, Coordinates: -1.45, 9.283
+
+#### Ongouendjo
+
+Code: GAB008002091, Coordinates: -1.378, 9.081
+
+#### Onguendjo
+
+Code: GAB008002092, Coordinates: -1.378, 9.081
+
+#### Onguendjo II
+
+Code: GAB008002093, Coordinates: -1.378, 9.081
+
+#### Orali
+
+Code: GAB008002094, Coordinates: -1.8, 9.367
+
+#### Panepo
+
+Code: GAB008002095, Coordinates: -1.672, 9.763
+
+#### Pemba-Niambe
+
+Code: GAB008002096, Coordinates: -1.9, 9.45
+
+#### Pointe Claire
+
+Code: GAB008002097, Coordinates: -2.009, 9.471
+
+#### Saille
+
+Code: GAB008002098, Coordinates: -1.6, 9.35
+
+#### Salaganga
+
+Code: GAB008002099, Coordinates: -1.933, 10.167
+
+#### Salanganga
+
+Code: GAB008002100, Coordinates: -1.933, 10.167
+
+#### Salangonga
+
+Code: GAB008002101, Coordinates: -1.933, 10.167
+
+#### Salanou
+
+Code: GAB008002102, Coordinates: -1.9, 10
+
+#### Sallanou
+
+Code: GAB008002103, Coordinates: -1.567, 9.494
+
+#### Sambinanga
+
+Code: GAB008002104, Coordinates: -1.364, 9.35
+
+#### Tassi
+
+Code: GAB008002105, Coordinates: -2.082, 9.435
+
+#### Tchangonivi
+
+Code: GAB008002106, Coordinates: -1.521, 9.486
+
+#### Tchatamba
+
+Code: GAB008002107, Coordinates: -1.95, 9.467
+
+#### Tchongorove
+
+Code: GAB008002108, Coordinates: -1.911, 9.323
+
+#### Toungounamba
+
+Code: GAB008002109, Coordinates: -1.563, 9.43
+
+#### Toungounamba I
+
+Code: GAB008002110, Coordinates: -1.563, 9.43
+
+#### Toungounamba II
+
+Code: GAB008002111, Coordinates: -1.567, 9.417
+
+#### Vandarene
+
+Code: GAB008002112, Coordinates: -1.662, 9.578
+
+#### Vandarene Echira
+
+Code: GAB008002113, Coordinates: -1.662, 9.578
+
+#### Vandarene Pahouin
+
+Code: GAB008002114, Coordinates: -1.65, 9.517
+
+#### Village Atova
+
+Code: GAB008002115, Coordinates: -1.43, 9.347
+
+#### Village Ikeva
+
+Code: GAB008002116, Coordinates: -1.212, 9.022
+
+#### Village Olago
+
+Code: GAB008002117, Coordinates: -1.55, 9.446
+
+#### Village Saille
+
+Code: GAB008002118, Coordinates: -1.6, 9.35
+
+#### Yeno
+
+Code: GAB008002119, Coordinates: -1.345, 9.342
+
+#### Yombe
+
+Code: GAB008002120, Coordinates: -1.922, 9.496
+
+#### Yougou
+
+Code: GAB008002121, Coordinates: -1.9, 9.417
+
+#### Zambounie
+
+Code: GAB008002122, Coordinates: -1.683, 9.417
+
+#### Zilmac
+
+Code: GAB008002123, Coordinates: -1.667, 9.75
+
+### Ndougou
+
+Code: GAB008003, Coordinates: -2.258, 9.991
+Settlements: 51
+
+#### Akaka
+
+Code: GAB008003001, Coordinates: -2.23, 9.673
+
+#### Ancien Akaba
+
+Code: GAB008003002, Coordinates: -2.23, 9.673
+
+#### Ancien Village Akakg
+
+Code: GAB008003003, Coordinates: -2.23, 9.673
+
+#### Aninghe
+
+Code: GAB008003004, Coordinates: -2.095, 9.579
+
+#### Aningue
+
+Code: GAB008003005, Coordinates: -2.095, 9.579
+
+#### Bakoli
+
+Code: GAB008003006, Coordinates: -2.148, 10.225
+
+#### Bingui
+
+Code: GAB008003008, Coordinates: -2.057, 10.062
+
+#### Bokolo
+
+Code: GAB008003009, Coordinates: -2.624, 10.165
+
+#### Bongo
+
+Code: GAB008003010, Coordinates: -2.165, 10.206
+
+#### Boukolo
+
+Code: GAB008003011, Coordinates: -2.624, 10.165
+
+#### Diela Vievi
+
+Code: GAB008003012, Coordinates: -2.371, 10.147
+
+#### Divinou
+
+Code: GAB008003013, Coordinates: -2.067, 10.104
+
+#### Foundou
+
+Code: GAB008003014, Coordinates: -2.638, 10.037
+
+#### Gamba
+
+Code: GAB008003015, Coordinates: -2.65, 10
+
+#### Issiari Mandifou
+
+Code: GAB008003016, Coordinates: -2.111, 10.14
+
+#### Keleba
+
+Code: GAB008003017, Coordinates: -2.79, 10.097
+
+#### Mandji
+
+Code: GAB008003018, Coordinates: -2.076, 9.839
+
+#### Manega
+
+Code: GAB008003019, Coordinates: -2.09, 10.117
+
+#### Massayi
+
+Code: GAB008003020, Coordinates: -2.126, 10.151
+
+#### Mbengui
+
+Code: GAB008003021, Coordinates: -2.057, 10.062
+
+#### Mbira I
+
+Code: GAB008003022, Coordinates: -2.141, 10.265
+
+#### Mbira II
+
+Code: GAB008003023, Coordinates: -2.104, 10.274
+
+#### Mbourandou
+
+Code: GAB008003024, Coordinates: -2.083, 10.112
+
+#### Mengui
+
+Code: GAB008003025, Coordinates: -1.967, 10.167
+
+#### Moulemba
+
+Code: GAB008003026, Coordinates: -1.95, 10.167
+
+#### Moussamo Niambi
+
+Code: GAB008003027, Coordinates: -2.785, 10.08
+
+#### Mouyamba
+
+Code: GAB008003028, Coordinates: -2.5, 9.867
+
+#### Mouyomfi
+
+Code: GAB008003029, Coordinates: -2.504, 10.118
+
+#### N&#39;Dama
+
+Code: GAB008003030, Coordinates: -2.41, 9.726
+
+#### N&#39;Douami
+
+Code: GAB008003031, Coordinates: -2.075, 10.318
+
+#### Ndouani
+
+Code: GAB008003032, Coordinates: -2.225, 9.663
+
+#### Ngoumbi
+
+Code: GAB008003035, Coordinates: -2.176, 9.648
+
+#### Niongo
+
+Code: GAB008003036, Coordinates: -2.511, 9.756
+
+#### Nioungou
+
+Code: GAB008003037, Coordinates: -2.282, 9.719
+
+#### Nioungou Goumbi
+
+Code: GAB008003038, Coordinates: -2.188, 9.66
+
+#### Nombo
+
+Code: GAB008003039, Coordinates: -2.156, 9.512
+
+#### Nsakalano
+
+Code: GAB008003040, Coordinates: -2.05, 10.359
+
+#### Onguendjo
+
+Code: GAB008003041, Coordinates: -2.533, 9.767
+
+#### Panepo
+
+Code: GAB008003042, Coordinates: -1.983, 10.167
+
+#### Papero
+
+Code: GAB008003043, Coordinates: -1.983, 10.167
+
+#### Passeur
+
+Code: GAB008003044, Coordinates: -2.765, 10.044
+
+#### Petit Loanga
+
+Code: GAB008003045, Coordinates: -2.259, 9.582
+
+#### Petit Loango
+
+Code: GAB008003046, Coordinates: -2.259, 9.582
+
+#### Saguinanga
+
+Code: GAB008003047, Coordinates: -2.19, 10.205
+
+#### Saint-Thomas
+
+Code: GAB008003048, Coordinates: -2.153, 10.195
+
+#### Sangouronda
+
+Code: GAB008003049, Coordinates: -2.139, 10.182
+
+#### Sangourouma
+
+Code: GAB008003050, Coordinates: -2.16, 10.196
+
+#### Sette Cama
+
+Code: GAB008003051, Coordinates: -2.526, 9.754
+
+#### Sounga
+
+Code: GAB008003052, Coordinates: -2.41, 9.726
+
+#### Tsongo Malongo
+
+Code: GAB008003053, Coordinates: -2.103, 10.141
+
+#### Vera
+
+Code: GAB008003054, Coordinates: -2.612, 10.122
+

@@ -1,0 +1,6644 @@
+[
+  {
+    "id": "GAB009002001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adzabilone",
+      "en": "Adzabilone",
+      "slug": "adzabilone"
+    },
+    "code": {
+      "id": "GAB009002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.941",
+      "lon": "11.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akaktane",
+      "en": "Akaktane",
+      "slug": "akaktane"
+    },
+    "code": {
+      "id": "GAB009002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.85",
+      "lon": "11.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akok",
+      "en": "Akok",
+      "slug": "akok"
+    },
+    "code": {
+      "id": "GAB009002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.03",
+      "lon": "11.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akome I",
+      "en": "Akome I",
+      "slug": "akome-i"
+    },
+    "code": {
+      "id": "GAB009002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.854",
+      "lon": "11.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akome II",
+      "en": "Akome II",
+      "slug": "akome-ii"
+    },
+    "code": {
+      "id": "GAB009002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.883",
+      "lon": "11.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akou",
+      "en": "Akou",
+      "slug": "akou"
+    },
+    "code": {
+      "id": "GAB009002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.871",
+      "lon": "11.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akoulazork",
+      "en": "Akoulazork",
+      "slug": "akoulazork"
+    },
+    "code": {
+      "id": "GAB009002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.189",
+      "lon": "11.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alen",
+      "en": "Alen",
+      "slug": "alen"
+    },
+    "code": {
+      "id": "GAB009002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.183",
+      "lon": "12.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alene",
+      "en": "Alene",
+      "slug": "alene"
+    },
+    "code": {
+      "id": "GAB009002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.083",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andokas",
+      "en": "Andokas",
+      "slug": "andokas"
+    },
+    "code": {
+      "id": "GAB009002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.1",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andokasi",
+      "en": "Andokasi",
+      "slug": "andokasi"
+    },
+    "code": {
+      "id": "GAB009002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.083",
+      "lon": "12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andom",
+      "en": "Andom",
+      "slug": "andom"
+    },
+    "code": {
+      "id": "GAB009002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.117",
+      "lon": "12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andom I",
+      "en": "Andom I",
+      "slug": "andom-i"
+    },
+    "code": {
+      "id": "GAB009002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.25",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andom II",
+      "en": "Andom II",
+      "slug": "andom-ii"
+    },
+    "code": {
+      "id": "GAB009002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.25",
+      "lon": "12.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andome",
+      "en": "Andome",
+      "slug": "andome"
+    },
+    "code": {
+      "id": "GAB009002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.133",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andome I",
+      "en": "Andome I",
+      "slug": "andome-i"
+    },
+    "code": {
+      "id": "GAB009002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.833",
+      "lon": "11.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andome II",
+      "en": "Andome II",
+      "slug": "andome-ii"
+    },
+    "code": {
+      "id": "GAB009002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.867",
+      "lon": "11.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Assengasi",
+      "en": "Assengasi",
+      "slug": "assengasi"
+    },
+    "code": {
+      "id": "GAB009002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.083",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Assok",
+      "en": "Assok",
+      "slug": "assok"
+    },
+    "code": {
+      "id": "GAB009002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.202",
+      "lon": "11.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayeguening",
+      "en": "Ayeguening",
+      "slug": "ayeguening"
+    },
+    "code": {
+      "id": "GAB009002022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.929",
+      "lon": "11.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayeguening II",
+      "en": "Ayeguening II",
+      "slug": "ayeguening-ii"
+    },
+    "code": {
+      "id": "GAB009002023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.95",
+      "lon": "11.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Azongbeu",
+      "en": "Azongbeu",
+      "slug": "azongbeu"
+    },
+    "code": {
+      "id": "GAB009002024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.9",
+      "lon": "11.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bengiaga",
+      "en": "Bengiaga",
+      "slug": "bengiaga"
+    },
+    "code": {
+      "id": "GAB009002025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.117",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Benjiaga",
+      "en": "Benjiaga",
+      "slug": "benjiaga"
+    },
+    "code": {
+      "id": "GAB009002026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.117",
+      "lon": "12.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biba",
+      "en": "Biba",
+      "slug": "biba"
+    },
+    "code": {
+      "id": "GAB009002027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.233",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biba Melene",
+      "en": "Biba Melene",
+      "slug": "biba-melene"
+    },
+    "code": {
+      "id": "GAB009002028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.04",
+      "lon": "11.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibaga",
+      "en": "Bibaga",
+      "slug": "bibaga"
+    },
+    "code": {
+      "id": "GAB009002029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.233",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibamvie",
+      "en": "Bibamvie",
+      "slug": "bibamvie"
+    },
+    "code": {
+      "id": "GAB009002030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.2",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilo",
+      "en": "Bilo",
+      "slug": "bilo"
+    },
+    "code": {
+      "id": "GAB009002031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.133",
+      "lon": "12.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bindomo",
+      "en": "Bindomo",
+      "slug": "bindomo"
+    },
+    "code": {
+      "id": "GAB009002033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.067",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binok",
+      "en": "Binok",
+      "slug": "binok"
+    },
+    "code": {
+      "id": "GAB009002034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.067",
+      "lon": "12.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bisobilam",
+      "en": "Bisobilam",
+      "slug": "bisobilam"
+    },
+    "code": {
+      "id": "GAB009002035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.267",
+      "lon": "12.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bisono",
+      "en": "Bisono",
+      "slug": "bisono"
+    },
+    "code": {
+      "id": "GAB009002036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.15",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissobilam",
+      "en": "Bissobilam",
+      "slug": "bissobilam"
+    },
+    "code": {
+      "id": "GAB009002037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.965",
+      "lon": "11.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bitouga",
+      "en": "Bitouga",
+      "slug": "bitouga"
+    },
+    "code": {
+      "id": "GAB009002038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.133",
+      "lon": "12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bonneville",
+      "en": "Bonneville",
+      "slug": "bonneville"
+    },
+    "code": {
+      "id": "GAB009002039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.067",
+      "lon": "12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djoum",
+      "en": "Djoum",
+      "slug": "djoum"
+    },
+    "code": {
+      "id": "GAB009002040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.277",
+      "lon": "12.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djoum II",
+      "en": "Djoum II",
+      "slug": "djoum-ii"
+    },
+    "code": {
+      "id": "GAB009002041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.133",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebang",
+      "en": "Ebang",
+      "slug": "ebang"
+    },
+    "code": {
+      "id": "GAB009002042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.183",
+      "lon": "12.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eboman",
+      "en": "Eboman",
+      "slug": "eboman"
+    },
+    "code": {
+      "id": "GAB009002043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.167",
+      "lon": "12.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elarmitang",
+      "en": "Elarmitang",
+      "slug": "elarmitang"
+    },
+    "code": {
+      "id": "GAB009002044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.167",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Engasse",
+      "en": "Engasse",
+      "slug": "engasse"
+    },
+    "code": {
+      "id": "GAB009002045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.868",
+      "lon": "11.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Esong",
+      "en": "Esong",
+      "slug": "esong"
+    },
+    "code": {
+      "id": "GAB009002046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.1",
+      "lon": "12.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Essa",
+      "en": "Essa",
+      "slug": "essa"
+    },
+    "code": {
+      "id": "GAB009002047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.867",
+      "lon": "11.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Essendjoum",
+      "en": "Essendjoum",
+      "slug": "essendjoum"
+    },
+    "code": {
+      "id": "GAB009002048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.831",
+      "lon": "11.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Essone",
+      "en": "Essone",
+      "slug": "essone"
+    },
+    "code": {
+      "id": "GAB009002049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.89",
+      "lon": "11.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etametang",
+      "en": "Etametang",
+      "slug": "etametang"
+    },
+    "code": {
+      "id": "GAB009002050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.2",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etogo",
+      "en": "Etogo",
+      "slug": "etogo"
+    },
+    "code": {
+      "id": "GAB009002051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.183",
+      "lon": "12.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etogou",
+      "en": "Etogou",
+      "slug": "etogou"
+    },
+    "code": {
+      "id": "GAB009002052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.183",
+      "lon": "12.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eves",
+      "en": "Eves",
+      "slug": "eves"
+    },
+    "code": {
+      "id": "GAB009002053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.85",
+      "lon": "11.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eveula",
+      "en": "Eveula",
+      "slug": "eveula"
+    },
+    "code": {
+      "id": "GAB009002054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.111",
+      "lon": "12.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evormbile",
+      "en": "Evormbile",
+      "slug": "evormbile"
+    },
+    "code": {
+      "id": "GAB009002055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.117",
+      "lon": "12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabang",
+      "en": "Mabang",
+      "slug": "mabang"
+    },
+    "code": {
+      "id": "GAB009002056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.853",
+      "lon": "11.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabang I",
+      "en": "Mabang I",
+      "slug": "mabang-i"
+    },
+    "code": {
+      "id": "GAB009002057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.794",
+      "lon": "11.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabang II",
+      "en": "Mabang II",
+      "slug": "mabang-ii"
+    },
+    "code": {
+      "id": "GAB009002058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.817",
+      "lon": "11.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makaa",
+      "en": "Makaa",
+      "slug": "makaa"
+    },
+    "code": {
+      "id": "GAB009002059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.2",
+      "lon": "12.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makaga",
+      "en": "Makaga",
+      "slug": "makaga"
+    },
+    "code": {
+      "id": "GAB009002060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.083",
+      "lon": "11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makanga",
+      "en": "Makanga",
+      "slug": "makanga"
+    },
+    "code": {
+      "id": "GAB009002061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.183",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbas",
+      "en": "Mbas",
+      "slug": "mbas"
+    },
+    "code": {
+      "id": "GAB009002062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.15",
+      "lon": "12.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbomo I",
+      "en": "Mbomo I",
+      "slug": "mbomo-i"
+    },
+    "code": {
+      "id": "GAB009002063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.058",
+      "lon": "11.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbomo II",
+      "en": "Mbomo II",
+      "slug": "mbomo-ii"
+    },
+    "code": {
+      "id": "GAB009002064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.067",
+      "lon": "11.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meben I",
+      "en": "Meben I",
+      "slug": "meben-i"
+    },
+    "code": {
+      "id": "GAB009002065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.133",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meben II",
+      "en": "Meben II",
+      "slug": "meben-ii"
+    },
+    "code": {
+      "id": "GAB009002066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.133",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mebolo",
+      "en": "Mebolo",
+      "slug": "mebolo"
+    },
+    "code": {
+      "id": "GAB009002067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.945",
+      "lon": "11.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Medjong",
+      "en": "Medjong",
+      "slug": "medjong"
+    },
+    "code": {
+      "id": "GAB009002068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.15",
+      "lon": "12.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mekomo",
+      "en": "Mekomo",
+      "slug": "mekomo"
+    },
+    "code": {
+      "id": "GAB009002069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.083",
+      "lon": "12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mekone",
+      "en": "Mekone",
+      "slug": "mekone"
+    },
+    "code": {
+      "id": "GAB009002071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.883",
+      "lon": "11.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Melen",
+      "en": "Melen",
+      "slug": "melen"
+    },
+    "code": {
+      "id": "GAB009002072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.083",
+      "lon": "12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Melene",
+      "en": "Melene",
+      "slug": "melene"
+    },
+    "code": {
+      "id": "GAB009002073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.811",
+      "lon": "11.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Melene I",
+      "en": "Melene I",
+      "slug": "melene-i"
+    },
+    "code": {
+      "id": "GAB009002074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.811",
+      "lon": "11.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Melene II",
+      "en": "Melene II",
+      "slug": "melene-ii"
+    },
+    "code": {
+      "id": "GAB009002075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.833",
+      "lon": "11.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Memveme",
+      "en": "Memveme",
+      "slug": "memveme"
+    },
+    "code": {
+      "id": "GAB009002076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.847",
+      "lon": "11.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mengang I",
+      "en": "Mengang I",
+      "slug": "mengang-i"
+    },
+    "code": {
+      "id": "GAB009002077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.815",
+      "lon": "11.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mengang II",
+      "en": "Mengang II",
+      "slug": "mengang-ii"
+    },
+    "code": {
+      "id": "GAB009002078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.85",
+      "lon": "11.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Metou",
+      "en": "Metou",
+      "slug": "metou"
+    },
+    "code": {
+      "id": "GAB009002079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.117",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meyos I",
+      "en": "Meyos I",
+      "slug": "meyos-i"
+    },
+    "code": {
+      "id": "GAB009002080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.001",
+      "lon": "11.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meyos II",
+      "en": "Meyos II",
+      "slug": "meyos-ii"
+    },
+    "code": {
+      "id": "GAB009002082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.183",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfagne I",
+      "en": "Mfagne I",
+      "slug": "mfagne-i"
+    },
+    "code": {
+      "id": "GAB009002084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.877",
+      "lon": "11.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfagne II",
+      "en": "Mfagne II",
+      "slug": "mfagne-ii"
+    },
+    "code": {
+      "id": "GAB009002085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.9",
+      "lon": "11.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfoul",
+      "en": "Mfoul",
+      "slug": "mfoul"
+    },
+    "code": {
+      "id": "GAB009002086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.853",
+      "lon": "11.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimbang",
+      "en": "Mimbang",
+      "slug": "mimbang"
+    },
+    "code": {
+      "id": "GAB009002087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.183",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimvoul",
+      "en": "Mimvoul",
+      "slug": "mimvoul"
+    },
+    "code": {
+      "id": "GAB009002089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.152",
+      "lon": "12.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mindomo",
+      "en": "Mindomo",
+      "slug": "mindomo"
+    },
+    "code": {
+      "id": "GAB009002090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.067",
+      "lon": "11.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mindoumou",
+      "en": "Mindoumou",
+      "slug": "mindoumou"
+    },
+    "code": {
+      "id": "GAB009002091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.2",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minkebe",
+      "en": "Minkebe",
+      "slug": "minkebe"
+    },
+    "code": {
+      "id": "GAB009002092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.745",
+      "lon": "12.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minkene",
+      "en": "Minkene",
+      "slug": "minkene"
+    },
+    "code": {
+      "id": "GAB009002093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.1",
+      "lon": "12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minkone",
+      "en": "Minkone",
+      "slug": "minkone"
+    },
+    "code": {
+      "id": "GAB009002094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.1",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mintebe",
+      "en": "Mintebe",
+      "slug": "mintebe"
+    },
+    "code": {
+      "id": "GAB009002095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.167",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minvoul",
+      "en": "Minvoul",
+      "slug": "minvoul"
+    },
+    "code": {
+      "id": "GAB009002096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.152",
+      "lon": "12.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Momo",
+      "en": "Momo",
+      "slug": "momo"
+    },
+    "code": {
+      "id": "GAB009002097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.828",
+      "lon": "11.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Movous I",
+      "en": "Movous I",
+      "slug": "movous-i"
+    },
+    "code": {
+      "id": "GAB009002098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.18",
+      "lon": "11.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Movous II",
+      "en": "Movous II",
+      "slug": "movous-ii"
+    },
+    "code": {
+      "id": "GAB009002099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.183",
+      "lon": "11.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvolo",
+      "en": "Mvolo",
+      "slug": "mvolo"
+    },
+    "code": {
+      "id": "GAB009002100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.063",
+      "lon": "12.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngo",
+      "en": "Ngo",
+      "slug": "ngo"
+    },
+    "code": {
+      "id": "GAB009002101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.883",
+      "lon": "11.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002102",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngogalen",
+      "en": "Ngogalen",
+      "slug": "ngogalen"
+    },
+    "code": {
+      "id": "GAB009002102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.117",
+      "lon": "12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngomane",
+      "en": "Ngomane",
+      "slug": "ngomane"
+    },
+    "code": {
+      "id": "GAB009002103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.182",
+      "lon": "11.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngon",
+      "en": "Ngon",
+      "slug": "ngon"
+    },
+    "code": {
+      "id": "GAB009002104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.163",
+      "lon": "12.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngone",
+      "en": "Ngone",
+      "slug": "ngone"
+    },
+    "code": {
+      "id": "GAB009002106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.163",
+      "lon": "12.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002107",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkie",
+      "en": "Nkie",
+      "slug": "nkie"
+    },
+    "code": {
+      "id": "GAB009002107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.85",
+      "lon": "11.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002108",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkogakom",
+      "en": "Nkogakom",
+      "slug": "nkogakom"
+    },
+    "code": {
+      "id": "GAB009002108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.183",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkogalene",
+      "en": "Nkogalene",
+      "slug": "nkogalene"
+    },
+    "code": {
+      "id": "GAB009002109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.117",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002110",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkogassie",
+      "en": "Nkogassie",
+      "slug": "nkogassie"
+    },
+    "code": {
+      "id": "GAB009002110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.083",
+      "lon": "12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkogomang",
+      "en": "Nkogomang",
+      "slug": "nkogomang"
+    },
+    "code": {
+      "id": "GAB009002112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.183",
+      "lon": "12.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkogomesseng",
+      "en": "Nkogomesseng",
+      "slug": "nkogomesseng"
+    },
+    "code": {
+      "id": "GAB009002113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.912",
+      "lon": "11.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002114",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkolvem",
+      "en": "Nkolvem",
+      "slug": "nkolvem"
+    },
+    "code": {
+      "id": "GAB009002114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.904",
+      "lon": "11.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002115",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoto I",
+      "en": "Nkoto I",
+      "slug": "nkoto-i"
+    },
+    "code": {
+      "id": "GAB009002115",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.84",
+      "lon": "11.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002116",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoto II",
+      "en": "Nkoto II",
+      "slug": "nkoto-ii"
+    },
+    "code": {
+      "id": "GAB009002116",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.867",
+      "lon": "11.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002117",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoum",
+      "en": "Nkoum",
+      "slug": "nkoum"
+    },
+    "code": {
+      "id": "GAB009002117",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.2",
+      "lon": "12.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002118",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoumadza",
+      "en": "Nkoumadza",
+      "slug": "nkoumadza"
+    },
+    "code": {
+      "id": "GAB009002118",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.033",
+      "lon": "11.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002119",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Noanatoute",
+      "en": "Noanatoute",
+      "slug": "noanatoute"
+    },
+    "code": {
+      "id": "GAB009002119",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.979",
+      "lon": "11.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002120",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nsak",
+      "en": "Nsak",
+      "slug": "nsak"
+    },
+    "code": {
+      "id": "GAB009002120",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.283",
+      "lon": "12.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002122",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obang",
+      "en": "Obang",
+      "slug": "obang"
+    },
+    "code": {
+      "id": "GAB009002122",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.267",
+      "lon": "12.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002123",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Odjingoto",
+      "en": "Odjingoto",
+      "slug": "odjingoto"
+    },
+    "code": {
+      "id": "GAB009002123",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.184",
+      "lon": "11.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002124",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Onie",
+      "en": "Onie",
+      "slug": "onie"
+    },
+    "code": {
+      "id": "GAB009002124",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.217",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002125",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovang",
+      "en": "Ovang",
+      "slug": "ovang"
+    },
+    "code": {
+      "id": "GAB009002125",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.918",
+      "lon": "11.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002126",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oveng I",
+      "en": "Oveng I",
+      "slug": "oveng-i"
+    },
+    "code": {
+      "id": "GAB009002126",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.948",
+      "lon": "11.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002127",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovon",
+      "en": "Ovon",
+      "slug": "ovon"
+    },
+    "code": {
+      "id": "GAB009002127",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.1",
+      "lon": "12.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002128",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovone",
+      "en": "Ovone",
+      "slug": "ovone"
+    },
+    "code": {
+      "id": "GAB009002128",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.1",
+      "lon": "12.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002129",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sele",
+      "en": "Sele",
+      "slug": "sele"
+    },
+    "code": {
+      "id": "GAB009002129",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.217",
+      "lon": "12.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002130",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Silakout",
+      "en": "Silakout",
+      "slug": "silakout"
+    },
+    "code": {
+      "id": "GAB009002130",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.217",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002131",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vama",
+      "en": "Vama",
+      "slug": "vama"
+    },
+    "code": {
+      "id": "GAB009002131",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.067",
+      "lon": "11.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002132",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vema",
+      "en": "Vema",
+      "slug": "vema"
+    },
+    "code": {
+      "id": "GAB009002132",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.067",
+      "lon": "12.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009002133",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yanebot",
+      "en": "Yanebot",
+      "slug": "yanebot"
+    },
+    "code": {
+      "id": "GAB009002133",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009002",
+      "level": 2,
+      "name": {
+        "local": "Haut-Ntem",
+        "en": "Haut-Ntem",
+        "slug": "haut-ntem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009002",
+        "level": 2,
+        "name": {
+          "local": "Haut-Ntem",
+          "en": "Haut-Ntem",
+          "slug": "haut-ntem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.167",
+      "lon": "12.133"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

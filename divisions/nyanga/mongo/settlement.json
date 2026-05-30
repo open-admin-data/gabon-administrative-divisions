@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "GAB005006001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibonga",
+      "en": "Bibonga",
+      "slug": "bibonga"
+    },
+    "code": {
+      "id": "GAB005006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.195",
+      "lon": "11.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibora",
+      "en": "Bibora",
+      "slug": "bibora"
+    },
+    "code": {
+      "id": "GAB005006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.215",
+      "lon": "11.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boukagni",
+      "en": "Boukagni",
+      "slug": "boukagni"
+    },
+    "code": {
+      "id": "GAB005006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "11.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Douli",
+      "en": "Douli",
+      "slug": "douli"
+    },
+    "code": {
+      "id": "GAB005006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.293",
+      "lon": "11.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ilendo",
+      "en": "Ilendo",
+      "slug": "ilendo"
+    },
+    "code": {
+      "id": "GAB005006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.269",
+      "lon": "11.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Irandou",
+      "en": "Irandou",
+      "slug": "irandou"
+    },
+    "code": {
+      "id": "GAB005006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.196",
+      "lon": "11.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouri",
+      "en": "Kouri",
+      "slug": "kouri"
+    },
+    "code": {
+      "id": "GAB005006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "11.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabili",
+      "en": "Mabili",
+      "slug": "mabili"
+    },
+    "code": {
+      "id": "GAB005006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.268",
+      "lon": "11.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magonga",
+      "en": "Magonga",
+      "slug": "magonga"
+    },
+    "code": {
+      "id": "GAB005006011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.284",
+      "lon": "11.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahina Bouissi",
+      "en": "Mahina Bouissi",
+      "slug": "mahina-bouissi"
+    },
+    "code": {
+      "id": "GAB005006012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.357",
+      "lon": "11.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makanga",
+      "en": "Makanga",
+      "slug": "makanga"
+    },
+    "code": {
+      "id": "GAB005006013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.22",
+      "lon": "11.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makina-Bouissi",
+      "en": "Makina-Bouissi",
+      "slug": "makina-bouissi"
+    },
+    "code": {
+      "id": "GAB005006014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.357",
+      "lon": "11.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makounou",
+      "en": "Makounou",
+      "slug": "makounou"
+    },
+    "code": {
+      "id": "GAB005006015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.363",
+      "lon": "11.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matsoumba",
+      "en": "Matsoumba",
+      "slug": "matsoumba"
+    },
+    "code": {
+      "id": "GAB005006016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "11.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Molito",
+      "en": "Molito",
+      "slug": "molito"
+    },
+    "code": {
+      "id": "GAB005006017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.275",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouralou",
+      "en": "Mouralou",
+      "slug": "mouralou"
+    },
+    "code": {
+      "id": "GAB005006018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.353",
+      "lon": "11.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouroungouya",
+      "en": "Mouroungouya",
+      "slug": "mouroungouya"
+    },
+    "code": {
+      "id": "GAB005006019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.288",
+      "lon": "11.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussamou Ygoyo",
+      "en": "Moussamou Ygoyo",
+      "slug": "moussamou-ygoyo"
+    },
+    "code": {
+      "id": "GAB005006020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.273",
+      "lon": "11.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndendi",
+      "en": "Ndendi",
+      "slug": "ndendi"
+    },
+    "code": {
+      "id": "GAB005006021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.174",
+      "lon": "11.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Povo",
+      "en": "Povo",
+      "slug": "povo"
+    },
+    "code": {
+      "id": "GAB005006022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.223",
+      "lon": "11.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005006023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Voumvou",
+      "en": "Voumvou",
+      "slug": "voumvou"
+    },
+    "code": {
+      "id": "GAB005006023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005006",
+      "level": 2,
+      "name": {
+        "local": "Mongo",
+        "en": "Mongo",
+        "slug": "mongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005006",
+        "level": 2,
+        "name": {
+          "local": "Mongo",
+          "en": "Mongo",
+          "slug": "mongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.237",
+      "lon": "11.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

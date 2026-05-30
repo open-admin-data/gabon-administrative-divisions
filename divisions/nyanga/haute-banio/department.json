@@ -1,0 +1,47 @@
+{
+  "id": "GAB005004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Haute-Banio",
+    "en": "Haute-Banio",
+    "slug": "haute-banio"
+  },
+  "code": {
+    "id": "GAB005004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB005",
+    "level": 1,
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.731",
+    "lon": "11.015"
+  },
+  "metadata": {},
+  "source": {}
+}

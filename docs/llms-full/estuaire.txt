@@ -1,0 +1,1941 @@
+# Estuaire — Gabon Administrative Divisions
+
+> 4 departments, 478 settlements
+> Code: GAB001
+> Coordinates: 0.412, 9.857
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Departments
+
+### Komo
+
+Code: GAB001001, Coordinates: 0.277, 10.261
+Settlements: 177
+
+#### Abenelan
+
+Code: GAB001001001, Coordinates: 0.583, 10.617
+
+#### Abenelang
+
+Code: GAB001001002, Coordinates: 0.233, 10.067
+
+#### Abian Minfakh
+
+Code: GAB001001003, Coordinates: 0.233, 10.067
+
+#### Acondjo
+
+Code: GAB001001004, Coordinates: -0.202, 9.961
+
+#### Aconjo
+
+Code: GAB001001005, Coordinates: -0.202, 9.961
+
+#### Adamenzork
+
+Code: GAB001001006, Coordinates: 0.6, 10.733
+
+#### Adza
+
+Code: GAB001001007, Coordinates: 0.333, 10.233
+
+#### Adzabilone
+
+Code: GAB001001008, Coordinates: 0.35, 10.567
+
+#### Adzak
+
+Code: GAB001001009, Coordinates: 0.2, 10.683
+
+#### Afakma
+
+Code: GAB001001010, Coordinates: -0.017, 9.967
+
+#### Afan Nzogh
+
+Code: GAB001001011, Coordinates: 0.367, 10.15
+
+#### Agonenzork
+
+Code: GAB001001012, Coordinates: 0.217, 10.317
+
+#### Agonzork
+
+Code: GAB001001013, Coordinates: 0.081, 9.896
+
+#### Ahdok Fala
+
+Code: GAB001001014, Coordinates: 0.383, 10.221
+
+#### Akana-Bour
+
+Code: GAB001001015, Coordinates: 0.35, 9.933
+
+#### Ako-Name
+
+Code: GAB001001016, Coordinates: 0.359, 9.923
+
+#### Akondje
+
+Code: GAB001001017, Coordinates: -0.202, 9.961
+
+#### Akondjo
+
+Code: GAB001001018, Coordinates: -0.202, 9.961
+
+#### Akoumar
+
+Code: GAB001001019, Coordinates: 0.15, 10.233
+
+#### Akourman
+
+Code: GAB001001020, Coordinates: 0.083, 9.867
+
+#### Akourmane
+
+Code: GAB001001021, Coordinates: 0.083, 10.25
+
+#### Alarmake
+
+Code: GAB001001023, Coordinates: 0.15, 10.05
+
+#### Alarmakei
+
+Code: GAB001001024, Coordinates: 0.033, 10.567
+
+#### Alen Nkogadza
+
+Code: GAB001001025, Coordinates: 0.3, 10.15
+
+#### Alen Nkok-Aza
+
+Code: GAB001001026, Coordinates: 0.283, 10.067
+
+#### Alen-Abanga
+
+Code: GAB001001027, Coordinates: 0.2, 10.183
+
+#### Alen-Como
+
+Code: GAB001001028, Coordinates: 0.2, 10.2
+
+#### Alene Koraza
+
+Code: GAB001001029, Coordinates: 0.317, 10.133
+
+#### Alene Makora
+
+Code: GAB001001030, Coordinates: 0.317, 10.25
+
+#### Alona
+
+Code: GAB001001031, Coordinates: 0.15, 10.083
+
+#### Alos
+
+Code: GAB001001032, Coordinates: 0.35, 10.383
+
+#### Aloum
+
+Code: GAB001001033, Coordinates: 0.191, 9.908
+
+#### Andem
+
+Code: GAB001001035, Coordinates: 0.323, 9.965
+
+#### Andeme
+
+Code: GAB001001036, Coordinates: 0.3, 10
+
+#### Andok Foula
+
+Code: GAB001001037, Coordinates: 0.383, 10.221
+
+#### Andokh Nfang
+
+Code: GAB001001038, Coordinates: 0.117, 10.05
+
+#### Andouako
+
+Code: GAB001001039, Coordinates: 0.617, 10.767
+
+#### Andoume
+
+Code: GAB001001040, Coordinates: 0.433, 10.6
+
+#### Angare
+
+Code: GAB001001041, Coordinates: 0.233, 10.217
+
+#### Ango
+
+Code: GAB001001042, Coordinates: 0.617, 10.767
+
+#### Angonenzork
+
+Code: GAB001001043, Coordinates: 0.217, 10.317
+
+#### Angoune
+
+Code: GAB001001044, Coordinates: 0.25, 9.867
+
+#### Anzem
+
+Code: GAB001001045, Coordinates: 0.6, 10.5
+
+#### Asseng
+
+Code: GAB001001046, Coordinates: 0.359, 9.923
+
+#### Assoka
+
+Code: GAB001001047, Coordinates: 0.567, 10.683
+
+#### Assoum Mabiala
+
+Code: GAB001001048, Coordinates: 0.217, 10.35
+
+#### Atoum
+
+Code: GAB001001049, Coordinates: 0.183, 10.283
+
+#### Avang-Biloug
+
+Code: GAB001001050, Coordinates: 0.017, 9.883
+
+#### Ayeghe
+
+Code: GAB001001051, Coordinates: 0.383, 10.283
+
+#### Ayeme
+
+Code: GAB001001052, Coordinates: 0.033, 10.283
+
+#### Bibiara
+
+Code: GAB001001055, Coordinates: 0.283, 10.633
+
+#### Bibolo
+
+Code: GAB001001056, Coordinates: 0.633, 10.833
+
+#### Bissobinam
+
+Code: GAB001001057, Coordinates: 0.25, 10.317
+
+#### Bitan
+
+Code: GAB001001059, Coordinates: 0.217, 10.233
+
+#### Bouma
+
+Code: GAB001001060, Coordinates: 0.217, 10.233
+
+#### Bumba
+
+Code: GAB001001061, Coordinates: 0.167, 9.983
+
+#### Congona
+
+Code: GAB001001062, Coordinates: 0.179, 10.089
+
+#### Dame
+
+Code: GAB001001063, Coordinates: 0.28, 10.058
+
+#### Dameu
+
+Code: GAB001001064, Coordinates: 0.28, 10.058
+
+#### Debarcadere d&#39;Akondjo
+
+Code: GAB001001065, Coordinates: -0.202, 9.961
+
+#### Djogeboat
+
+Code: GAB001001066, Coordinates: 0.167, 10.167
+
+#### Douaniang
+
+Code: GAB001001067, Coordinates: 0.302, 10.025
+
+#### Duma
+
+Code: GAB001001068, Coordinates: 0.2, 10.15
+
+#### Dume
+
+Code: GAB001001069, Coordinates: 0.2, 10.15
+
+#### Dzoguengone
+
+Code: GAB001001070, Coordinates: 0.133, 10.6
+
+#### Ebamou
+
+Code: GAB001001071, Coordinates: 0.35, 10.467
+
+#### Ebe
+
+Code: GAB001001072, Coordinates: 0.283, 10.017
+
+#### Ebiane
+
+Code: GAB001001073, Coordinates: 0.567, 10.667
+
+#### Elelem
+
+Code: GAB001001074, Coordinates: 0.467, 10.667
+
+#### Elong Eko
+
+Code: GAB001001075, Coordinates: 0.567, 10.9
+
+#### Elong-Eko
+
+Code: GAB001001076, Coordinates: 0.317, 9.95
+
+#### Esissie
+
+Code: GAB001001078, Coordinates: 0.217, 10.233
+
+#### Evinayong
+
+Code: GAB001001079, Coordinates: 0.283, 10.05
+
+#### Evoredoule
+
+Code: GAB001001080, Coordinates: 0.167, 10.117
+
+#### Evormakok
+
+Code: GAB001001081, Coordinates: 0.3, 10.2
+
+#### Evoula
+
+Code: GAB001001082, Coordinates: 0.1, 9.817
+
+#### Eyamayong
+
+Code: GAB001001083, Coordinates: 0.667, 10.9
+
+#### Eyameyong
+
+Code: GAB001001084, Coordinates: 0.183, 10.35
+
+#### Eyeme
+
+Code: GAB001001085, Coordinates: 0.283, 10.233
+
+#### Fala
+
+Code: GAB001001086, Coordinates: 0.217, 10.233
+
+#### Fouanga
+
+Code: GAB001001087, Coordinates: 0.25, 10.517
+
+#### Foula
+
+Code: GAB001001088, Coordinates: 0.217, 10.233
+
+#### Foula Bifoun
+
+Code: GAB001001089, Coordinates: 0.217, 10.233
+
+#### Foula Bifum
+
+Code: GAB001001090, Coordinates: 0.217, 10.233
+
+#### Fulabifum
+
+Code: GAB001001091, Coordinates: 0.217, 10.233
+
+#### Ingou
+
+Code: GAB001001092, Coordinates: 0.633, 10.817
+
+#### Issangafoum
+
+Code: GAB001001093, Coordinates: 0.35, 10.367
+
+#### Jogeboat
+
+Code: GAB001001094, Coordinates: 0.167, 10.167
+
+#### Kafele
+
+Code: GAB001001095, Coordinates: 0.155, 10.127
+
+#### Kaleton
+
+Code: GAB001001096, Coordinates: 0.333, 10.717
+
+#### Kam
+
+Code: GAB001001097, Coordinates: 0.417, 10.617
+
+#### Kango
+
+Code: GAB001001098, Coordinates: 0.179, 10.089
+
+#### Karamaien
+
+Code: GAB001001099, Coordinates: 0.15, 10.283
+
+#### Kimene
+
+Code: GAB001001100, Coordinates: 0.617, 10.8
+
+#### Kouame
+
+Code: GAB001001101, Coordinates: 0.189, 10.077
+
+#### Koumiki
+
+Code: GAB001001103, Coordinates: 0.117, 10.55
+
+#### Lafond
+
+Code: GAB001001104, Coordinates: 0.15, 10.183
+
+#### Lama
+
+Code: GAB001001105, Coordinates: 0.2, 9.833
+
+#### Lamba
+
+Code: GAB001001106, Coordinates: 0.217, 10.183
+
+#### Lendama
+
+Code: GAB001001107, Coordinates: 0.2, 10.067
+
+#### M&#39;Foua
+
+Code: GAB001001126, Coordinates: 0.4, 10.3
+
+#### Madaga
+
+Code: GAB001001108, Coordinates: 0.283, 10.067
+
+#### Mafa
+
+Code: GAB001001109, Coordinates: 0.19, 10.012
+
+#### Mafou
+
+Code: GAB001001110, Coordinates: 0.19, 10.012
+
+#### Mafu
+
+Code: GAB001001111, Coordinates: 0.19, 10.012
+
+#### Massoro
+
+Code: GAB001001112, Coordinates: 0.567, 10.6
+
+#### Mayengone
+
+Code: GAB001001113, Coordinates: 0.117, 10.317
+
+#### Mbalene
+
+Code: GAB001001114, Coordinates: 0.437, 10.078
+
+#### Mbel Alen
+
+Code: GAB001001115, Coordinates: 0.437, 10.078
+
+#### Mbissa
+
+Code: GAB001001116, Coordinates: 0.683, 10.983
+
+#### Mbogha
+
+Code: GAB001001117, Coordinates: 0.183, 9.933
+
+#### Mechui
+
+Code: GAB001001118, Coordinates: 0.617, 10.517
+
+#### Melen
+
+Code: GAB001001119, Coordinates: 0.217, 10.067
+
+#### Messang
+
+Code: GAB001001120, Coordinates: 0.267, 10.25
+
+#### Messoum
+
+Code: GAB001001121, Coordinates: 0.417, 10
+
+#### Mfang
+
+Code: GAB001001122, Coordinates: 0.278, 10.065
+
+#### Mfeme
+
+Code: GAB001001123, Coordinates: 0.117, 10.167
+
+#### Mfoa
+
+Code: GAB001001124, Coordinates: 0.4, 10.3
+
+#### Mfoa-Arebe
+
+Code: GAB001001125, Coordinates: 0.367, 10.217
+
+#### Mfoua-Avebe
+
+Code: GAB001001127, Coordinates: 0.283, 10.017
+
+#### Mfoul Mengoma
+
+Code: GAB001001128, Coordinates: 0.417, 10.217
+
+#### Mimbi
+
+Code: GAB001001129, Coordinates: 0.583, 10.7
+
+#### Misseghe
+
+Code: GAB001001130, Coordinates: 0.167, 10.167
+
+#### Mpiala
+
+Code: GAB001001131, Coordinates: 0.698, 10.963
+
+#### Mvang-Ayong
+
+Code: GAB001001132, Coordinates: -0.017, 9.883
+
+#### Mvomo
+
+Code: GAB001001133, Coordinates: 0.55, 10.633
+
+#### Ndoua
+
+Code: GAB001001134, Coordinates: 0.35, 10.4
+
+#### Ndouanieng
+
+Code: GAB001001135, Coordinates: 0.302, 10.025
+
+#### Ngorondzaye
+
+Code: GAB001001136, Coordinates: 0.383, 10.3
+
+#### Ngou
+
+Code: GAB001001137, Coordinates: 0.633, 10.817
+
+#### Ngoulemve
+
+Code: GAB001001138, Coordinates: 0.567, 10.45
+
+#### Nia Name
+
+Code: GAB001001139, Coordinates: 0.271, 10.071
+
+#### Nianam
+
+Code: GAB001001140, Coordinates: 0.283, 10.15
+
+#### Nkomi
+
+Code: GAB001001142, Coordinates: 0.367, 10.267
+
+#### Nkong
+
+Code: GAB001001143, Coordinates: 0.45, 10.6
+
+#### Nkoua
+
+Code: GAB001001144, Coordinates: 0.233, 10.117
+
+#### Nkoumeti
+
+Code: GAB001001146, Coordinates: 0.35, 10.517
+
+#### Nouako
+
+Code: GAB001001147, Coordinates: 0.35, 10.55
+
+#### Nsele
+
+Code: GAB001001148, Coordinates: 0.155, 10.127
+
+#### Nseng-Afoun
+
+Code: GAB001001149, Coordinates: 0.117, 10.167
+
+#### Ntoum
+
+Code: GAB001001150, Coordinates: 0.617, 10.8
+
+#### Nzamaligue
+
+Code: GAB001001151, Coordinates: 0.307, 10.226
+
+#### Nzamalique
+
+Code: GAB001001152, Coordinates: 0.307, 10.226
+
+#### Nzamanene
+
+Code: GAB001001153, Coordinates: 0.283, 10.25
+
+#### Nzeng-Bour
+
+Code: GAB001001154, Coordinates: 0.083, 10.233
+
+#### Nzeng-Meyong
+
+Code: GAB001001155, Coordinates: 0.117, 10.183
+
+#### Nzing Meyong
+
+Code: GAB001001157, Coordinates: 0.287, 10.046
+
+#### Nzogho-Mintang
+
+Code: GAB001001158, Coordinates: 0.208, 10.089
+
+#### Nzogmitang
+
+Code: GAB001001159, Coordinates: 0.183, 10.133
+
+#### Nzogomintang
+
+Code: GAB001001160, Coordinates: 0.208, 10.089
+
+#### Nzong-Meyond
+
+Code: GAB001001161, Coordinates: 0.1, 10.267
+
+#### Nzork
+
+Code: GAB001001162, Coordinates: 0.3, 10.017
+
+#### Nzoro Bindzene
+
+Code: GAB001001163, Coordinates: 0.417, 10.067
+
+#### Nzoro Mitang
+
+Code: GAB001001164, Coordinates: 0.45, 10.1
+
+#### Nzoua
+
+Code: GAB001001165, Coordinates: 0.35, 10.35
+
+#### Obinamboum
+
+Code: GAB001001166, Coordinates: 0.433, 10.7
+
+#### Omvan
+
+Code: GAB001001167, Coordinates: 0.633, 10.615
+
+#### Omvane
+
+Code: GAB001001168, Coordinates: 0.633, 10.615
+
+#### Onvane
+
+Code: GAB001001169, Coordinates: 0.633, 10.615
+
+#### Oussourfan
+
+Code: GAB001001170, Coordinates: 0.417, 10.1
+
+#### Ovane Bibang
+
+Code: GAB001001171, Coordinates: 0.617, 10.567
+
+#### Ovel Kol
+
+Code: GAB001001172, Coordinates: 0.1, 10.383
+
+#### Ovok-Sone
+
+Code: GAB001001173, Coordinates: 0.367, 9.917
+
+#### Oyan
+
+Code: GAB001001174, Coordinates: -0.002, 10.321
+
+#### Regnault
+
+Code: GAB001001175, Coordinates: 0.167, 9.817
+
+#### Sizakang
+
+Code: GAB001001176, Coordinates: 0.117, 10.183
+
+#### Soulfane
+
+Code: GAB001001177, Coordinates: 0.117, 10.617
+
+#### Sounga-Milare
+
+Code: GAB001001178, Coordinates: 0.083, 10.25
+
+#### Sulfan
+
+Code: GAB001001179, Coordinates: 0.117, 10.617
+
+#### Sulfane
+
+Code: GAB001001180, Coordinates: 0.117, 10.617
+
+#### Tem
+
+Code: GAB001001181, Coordinates: -0.1, 9.9
+
+#### Tornebeim
+
+Code: GAB001001182, Coordinates: 0.033, 9.967
+
+#### Vanayeme
+
+Code: GAB001001183, Coordinates: 0.267, 10.117
+
+#### Varmoko
+
+Code: GAB001001184, Coordinates: 0.3, 10.2
+
+#### Yameyang
+
+Code: GAB001001185, Coordinates: 0.05, 10.583
+
+#### Zamanene
+
+Code: GAB001001186, Coordinates: 0.1, 10.183
+
+#### Zoulameyong
+
+Code: GAB001001187, Coordinates: 0.233, 10.167
+
+### Komo-Mondah
+
+Code: GAB001002, Coordinates: 0.271, 9.504
+Settlements: 140
+
+#### Abaga
+
+Code: GAB001002001, Coordinates: 0.567, 9.367
+
+#### Abenelang
+
+Code: GAB001002002, Coordinates: 0.25, 9.833
+
+#### Abouna
+
+Code: GAB001002003, Coordinates: 0.25, 9.617
+
+#### Abuna
+
+Code: GAB001002004, Coordinates: 0.25, 9.617
+
+#### Adzebe
+
+Code: GAB001002005, Coordinates: 0.533, 9.767
+
+#### Afagayong
+
+Code: GAB001002006, Coordinates: 0.5, 9.733
+
+#### Afagenzork
+
+Code: GAB001002007, Coordinates: 0.483, 9.767
+
+#### Afakma
+
+Code: GAB001002008, Coordinates: 0.263, 9.828
+
+#### Afrik
+
+Code: GAB001002009, Coordinates: 0.35, 9.883
+
+#### Agouma
+
+Code: GAB001002010, Coordinates: 0.1, 9.683
+
+#### Akagakoa
+
+Code: GAB001002011, Coordinates: 0.367, 9.733
+
+#### Akelayong
+
+Code: GAB001002012, Coordinates: 0.583, 9.7
+
+#### Akernengoule
+
+Code: GAB001002013, Coordinates: 0.333, 9.867
+
+#### Akigname
+
+Code: GAB001002014, Coordinates: 0.567, 9.733
+
+#### Akok
+
+Code: GAB001002015, Coordinates: 0.512, 9.743
+
+#### Alarmake
+
+Code: GAB001002016, Coordinates: 0.083, 9.417
+
+#### Alarmitang
+
+Code: GAB001002017, Coordinates: 0.367, 9.767
+
+#### Alen
+
+Code: GAB001002018, Coordinates: 0.25, 9.817
+
+#### Aloum
+
+Code: GAB001002019, Coordinates: -0.033, 9.767
+
+#### Alum
+
+Code: GAB001002020, Coordinates: -0.033, 9.767
+
+#### Assore
+
+Code: GAB001002021, Coordinates: 0.367, 9.8
+
+#### Atale Eloun
+
+Code: GAB001002022, Coordinates: 0.15, 9.367
+
+#### Averoma
+
+Code: GAB001002023, Coordinates: 0.6, 9.317
+
+#### Avorbam
+
+Code: GAB001002024, Coordinates: 0.499, 9.403
+
+#### Avore Bamba
+
+Code: GAB001002025, Coordinates: 0.499, 9.403
+
+#### Ayaya
+
+Code: GAB001002026, Coordinates: 0.3, 9.583
+
+#### Ayeguening
+
+Code: GAB001002027, Coordinates: 0.567, 9.45
+
+#### Ayem
+
+Code: GAB001002029, Coordinates: 0.3, 9.675
+
+#### Ayeme
+
+Code: GAB001002030, Coordinates: 0.3, 9.675
+
+#### Azebe
+
+Code: GAB001002031
+
+#### Bingong
+
+Code: GAB001002032, Coordinates: 0.367, 9.733
+
+#### Bissobilam
+
+Code: GAB001002033, Coordinates: 0.283, 9.833
+
+#### Bissobinam
+
+Code: GAB001002034, Coordinates: 0.396, 9.601
+
+#### Bissobiname
+
+Code: GAB001002035, Coordinates: 0.367, 9.75
+
+#### Bivebinzogh
+
+Code: GAB001002037
+
+#### Bolendjo
+
+Code: GAB001002038, Coordinates: 0.183, 9.767
+
+#### Cap Esterias
+
+Code: GAB001002039
+
+#### Chinchoua
+
+Code: GAB001002040, Coordinates: 0.015, 9.809
+
+#### Chinchua
+
+Code: GAB001002041, Coordinates: 0.015, 9.809
+
+#### Denis
+
+Code: GAB001002042, Coordinates: 0.329, 9.365
+
+#### Donghila
+
+Code: GAB001002043, Coordinates: 0.207, 9.749
+
+#### Dongila
+
+Code: GAB001002044, Coordinates: 0.207, 9.749
+
+#### Donguila
+
+Code: GAB001002045, Coordinates: 0.207, 9.749
+
+#### Dzibe
+
+Code: GAB001002046, Coordinates: 0.233, 9.833
+
+#### Ebamayong
+
+Code: GAB001002047, Coordinates: 0.367, 9.733
+
+#### Ekouata
+
+Code: GAB001002050, Coordinates: -0.202, 9.317
+
+#### Ekoueta
+
+Code: GAB001002052, Coordinates: -0.202, 9.317
+
+#### Ekoum-Ebel
+
+Code: GAB001002053, Coordinates: 0.317, 9.85
+
+#### Ekwata
+
+Code: GAB001002054, Coordinates: -0.202, 9.317
+
+#### Elane
+
+Code: GAB001002055, Coordinates: 0.35, 9.617
+
+#### Elong Eko
+
+Code: GAB001002056, Coordinates: 0.23, 9.776
+
+#### Elong-Eko
+
+Code: GAB001002057, Coordinates: 0.23, 9.776
+
+#### Endendang
+
+Code: GAB001002058, Coordinates: 0.083, 9.417
+
+#### Equata
+
+Code: GAB001002059, Coordinates: -0.202, 9.317
+
+#### Essamvegne
+
+Code: GAB001002060, Coordinates: -0.033, 9.6
+
+#### Essanang
+
+Code: GAB001002061, Coordinates: 0.05, 9.433
+
+#### Etamayen
+
+Code: GAB001002062, Coordinates: 0.246, 9.632
+
+#### Etamayong
+
+Code: GAB001002063, Coordinates: 0.246, 9.632
+
+#### Etameyong
+
+Code: GAB001002064, Coordinates: 0.246, 9.632
+
+#### Eviename
+
+Code: GAB001002065, Coordinates: 0.583, 9.467
+
+#### Evinayong
+
+Code: GAB001002066, Coordinates: 0.35, 9.833
+
+#### Evoredouleux
+
+Code: GAB001002067, Coordinates: 0.35, 9.817
+
+#### Ex-case Boyer
+
+Code: GAB001002068, Coordinates: -0.15, 9.617
+
+#### Foulenzem
+
+Code: GAB001002069, Coordinates: -0.04, 9.614
+
+#### Idokogo
+
+Code: GAB001002070, Coordinates: 0.581, 9.308
+
+#### Igning-Melene
+
+Code: GAB001002071, Coordinates: 0.483, 9.417
+
+#### Iloneyon-Sekioni
+
+Code: GAB001002072, Coordinates: 0.583, 9.483
+
+#### Kobekobe
+
+Code: GAB001002073, Coordinates: -0.027, 9.348
+
+#### Kokobe
+
+Code: GAB001002075, Coordinates: -0.027, 9.348
+
+#### Kougoule
+
+Code: GAB001002076, Coordinates: 0.404, 9.89
+
+#### Kougouleu
+
+Code: GAB001002077, Coordinates: 0.404, 9.89
+
+#### Koumazza
+
+Code: GAB001002078, Coordinates: 0.517, 9.75
+
+#### Little Denis
+
+Code: GAB001002079, Coordinates: 0.233, 9.383
+
+#### Macoc
+
+Code: GAB001002080, Coordinates: -0.04, 9.614
+
+#### Macok
+
+Code: GAB001002081, Coordinates: -0.04, 9.614
+
+#### Makok
+
+Code: GAB001002082, Coordinates: -0.04, 9.614
+
+#### Mavoul
+
+Code: GAB001002083, Coordinates: -0.017, 9.767
+
+#### Mayaya
+
+Code: GAB001002084, Coordinates: 0.3, 9.583
+
+#### Mbamayong
+
+Code: GAB001002085, Coordinates: 0.55, 9.783
+
+#### Mbolen-Nzork
+
+Code: GAB001002086, Coordinates: 0.183, 9.75
+
+#### Mbon Mogel
+
+Code: GAB001002087, Coordinates: 0.333, 9.633
+
+#### Mbone
+
+Code: GAB001002088, Coordinates: 0.583, 9.8
+
+#### Meba
+
+Code: GAB001002089, Coordinates: 0.444, 9.758
+
+#### Mebba I
+
+Code: GAB001002090, Coordinates: 0.444, 9.758
+
+#### Mebba II
+
+Code: GAB001002091, Coordinates: 0.433, 9.783
+
+#### Mekonanam
+
+Code: GAB001002092, Coordinates: 0.387, 9.746
+
+#### Mekonaname
+
+Code: GAB001002093, Coordinates: 0.387, 9.746
+
+#### Mfoulayong
+
+Code: GAB001002094, Coordinates: 0.517, 9.933
+
+#### Mfoulenzem
+
+Code: GAB001002095, Coordinates: -0.049, 9.598
+
+#### Monda
+
+Code: GAB001002096, Coordinates: 0.283, 9.833
+
+#### Monzogh
+
+Code: GAB001002097, Coordinates: 0.3, 9.85
+
+#### Mpilou
+
+Code: GAB001002098, Coordinates: 0.45, 9.683
+
+#### Mvam
+
+Code: GAB001002099, Coordinates: -0.224, 9.657
+
+#### N&#39;Tchago
+
+Code: GAB001002115, Coordinates: 0.304, 9.376
+
+#### N&#39;Tchoua
+
+Code: GAB001002117, Coordinates: 0.05, 9.433
+
+#### Nanga
+
+Code: GAB001002100, Coordinates: 0.1, 9.733
+
+#### Nango
+
+Code: GAB001002101, Coordinates: 0.1, 9.733
+
+#### Ndjoue
+
+Code: GAB001002102, Coordinates: 0.25, 9.383
+
+#### Ndzomoe
+
+Code: GAB001002103
+
+#### Nfoulameyong
+
+Code: GAB001002104, Coordinates: 0.217, 9.717
+
+#### Nfoulenzem
+
+Code: GAB001002105, Coordinates: -0.049, 9.598
+
+#### Ngouanie
+
+Code: GAB001002106, Coordinates: 0.55, 9.7
+
+#### Njobermitang
+
+Code: GAB001002107, Coordinates: 0.383, 9.767
+
+#### Nkok
+
+Code: GAB001002108, Coordinates: 0.379, 9.634
+
+#### Nkoltang
+
+Code: GAB001002109, Coordinates: 0.38, 9.683
+
+#### Nkoumazza
+
+Code: GAB001002112, Coordinates: 0.517, 9.75
+
+#### Nkourou
+
+Code: GAB001002113, Coordinates: 0.545, 9.838
+
+#### Nlang-Mbeng
+
+Code: GAB001002114, Coordinates: -0.017, 9.633
+
+#### Ntchogo
+
+Code: GAB001002116, Coordinates: 0.304, 9.376
+
+#### Ntoum
+
+Code: GAB001002118, Coordinates: 0.391, 9.761
+
+#### Ntsini
+
+Code: GAB001002120, Coordinates: 0.595, 9.524
+
+#### Nvanayem
+
+Code: GAB001002121, Coordinates: 0.317, 9.85
+
+#### Nzamalighe
+
+Code: GAB001002122, Coordinates: 0.05, 9.495
+
+#### Nzamaligue
+
+Code: GAB001002123, Coordinates: 0.05, 9.495
+
+#### Nzamata
+
+Code: GAB001002127, Coordinates: 0.5, 9.4
+
+#### Nzamou
+
+Code: GAB001002128, Coordinates: 0.217, 9.833
+
+#### Nzang-Ayong
+
+Code: GAB001002129, Coordinates: 0.533, 9.717
+
+#### Nzebere
+
+Code: GAB001002130, Coordinates: -0.017, 9.783
+
+#### Nzeng-Miana
+
+Code: GAB001002131, Coordinates: 0.367, 9.9
+
+#### Nzog-Mitang
+
+Code: GAB001002133, Coordinates: 0.396, 9.614
+
+#### Nzoghe-Mintang
+
+Code: GAB001002132, Coordinates: 0.583, 9.717
+
+#### Nzogobeyork
+
+Code: GAB001002134, Coordinates: 0.517, 9.383
+
+#### Nzogomitang
+
+Code: GAB001002135, Coordinates: 0.396, 9.614
+
+#### Nzong
+
+Code: GAB001002136, Coordinates: 0.383, 9.883
+
+#### Nzong Bour
+
+Code: GAB001002137, Coordinates: 0.367, 9.65
+
+#### Nzong Zeme
+
+Code: GAB001002138, Coordinates: 0.383, 9.883
+
+#### Obelo
+
+Code: GAB001002139, Coordinates: 0.117, 9.417
+
+#### Obeo
+
+Code: GAB001002140, Coordinates: 0.117, 9.417
+
+#### Oveng
+
+Code: GAB001002141, Coordinates: 0.095, 9.437
+
+#### Oyan
+
+Code: GAB001002142, Coordinates: -0.168, 9.343
+
+#### Oyane
+
+Code: GAB001002143, Coordinates: -0.168, 9.343
+
+#### Petit-Denis
+
+Code: GAB001002144, Coordinates: 0.233, 9.383
+
+#### Pointe Denis
+
+Code: GAB001002145, Coordinates: 0.329, 9.365
+
+#### Rigoho
+
+Code: GAB001002146, Coordinates: 0.317, 9.583
+
+#### Sahoue
+
+Code: GAB001002147, Coordinates: 0.617, 9.333
+
+#### Sahue
+
+Code: GAB001002148, Coordinates: 0.617, 9.333
+
+#### Sifala
+
+Code: GAB001002149, Coordinates: 0.587, 9.421
+
+#### Sizakang
+
+Code: GAB001002150, Coordinates: 0.283, 9.633
+
+#### Vonmozel
+
+Code: GAB001002151, Coordinates: 0.333, 9.633
+
+#### Yombe
+
+Code: GAB001002152, Coordinates: 0.6, 9.483
+
+### Libreville
+
+Code: GAB001004, Coordinates: 0.377, 9.493
+Settlements: 43
+
+#### Adzebe
+
+Code: GAB001004001, Coordinates: 0.4, 9.467
+
+#### Afane-Mendone
+
+Code: GAB001004002, Coordinates: 0.4, 9.483
+
+#### Akournam
+
+Code: GAB001004003, Coordinates: 0.34, 9.507
+
+#### Akourname
+
+Code: GAB001004004, Coordinates: 0.34, 9.507
+
+#### Ambowe
+
+Code: GAB001004005, Coordinates: 0.433, 9.45
+
+#### Anelakici
+
+Code: GAB001004006, Coordinates: 0.3, 9.517
+
+#### Anongomiani
+
+Code: GAB001004007, Coordinates: 0.45, 9.4
+
+#### Assougoula Emo
+
+Code: GAB001004008, Coordinates: 0.417, 9.483
+
+#### Atenda-Simba
+
+Code: GAB001004009, Coordinates: 0.3, 9.517
+
+#### Atonda-Simba
+
+Code: GAB001004010, Coordinates: 0.4, 9.467
+
+#### Atouda-Simba
+
+Code: GAB001004011, Coordinates: 0.417, 9.483
+
+#### Bikele
+
+Code: GAB001004012, Coordinates: 0.409, 9.569
+
+#### Bizango-Bibere
+
+Code: GAB001004014, Coordinates: 0.383, 9.55
+
+#### Conicoue
+
+Code: GAB001004015, Coordinates: 0.3, 9.517
+
+#### Coniquet
+
+Code: GAB001004016, Coordinates: 0.267, 9.533
+
+#### Conniquet
+
+Code: GAB001004017, Coordinates: 0.267, 9.533
+
+#### Edouangani I
+
+Code: GAB001004018, Coordinates: 0.467, 9.417
+
+#### Edouangani II
+
+Code: GAB001004019, Coordinates: 0.45, 9.433
+
+#### Ilou
+
+Code: GAB001004020, Coordinates: 0.383, 9.517
+
+#### Konikue
+
+Code: GAB001004021, Coordinates: 0.3, 9.517
+
+#### Kringer
+
+Code: GAB001004022, Coordinates: 0.417, 9.417
+
+#### Kwaben
+
+Code: GAB001004023, Coordinates: 0.4, 9.433
+
+#### Lalala
+
+Code: GAB001004024, Coordinates: 0.369, 9.471
+
+#### Les Bambous
+
+Code: GAB001004025, Coordinates: 0.433, 9.55
+
+#### Libreville
+
+Code: GAB001004026, Coordinates: 0.383, 9.45
+
+#### Louis
+
+Code: GAB001004027, Coordinates: 0.417, 9.433
+
+#### Macouma
+
+Code: GAB001004028, Coordinates: 0.383, 9.533
+
+#### Macuma
+
+Code: GAB001004029, Coordinates: 0.383, 9.533
+
+#### Mindoube
+
+Code: GAB001004030, Coordinates: 0.367, 9.5
+
+#### Ndomba
+
+Code: GAB001004031, Coordinates: 0.341, 9.499
+
+#### Nkog Ebel
+
+Code: GAB001004032, Coordinates: 0.433, 9.483
+
+#### Nomba
+
+Code: GAB001004033, Coordinates: 0.341, 9.499
+
+#### Nseng-Mitang
+
+Code: GAB001004034, Coordinates: 0.417, 9.5
+
+#### Nvanayeme
+
+Code: GAB001004035, Coordinates: 0.367, 9.517
+
+#### Nzeng Ayong
+
+Code: GAB001004036, Coordinates: 0.429, 9.475
+
+#### Nzong-Ayong
+
+Code: GAB001004037, Coordinates: 0.429, 9.475
+
+#### Ovendo
+
+Code: GAB001004038, Coordinates: 0.291, 9.505
+
+#### Ovolondzam
+
+Code: GAB001004039, Coordinates: 0.317, 9.517
+
+#### Owenda
+
+Code: GAB001004040, Coordinates: 0.291, 9.505
+
+#### Owendo
+
+Code: GAB001004041, Coordinates: 0.291, 9.505
+
+#### Quaben
+
+Code: GAB001004042, Coordinates: 0.4, 9.433
+
+#### Sibang
+
+Code: GAB001004043, Coordinates: 0.419, 9.505
+
+#### Sibangua
+
+Code: GAB001004044, Coordinates: 0.419, 9.505
+
+### Noya
+
+Code: GAB001003, Coordinates: 0.788, 9.81
+Settlements: 118
+
+#### Abas
+
+Code: GAB001003001, Coordinates: 0.968, 9.789
+
+#### Abenelang
+
+Code: GAB001003002, Coordinates: 0.617, 9.633
+
+#### Aboume
+
+Code: GAB001003004, Coordinates: 0.856, 9.842
+
+#### Adza
+
+Code: GAB001003005, Coordinates: 0.646, 9.763
+
+#### Adzebe
+
+Code: GAB001003006, Coordinates: 0.867, 9.6
+
+#### Akanabour
+
+Code: GAB001003007, Coordinates: 0.637, 9.86
+
+#### Akanabur
+
+Code: GAB001003009, Coordinates: 0.667, 9.65
+
+#### Akolinem
+
+Code: GAB001003010, Coordinates: 0.793, 9.924
+
+#### Akonilen
+
+Code: GAB001003011, Coordinates: 0.793, 9.924
+
+#### Akoulinem
+
+Code: GAB001003012, Coordinates: 0.793, 9.924
+
+#### Akounilem
+
+Code: GAB001003013, Coordinates: 0.793, 9.924
+
+#### Akounilen
+
+Code: GAB001003014, Coordinates: 0.793, 9.924
+
+#### Alenakiri
+
+Code: GAB001003015, Coordinates: 0.567, 10.083
+
+#### Alene
+
+Code: GAB001003016, Coordinates: 0.6, 10.083
+
+#### Alos
+
+Code: GAB001003017, Coordinates: 0.655, 9.624
+
+#### Alossi
+
+Code: GAB001003018, Coordinates: 0.655, 9.624
+
+#### Aloum
+
+Code: GAB001003019, Coordinates: 0.583, 9.883
+
+#### Amoin
+
+Code: GAB001003021, Coordinates: 0.717, 9.633
+
+#### Assora-Massona
+
+Code: GAB001003022, Coordinates: 0.733, 9.717
+
+#### Atem
+
+Code: GAB001003023, Coordinates: 0.611, 9.618
+
+#### Avelayong
+
+Code: GAB001003024, Coordinates: 0.816, 9.885
+
+#### Avora
+
+Code: GAB001003025, Coordinates: 0.967, 10.05
+
+#### Ayem
+
+Code: GAB001003026, Coordinates: 0.8, 9.667
+
+#### Ayeme
+
+Code: GAB001003028, Coordinates: 0.5, 10.217
+
+#### Ayenabour
+
+Code: GAB001003030, Coordinates: 0.6, 9.9
+
+#### Baraka
+
+Code: GAB001003031, Coordinates: 0.633, 9.683
+
+#### Bibe
+
+Code: GAB001003032, Coordinates: 0.917, 9.817
+
+#### Bienam
+
+Code: GAB001003033, Coordinates: 0.652, 9.648
+
+#### Biliba
+
+Code: GAB001003034, Coordinates: 0.95, 10.033
+
+#### Binguilinguen
+
+Code: GAB001003035, Coordinates: 0.817, 10.383
+
+#### Bissobinam
+
+Code: GAB001003036, Coordinates: 0.943, 9.581
+
+#### Bogofala
+
+Code: GAB001003038, Coordinates: 1, 9.6
+
+#### Bogotang
+
+Code: GAB001003039, Coordinates: 0.75, 9.7
+
+#### Boutica
+
+Code: GAB001003040, Coordinates: 1.057, 9.663
+
+#### Butica
+
+Code: GAB001003041, Coordinates: 1.057, 9.663
+
+#### Butica Uvinia
+
+Code: GAB001003042, Coordinates: 1.057, 9.663
+
+#### Butika
+
+Code: GAB001003043, Coordinates: 1.057, 9.663
+
+#### Cocoabeach
+
+Code: GAB001003044, Coordinates: 1, 9.582
+
+#### Cocobeach
+
+Code: GAB001003045, Coordinates: 1, 9.582
+
+#### Ebandje
+
+Code: GAB001003046, Coordinates: 0.87, 9.586
+
+#### Ebegnakok
+
+Code: GAB001003047, Coordinates: 0.792, 9.695
+
+#### Ebondje
+
+Code: GAB001003048, Coordinates: 0.87, 9.586
+
+#### Ebondji
+
+Code: GAB001003049, Coordinates: 0.87, 9.586
+
+#### Ebondsche
+
+Code: GAB001003050, Coordinates: 0.87, 9.586
+
+#### Ekododo
+
+Code: GAB001003051, Coordinates: 0.922, 9.942
+
+#### Emone
+
+Code: GAB001003052, Coordinates: 0.834, 9.595
+
+#### Engong
+
+Code: GAB001003053, Coordinates: 0.6, 10.1
+
+#### Engoung
+
+Code: GAB001003054, Coordinates: 0.767, 9.767
+
+#### Enguengang-Medzim
+
+Code: GAB001003055, Coordinates: 0.683, 10
+
+#### Enworedule
+
+Code: GAB001003056, Coordinates: 0.723, 9.966
+
+#### Essoua
+
+Code: GAB001003057, Coordinates: 0.943, 9.906
+
+#### Evamba
+
+Code: GAB001003058, Coordinates: 0.933, 9.717
+
+#### Evoredoule
+
+Code: GAB001003059, Coordinates: 0.723, 9.966
+
+#### Evoredouleu
+
+Code: GAB001003060, Coordinates: 0.723, 9.966
+
+#### Eyameyong
+
+Code: GAB001003061, Coordinates: 0.767, 9.983
+
+#### Foula
+
+Code: GAB001003062, Coordinates: 0.85, 9.9
+
+#### Foulayong
+
+Code: GAB001003064, Coordinates: 0.857, 9.887
+
+#### Gouale
+
+Code: GAB001003065, Coordinates: 0.917, 10.017
+
+#### Iboundji
+
+Code: GAB001003066, Coordinates: 0.87, 9.586
+
+#### Idolo
+
+Code: GAB001003067, Coordinates: 0.8, 9.967
+
+#### Indombo
+
+Code: GAB001003068, Coordinates: 0.934, 9.555
+
+#### Kogh-Ebele
+
+Code: GAB001003069, Coordinates: 0.65, 9.967
+
+#### Leme
+
+Code: GAB001003070, Coordinates: 0.968, 9.577
+
+#### M&#39;Bafane
+
+Code: GAB001003081, Coordinates: 0.617, 9.667
+
+#### Mabendj
+
+Code: GAB001003071, Coordinates: 0.967, 9.783
+
+#### Mabengi
+
+Code: GAB001003072, Coordinates: 0.967, 9.783
+
+#### Madekele
+
+Code: GAB001003073, Coordinates: 0.8, 9.617
+
+#### Madekelo
+
+Code: GAB001003074, Coordinates: 0.8, 9.617
+
+#### Mala
+
+Code: GAB001003075, Coordinates: 0.592, 10.262
+
+#### Mangala
+
+Code: GAB001003076, Coordinates: 0.979, 9.574
+
+#### Mangono
+
+Code: GAB001003077, Coordinates: 0.892, 9.579
+
+#### Massai
+
+Code: GAB001003078, Coordinates: 0.976, 9.778
+
+#### Masse
+
+Code: GAB001003079, Coordinates: 0.933, 9.817
+
+#### Mbafan
+
+Code: GAB001003080, Coordinates: 0.617, 9.667
+
+#### Medegue
+
+Code: GAB001003082, Coordinates: 0.614, 10.126
+
+#### Mefia
+
+Code: GAB001003083, Coordinates: 0.8, 9.683
+
+#### Mekamenzogh
+
+Code: GAB001003084, Coordinates: 0.823, 9.604
+
+#### Mekina
+
+Code: GAB001003085, Coordinates: 1.017, 9.667
+
+#### Mela
+
+Code: GAB001003086, Coordinates: 0.592, 10.262
+
+#### Mendouga
+
+Code: GAB001003087, Coordinates: 0.633, 10.1
+
+#### Metala
+
+Code: GAB001003088, Coordinates: 1.033, 9.667
+
+#### Mikolongo
+
+Code: GAB001003089, Coordinates: 0.729, 9.645
+
+#### Milembie
+
+Code: GAB001003090, Coordinates: 0.666, 9.644
+
+#### Mvanayem
+
+Code: GAB001003091, Coordinates: 0.8, 9.95
+
+#### Mvanayeme
+
+Code: GAB001003092, Coordinates: 0.6, 10.133
+
+#### Mvanayong
+
+Code: GAB001003093, Coordinates: 0.493, 10.148
+
+#### Mvang
+
+Code: GAB001003095, Coordinates: 0.8, 9.814
+
+#### Mvomenzogh
+
+Code: GAB001003097, Coordinates: 0.775, 9.808
+
+#### Mvone
+
+Code: GAB001003098, Coordinates: 0.919, 9.568
+
+#### Mvoulenzogh
+
+Code: GAB001003099, Coordinates: 0.733, 9.829
+
+#### Myang
+
+Code: GAB001003100, Coordinates: 0.85, 9.767
+
+#### N&#39;Gouala
+
+Code: GAB001003102, Coordinates: 0.917, 10.017
+
+#### Ndombo
+
+Code: GAB001003101, Coordinates: 0.934, 9.555
+
+#### Nguale
+
+Code: GAB001003103, Coordinates: 0.917, 10.017
+
+#### Nianam
+
+Code: GAB001003104, Coordinates: 0.583, 10
+
+#### Nianam I
+
+Code: GAB001003105, Coordinates: 0.929, 9.575
+
+#### Nianam II
+
+Code: GAB001003106, Coordinates: 0.95, 9.617
+
+#### Nkan
+
+Code: GAB001003107, Coordinates: 0.703, 9.634
+
+#### Nkoulamvan
+
+Code: GAB001003108, Coordinates: 0.922, 9.777
+
+#### Nkoulengong
+
+Code: GAB001003109, Coordinates: 0.826, 9.783
+
+#### Nkourneki
+
+Code: GAB001003110, Coordinates: 0.567, 9.917
+
+#### Noayong
+
+Code: GAB001003111, Coordinates: 0.733, 9.683
+
+#### Nsogubefame
+
+Code: GAB001003112, Coordinates: 0.692, 9.853
+
+#### Nzingayong
+
+Code: GAB001003113, Coordinates: 0.617, 9.683
+
+#### Nzoghebour
+
+Code: GAB001003114, Coordinates: 0.692, 9.853
+
+#### Nzoghengone
+
+Code: GAB001003116, Coordinates: 0.754, 9.973
+
+#### Nzogobefam
+
+Code: GAB001003117, Coordinates: 0.692, 9.853
+
+#### Nzoguebefame
+
+Code: GAB001003118, Coordinates: 0.692, 9.853
+
+#### Nzonguebourg
+
+Code: GAB001003119, Coordinates: 0.692, 9.853
+
+#### Obour
+
+Code: GAB001003120, Coordinates: 0.9, 9.817
+
+#### Okam
+
+Code: GAB001003121, Coordinates: 0.687, 10.022
+
+#### Okan
+
+Code: GAB001003122, Coordinates: 0.687, 10.022
+
+#### Okola
+
+Code: GAB001003123, Coordinates: 0.817, 10.007
+
+#### Ongam
+
+Code: GAB001003124, Coordinates: 0.642, 9.658
+
+#### Regnault
+
+Code: GAB001003125, Coordinates: 1.017, 9.633
+
+#### Ukoko
+
+Code: GAB001003126, Coordinates: 1, 9.582
+
+#### Vombie
+
+Code: GAB001003127, Coordinates: 0.958, 9.578
+
+#### Yong
+
+Code: GAB001003128, Coordinates: 0.817, 9.85
+

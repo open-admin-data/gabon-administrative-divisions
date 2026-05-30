@@ -1,0 +1,47 @@
+{
+  "id": "GAB001001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Komo",
+    "en": "Komo",
+    "slug": "komo"
+  },
+  "code": {
+    "id": "GAB001001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB001",
+    "level": 1,
+    "name": {
+      "local": "Estuaire",
+      "en": "Estuaire",
+      "slug": "estuaire"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB001",
+      "level": 1,
+      "name": {
+        "local": "Estuaire",
+        "en": "Estuaire",
+        "slug": "estuaire"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 177
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.277",
+    "lon": "10.261"
+  },
+  "metadata": {},
+  "source": {}
+}

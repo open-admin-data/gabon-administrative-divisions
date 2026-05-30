@@ -1,0 +1,47 @@
+{
+  "id": "GAB003002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Ogooue et Lacs",
+    "en": "Ogooue et Lacs",
+    "slug": "ogooue-et-lacs"
+  },
+  "code": {
+    "id": "GAB003002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB003",
+    "level": 1,
+    "name": {
+      "local": "Moyen-Ogooue",
+      "en": "Moyen-Ogooue",
+      "slug": "moyen-ogooue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB003",
+      "level": 1,
+      "name": {
+        "local": "Moyen-Ogooue",
+        "en": "Moyen-Ogooue",
+        "slug": "moyen-ogooue"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 169
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.704",
+    "lon": "10.172"
+  },
+  "metadata": {},
+  "source": {}
+}

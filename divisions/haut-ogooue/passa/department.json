@@ -1,0 +1,47 @@
+{
+  "id": "GAB002008",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Passa",
+    "en": "Passa",
+    "slug": "passa"
+  },
+  "code": {
+    "id": "GAB002008",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB002",
+    "level": 1,
+    "name": {
+      "local": "Haut-Ogooue",
+      "en": "Haut-Ogooue",
+      "slug": "haut-ogooue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 112
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.63",
+    "lon": "13.593"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "GAB006001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Ivindo",
+    "en": "Ivindo",
+    "slug": "ivindo"
+  },
+  "code": {
+    "id": "GAB006001",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB006",
+    "level": 1,
+    "name": {
+      "local": "Ogooue-Ivindo",
+      "en": "Ogooue-Ivindo",
+      "slug": "ogooue-ivindo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB006",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Ivindo",
+        "en": "Ogooue-Ivindo",
+        "slug": "ogooue-ivindo"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 122
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.664",
+    "lon": "12.955"
+  },
+  "metadata": {},
+  "source": {}
+}

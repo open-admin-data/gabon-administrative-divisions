@@ -1,0 +1,47 @@
+{
+  "id": "GAB002004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Lekabi-Lewolo",
+    "en": "Lekabi-Lewolo",
+    "slug": "lekabi-lewolo"
+  },
+  "code": {
+    "id": "GAB002004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB002",
+    "level": 1,
+    "name": {
+      "local": "Haut-Ogooue",
+      "en": "Haut-Ogooue",
+      "slug": "haut-ogooue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.322",
+    "lon": "13.736"
+  },
+  "metadata": {},
+  "source": {}
+}

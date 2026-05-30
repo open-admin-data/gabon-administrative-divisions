@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "GAB002003001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bangassou",
+      "en": "Bangassou",
+      "slug": "bangassou"
+    },
+    "code": {
+      "id": "GAB002003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.552",
+      "lon": "13.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boma",
+      "en": "Boma",
+      "slug": "boma"
+    },
+    "code": {
+      "id": "GAB002003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.671",
+      "lon": "13.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bongo Madouma",
+      "en": "Bongo Madouma",
+      "slug": "bongo-madouma"
+    },
+    "code": {
+      "id": "GAB002003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.218",
+      "lon": "13.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bongo-Badouma",
+      "en": "Bongo-Badouma",
+      "slug": "bongo-badouma"
+    },
+    "code": {
+      "id": "GAB002003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.218",
+      "lon": "13.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Comilog",
+      "en": "Comilog",
+      "slug": "comilog"
+    },
+    "code": {
+      "id": "GAB002003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.542",
+      "lon": "13.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djiba",
+      "en": "Djiba",
+      "slug": "djiba"
+    },
+    "code": {
+      "id": "GAB002003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.333",
+      "lon": "13.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djiba I",
+      "en": "Djiba I",
+      "slug": "djiba-i"
+    },
+    "code": {
+      "id": "GAB002003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.35",
+      "lon": "13.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djiba II",
+      "en": "Djiba II",
+      "slug": "djiba-ii"
+    },
+    "code": {
+      "id": "GAB002003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.367",
+      "lon": "13.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djokoroundja",
+      "en": "Djokoroundja",
+      "slug": "djokoroundja"
+    },
+    "code": {
+      "id": "GAB002003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.527",
+      "lon": "13.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djoutou",
+      "en": "Djoutou",
+      "slug": "djoutou"
+    },
+    "code": {
+      "id": "GAB002003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.681",
+      "lon": "13.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doumai",
+      "en": "Doumai",
+      "slug": "doumai"
+    },
+    "code": {
+      "id": "GAB002003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.574",
+      "lon": "13.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Endjoumou",
+      "en": "Endjoumou",
+      "slug": "endjoumou"
+    },
+    "code": {
+      "id": "GAB002003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.584",
+      "lon": "13.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Grand Lekolo",
+      "en": "Grand Lekolo",
+      "slug": "grand-lekolo"
+    },
+    "code": {
+      "id": "GAB002003013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "13.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Grand Massengo",
+      "en": "Grand Massengo",
+      "slug": "grand-massengo"
+    },
+    "code": {
+      "id": "GAB002003014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.383",
+      "lon": "13.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gueme",
+      "en": "Gueme",
+      "slug": "gueme"
+    },
+    "code": {
+      "id": "GAB002003015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.133",
+      "lon": "13.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itoko",
+      "en": "Itoko",
+      "slug": "itoko"
+    },
+    "code": {
+      "id": "GAB002003016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.417",
+      "lon": "13.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kounda",
+      "en": "Kounda",
+      "slug": "kounda"
+    },
+    "code": {
+      "id": "GAB002003017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.579",
+      "lon": "13.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekamba",
+      "en": "Lekamba",
+      "slug": "lekamba"
+    },
+    "code": {
+      "id": "GAB002003018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "13.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekolo",
+      "en": "Lekolo",
+      "slug": "lekolo"
+    },
+    "code": {
+      "id": "GAB002003019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.584",
+      "lon": "13.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekoumba",
+      "en": "Lekoumba",
+      "slug": "lekoumba"
+    },
+    "code": {
+      "id": "GAB002003021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.467",
+      "lon": "13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lengounga",
+      "en": "Lengounga",
+      "slug": "lengounga"
+    },
+    "code": {
+      "id": "GAB002003022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Liyami",
+      "en": "Liyami",
+      "slug": "liyami"
+    },
+    "code": {
+      "id": "GAB002003023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.45",
+      "lon": "13.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabinga",
+      "en": "Mabinga",
+      "slug": "mabinga"
+    },
+    "code": {
+      "id": "GAB002003024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.513",
+      "lon": "13.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madzaya",
+      "en": "Madzaya",
+      "slug": "madzaya"
+    },
+    "code": {
+      "id": "GAB002003025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.661",
+      "lon": "13.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magnima",
+      "en": "Magnima",
+      "slug": "magnima"
+    },
+    "code": {
+      "id": "GAB002003026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.636",
+      "lon": "12.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maila",
+      "en": "Maila",
+      "slug": "maila"
+    },
+    "code": {
+      "id": "GAB002003027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.4",
+      "lon": "13.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malama",
+      "en": "Malama",
+      "slug": "malama"
+    },
+    "code": {
+      "id": "GAB002003028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.674",
+      "lon": "13.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mallima",
+      "en": "Mallima",
+      "slug": "mallima"
+    },
+    "code": {
+      "id": "GAB002003029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.674",
+      "lon": "13.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mamidi",
+      "en": "Mamidi",
+      "slug": "mamidi"
+    },
+    "code": {
+      "id": "GAB002003030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.533",
+      "lon": "13.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Manogo",
+      "en": "Manogo",
+      "slug": "manogo"
+    },
+    "code": {
+      "id": "GAB002003031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "13.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massengo",
+      "en": "Massengo",
+      "slug": "massengo"
+    },
+    "code": {
+      "id": "GAB002003032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.423",
+      "lon": "13.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massengo I",
+      "en": "Massengo I",
+      "slug": "massengo-i"
+    },
+    "code": {
+      "id": "GAB002003033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.423",
+      "lon": "13.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massengo II",
+      "en": "Massengo II",
+      "slug": "massengo-ii"
+    },
+    "code": {
+      "id": "GAB002003034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.473",
+      "lon": "13.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massengo III",
+      "en": "Massengo III",
+      "slug": "massengo-iii"
+    },
+    "code": {
+      "id": "GAB002003035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.417",
+      "lon": "13.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mavindji-Posso",
+      "en": "Mavindji-Posso",
+      "slug": "mavindji-posso"
+    },
+    "code": {
+      "id": "GAB002003036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "13.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboma-Makama",
+      "en": "Mboma-Makama",
+      "slug": "mboma-makama"
+    },
+    "code": {
+      "id": "GAB002003037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.47",
+      "lon": "13.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mikouagni",
+      "en": "Mikouagni",
+      "slug": "mikouagni"
+    },
+    "code": {
+      "id": "GAB002003038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.609",
+      "lon": "13.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moanda",
+      "en": "Moanda",
+      "slug": "moanda"
+    },
+    "code": {
+      "id": "GAB002003040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.565",
+      "lon": "13.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mokaba-Ngaou",
+      "en": "Mokaba-Ngaou",
+      "slug": "mokaba-ngaou"
+    },
+    "code": {
+      "id": "GAB002003041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.467",
+      "lon": "13.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mondzeye",
+      "en": "Mondzeye",
+      "slug": "mondzeye"
+    },
+    "code": {
+      "id": "GAB002003042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.484",
+      "lon": "13.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mossete",
+      "en": "Mossete",
+      "slug": "mossete"
+    },
+    "code": {
+      "id": "GAB002003043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.675",
+      "lon": "13.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouanda",
+      "en": "Mouanda",
+      "slug": "mouanda"
+    },
+    "code": {
+      "id": "GAB002003044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.565",
+      "lon": "13.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouenda",
+      "en": "Mouenda",
+      "slug": "mouenda"
+    },
+    "code": {
+      "id": "GAB002003045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.565",
+      "lon": "13.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouinga",
+      "en": "Mouinga",
+      "slug": "mouinga"
+    },
+    "code": {
+      "id": "GAB002003046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.668",
+      "lon": "13.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mounana",
+      "en": "Mounana",
+      "slug": "mounana"
+    },
+    "code": {
+      "id": "GAB002003047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.408",
+      "lon": "13.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mounana I",
+      "en": "Mounana I",
+      "slug": "mounana-i"
+    },
+    "code": {
+      "id": "GAB002003048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "12.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mounana II",
+      "en": "Mounana II",
+      "slug": "mounana-ii"
+    },
+    "code": {
+      "id": "GAB002003049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "12.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moyabi",
+      "en": "Moyabi",
+      "slug": "moyabi"
+    },
+    "code": {
+      "id": "GAB002003050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.668",
+      "lon": "13.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndoubi",
+      "en": "Ndoubi",
+      "slug": "ndoubi"
+    },
+    "code": {
+      "id": "GAB002003051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.338",
+      "lon": "13.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Omoi",
+      "en": "Omoi",
+      "slug": "omoi"
+    },
+    "code": {
+      "id": "GAB002003052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.35",
+      "lon": "13.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Omoi I",
+      "en": "Omoi I",
+      "slug": "omoi-i"
+    },
+    "code": {
+      "id": "GAB002003054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.368",
+      "lon": "13.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Omoi II",
+      "en": "Omoi II",
+      "slug": "omoi-ii"
+    },
+    "code": {
+      "id": "GAB002003055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.341",
+      "lon": "13.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vengue",
+      "en": "Vengue",
+      "slug": "vengue"
+    },
+    "code": {
+      "id": "GAB002003056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "13.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Welle",
+      "en": "Welle",
+      "slug": "welle"
+    },
+    "code": {
+      "id": "GAB002003057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "13.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Welle-Leboung",
+      "en": "Welle-Leboung",
+      "slug": "welle-leboung"
+    },
+    "code": {
+      "id": "GAB002003058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "13.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Youlou",
+      "en": "Youlou",
+      "slug": "youlou"
+    },
+    "code": {
+      "id": "GAB002003059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002003",
+      "level": 2,
+      "name": {
+        "local": "Lebombi-Leyou",
+        "en": "Lebombi-Leyou",
+        "slug": "lebombi-leyou"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002003",
+        "level": 2,
+        "name": {
+          "local": "Lebombi-Leyou",
+          "en": "Lebombi-Leyou",
+          "slug": "lebombi-leyou"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.533",
+      "lon": "13.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

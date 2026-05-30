@@ -1,0 +1,30 @@
+{
+  "id": "GAB009",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Woleu-Ntem",
+    "en": "Woleu-Ntem",
+    "slug": "woleu-ntem"
+  },
+  "code": {
+    "id": "GAB009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 5,
+    "settlement": 790
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.513",
+    "lon": "11.549"
+  },
+  "metadata": {},
+  "source": {}
+}

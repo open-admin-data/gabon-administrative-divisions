@@ -1,0 +1,47 @@
+{
+  "id": "GAB002010",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Sebe-Brikolo",
+    "en": "Sebe-Brikolo",
+    "slug": "sebe-brikolo"
+  },
+  "code": {
+    "id": "GAB002010",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB002",
+    "level": 1,
+    "name": {
+      "local": "Haut-Ogooue",
+      "en": "Haut-Ogooue",
+      "slug": "haut-ogooue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 65
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.668",
+    "lon": "13.738"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,519 @@
+[
+  {
+    "id": "GAB002011",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bayi-Brikolo",
+      "en": "Bayi-Brikolo",
+      "slug": "bayi-brikolo"
+    },
+    "code": {
+      "id": "GAB002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.5",
+      "lon": "14.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Djoue",
+      "en": "Djoue",
+      "slug": "djoue"
+    },
+    "code": {
+      "id": "GAB002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.833",
+      "lon": "14.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Djouori-Agnili",
+      "en": "Djouori-Agnili",
+      "slug": "djouori-agnili"
+    },
+    "code": {
+      "id": "GAB002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.475",
+      "lon": "13.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lebombi-Leyou",
+      "en": "Lebombi-Leyou",
+      "slug": "lebombi-leyou"
+    },
+    "code": {
+      "id": "GAB002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.504",
+      "lon": "13.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lekabi-Lewolo",
+      "en": "Lekabi-Lewolo",
+      "slug": "lekabi-lewolo"
+    },
+    "code": {
+      "id": "GAB002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.322",
+      "lon": "13.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lekoko",
+      "en": "Lekoko",
+      "slug": "lekoko"
+    },
+    "code": {
+      "id": "GAB002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.747",
+      "lon": "13.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lekoni-Lekori",
+      "en": "Lekoni-Lekori",
+      "slug": "lekoni-lekori"
+    },
+    "code": {
+      "id": "GAB002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.151",
+      "lon": "13.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002007",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ogooue-Letili",
+      "en": "Ogooue-Letili",
+      "slug": "ogooue-letili"
+    },
+    "code": {
+      "id": "GAB002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.147",
+      "lon": "13.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Passa",
+      "en": "Passa",
+      "slug": "passa"
+    },
+    "code": {
+      "id": "GAB002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 112
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.63",
+      "lon": "13.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Plateaux",
+      "en": "Plateaux",
+      "slug": "plateaux"
+    },
+    "code": {
+      "id": "GAB002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.702",
+      "lon": "14.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002010",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Sebe-Brikolo",
+      "en": "Sebe-Brikolo",
+      "slug": "sebe-brikolo"
+    },
+    "code": {
+      "id": "GAB002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002",
+      "level": 1,
+      "name": {
+        "local": "Haut-Ogooue",
+        "en": "Haut-Ogooue",
+        "slug": "haut-ogooue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 65
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.668",
+      "lon": "13.738"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

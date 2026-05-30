@@ -1,0 +1,30 @@
+{
+  "id": "GAB008",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ogooue-Maritime",
+    "en": "Ogooue-Maritime",
+    "slug": "ogooue-maritime"
+  },
+  "code": {
+    "id": "GAB008",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 3,
+    "settlement": 261
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.495",
+    "lon": "9.542"
+  },
+  "metadata": {},
+  "source": {}
+}

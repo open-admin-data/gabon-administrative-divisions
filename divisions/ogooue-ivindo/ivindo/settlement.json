@@ -1,0 +1,6590 @@
+[
+  {
+    "id": "GAB006001001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abor",
+      "en": "Abor",
+      "slug": "abor"
+    },
+    "code": {
+      "id": "GAB006001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.825",
+      "lon": "12.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adoue",
+      "en": "Adoue",
+      "slug": "adoue"
+    },
+    "code": {
+      "id": "GAB006001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.534",
+      "lon": "12.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adwe",
+      "en": "Adwe",
+      "slug": "adwe"
+    },
+    "code": {
+      "id": "GAB006001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.534",
+      "lon": "12.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adzo",
+      "en": "Adzo",
+      "slug": "adzo"
+    },
+    "code": {
+      "id": "GAB006001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "12.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akougoubilye",
+      "en": "Akougoubilye",
+      "slug": "akougoubilye"
+    },
+    "code": {
+      "id": "GAB006001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "12.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alarmintang",
+      "en": "Alarmintang",
+      "slug": "alarmintang"
+    },
+    "code": {
+      "id": "GAB006001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.561",
+      "lon": "12.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alarmitang",
+      "en": "Alarmitang",
+      "slug": "alarmitang"
+    },
+    "code": {
+      "id": "GAB006001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.561",
+      "lon": "12.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alene",
+      "en": "Alene",
+      "slug": "alene"
+    },
+    "code": {
+      "id": "GAB006001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.667",
+      "lon": "12.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Amyere",
+      "en": "Amyere",
+      "slug": "amyere"
+    },
+    "code": {
+      "id": "GAB006001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "12.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andok",
+      "en": "Andok",
+      "slug": "andok"
+    },
+    "code": {
+      "id": "GAB006001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.598",
+      "lon": "12.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Angouma",
+      "en": "Angouma",
+      "slug": "angouma"
+    },
+    "code": {
+      "id": "GAB006001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.65",
+      "lon": "12.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atyglam",
+      "en": "Atyglam",
+      "slug": "atyglam"
+    },
+    "code": {
+      "id": "GAB006001013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "12.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atyiglam",
+      "en": "Atyiglam",
+      "slug": "atyiglam"
+    },
+    "code": {
+      "id": "GAB006001014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "12.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avil-Boumba",
+      "en": "Avil-Boumba",
+      "slug": "avil-boumba"
+    },
+    "code": {
+      "id": "GAB006001015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.533",
+      "lon": "12.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avil-Chicago",
+      "en": "Avil-Chicago",
+      "slug": "avil-chicago"
+    },
+    "code": {
+      "id": "GAB006001016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "12.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayeghening",
+      "en": "Ayeghening",
+      "slug": "ayeghening"
+    },
+    "code": {
+      "id": "GAB006001017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.561",
+      "lon": "12.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayoeroebe",
+      "en": "Ayoeroebe",
+      "slug": "ayoeroebe"
+    },
+    "code": {
+      "id": "GAB006001018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.815",
+      "lon": "12.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Badi",
+      "en": "Badi",
+      "slug": "badi"
+    },
+    "code": {
+      "id": "GAB006001019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "13.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bangakie",
+      "en": "Bangakie",
+      "slug": "bangakie"
+    },
+    "code": {
+      "id": "GAB006001021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "12.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bangodecahoye",
+      "en": "Bangodecahoye",
+      "slug": "bangodecahoye"
+    },
+    "code": {
+      "id": "GAB006001022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "13.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bassitobalangoye",
+      "en": "Bassitobalangoye",
+      "slug": "bassitobalangoye"
+    },
+    "code": {
+      "id": "GAB006001023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.45",
+      "lon": "13.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Belinga",
+      "en": "Belinga",
+      "slug": "belinga"
+    },
+    "code": {
+      "id": "GAB006001024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.089",
+      "lon": "13.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bengiyoe",
+      "en": "Bengiyoe",
+      "slug": "bengiyoe"
+    },
+    "code": {
+      "id": "GAB006001025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.65",
+      "lon": "12.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bengoue",
+      "en": "Bengoue",
+      "slug": "bengoue"
+    },
+    "code": {
+      "id": "GAB006001026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "12.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibioe",
+      "en": "Bibioe",
+      "slug": "bibioe"
+    },
+    "code": {
+      "id": "GAB006001027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.817",
+      "lon": "12.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bounbinda",
+      "en": "Bounbinda",
+      "slug": "bounbinda"
+    },
+    "code": {
+      "id": "GAB006001028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.68",
+      "lon": "13.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cocomacala",
+      "en": "Cocomacala",
+      "slug": "cocomacala"
+    },
+    "code": {
+      "id": "GAB006001029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Debiang",
+      "en": "Debiang",
+      "slug": "debiang"
+    },
+    "code": {
+      "id": "GAB006001030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.55",
+      "lon": "12.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebandaga",
+      "en": "Ebandaga",
+      "slug": "ebandaga"
+    },
+    "code": {
+      "id": "GAB006001031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.027",
+      "lon": "13.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebandan",
+      "en": "Ebandan",
+      "slug": "ebandan"
+    },
+    "code": {
+      "id": "GAB006001034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.027",
+      "lon": "13.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebea-Akork",
+      "en": "Ebea-Akork",
+      "slug": "ebea-akork"
+    },
+    "code": {
+      "id": "GAB006001035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.55",
+      "lon": "12.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebyegn",
+      "en": "Ebyegn",
+      "slug": "ebyegn"
+    },
+    "code": {
+      "id": "GAB006001036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.596",
+      "lon": "12.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Edok",
+      "en": "Edok",
+      "slug": "edok"
+    },
+    "code": {
+      "id": "GAB006001037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "12.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Edzamangen",
+      "en": "Edzamangen",
+      "slug": "edzamangen"
+    },
+    "code": {
+      "id": "GAB006001038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.6",
+      "lon": "12.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekoua",
+      "en": "Ekoua",
+      "slug": "ekoua"
+    },
+    "code": {
+      "id": "GAB006001039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.064",
+      "lon": "13.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekoumaniambi",
+      "en": "Ekoumaniambi",
+      "slug": "ekoumaniambi"
+    },
+    "code": {
+      "id": "GAB006001040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekowong",
+      "en": "Ekowong",
+      "slug": "ekowong"
+    },
+    "code": {
+      "id": "GAB006001041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.572",
+      "lon": "12.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elanh-Bemvoum",
+      "en": "Elanh-Bemvoum",
+      "slug": "elanh-bemvoum"
+    },
+    "code": {
+      "id": "GAB006001042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.611",
+      "lon": "12.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elibere",
+      "en": "Elibere",
+      "slug": "elibere"
+    },
+    "code": {
+      "id": "GAB006001043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.82",
+      "lon": "12.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etakaniabe",
+      "en": "Etakaniabe",
+      "slug": "etakaniabe"
+    },
+    "code": {
+      "id": "GAB006001044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.534",
+      "lon": "12.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyamayong",
+      "en": "Eyamayong",
+      "slug": "eyamayong"
+    },
+    "code": {
+      "id": "GAB006001045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.564",
+      "lon": "12.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyameyen",
+      "en": "Eyameyen",
+      "slug": "eyameyen"
+    },
+    "code": {
+      "id": "GAB006001046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.596",
+      "lon": "12.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyameyon",
+      "en": "Eyameyon",
+      "slug": "eyameyon"
+    },
+    "code": {
+      "id": "GAB006001047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.564",
+      "lon": "12.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyameyong",
+      "en": "Eyameyong",
+      "slug": "eyameyong"
+    },
+    "code": {
+      "id": "GAB006001048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.564",
+      "lon": "12.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foloe",
+      "en": "Foloe",
+      "slug": "foloe"
+    },
+    "code": {
+      "id": "GAB006001049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.9",
+      "lon": "12.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ganzi",
+      "en": "Ganzi",
+      "slug": "ganzi"
+    },
+    "code": {
+      "id": "GAB006001050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.7",
+      "lon": "13.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Gazo",
+      "en": "Gazo",
+      "slug": "gazo"
+    },
+    "code": {
+      "id": "GAB006001051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.717",
+      "lon": "13.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ibinga",
+      "en": "Ibinga",
+      "slug": "ibinga"
+    },
+    "code": {
+      "id": "GAB006001052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.686",
+      "lon": "13.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Indombo",
+      "en": "Indombo",
+      "slug": "indombo"
+    },
+    "code": {
+      "id": "GAB006001053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.347",
+      "lon": "13.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Inze",
+      "en": "Inze",
+      "slug": "inze"
+    },
+    "code": {
+      "id": "GAB006001054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.767",
+      "lon": "13.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koto",
+      "en": "Koto",
+      "slug": "koto"
+    },
+    "code": {
+      "id": "GAB006001055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.7",
+      "lon": "13.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "La Nsye",
+      "en": "La Nsye",
+      "slug": "la-nsye"
+    },
+    "code": {
+      "id": "GAB006001056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.027",
+      "lon": "13.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lambarene",
+      "en": "Lambarene",
+      "slug": "lambarene"
+    },
+    "code": {
+      "id": "GAB006001057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.65",
+      "lon": "13.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lata-Bengoue",
+      "en": "Lata-Bengoue",
+      "slug": "lata-bengoue"
+    },
+    "code": {
+      "id": "GAB006001058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "12.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Latanamitaga",
+      "en": "Latanamitaga",
+      "slug": "latanamitaga"
+    },
+    "code": {
+      "id": "GAB006001059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "12.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "M'Vaddi",
+      "en": "M'Vaddi",
+      "slug": "mvaddi"
+    },
+    "code": {
+      "id": "GAB006001091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.212",
+      "lon": "13.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "M'Vahdi Ousye",
+      "en": "M'Vahdi Ousye",
+      "slug": "mvahdi-ousye"
+    },
+    "code": {
+      "id": "GAB006001096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.212",
+      "lon": "13.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Macouzca",
+      "en": "Macouzca",
+      "slug": "macouzca"
+    },
+    "code": {
+      "id": "GAB006001060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.05",
+      "lon": "13.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mafouka",
+      "en": "Mafouka",
+      "slug": "mafouka"
+    },
+    "code": {
+      "id": "GAB006001061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.767",
+      "lon": "12.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magnon",
+      "en": "Magnon",
+      "slug": "magnon"
+    },
+    "code": {
+      "id": "GAB006001062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.733",
+      "lon": "12.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahinda",
+      "en": "Mahinda",
+      "slug": "mahinda"
+    },
+    "code": {
+      "id": "GAB006001063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.167",
+      "lon": "13.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makao",
+      "en": "Makao",
+      "slug": "makao"
+    },
+    "code": {
+      "id": "GAB006001064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.733",
+      "lon": "13.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makebe",
+      "en": "Makebe",
+      "slug": "makebe"
+    },
+    "code": {
+      "id": "GAB006001065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.067",
+      "lon": "13.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makokou",
+      "en": "Makokou",
+      "slug": "makokou"
+    },
+    "code": {
+      "id": "GAB006001066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.574",
+      "lon": "12.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makokou Fortifie",
+      "en": "Makokou Fortifie",
+      "slug": "makokou-fortifie"
+    },
+    "code": {
+      "id": "GAB006001067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.574",
+      "lon": "12.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malembe",
+      "en": "Malembe",
+      "slug": "malembe"
+    },
+    "code": {
+      "id": "GAB006001068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.767",
+      "lon": "13.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malenzi",
+      "en": "Malenzi",
+      "slug": "malenzi"
+    },
+    "code": {
+      "id": "GAB006001069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.75",
+      "lon": "13.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mangoma",
+      "en": "Mangoma",
+      "slug": "mangoma"
+    },
+    "code": {
+      "id": "GAB006001070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.233",
+      "lon": "13.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Manyal",
+      "en": "Manyal",
+      "slug": "manyal"
+    },
+    "code": {
+      "id": "GAB006001071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.987",
+      "lon": "12.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massaa",
+      "en": "Massaa",
+      "slug": "massaa"
+    },
+    "code": {
+      "id": "GAB006001072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.735",
+      "lon": "13.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massaba II",
+      "en": "Massaba II",
+      "slug": "massaba-ii"
+    },
+    "code": {
+      "id": "GAB006001073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.667",
+      "lon": "13.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Masseb",
+      "en": "Masseb",
+      "slug": "masseb"
+    },
+    "code": {
+      "id": "GAB006001074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.623",
+      "lon": "12.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayebout",
+      "en": "Mayebout",
+      "slug": "mayebout"
+    },
+    "code": {
+      "id": "GAB006001075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.105",
+      "lon": "13.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayebut",
+      "en": "Mayebut",
+      "slug": "mayebut"
+    },
+    "code": {
+      "id": "GAB006001076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.105",
+      "lon": "13.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayiga",
+      "en": "Mayiga",
+      "slug": "mayiga"
+    },
+    "code": {
+      "id": "GAB006001077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.558",
+      "lon": "12.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbebengui",
+      "en": "Mbebengui",
+      "slug": "mbebengui"
+    },
+    "code": {
+      "id": "GAB006001078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "12.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbeza",
+      "en": "Mbeza",
+      "slug": "mbeza"
+    },
+    "code": {
+      "id": "GAB006001079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.588",
+      "lon": "12.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboa",
+      "en": "Mboa",
+      "slug": "mboa"
+    },
+    "code": {
+      "id": "GAB006001080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "12.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboula",
+      "en": "Mboula",
+      "slug": "mboula"
+    },
+    "code": {
+      "id": "GAB006001081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.58",
+      "lon": "12.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboundou",
+      "en": "Mboundou",
+      "slug": "mboundou"
+    },
+    "code": {
+      "id": "GAB006001082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.407",
+      "lon": "13.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meconga",
+      "en": "Meconga",
+      "slug": "meconga"
+    },
+    "code": {
+      "id": "GAB006001083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "13.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mekob",
+      "en": "Mekob",
+      "slug": "mekob"
+    },
+    "code": {
+      "id": "GAB006001084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.694",
+      "lon": "12.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mina",
+      "en": "Mina",
+      "slug": "mina"
+    },
+    "code": {
+      "id": "GAB006001085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.767",
+      "lon": "13.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mitsang",
+      "en": "Mitsang",
+      "slug": "mitsang"
+    },
+    "code": {
+      "id": "GAB006001086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.767",
+      "lon": "12.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mombaza",
+      "en": "Mombaza",
+      "slug": "mombaza"
+    },
+    "code": {
+      "id": "GAB006001087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.75",
+      "lon": "13.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mooba",
+      "en": "Mooba",
+      "slug": "mooba"
+    },
+    "code": {
+      "id": "GAB006001088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.312",
+      "lon": "13.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouseye",
+      "en": "Mouseye",
+      "slug": "mouseye"
+    },
+    "code": {
+      "id": "GAB006001089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.267",
+      "lon": "13.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mpouma",
+      "en": "Mpouma",
+      "slug": "mpouma"
+    },
+    "code": {
+      "id": "GAB006001090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.7",
+      "lon": "13.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvadhi",
+      "en": "Mvadhi",
+      "slug": "mvadhi"
+    },
+    "code": {
+      "id": "GAB006001092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.212",
+      "lon": "13.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvadhi-Ousye",
+      "en": "Mvadhi-Ousye",
+      "slug": "mvadhi-ousye"
+    },
+    "code": {
+      "id": "GAB006001093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.212",
+      "lon": "13.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvadi",
+      "en": "Mvadi",
+      "slug": "mvadi"
+    },
+    "code": {
+      "id": "GAB006001094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.212",
+      "lon": "13.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvahdi",
+      "en": "Mvahdi",
+      "slug": "mvahdi"
+    },
+    "code": {
+      "id": "GAB006001095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.212",
+      "lon": "13.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvandi",
+      "en": "Mvandi",
+      "slug": "mvandi"
+    },
+    "code": {
+      "id": "GAB006001097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.212",
+      "lon": "13.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvoungha",
+      "en": "Mvoungha",
+      "slug": "mvoungha"
+    },
+    "code": {
+      "id": "GAB006001098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "12.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndengoue",
+      "en": "Ndengoue",
+      "slug": "ndengoue"
+    },
+    "code": {
+      "id": "GAB006001099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "12.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngalipana",
+      "en": "Ngalipana",
+      "slug": "ngalipana"
+    },
+    "code": {
+      "id": "GAB006001100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "13.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngosso",
+      "en": "Ngosso",
+      "slug": "ngosso"
+    },
+    "code": {
+      "id": "GAB006001101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.7",
+      "lon": "13.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001102",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkin",
+      "en": "Nkin",
+      "slug": "nkin"
+    },
+    "code": {
+      "id": "GAB006001102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.833",
+      "lon": "12.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkouta",
+      "en": "Nkouta",
+      "slug": "nkouta"
+    },
+    "code": {
+      "id": "GAB006001103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.25",
+      "lon": "13.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nsye",
+      "en": "Nsye",
+      "slug": "nsye"
+    },
+    "code": {
+      "id": "GAB006001104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.027",
+      "lon": "13.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntanha-Tele",
+      "en": "Ntanha-Tele",
+      "slug": "ntanha-tele"
+    },
+    "code": {
+      "id": "GAB006001105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.823",
+      "lon": "12.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntian",
+      "en": "Ntian",
+      "slug": "ntian"
+    },
+    "code": {
+      "id": "GAB006001106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.913",
+      "lon": "12.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001107",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntsibelong",
+      "en": "Ntsibelong",
+      "slug": "ntsibelong"
+    },
+    "code": {
+      "id": "GAB006001107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.575",
+      "lon": "12.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001108",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntyeng",
+      "en": "Ntyeng",
+      "slug": "ntyeng"
+    },
+    "code": {
+      "id": "GAB006001108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.913",
+      "lon": "12.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzamba",
+      "en": "Nzamba",
+      "slug": "nzamba"
+    },
+    "code": {
+      "id": "GAB006001109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.7",
+      "lon": "13.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001110",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzinga",
+      "en": "Nzinga",
+      "slug": "nzinga"
+    },
+    "code": {
+      "id": "GAB006001110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.817",
+      "lon": "12.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001111",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzingmeyong",
+      "en": "Nzingmeyong",
+      "slug": "nzingmeyong"
+    },
+    "code": {
+      "id": "GAB006001111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.573",
+      "lon": "12.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoghengone",
+      "en": "Nzoghengone",
+      "slug": "nzoghengone"
+    },
+    "code": {
+      "id": "GAB006001112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "12.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Otouma",
+      "en": "Otouma",
+      "slug": "otouma"
+    },
+    "code": {
+      "id": "GAB006001113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.9",
+      "lon": "13.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001114",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovan",
+      "en": "Ovan",
+      "slug": "ovan"
+    },
+    "code": {
+      "id": "GAB006001114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "12.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001115",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pouma",
+      "en": "Pouma",
+      "slug": "pouma"
+    },
+    "code": {
+      "id": "GAB006001115",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.7",
+      "lon": "13.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001116",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Simintang",
+      "en": "Simintang",
+      "slug": "simintang"
+    },
+    "code": {
+      "id": "GAB006001116",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.569",
+      "lon": "12.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001117",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tietie",
+      "en": "Tietie",
+      "slug": "tietie"
+    },
+    "code": {
+      "id": "GAB006001117",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.451",
+      "lon": "13.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001118",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toukoue",
+      "en": "Toukoue",
+      "slug": "toukoue"
+    },
+    "code": {
+      "id": "GAB006001118",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.717",
+      "lon": "13.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001119",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toulo",
+      "en": "Toulo",
+      "slug": "toulo"
+    },
+    "code": {
+      "id": "GAB006001119",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.667",
+      "lon": "12.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001120",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tourouvaya",
+      "en": "Tourouvaya",
+      "slug": "tourouvaya"
+    },
+    "code": {
+      "id": "GAB006001120",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "13.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001121",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ybien",
+      "en": "Ybien",
+      "slug": "ybien"
+    },
+    "code": {
+      "id": "GAB006001121",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.596",
+      "lon": "12.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001122",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yoko",
+      "en": "Yoko",
+      "slug": "yoko"
+    },
+    "code": {
+      "id": "GAB006001122",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.539",
+      "lon": "12.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001123",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Youko",
+      "en": "Youko",
+      "slug": "youko"
+    },
+    "code": {
+      "id": "GAB006001123",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.712",
+      "lon": "12.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001124",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yuko",
+      "en": "Yuko",
+      "slug": "yuko"
+    },
+    "code": {
+      "id": "GAB006001124",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.712",
+      "lon": "12.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001125",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zokosoa",
+      "en": "Zokosoa",
+      "slug": "zokosoa"
+    },
+    "code": {
+      "id": "GAB006001125",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "13.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006001126",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zoolende",
+      "en": "Zoolende",
+      "slug": "zoolende"
+    },
+    "code": {
+      "id": "GAB006001126",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006001",
+      "level": 2,
+      "name": {
+        "local": "Ivindo",
+        "en": "Ivindo",
+        "slug": "ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006001",
+        "level": 2,
+        "name": {
+          "local": "Ivindo",
+          "en": "Ivindo",
+          "slug": "ivindo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.755",
+      "lon": "13.288"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

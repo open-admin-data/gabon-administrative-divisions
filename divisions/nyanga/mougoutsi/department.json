@@ -1,0 +1,47 @@
+{
+  "id": "GAB005005",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mougoutsi",
+    "en": "Mougoutsi",
+    "slug": "mougoutsi"
+  },
+  "code": {
+    "id": "GAB005005",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB005",
+    "level": 1,
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 106
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.844",
+    "lon": "11.028"
+  },
+  "metadata": {},
+  "source": {}
+}

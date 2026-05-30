@@ -1,0 +1,47 @@
+{
+  "id": "GAB008003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Ndougou",
+    "en": "Ndougou",
+    "slug": "ndougou"
+  },
+  "code": {
+    "id": "GAB008003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB008",
+    "level": 1,
+    "name": {
+      "local": "Ogooue-Maritime",
+      "en": "Ogooue-Maritime",
+      "slug": "ogooue-maritime"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB008",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Maritime",
+        "en": "Ogooue-Maritime",
+        "slug": "ogooue-maritime"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 51
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.258",
+    "lon": "9.991"
+  },
+  "metadata": {},
+  "source": {}
+}

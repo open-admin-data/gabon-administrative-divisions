@@ -1,0 +1,6050 @@
+[
+  {
+    "id": "GAB002008001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akieni",
+      "en": "Akieni",
+      "slug": "akieni"
+    },
+    "code": {
+      "id": "GAB002008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "13.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Amboumi",
+      "en": "Amboumi",
+      "slug": "amboumi"
+    },
+    "code": {
+      "id": "GAB002008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.733",
+      "lon": "13.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andjogo",
+      "en": "Andjogo",
+      "slug": "andjogo"
+    },
+    "code": {
+      "id": "GAB002008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.263",
+      "lon": "13.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Angonogo",
+      "en": "Angonogo",
+      "slug": "angonogo"
+    },
+    "code": {
+      "id": "GAB002008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.327",
+      "lon": "13.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bandegue",
+      "en": "Bandegue",
+      "slug": "bandegue"
+    },
+    "code": {
+      "id": "GAB002008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.35",
+      "lon": "13.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bangene",
+      "en": "Bangene",
+      "slug": "bangene"
+    },
+    "code": {
+      "id": "GAB002008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "13.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bangwegne",
+      "en": "Bangwegne",
+      "slug": "bangwegne"
+    },
+    "code": {
+      "id": "GAB002008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "13.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baya",
+      "en": "Baya",
+      "slug": "baya"
+    },
+    "code": {
+      "id": "GAB002008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "13.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bedira",
+      "en": "Bedira",
+      "slug": "bedira"
+    },
+    "code": {
+      "id": "GAB002008009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "13.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beka-Beka",
+      "en": "Beka-Beka",
+      "slug": "beka-beka"
+    },
+    "code": {
+      "id": "GAB002008010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.954",
+      "lon": "13.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bekemi",
+      "en": "Bekemi",
+      "slug": "bekemi"
+    },
+    "code": {
+      "id": "GAB002008011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.733",
+      "lon": "13.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bekemi Amboumi",
+      "en": "Bekemi Amboumi",
+      "slug": "bekemi-amboumi"
+    },
+    "code": {
+      "id": "GAB002008012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.733",
+      "lon": "13.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bendia",
+      "en": "Bendia",
+      "slug": "bendia"
+    },
+    "code": {
+      "id": "GAB002008013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "13.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beniomi I",
+      "en": "Beniomi I",
+      "slug": "beniomi-i"
+    },
+    "code": {
+      "id": "GAB002008014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.696",
+      "lon": "13.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beniomi II",
+      "en": "Beniomi II",
+      "slug": "beniomi-ii"
+    },
+    "code": {
+      "id": "GAB002008015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.674",
+      "lon": "13.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bepila",
+      "en": "Bepila",
+      "slug": "bepila"
+    },
+    "code": {
+      "id": "GAB002008016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "13.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibassa I",
+      "en": "Bibassa I",
+      "slug": "bibassa-i"
+    },
+    "code": {
+      "id": "GAB002008017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.668",
+      "lon": "13.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibassa II",
+      "en": "Bibassa II",
+      "slug": "bibassa-ii"
+    },
+    "code": {
+      "id": "GAB002008018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.667",
+      "lon": "13.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bikogo",
+      "en": "Bikogo",
+      "slug": "bikogo"
+    },
+    "code": {
+      "id": "GAB002008019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.533",
+      "lon": "13.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissassa",
+      "en": "Bissassa",
+      "slug": "bissassa"
+    },
+    "code": {
+      "id": "GAB002008020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.667",
+      "lon": "13.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bitono",
+      "en": "Bitono",
+      "slug": "bitono"
+    },
+    "code": {
+      "id": "GAB002008021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.733",
+      "lon": "13.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boma",
+      "en": "Boma",
+      "slug": "boma"
+    },
+    "code": {
+      "id": "GAB002008023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.571",
+      "lon": "13.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bongo",
+      "en": "Bongo",
+      "slug": "bongo"
+    },
+    "code": {
+      "id": "GAB002008024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "13.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bordeaux",
+      "en": "Bordeaux",
+      "slug": "bordeaux"
+    },
+    "code": {
+      "id": "GAB002008025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.67",
+      "lon": "13.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouimi",
+      "en": "Bouimi",
+      "slug": "bouimi"
+    },
+    "code": {
+      "id": "GAB002008026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.683",
+      "lon": "13.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouma-Makaya",
+      "en": "Bouma-Makaya",
+      "slug": "bouma-makaya"
+    },
+    "code": {
+      "id": "GAB002008027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "13.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djamiti",
+      "en": "Djamiti",
+      "slug": "djamiti"
+    },
+    "code": {
+      "id": "GAB002008028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "13.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djoakaye",
+      "en": "Djoakaye",
+      "slug": "djoakaye"
+    },
+    "code": {
+      "id": "GAB002008029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.7",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djoakaye I",
+      "en": "Djoakaye I",
+      "slug": "djoakaye-i"
+    },
+    "code": {
+      "id": "GAB002008030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.734",
+      "lon": "13.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djoakaye II",
+      "en": "Djoakaye II",
+      "slug": "djoakaye-ii"
+    },
+    "code": {
+      "id": "GAB002008031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.7",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djoukou",
+      "en": "Djoukou",
+      "slug": "djoukou"
+    },
+    "code": {
+      "id": "GAB002008032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.75",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebori",
+      "en": "Ebori",
+      "slug": "ebori"
+    },
+    "code": {
+      "id": "GAB002008033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "13.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elebe",
+      "en": "Elebe",
+      "slug": "elebe"
+    },
+    "code": {
+      "id": "GAB002008034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.483",
+      "lon": "13.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etchougou",
+      "en": "Etchougou",
+      "slug": "etchougou"
+    },
+    "code": {
+      "id": "GAB002008035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.183",
+      "lon": "13.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyouga II",
+      "en": "Eyouga II",
+      "slug": "eyouga-ii"
+    },
+    "code": {
+      "id": "GAB002008036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.619",
+      "lon": "13.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Franceville",
+      "en": "Franceville",
+      "slug": "franceville"
+    },
+    "code": {
+      "id": "GAB002008037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.608",
+      "lon": "13.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kaya-Kaya",
+      "en": "Kaya-Kaya",
+      "slug": "kaya-kaya"
+    },
+    "code": {
+      "id": "GAB002008038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.533",
+      "lon": "13.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kelle II",
+      "en": "Kelle II",
+      "slug": "kelle-ii"
+    },
+    "code": {
+      "id": "GAB002008039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "13.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebaye",
+      "en": "Lebaye",
+      "slug": "lebaye"
+    },
+    "code": {
+      "id": "GAB002008040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.733",
+      "lon": "13.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebingue",
+      "en": "Lebingue",
+      "slug": "lebingue"
+    },
+    "code": {
+      "id": "GAB002008041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.817",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekoussaga",
+      "en": "Lekoussaga",
+      "slug": "lekoussaga"
+    },
+    "code": {
+      "id": "GAB002008042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.426",
+      "lon": "13.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lengori",
+      "en": "Lengori",
+      "slug": "lengori"
+    },
+    "code": {
+      "id": "GAB002008045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.613",
+      "lon": "13.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lengori I",
+      "en": "Lengori I",
+      "slug": "lengori-i"
+    },
+    "code": {
+      "id": "GAB002008046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.613",
+      "lon": "13.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leniombi",
+      "en": "Leniombi",
+      "slug": "leniombi"
+    },
+    "code": {
+      "id": "GAB002008047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.85",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leniombi I",
+      "en": "Leniombi I",
+      "slug": "leniombi-i"
+    },
+    "code": {
+      "id": "GAB002008048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.867",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leniombi II",
+      "en": "Leniombi II",
+      "slug": "leniombi-ii"
+    },
+    "code": {
+      "id": "GAB002008049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.85",
+      "lon": "13.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lepaka",
+      "en": "Lepaka",
+      "slug": "lepaka"
+    },
+    "code": {
+      "id": "GAB002008050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.677",
+      "lon": "13.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lepouya",
+      "en": "Lepouya",
+      "slug": "lepouya"
+    },
+    "code": {
+      "id": "GAB002008051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "13.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maba",
+      "en": "Maba",
+      "slug": "maba"
+    },
+    "code": {
+      "id": "GAB002008052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "13.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabvounoungou",
+      "en": "Mabvounoungou",
+      "slug": "mabvounoungou"
+    },
+    "code": {
+      "id": "GAB002008053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.817",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magama",
+      "en": "Magama",
+      "slug": "magama"
+    },
+    "code": {
+      "id": "GAB002008054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "13.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makana",
+      "en": "Makana",
+      "slug": "makana"
+    },
+    "code": {
+      "id": "GAB002008055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.636",
+      "lon": "13.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mangoungou",
+      "en": "Mangoungou",
+      "slug": "mangoungou"
+    },
+    "code": {
+      "id": "GAB002008056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.652",
+      "lon": "13.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mapaka",
+      "en": "Mapaka",
+      "slug": "mapaka"
+    },
+    "code": {
+      "id": "GAB002008057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.774",
+      "lon": "13.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mavouama",
+      "en": "Mavouama",
+      "slug": "mavouama"
+    },
+    "code": {
+      "id": "GAB002008058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "13.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Menai",
+      "en": "Menai",
+      "slug": "menai"
+    },
+    "code": {
+      "id": "GAB002008059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.627",
+      "lon": "13.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meteo",
+      "en": "Meteo",
+      "slug": "meteo"
+    },
+    "code": {
+      "id": "GAB002008060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mindili-Elebe",
+      "en": "Mindili-Elebe",
+      "slug": "mindili-elebe"
+    },
+    "code": {
+      "id": "GAB002008061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.467",
+      "lon": "13.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mingala",
+      "en": "Mingala",
+      "slug": "mingala"
+    },
+    "code": {
+      "id": "GAB002008062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "13.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mingara",
+      "en": "Mingara",
+      "slug": "mingara"
+    },
+    "code": {
+      "id": "GAB002008063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "13.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mingouni",
+      "en": "Mingouni",
+      "slug": "mingouni"
+    },
+    "code": {
+      "id": "GAB002008065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.683",
+      "lon": "13.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Molongo",
+      "en": "Molongo",
+      "slug": "molongo"
+    },
+    "code": {
+      "id": "GAB002008066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.683",
+      "lon": "13.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Momanga",
+      "en": "Momanga",
+      "slug": "momanga"
+    },
+    "code": {
+      "id": "GAB002008067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.717",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mondjogou",
+      "en": "Mondjogou",
+      "slug": "mondjogou"
+    },
+    "code": {
+      "id": "GAB002008068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.263",
+      "lon": "13.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mopata",
+      "en": "Mopata",
+      "slug": "mopata"
+    },
+    "code": {
+      "id": "GAB002008069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.774",
+      "lon": "13.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mopia",
+      "en": "Mopia",
+      "slug": "mopia"
+    },
+    "code": {
+      "id": "GAB002008070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.814",
+      "lon": "13.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mopia II",
+      "en": "Mopia II",
+      "slug": "mopia-ii"
+    },
+    "code": {
+      "id": "GAB002008071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.833",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mopounga",
+      "en": "Mopounga",
+      "slug": "mopounga"
+    },
+    "code": {
+      "id": "GAB002008072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.795",
+      "lon": "13.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mopounga I",
+      "en": "Mopounga I",
+      "slug": "mopounga-i"
+    },
+    "code": {
+      "id": "GAB002008073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.817",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mopounga II",
+      "en": "Mopounga II",
+      "slug": "mopounga-ii"
+    },
+    "code": {
+      "id": "GAB002008074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.817",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Motobo",
+      "en": "Motobo",
+      "slug": "motobo"
+    },
+    "code": {
+      "id": "GAB002008075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "13.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Motobo I",
+      "en": "Motobo I",
+      "slug": "motobo-i"
+    },
+    "code": {
+      "id": "GAB002008076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.537",
+      "lon": "13.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Motobo II",
+      "en": "Motobo II",
+      "slug": "motobo-ii"
+    },
+    "code": {
+      "id": "GAB002008077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.3",
+      "lon": "13.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulongo I",
+      "en": "Moulongo I",
+      "slug": "moulongo-i"
+    },
+    "code": {
+      "id": "GAB002008078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.776",
+      "lon": "13.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulongo II",
+      "en": "Moulongo II",
+      "slug": "moulongo-ii"
+    },
+    "code": {
+      "id": "GAB002008079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.867",
+      "lon": "13.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moyabi I",
+      "en": "Moyabi I",
+      "slug": "moyabi-i"
+    },
+    "code": {
+      "id": "GAB002008080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.9",
+      "lon": "13.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moyabi II",
+      "en": "Moyabi II",
+      "slug": "moyabi-ii"
+    },
+    "code": {
+      "id": "GAB002008081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.9",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvengue",
+      "en": "Mvengue",
+      "slug": "mvengue"
+    },
+    "code": {
+      "id": "GAB002008082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.657",
+      "lon": "13.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndoubi",
+      "en": "Ndoubi",
+      "slug": "ndoubi"
+    },
+    "code": {
+      "id": "GAB002008083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.754",
+      "lon": "13.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndounou",
+      "en": "Ndounou",
+      "slug": "ndounou"
+    },
+    "code": {
+      "id": "GAB002008084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.796",
+      "lon": "13.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nganda",
+      "en": "Nganda",
+      "slug": "nganda"
+    },
+    "code": {
+      "id": "GAB002008085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.767",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngobounda",
+      "en": "Ngobounda",
+      "slug": "ngobounda"
+    },
+    "code": {
+      "id": "GAB002008086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngongo",
+      "en": "Ngongo",
+      "slug": "ngongo"
+    },
+    "code": {
+      "id": "GAB002008087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "13.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngouda",
+      "en": "Ngouda",
+      "slug": "ngouda"
+    },
+    "code": {
+      "id": "GAB002008088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.883",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngounda",
+      "en": "Ngounda",
+      "slug": "ngounda"
+    },
+    "code": {
+      "id": "GAB002008089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.883",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyongo",
+      "en": "Nyongo",
+      "slug": "nyongo"
+    },
+    "code": {
+      "id": "GAB002008090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "13.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obori",
+      "en": "Obori",
+      "slug": "obori"
+    },
+    "code": {
+      "id": "GAB002008091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.717",
+      "lon": "13.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obori-Lekoussa",
+      "en": "Obori-Lekoussa",
+      "slug": "obori-lekoussa"
+    },
+    "code": {
+      "id": "GAB002008092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.375",
+      "lon": "13.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okouba I",
+      "en": "Okouba I",
+      "slug": "okouba-i"
+    },
+    "code": {
+      "id": "GAB002008093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.25",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okouma",
+      "en": "Okouma",
+      "slug": "okouma"
+    },
+    "code": {
+      "id": "GAB002008094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.2",
+      "lon": "13.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Olonga",
+      "en": "Olonga",
+      "slug": "olonga"
+    },
+    "code": {
+      "id": "GAB002008095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.169",
+      "lon": "13.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Olounga",
+      "en": "Olounga",
+      "slug": "olounga"
+    },
+    "code": {
+      "id": "GAB002008096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.169",
+      "lon": "13.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Olounga-Omvouri",
+      "en": "Olounga-Omvouri",
+      "slug": "olounga-omvouri"
+    },
+    "code": {
+      "id": "GAB002008097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.184",
+      "lon": "13.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Omanga",
+      "en": "Omanga",
+      "slug": "omanga"
+    },
+    "code": {
+      "id": "GAB002008098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.7",
+      "lon": "13.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ombelle",
+      "en": "Ombelle",
+      "slug": "ombelle"
+    },
+    "code": {
+      "id": "GAB002008099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.617",
+      "lon": "13.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ombou",
+      "en": "Ombou",
+      "slug": "ombou"
+    },
+    "code": {
+      "id": "GAB002008100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "13.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ondama",
+      "en": "Ondama",
+      "slug": "ondama"
+    },
+    "code": {
+      "id": "GAB002008101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "13.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008102",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ondouama",
+      "en": "Ondouama",
+      "slug": "ondouama"
+    },
+    "code": {
+      "id": "GAB002008102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.65",
+      "lon": "13.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ondwo",
+      "en": "Ondwo",
+      "slug": "ondwo"
+    },
+    "code": {
+      "id": "GAB002008104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Onkoua",
+      "en": "Onkoua",
+      "slug": "onkoua"
+    },
+    "code": {
+      "id": "GAB002008105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.79",
+      "lon": "13.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ossala",
+      "en": "Ossala",
+      "slug": "ossala"
+    },
+    "code": {
+      "id": "GAB002008106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "13.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008107",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyali",
+      "en": "Oyali",
+      "slug": "oyali"
+    },
+    "code": {
+      "id": "GAB002008107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.612",
+      "lon": "13.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008108",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyoma",
+      "en": "Oyoma",
+      "slug": "oyoma"
+    },
+    "code": {
+      "id": "GAB002008108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.628",
+      "lon": "13.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyouga",
+      "en": "Oyouga",
+      "slug": "oyouga"
+    },
+    "code": {
+      "id": "GAB002008109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.344",
+      "lon": "13.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008110",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyouma",
+      "en": "Oyouma",
+      "slug": "oyouma"
+    },
+    "code": {
+      "id": "GAB002008110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.628",
+      "lon": "13.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008111",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sangoue",
+      "en": "Sangoue",
+      "slug": "sangoue"
+    },
+    "code": {
+      "id": "GAB002008111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.8",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sibbi",
+      "en": "Sibbi",
+      "slug": "sibbi"
+    },
+    "code": {
+      "id": "GAB002008112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.867",
+      "lon": "13.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sibi",
+      "en": "Sibi",
+      "slug": "sibi"
+    },
+    "code": {
+      "id": "GAB002008113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.7",
+      "lon": "13.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008114",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsanga",
+      "en": "Tsanga",
+      "slug": "tsanga"
+    },
+    "code": {
+      "id": "GAB002008114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.733",
+      "lon": "13.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008115",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yene",
+      "en": "Yene",
+      "slug": "yene"
+    },
+    "code": {
+      "id": "GAB002008115",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.651",
+      "lon": "13.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008116",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yeye",
+      "en": "Yeye",
+      "slug": "yeye"
+    },
+    "code": {
+      "id": "GAB002008116",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "13.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002008117",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Youlou",
+      "en": "Youlou",
+      "slug": "youlou"
+    },
+    "code": {
+      "id": "GAB002008117",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002008",
+      "level": 2,
+      "name": {
+        "local": "Passa",
+        "en": "Passa",
+        "slug": "passa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002008",
+        "level": 2,
+        "name": {
+          "local": "Passa",
+          "en": "Passa",
+          "slug": "passa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.777",
+      "lon": "13.779"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

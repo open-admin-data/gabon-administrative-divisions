@@ -1,0 +1,70 @@
+# Gabon Administrative Divisions
+
+> Open dataset of Gabon's administrative hierarchy:
+> 9 provinces, 48 departments, 4,192 settlements.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 9
+- Total departments: 48
+- Total settlements: 4,192
+- Coordinates: included (all levels)
+- Last updated: 2026-05-30
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/data/all-province.json)
+- [All departments (JSON)](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/data/all-department.json)
+- [All settlements (JSON)](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/data/all-settlement.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Nyanga](https://github.com/open-admin-data/gabon-administrative-divisions/tree/main/divisions/nyanga/) — 6 departments, 389 settlements
+- [Ngounie](https://github.com/open-admin-data/gabon-administrative-divisions/tree/main/divisions/ngounie/) — 9 departments, 816 settlements
+- [Ogooue-Maritime](https://github.com/open-admin-data/gabon-administrative-divisions/tree/main/divisions/ogooue-maritime/) — 3 departments, 261 settlements
+- [Haut-Ogooue](https://github.com/open-admin-data/gabon-administrative-divisions/tree/main/divisions/haut-ogooue/) — 11 departments, 364 settlements
+- [Moyen-Ogooue](https://github.com/open-admin-data/gabon-administrative-divisions/tree/main/divisions/moyen-ogooue/) — 2 departments, 306 settlements
+- [Ogooue-Lolo](https://github.com/open-admin-data/gabon-administrative-divisions/tree/main/divisions/ogooue-lolo/) — 4 departments, 438 settlements
+- [Estuaire](https://github.com/open-admin-data/gabon-administrative-divisions/tree/main/divisions/estuaire/) — 4 departments, 478 settlements
+- [Ogooue-Ivindo](https://github.com/open-admin-data/gabon-administrative-divisions/tree/main/divisions/ogooue-ivindo/) — 4 departments, 350 settlements
+- [Woleu-Ntem](https://github.com/open-admin-data/gabon-administrative-divisions/tree/main/divisions/woleu-ntem/) — 5 departments, 790 settlements
+
+## Per-Province Full Data
+
+- [Nyanga](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/docs/llms-full/nyanga.txt)
+- [Ngounie](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/docs/llms-full/ngounie.txt)
+- [Ogooue-Maritime](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/docs/llms-full/ogooue-maritime.txt)
+- [Haut-Ogooue](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/docs/llms-full/haut-ogooue.txt)
+- [Moyen-Ogooue](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/docs/llms-full/moyen-ogooue.txt)
+- [Ogooue-Lolo](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/docs/llms-full/ogooue-lolo.txt)
+- [Estuaire](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/docs/llms-full/estuaire.txt)
+- [Ogooue-Ivindo](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/docs/llms-full/ogooue-ivindo.txt)
+- [Woleu-Ntem](https://raw.githubusercontent.com/open-admin-data/gabon-administrative-divisions/main/docs/llms-full/woleu-ntem.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (department), 3 (settlement)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Gabon Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/gabon-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

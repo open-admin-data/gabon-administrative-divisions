@@ -1,0 +1,30 @@
+{
+  "id": "GAB007",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ogooue-Lolo",
+    "en": "Ogooue-Lolo",
+    "slug": "ogooue-lolo"
+  },
+  "code": {
+    "id": "GAB007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "settlement": 438
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.155",
+    "lon": "12.512"
+  },
+  "metadata": {},
+  "source": {}
+}

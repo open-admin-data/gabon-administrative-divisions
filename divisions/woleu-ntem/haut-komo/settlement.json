@@ -1,0 +1,2486 @@
+[
+  {
+    "id": "GAB009001001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abang-Ayo",
+      "en": "Abang-Ayo",
+      "slug": "abang-ayo"
+    },
+    "code": {
+      "id": "GAB009001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.979",
+      "lon": "10.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abenilang",
+      "en": "Abenilang",
+      "slug": "abenilang"
+    },
+    "code": {
+      "id": "GAB009001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.083",
+      "lon": "10.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abogotom",
+      "en": "Abogotom",
+      "slug": "abogotom"
+    },
+    "code": {
+      "id": "GAB009001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.003",
+      "lon": "10.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akan",
+      "en": "Akan",
+      "slug": "akan"
+    },
+    "code": {
+      "id": "GAB009001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.967",
+      "lon": "10.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akelayong",
+      "en": "Akelayong",
+      "slug": "akelayong"
+    },
+    "code": {
+      "id": "GAB009001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.863",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akoga",
+      "en": "Akoga",
+      "slug": "akoga"
+    },
+    "code": {
+      "id": "GAB009001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.866",
+      "lon": "10.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ancien Metark",
+      "en": "Ancien Metark",
+      "slug": "ancien-metark"
+    },
+    "code": {
+      "id": "GAB009001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.883",
+      "lon": "10.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Assok",
+      "en": "Assok",
+      "slug": "assok"
+    },
+    "code": {
+      "id": "GAB009001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.717",
+      "lon": "10.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atoute",
+      "en": "Atoute",
+      "slug": "atoute"
+    },
+    "code": {
+      "id": "GAB009001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.001",
+      "lon": "10.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avane",
+      "en": "Avane",
+      "slug": "avane"
+    },
+    "code": {
+      "id": "GAB009001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.904",
+      "lon": "10.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bame",
+      "en": "Bame",
+      "slug": "bame"
+    },
+    "code": {
+      "id": "GAB009001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.833",
+      "lon": "10.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Be",
+      "en": "Be",
+      "slug": "be"
+    },
+    "code": {
+      "id": "GAB009001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.989",
+      "lon": "10.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bome",
+      "en": "Bome",
+      "slug": "bome"
+    },
+    "code": {
+      "id": "GAB009001013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.833",
+      "lon": "10.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebsame II",
+      "en": "Ebsame II",
+      "slug": "ebsame-ii"
+    },
+    "code": {
+      "id": "GAB009001014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.933",
+      "lon": "10.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Edoume",
+      "en": "Edoume",
+      "slug": "edoume"
+    },
+    "code": {
+      "id": "GAB009001015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.945",
+      "lon": "10.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Efot",
+      "en": "Efot",
+      "slug": "efot"
+    },
+    "code": {
+      "id": "GAB009001016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.006",
+      "lon": "10.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Efoulana",
+      "en": "Efoulana",
+      "slug": "efoulana"
+    },
+    "code": {
+      "id": "GAB009001017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.002",
+      "lon": "10.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elong-Eko",
+      "en": "Elong-Eko",
+      "slug": "elong-eko"
+    },
+    "code": {
+      "id": "GAB009001018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.967",
+      "lon": "10.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eniengmelene I",
+      "en": "Eniengmelene I",
+      "slug": "eniengmelene-i"
+    },
+    "code": {
+      "id": "GAB009001019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.023",
+      "lon": "10.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eniengmelene II",
+      "en": "Eniengmelene II",
+      "slug": "eniengmelene-ii"
+    },
+    "code": {
+      "id": "GAB009001020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.967",
+      "lon": "10.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Enientang",
+      "en": "Enientang",
+      "slug": "enientang"
+    },
+    "code": {
+      "id": "GAB009001021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.734",
+      "lon": "10.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etsame I",
+      "en": "Etsame I",
+      "slug": "etsame-i"
+    },
+    "code": {
+      "id": "GAB009001022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.772",
+      "lon": "10.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyamayong",
+      "en": "Eyamayong",
+      "slug": "eyamayong"
+    },
+    "code": {
+      "id": "GAB009001023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.95",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouala",
+      "en": "Kouala",
+      "slug": "kouala"
+    },
+    "code": {
+      "id": "GAB009001024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.017",
+      "lon": "10.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koumatza",
+      "en": "Koumatza",
+      "slug": "koumatza"
+    },
+    "code": {
+      "id": "GAB009001025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.996",
+      "lon": "10.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koume",
+      "en": "Koume",
+      "slug": "koume"
+    },
+    "code": {
+      "id": "GAB009001026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.933",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbe Ayo",
+      "en": "Mbe Ayo",
+      "slug": "mbe-ayo"
+    },
+    "code": {
+      "id": "GAB009001027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.9",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Medouneu",
+      "en": "Medouneu",
+      "slug": "medouneu"
+    },
+    "code": {
+      "id": "GAB009001028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.016",
+      "lon": "10.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Melark",
+      "en": "Melark",
+      "slug": "melark"
+    },
+    "code": {
+      "id": "GAB009001029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.883",
+      "lon": "10.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Metak",
+      "en": "Metak",
+      "slug": "metak"
+    },
+    "code": {
+      "id": "GAB009001030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.883",
+      "lon": "10.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Metark",
+      "en": "Metark",
+      "slug": "metark"
+    },
+    "code": {
+      "id": "GAB009001031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.883",
+      "lon": "10.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mveign",
+      "en": "Mveign",
+      "slug": "mveign"
+    },
+    "code": {
+      "id": "GAB009001032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.959",
+      "lon": "10.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoneki",
+      "en": "Ngoneki",
+      "slug": "ngoneki"
+    },
+    "code": {
+      "id": "GAB009001033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.958",
+      "lon": "10.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niffangou Nkam",
+      "en": "Niffangou Nkam",
+      "slug": "niffangou-nkam"
+    },
+    "code": {
+      "id": "GAB009001034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "10.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkimen",
+      "en": "Nkimen",
+      "slug": "nkimen"
+    },
+    "code": {
+      "id": "GAB009001035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.965",
+      "lon": "10.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nnangbeng",
+      "en": "Nnangbeng",
+      "slug": "nnangbeng"
+    },
+    "code": {
+      "id": "GAB009001036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.997",
+      "lon": "10.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nnifala",
+      "en": "Nnifala",
+      "slug": "nnifala"
+    },
+    "code": {
+      "id": "GAB009001037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.967",
+      "lon": "10.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntoum",
+      "en": "Ntoum",
+      "slug": "ntoum"
+    },
+    "code": {
+      "id": "GAB009001038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.805",
+      "lon": "10.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzimayong",
+      "en": "Nzimayong",
+      "slug": "nzimayong"
+    },
+    "code": {
+      "id": "GAB009001039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.667",
+      "lon": "10.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzogmayong",
+      "en": "Nzogmayong",
+      "slug": "nzogmayong"
+    },
+    "code": {
+      "id": "GAB009001040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.717",
+      "lon": "10.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzogmitang",
+      "en": "Nzogmitang",
+      "slug": "nzogmitang"
+    },
+    "code": {
+      "id": "GAB009001041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.967",
+      "lon": "10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzognayong",
+      "en": "Nzognayong",
+      "slug": "nzognayong"
+    },
+    "code": {
+      "id": "GAB009001042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.717",
+      "lon": "10.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ouo II",
+      "en": "Ouo II",
+      "slug": "ouo-ii"
+    },
+    "code": {
+      "id": "GAB009001043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.917",
+      "lon": "10.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zangame",
+      "en": "Zangame",
+      "slug": "zangame"
+    },
+    "code": {
+      "id": "GAB009001044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.95",
+      "lon": "10.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zobermitang",
+      "en": "Zobermitang",
+      "slug": "zobermitang"
+    },
+    "code": {
+      "id": "GAB009001045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.9",
+      "lon": "10.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB009001046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zorengone",
+      "en": "Zorengone",
+      "slug": "zorengone"
+    },
+    "code": {
+      "id": "GAB009001046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB009001",
+      "level": 2,
+      "name": {
+        "local": "Haut-Komo",
+        "en": "Haut-Komo",
+        "slug": "haut-komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB009",
+        "level": 1,
+        "name": {
+          "local": "Woleu-Ntem",
+          "en": "Woleu-Ntem",
+          "slug": "woleu-ntem"
+        }
+      },
+      {
+        "id": "GAB009001",
+        "level": 2,
+        "name": {
+          "local": "Haut-Komo",
+          "en": "Haut-Komo",
+          "slug": "haut-komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.78",
+      "lon": "10.413"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

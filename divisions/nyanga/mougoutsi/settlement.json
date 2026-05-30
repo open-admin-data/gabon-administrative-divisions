@@ -1,0 +1,5726 @@
+[
+  {
+    "id": "GAB005005001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bayadi",
+      "en": "Bayadi",
+      "slug": "bayadi"
+    },
+    "code": {
+      "id": "GAB005005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.19",
+      "lon": "11.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Biello",
+      "en": "Biello",
+      "slug": "biello"
+    },
+    "code": {
+      "id": "GAB005005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.157",
+      "lon": "11.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bilombi",
+      "en": "Bilombi",
+      "slug": "bilombi"
+    },
+    "code": {
+      "id": "GAB005005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.917",
+      "lon": "11.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bivanga",
+      "en": "Bivanga",
+      "slug": "bivanga"
+    },
+    "code": {
+      "id": "GAB005005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.883",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boulembi",
+      "en": "Boulembi",
+      "slug": "boulembi"
+    },
+    "code": {
+      "id": "GAB005005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.619",
+      "lon": "10.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boungou Bouliba",
+      "en": "Boungou Bouliba",
+      "slug": "boungou-bouliba"
+    },
+    "code": {
+      "id": "GAB005005007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.75",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diboumba",
+      "en": "Diboumba",
+      "slug": "diboumba"
+    },
+    "code": {
+      "id": "GAB005005008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.691",
+      "lon": "10.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digayi",
+      "en": "Digayi",
+      "slug": "digayi"
+    },
+    "code": {
+      "id": "GAB005005009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.579",
+      "lon": "10.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Digondji",
+      "en": "Digondji",
+      "slug": "digondji"
+    },
+    "code": {
+      "id": "GAB005005010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dikoundou",
+      "en": "Dikoundou",
+      "slug": "dikoundou"
+    },
+    "code": {
+      "id": "GAB005005011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.046",
+      "lon": "11.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Divoko",
+      "en": "Divoko",
+      "slug": "divoko"
+    },
+    "code": {
+      "id": "GAB005005013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.618",
+      "lon": "10.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doubagni",
+      "en": "Doubagni",
+      "slug": "doubagni"
+    },
+    "code": {
+      "id": "GAB005005014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.751",
+      "lon": "10.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doubogno",
+      "en": "Doubogno",
+      "slug": "doubogno"
+    },
+    "code": {
+      "id": "GAB005005015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.817",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dougandou I",
+      "en": "Dougandou I",
+      "slug": "dougandou-i"
+    },
+    "code": {
+      "id": "GAB005005016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.733",
+      "lon": "10.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dougandou II",
+      "en": "Dougandou II",
+      "slug": "dougandou-ii"
+    },
+    "code": {
+      "id": "GAB005005017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.725",
+      "lon": "10.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doukaki",
+      "en": "Doukaki",
+      "slug": "doukaki"
+    },
+    "code": {
+      "id": "GAB005005018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.917",
+      "lon": "11.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doukoumou",
+      "en": "Doukoumou",
+      "slug": "doukoumou"
+    },
+    "code": {
+      "id": "GAB005005019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.9",
+      "lon": "11.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dovoyi",
+      "en": "Dovoyi",
+      "slug": "dovoyi"
+    },
+    "code": {
+      "id": "GAB005005020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.014",
+      "lon": "11.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iantsi",
+      "en": "Iantsi",
+      "slug": "iantsi"
+    },
+    "code": {
+      "id": "GAB005005021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.148",
+      "lon": "11.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ibanga",
+      "en": "Ibanga",
+      "slug": "ibanga"
+    },
+    "code": {
+      "id": "GAB005005022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.745",
+      "lon": "10.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ikeri Issiana",
+      "en": "Ikeri Issiana",
+      "slug": "ikeri-issiana"
+    },
+    "code": {
+      "id": "GAB005005024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.783",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ikoli",
+      "en": "Ikoli",
+      "slug": "ikoli"
+    },
+    "code": {
+      "id": "GAB005005025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.135",
+      "lon": "11.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iloumi Ilongo Dibora",
+      "en": "Iloumi Ilongo Dibora",
+      "slug": "iloumi-ilongo-dibora"
+    },
+    "code": {
+      "id": "GAB005005026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.8",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Imboko",
+      "en": "Imboko",
+      "slug": "imboko"
+    },
+    "code": {
+      "id": "GAB005005027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.967",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Irendou",
+      "en": "Irendou",
+      "slug": "irendou"
+    },
+    "code": {
+      "id": "GAB005005028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.717",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Issigou",
+      "en": "Issigou",
+      "slug": "issigou"
+    },
+    "code": {
+      "id": "GAB005005029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.85",
+      "lon": "11.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ivoumounou",
+      "en": "Ivoumounou",
+      "slug": "ivoumounou"
+    },
+    "code": {
+      "id": "GAB005005030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.817",
+      "lon": "11.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iyantzi",
+      "en": "Iyantzi",
+      "slug": "iyantzi"
+    },
+    "code": {
+      "id": "GAB005005031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.003",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kabi",
+      "en": "Kabi",
+      "slug": "kabi"
+    },
+    "code": {
+      "id": "GAB005005032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.072",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kaki",
+      "en": "Kaki",
+      "slug": "kaki"
+    },
+    "code": {
+      "id": "GAB005005034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.933",
+      "lon": "11.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keri Nzambi",
+      "en": "Keri Nzambi",
+      "slug": "keri-nzambi"
+    },
+    "code": {
+      "id": "GAB005005035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.85",
+      "lon": "11.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouango",
+      "en": "Kouango",
+      "slug": "kouango"
+    },
+    "code": {
+      "id": "GAB005005036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.65",
+      "lon": "11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koumougari",
+      "en": "Koumougari",
+      "slug": "koumougari"
+    },
+    "code": {
+      "id": "GAB005005037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.822",
+      "lon": "10.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lembe",
+      "en": "Lembe",
+      "slug": "lembe"
+    },
+    "code": {
+      "id": "GAB005005038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.082",
+      "lon": "11.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Louango",
+      "en": "Louango",
+      "slug": "louango"
+    },
+    "code": {
+      "id": "GAB005005039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.648",
+      "lon": "10.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Louangou",
+      "en": "Louangou",
+      "slug": "louangou"
+    },
+    "code": {
+      "id": "GAB005005040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "11.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabouma",
+      "en": "Mabouma",
+      "slug": "mabouma"
+    },
+    "code": {
+      "id": "GAB005005041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.725",
+      "lon": "11.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabounga",
+      "en": "Mabounga",
+      "slug": "mabounga"
+    },
+    "code": {
+      "id": "GAB005005042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "11.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabouriga",
+      "en": "Mabouriga",
+      "slug": "mabouriga"
+    },
+    "code": {
+      "id": "GAB005005043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.813",
+      "lon": "11.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magabiga",
+      "en": "Magabiga",
+      "slug": "magabiga"
+    },
+    "code": {
+      "id": "GAB005005044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.813",
+      "lon": "10.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Magassiala",
+      "en": "Magassiala",
+      "slug": "magassiala"
+    },
+    "code": {
+      "id": "GAB005005045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.817",
+      "lon": "11.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makabana",
+      "en": "Makabana",
+      "slug": "makabana"
+    },
+    "code": {
+      "id": "GAB005005046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.13",
+      "lon": "11.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makanda",
+      "en": "Makanda",
+      "slug": "makanda"
+    },
+    "code": {
+      "id": "GAB005005048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.174",
+      "lon": "11.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malanga",
+      "en": "Malanga",
+      "slug": "malanga"
+    },
+    "code": {
+      "id": "GAB005005050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.157",
+      "lon": "11.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malimba",
+      "en": "Malimba",
+      "slug": "malimba"
+    },
+    "code": {
+      "id": "GAB005005051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.683",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massanga I",
+      "en": "Massanga I",
+      "slug": "massanga-i"
+    },
+    "code": {
+      "id": "GAB005005052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.833",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massanga II",
+      "en": "Massanga II",
+      "slug": "massanga-ii"
+    },
+    "code": {
+      "id": "GAB005005053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.833",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massanga III",
+      "en": "Massanga III",
+      "slug": "massanga-iii"
+    },
+    "code": {
+      "id": "GAB005005054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.833",
+      "lon": "11.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massanga IV",
+      "en": "Massanga IV",
+      "slug": "massanga-iv"
+    },
+    "code": {
+      "id": "GAB005005055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.833",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massoli Oubala",
+      "en": "Massoli Oubala",
+      "slug": "massoli-oubala"
+    },
+    "code": {
+      "id": "GAB005005056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.733",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayombo",
+      "en": "Mayombo",
+      "slug": "mayombo"
+    },
+    "code": {
+      "id": "GAB005005057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.749",
+      "lon": "10.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboula",
+      "en": "Mboula",
+      "slug": "mboula"
+    },
+    "code": {
+      "id": "GAB005005058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "10.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mibili",
+      "en": "Mibili",
+      "slug": "mibili"
+    },
+    "code": {
+      "id": "GAB005005059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.933",
+      "lon": "11.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Migoma",
+      "en": "Migoma",
+      "slug": "migoma"
+    },
+    "code": {
+      "id": "GAB005005060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.878",
+      "lon": "11.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Milando",
+      "en": "Milando",
+      "slug": "milando"
+    },
+    "code": {
+      "id": "GAB005005061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.652",
+      "lon": "10.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Milolo",
+      "en": "Milolo",
+      "slug": "milolo"
+    },
+    "code": {
+      "id": "GAB005005062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "10.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Minziandzi",
+      "en": "Minziandzi",
+      "slug": "minziandzi"
+    },
+    "code": {
+      "id": "GAB005005063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.771",
+      "lon": "10.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mivoka",
+      "en": "Mivoka",
+      "slug": "mivoka"
+    },
+    "code": {
+      "id": "GAB005005064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.8",
+      "lon": "11.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moabi-Tsao",
+      "en": "Moabi-Tsao",
+      "slug": "moabi-tsao"
+    },
+    "code": {
+      "id": "GAB005005065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.883",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mogno Souka",
+      "en": "Mogno Souka",
+      "slug": "mogno-souka"
+    },
+    "code": {
+      "id": "GAB005005066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.783",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moubou",
+      "en": "Moubou",
+      "slug": "moubou"
+    },
+    "code": {
+      "id": "GAB005005067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.53",
+      "lon": "10.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougando Dimbo",
+      "en": "Mougando Dimbo",
+      "slug": "mougando-dimbo"
+    },
+    "code": {
+      "id": "GAB005005068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.779",
+      "lon": "10.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougandza",
+      "en": "Mougandza",
+      "slug": "mougandza"
+    },
+    "code": {
+      "id": "GAB005005069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.777",
+      "lon": "10.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougoudi",
+      "en": "Mougoudi",
+      "slug": "mougoudi"
+    },
+    "code": {
+      "id": "GAB005005070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.718",
+      "lon": "10.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulagasiala",
+      "en": "Moulagasiala",
+      "slug": "moulagasiala"
+    },
+    "code": {
+      "id": "GAB005005071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.67",
+      "lon": "10.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulamba",
+      "en": "Moulamba",
+      "slug": "moulamba"
+    },
+    "code": {
+      "id": "GAB005005072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.665",
+      "lon": "11.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mounanga",
+      "en": "Mounanga",
+      "slug": "mounanga"
+    },
+    "code": {
+      "id": "GAB005005073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.489",
+      "lon": "10.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mourambo Kata",
+      "en": "Mourambo Kata",
+      "slug": "mourambo-kata"
+    },
+    "code": {
+      "id": "GAB005005075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.743",
+      "lon": "10.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mourima",
+      "en": "Mourima",
+      "slug": "mourima"
+    },
+    "code": {
+      "id": "GAB005005076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.667",
+      "lon": "11.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouringa Issenguele",
+      "en": "Mouringa Issenguele",
+      "slug": "mouringa-issenguele"
+    },
+    "code": {
+      "id": "GAB005005077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.75",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussangala",
+      "en": "Moussangala",
+      "slug": "moussangala"
+    },
+    "code": {
+      "id": "GAB005005078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.611",
+      "lon": "10.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouvanga-Panza",
+      "en": "Mouvanga-Panza",
+      "slug": "mouvanga-panza"
+    },
+    "code": {
+      "id": "GAB005005079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.588",
+      "lon": "10.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouvango-Pinza",
+      "en": "Mouvango-Pinza",
+      "slug": "mouvango-pinza"
+    },
+    "code": {
+      "id": "GAB005005080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.588",
+      "lon": "10.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndende",
+      "en": "Ndende",
+      "slug": "ndende"
+    },
+    "code": {
+      "id": "GAB005005081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.928",
+      "lon": "11.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndenga",
+      "en": "Ndenga",
+      "slug": "ndenga"
+    },
+    "code": {
+      "id": "GAB005005082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.928",
+      "lon": "11.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nfigou",
+      "en": "Nfigou",
+      "slug": "nfigou"
+    },
+    "code": {
+      "id": "GAB005005083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.555",
+      "lon": "10.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoussou",
+      "en": "Ngoussou",
+      "slug": "ngoussou"
+    },
+    "code": {
+      "id": "GAB005005084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nilolo",
+      "en": "Nilolo",
+      "slug": "nilolo"
+    },
+    "code": {
+      "id": "GAB005005085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "10.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    },
+    "code": {
+      "id": "GAB005005086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.629",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyanga-Vembe",
+      "en": "Nyanga-Vembe",
+      "slug": "nyanga-vembe"
+    },
+    "code": {
+      "id": "GAB005005087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.629",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzenzila",
+      "en": "Nzenzila",
+      "slug": "nzenzila"
+    },
+    "code": {
+      "id": "GAB005005088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.758",
+      "lon": "10.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pahilou",
+      "en": "Pahilou",
+      "slug": "pahilou"
+    },
+    "code": {
+      "id": "GAB005005089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.807",
+      "lon": "11.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pahou N'Zambi",
+      "en": "Pahou N'Zambi",
+      "slug": "pahou-nzambi"
+    },
+    "code": {
+      "id": "GAB005005090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.763",
+      "lon": "10.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pahouzambi",
+      "en": "Pahouzambi",
+      "slug": "pahouzambi"
+    },
+    "code": {
+      "id": "GAB005005091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.763",
+      "lon": "10.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pananga",
+      "en": "Pananga",
+      "slug": "pananga"
+    },
+    "code": {
+      "id": "GAB005005092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.028",
+      "lon": "11.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pemo",
+      "en": "Pemo",
+      "slug": "pemo"
+    },
+    "code": {
+      "id": "GAB005005093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.181",
+      "lon": "11.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Peni Gnoundou",
+      "en": "Peni Gnoundou",
+      "slug": "peni-gnoundou"
+    },
+    "code": {
+      "id": "GAB005005095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.764",
+      "lon": "11.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Penignioundo",
+      "en": "Penignioundo",
+      "slug": "penignioundo"
+    },
+    "code": {
+      "id": "GAB005005096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.764",
+      "lon": "11.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poka",
+      "en": "Poka",
+      "slug": "poka"
+    },
+    "code": {
+      "id": "GAB005005097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.933",
+      "lon": "11.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pounga-Nganda",
+      "en": "Pounga-Nganda",
+      "slug": "pounga-nganda"
+    },
+    "code": {
+      "id": "GAB005005098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.981",
+      "lon": "10.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Randi I",
+      "en": "Randi I",
+      "slug": "randi-i"
+    },
+    "code": {
+      "id": "GAB005005099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.987",
+      "lon": "10.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Randi II",
+      "en": "Randi II",
+      "slug": "randi-ii"
+    },
+    "code": {
+      "id": "GAB005005100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.984",
+      "lon": "10.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Riranzala",
+      "en": "Riranzala",
+      "slug": "riranzala"
+    },
+    "code": {
+      "id": "GAB005005101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.757",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005102",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sanga",
+      "en": "Sanga",
+      "slug": "sanga"
+    },
+    "code": {
+      "id": "GAB005005102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.994",
+      "lon": "10.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sanga-Plaine",
+      "en": "Sanga-Plaine",
+      "slug": "sanga-plaine"
+    },
+    "code": {
+      "id": "GAB005005103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.97",
+      "lon": "10.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Singna",
+      "en": "Singna",
+      "slug": "singna"
+    },
+    "code": {
+      "id": "GAB005005104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.9",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soangui",
+      "en": "Soangui",
+      "slug": "soangui"
+    },
+    "code": {
+      "id": "GAB005005105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.489",
+      "lon": "10.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Souangui",
+      "en": "Souangui",
+      "slug": "souangui"
+    },
+    "code": {
+      "id": "GAB005005106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.489",
+      "lon": "10.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005107",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tando Filou",
+      "en": "Tando Filou",
+      "slug": "tando-filou"
+    },
+    "code": {
+      "id": "GAB005005107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.75",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005108",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tchibanga",
+      "en": "Tchibanga",
+      "slug": "tchibanga"
+    },
+    "code": {
+      "id": "GAB005005108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.85",
+      "lon": "11.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tonokamba",
+      "en": "Tonokamba",
+      "slug": "tonokamba"
+    },
+    "code": {
+      "id": "GAB005005109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.664",
+      "lon": "10.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005110",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toulougaba",
+      "en": "Toulougaba",
+      "slug": "toulougaba"
+    },
+    "code": {
+      "id": "GAB005005110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "10.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005111",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tsegnou Bila",
+      "en": "Tsegnou Bila",
+      "slug": "tsegnou-bila"
+    },
+    "code": {
+      "id": "GAB005005111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yabala",
+      "en": "Yabala",
+      "slug": "yabala"
+    },
+    "code": {
+      "id": "GAB005005112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.85",
+      "lon": "11.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yandji",
+      "en": "Yandji",
+      "slug": "yandji"
+    },
+    "code": {
+      "id": "GAB005005113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.089",
+      "lon": "11.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005005114",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Youmbou",
+      "en": "Youmbou",
+      "slug": "youmbou"
+    },
+    "code": {
+      "id": "GAB005005114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005005",
+      "level": 2,
+      "name": {
+        "local": "Mougoutsi",
+        "en": "Mougoutsi",
+        "slug": "mougoutsi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005005",
+        "level": 2,
+        "name": {
+          "local": "Mougoutsi",
+          "en": "Mougoutsi",
+          "slug": "mougoutsi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.14",
+      "lon": "11.304"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

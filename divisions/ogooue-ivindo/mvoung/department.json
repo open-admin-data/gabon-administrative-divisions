@@ -1,0 +1,47 @@
+{
+  "id": "GAB006003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mvoung",
+    "en": "Mvoung",
+    "slug": "mvoung"
+  },
+  "code": {
+    "id": "GAB006003",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB006",
+    "level": 1,
+    "name": {
+      "local": "Ogooue-Ivindo",
+      "en": "Ogooue-Ivindo",
+      "slug": "ogooue-ivindo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB006",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Ivindo",
+        "en": "Ogooue-Ivindo",
+        "slug": "ogooue-ivindo"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.345",
+    "lon": "12.173"
+  },
+  "metadata": {},
+  "source": {}
+}

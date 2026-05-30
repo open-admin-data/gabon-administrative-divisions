@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.settlement,geo.lat,geo.lon
+GAB004001,Boumi-Louetsi,Boumi-Louetsi,boumi-louetsi,GAB004001,189,-2.041,11.796
+GAB004002,Dola,Dola,dola,GAB004002,95,-2.325,11.37
+GAB004003,Douya-Onoye,Douya-Onoye,douya-onoye,GAB004003,42,-1.857,11.095
+GAB004004,Louetsi-Bibaka,Louetsi-Bibaka,louetsi-bibaka,GAB004004,63,-2.202,12.258
+GAB004005,Louetsi-Wano,Louetsi-Wano,louetsi-wano,GAB004005,46,-2.199,11.528
+GAB004009,Mougalaba,Mougalaba,mougalaba,GAB004009,44,-2.051,10.797
+GAB004006,Ndolou,Ndolou,ndolou,GAB004006,62,-1.585,10.225
+GAB004007,Ogoulou,Ogoulou,ogoulou,GAB004007,165,-1.439,11.569
+GAB004008,Tsamba-Magotsi,Tsamba-Magotsi,tsamba-magotsi,GAB004008,110,-1.375,10.676

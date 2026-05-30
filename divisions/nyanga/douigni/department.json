@@ -1,0 +1,47 @@
+{
+  "id": "GAB005002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Douigni",
+    "en": "Douigni",
+    "slug": "douigni"
+  },
+  "code": {
+    "id": "GAB005002",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB005",
+    "level": 1,
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB005",
+      "level": 1,
+      "name": {
+        "local": "Nyanga",
+        "en": "Nyanga",
+        "slug": "nyanga"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 56
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.437",
+    "lon": "10.914"
+  },
+  "metadata": {},
+  "source": {}
+}

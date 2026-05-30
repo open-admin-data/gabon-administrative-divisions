@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "GAB005004001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bende Passi Mogno",
+      "en": "Bende Passi Mogno",
+      "slug": "bende-passi-mogno"
+    },
+    "code": {
+      "id": "GAB005004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.532",
+      "lon": "10.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouggou",
+      "en": "Bouggou",
+      "slug": "bouggou"
+    },
+    "code": {
+      "id": "GAB005004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.75",
+      "lon": "11.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boukena Boumounou",
+      "en": "Boukena Boumounou",
+      "slug": "boukena-boumounou"
+    },
+    "code": {
+      "id": "GAB005004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "11.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dend",
+      "en": "Dend",
+      "slug": "dend"
+    },
+    "code": {
+      "id": "GAB005004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.772",
+      "lon": "11.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dende",
+      "en": "Dende",
+      "slug": "dende"
+    },
+    "code": {
+      "id": "GAB005004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.772",
+      "lon": "11.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dendo",
+      "en": "Dendo",
+      "slug": "dendo"
+    },
+    "code": {
+      "id": "GAB005004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.772",
+      "lon": "11.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kayes Congo",
+      "en": "Kayes Congo",
+      "slug": "kayes-congo"
+    },
+    "code": {
+      "id": "GAB005004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.735",
+      "lon": "11.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Loungou Zambi",
+      "en": "Loungou Zambi",
+      "slug": "loungou-zambi"
+    },
+    "code": {
+      "id": "GAB005004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.75",
+      "lon": "11.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makanda",
+      "en": "Makanda",
+      "slug": "makanda"
+    },
+    "code": {
+      "id": "GAB005004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.87",
+      "lon": "11.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mallembe",
+      "en": "Mallembe",
+      "slug": "mallembe"
+    },
+    "code": {
+      "id": "GAB005004010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.566",
+      "lon": "10.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nienzi Mogne",
+      "en": "Nienzi Mogne",
+      "slug": "nienzi-mogne"
+    },
+    "code": {
+      "id": "GAB005004011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.774",
+      "lon": "11.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sainte-Marie",
+      "en": "Sainte-Marie",
+      "slug": "sainte-marie"
+    },
+    "code": {
+      "id": "GAB005004012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.795",
+      "lon": "11.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sette Banda",
+      "en": "Sette Banda",
+      "slug": "sette-banda"
+    },
+    "code": {
+      "id": "GAB005004013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.83",
+      "lon": "11.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tchibenda",
+      "en": "Tchibenda",
+      "slug": "tchibenda"
+    },
+    "code": {
+      "id": "GAB005004014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.898",
+      "lon": "11.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tchigana",
+      "en": "Tchigana",
+      "slug": "tchigana"
+    },
+    "code": {
+      "id": "GAB005004015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.726",
+      "lon": "11.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tchimbia",
+      "en": "Tchimbia",
+      "slug": "tchimbia"
+    },
+    "code": {
+      "id": "GAB005004016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.811",
+      "lon": "11.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tchingondo",
+      "en": "Tchingondo",
+      "slug": "tchingondo"
+    },
+    "code": {
+      "id": "GAB005004017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.517",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tchitende",
+      "en": "Tchitende",
+      "slug": "tchitende"
+    },
+    "code": {
+      "id": "GAB005004018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.898",
+      "lon": "11.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tia",
+      "en": "Tia",
+      "slug": "tia"
+    },
+    "code": {
+      "id": "GAB005004019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.627",
+      "lon": "10.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toco Tsiala",
+      "en": "Toco Tsiala",
+      "slug": "toco-tsiala"
+    },
+    "code": {
+      "id": "GAB005004020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.759",
+      "lon": "11.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Village Sainte Marie",
+      "en": "Village Sainte Marie",
+      "slug": "village-sainte-marie"
+    },
+    "code": {
+      "id": "GAB005004021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.795",
+      "lon": "11.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zambi Zanza",
+      "en": "Zambi Zanza",
+      "slug": "zambi-zanza"
+    },
+    "code": {
+      "id": "GAB005004022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.548",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB005004023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zembi-Zanza",
+      "en": "Zembi-Zanza",
+      "slug": "zembi-zanza"
+    },
+    "code": {
+      "id": "GAB005004023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB005004",
+      "level": 2,
+      "name": {
+        "local": "Haute-Banio",
+        "en": "Haute-Banio",
+        "slug": "haute-banio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB005",
+        "level": 1,
+        "name": {
+          "local": "Nyanga",
+          "en": "Nyanga",
+          "slug": "nyanga"
+        }
+      },
+      {
+        "id": "GAB005004",
+        "level": 2,
+        "name": {
+          "local": "Haute-Banio",
+          "en": "Haute-Banio",
+          "slug": "haute-banio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.548",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

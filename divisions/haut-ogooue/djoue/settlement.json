@@ -1,0 +1,164 @@
+[
+  {
+    "id": "GAB002001001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Amposso",
+      "en": "Amposso",
+      "slug": "amposso"
+    },
+    "code": {
+      "id": "GAB002001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002001",
+      "level": 2,
+      "name": {
+        "local": "Djoue",
+        "en": "Djoue",
+        "slug": "djoue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002001",
+        "level": 2,
+        "name": {
+          "local": "Djoue",
+          "en": "Djoue",
+          "slug": "djoue"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.85",
+      "lon": "14.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002001002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekori",
+      "en": "Lekori",
+      "slug": "lekori"
+    },
+    "code": {
+      "id": "GAB002001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002001",
+      "level": 2,
+      "name": {
+        "local": "Djoue",
+        "en": "Djoue",
+        "slug": "djoue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002001",
+        "level": 2,
+        "name": {
+          "local": "Djoue",
+          "en": "Djoue",
+          "slug": "djoue"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.833",
+      "lon": "14.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002001003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obili",
+      "en": "Obili",
+      "slug": "obili"
+    },
+    "code": {
+      "id": "GAB002001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002001",
+      "level": 2,
+      "name": {
+        "local": "Djoue",
+        "en": "Djoue",
+        "slug": "djoue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002001",
+        "level": 2,
+        "name": {
+          "local": "Djoue",
+          "en": "Djoue",
+          "slug": "djoue"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.817",
+      "lon": "14.083"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

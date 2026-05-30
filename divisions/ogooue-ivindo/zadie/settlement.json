@@ -1,0 +1,5456 @@
+[
+  {
+    "id": "GAB006004001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bambaza I",
+      "en": "Bambaza I",
+      "slug": "bambaza-i"
+    },
+    "code": {
+      "id": "GAB006004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.817",
+      "lon": "13.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bambo",
+      "en": "Bambo",
+      "slug": "bambo"
+    },
+    "code": {
+      "id": "GAB006004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.9",
+      "lon": "13.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Batoala",
+      "en": "Batoala",
+      "slug": "batoala"
+    },
+    "code": {
+      "id": "GAB006004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.803",
+      "lon": "13.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Baya",
+      "en": "Baya",
+      "slug": "baya"
+    },
+    "code": {
+      "id": "GAB006004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.983",
+      "lon": "13.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bedounou",
+      "en": "Bedounou",
+      "slug": "bedounou"
+    },
+    "code": {
+      "id": "GAB006004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.833",
+      "lon": "13.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bekouye",
+      "en": "Bekouye",
+      "slug": "bekouye"
+    },
+    "code": {
+      "id": "GAB006004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.817",
+      "lon": "13.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Belakembe",
+      "en": "Belakembe",
+      "slug": "belakembe"
+    },
+    "code": {
+      "id": "GAB006004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.01",
+      "lon": "13.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bele",
+      "en": "Bele",
+      "slug": "bele"
+    },
+    "code": {
+      "id": "GAB006004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "13.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bokaboka",
+      "en": "Bokaboka",
+      "slug": "bokaboka"
+    },
+    "code": {
+      "id": "GAB006004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.867",
+      "lon": "13.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boumbazokou",
+      "en": "Boumbazokou",
+      "slug": "boumbazokou"
+    },
+    "code": {
+      "id": "GAB006004010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.8",
+      "lon": "13.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boumbazokou II",
+      "en": "Boumbazokou II",
+      "slug": "boumbazokou-ii"
+    },
+    "code": {
+      "id": "GAB006004011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.833",
+      "lon": "13.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boungaloundou",
+      "en": "Boungaloundou",
+      "slug": "boungaloundou"
+    },
+    "code": {
+      "id": "GAB006004012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "13.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Cocofili",
+      "en": "Cocofili",
+      "slug": "cocofili"
+    },
+    "code": {
+      "id": "GAB006004013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.95",
+      "lon": "13.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djabeta",
+      "en": "Djabeta",
+      "slug": "djabeta"
+    },
+    "code": {
+      "id": "GAB006004014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.887",
+      "lon": "14.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djassone",
+      "en": "Djassone",
+      "slug": "djassone"
+    },
+    "code": {
+      "id": "GAB006004015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djokoloudja I",
+      "en": "Djokoloudja I",
+      "slug": "djokoloudja-i"
+    },
+    "code": {
+      "id": "GAB006004016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.75",
+      "lon": "14.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djokoloudja II",
+      "en": "Djokoloudja II",
+      "slug": "djokoloudja-ii"
+    },
+    "code": {
+      "id": "GAB006004017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.733",
+      "lon": "14.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djokossana",
+      "en": "Djokossana",
+      "slug": "djokossana"
+    },
+    "code": {
+      "id": "GAB006004018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.911",
+      "lon": "14.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doungounene",
+      "en": "Doungounene",
+      "slug": "doungounene"
+    },
+    "code": {
+      "id": "GAB006004019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.817",
+      "lon": "13.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebolahon",
+      "en": "Ebolahon",
+      "slug": "ebolahon"
+    },
+    "code": {
+      "id": "GAB006004020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.717",
+      "lon": "13.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Effande",
+      "en": "Effande",
+      "slug": "effande"
+    },
+    "code": {
+      "id": "GAB006004021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.3",
+      "lon": "14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ego",
+      "en": "Ego",
+      "slug": "ego"
+    },
+    "code": {
+      "id": "GAB006004022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.25",
+      "lon": "14.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ehanzo",
+      "en": "Ehanzo",
+      "slug": "ehanzo"
+    },
+    "code": {
+      "id": "GAB006004023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.875",
+      "lon": "13.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekata",
+      "en": "Ekata",
+      "slug": "ekata"
+    },
+    "code": {
+      "id": "GAB006004024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "14.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekatangaye",
+      "en": "Ekatangaye",
+      "slug": "ekatangaye"
+    },
+    "code": {
+      "id": "GAB006004025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.017",
+      "lon": "13.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekok",
+      "en": "Ekok",
+      "slug": "ekok"
+    },
+    "code": {
+      "id": "GAB006004026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.346",
+      "lon": "14.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ellela",
+      "en": "Ellela",
+      "slug": "ellela"
+    },
+    "code": {
+      "id": "GAB006004027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.95",
+      "lon": "13.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elouma",
+      "en": "Elouma",
+      "slug": "elouma"
+    },
+    "code": {
+      "id": "GAB006004028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.872",
+      "lon": "14.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etakangai",
+      "en": "Etakangai",
+      "slug": "etakangai"
+    },
+    "code": {
+      "id": "GAB006004029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.017",
+      "lon": "13.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etakangaye",
+      "en": "Etakangaye",
+      "slug": "etakangaye"
+    },
+    "code": {
+      "id": "GAB006004030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.017",
+      "lon": "13.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Etiala",
+      "en": "Etiala",
+      "slug": "etiala"
+    },
+    "code": {
+      "id": "GAB006004031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.733",
+      "lon": "13.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Guiessebe",
+      "en": "Guiessebe",
+      "slug": "guiessebe"
+    },
+    "code": {
+      "id": "GAB006004032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.95",
+      "lon": "13.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ibela",
+      "en": "Ibela",
+      "slug": "ibela"
+    },
+    "code": {
+      "id": "GAB006004033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ibella",
+      "en": "Ibella",
+      "slug": "ibella"
+    },
+    "code": {
+      "id": "GAB006004034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ikie",
+      "en": "Ikie",
+      "slug": "ikie"
+    },
+    "code": {
+      "id": "GAB006004035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.917",
+      "lon": "13.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Iko",
+      "en": "Iko",
+      "slug": "iko"
+    },
+    "code": {
+      "id": "GAB006004036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.9",
+      "lon": "13.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Imbong",
+      "en": "Imbong",
+      "slug": "imbong"
+    },
+    "code": {
+      "id": "GAB006004037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.038",
+      "lon": "13.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Indombo",
+      "en": "Indombo",
+      "slug": "indombo"
+    },
+    "code": {
+      "id": "GAB006004038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "13.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Indoue",
+      "en": "Indoue",
+      "slug": "indoue"
+    },
+    "code": {
+      "id": "GAB006004039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.933",
+      "lon": "13.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ingolandjondjo I",
+      "en": "Ingolandjondjo I",
+      "slug": "ingolandjondjo-i"
+    },
+    "code": {
+      "id": "GAB006004040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.881",
+      "lon": "13.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ingolandjondjo II",
+      "en": "Ingolandjondjo II",
+      "slug": "ingolandjondjo-ii"
+    },
+    "code": {
+      "id": "GAB006004041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "13.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ingolandjondo",
+      "en": "Ingolandjondo",
+      "slug": "ingolandjondo"
+    },
+    "code": {
+      "id": "GAB006004042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.881",
+      "lon": "13.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ingonda",
+      "en": "Ingonda",
+      "slug": "ingonda"
+    },
+    "code": {
+      "id": "GAB006004043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.817",
+      "lon": "13.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itebe I",
+      "en": "Itebe I",
+      "slug": "itebe-i"
+    },
+    "code": {
+      "id": "GAB006004044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.851",
+      "lon": "13.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itebe II",
+      "en": "Itebe II",
+      "slug": "itebe-ii"
+    },
+    "code": {
+      "id": "GAB006004045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "13.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itebe III",
+      "en": "Itebe III",
+      "slug": "itebe-iii"
+    },
+    "code": {
+      "id": "GAB006004046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.867",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kangala",
+      "en": "Kangala",
+      "slug": "kangala"
+    },
+    "code": {
+      "id": "GAB006004047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.667",
+      "lon": "14.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Katamoba",
+      "en": "Katamoba",
+      "slug": "katamoba"
+    },
+    "code": {
+      "id": "GAB006004048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.903",
+      "lon": "14.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kemboma",
+      "en": "Kemboma",
+      "slug": "kemboma"
+    },
+    "code": {
+      "id": "GAB006004049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.667",
+      "lon": "13.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koko",
+      "en": "Koko",
+      "slug": "koko"
+    },
+    "code": {
+      "id": "GAB006004050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.991",
+      "lon": "13.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koto",
+      "en": "Koto",
+      "slug": "koto"
+    },
+    "code": {
+      "id": "GAB006004051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.933",
+      "lon": "13.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouangata",
+      "en": "Kouangata",
+      "slug": "kouangata"
+    },
+    "code": {
+      "id": "GAB006004052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.867",
+      "lon": "14.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004053",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koumaniabe",
+      "en": "Koumaniabe",
+      "slug": "koumaniabe"
+    },
+    "code": {
+      "id": "GAB006004053",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "14.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004054",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kounamoutou",
+      "en": "Kounamoutou",
+      "slug": "kounamoutou"
+    },
+    "code": {
+      "id": "GAB006004054",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.7",
+      "lon": "14.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lounga",
+      "en": "Lounga",
+      "slug": "lounga"
+    },
+    "code": {
+      "id": "GAB006004055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.717",
+      "lon": "13.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabemandouma",
+      "en": "Mabemandouma",
+      "slug": "mabemandouma"
+    },
+    "code": {
+      "id": "GAB006004056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.95",
+      "lon": "13.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madjingo",
+      "en": "Madjingo",
+      "slug": "madjingo"
+    },
+    "code": {
+      "id": "GAB006004057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.372",
+      "lon": "14.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004058",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mafouka I",
+      "en": "Mafouka I",
+      "slug": "mafouka-i"
+    },
+    "code": {
+      "id": "GAB006004058",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.833",
+      "lon": "13.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mafouka II",
+      "en": "Mafouka II",
+      "slug": "mafouka-ii"
+    },
+    "code": {
+      "id": "GAB006004059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.983",
+      "lon": "13.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahengyedi II",
+      "en": "Mahengyedi II",
+      "slug": "mahengyedi-ii"
+    },
+    "code": {
+      "id": "GAB006004060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.783",
+      "lon": "13.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makana",
+      "en": "Makana",
+      "slug": "makana"
+    },
+    "code": {
+      "id": "GAB006004061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.883",
+      "lon": "13.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makebe",
+      "en": "Makebe",
+      "slug": "makebe"
+    },
+    "code": {
+      "id": "GAB006004062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.299",
+      "lon": "14.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Maleba",
+      "en": "Maleba",
+      "slug": "maleba"
+    },
+    "code": {
+      "id": "GAB006004063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "14.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malondo",
+      "en": "Malondo",
+      "slug": "malondo"
+    },
+    "code": {
+      "id": "GAB006004064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.917",
+      "lon": "13.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mambaza",
+      "en": "Mambaza",
+      "slug": "mambaza"
+    },
+    "code": {
+      "id": "GAB006004065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.75",
+      "lon": "13.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandombo",
+      "en": "Mandombo",
+      "slug": "mandombo"
+    },
+    "code": {
+      "id": "GAB006004066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "13.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandombo I",
+      "en": "Mandombo I",
+      "slug": "mandombo-i"
+    },
+    "code": {
+      "id": "GAB006004069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.65",
+      "lon": "14.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massenega",
+      "en": "Massenega",
+      "slug": "massenega"
+    },
+    "code": {
+      "id": "GAB006004070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.36",
+      "lon": "14.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massombo",
+      "en": "Massombo",
+      "slug": "massombo"
+    },
+    "code": {
+      "id": "GAB006004071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.32",
+      "lon": "14.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matote I",
+      "en": "Matote I",
+      "slug": "matote-i"
+    },
+    "code": {
+      "id": "GAB006004072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.845",
+      "lon": "13.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Matote II",
+      "en": "Matote II",
+      "slug": "matote-ii"
+    },
+    "code": {
+      "id": "GAB006004073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "13.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayazaipepa",
+      "en": "Mayazaipepa",
+      "slug": "mayazaipepa"
+    },
+    "code": {
+      "id": "GAB006004074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.9",
+      "lon": "13.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbela",
+      "en": "Mbela",
+      "slug": "mbela"
+    },
+    "code": {
+      "id": "GAB006004075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.982",
+      "lon": "13.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbele",
+      "en": "Mbele",
+      "slug": "mbele"
+    },
+    "code": {
+      "id": "GAB006004076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "14.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004077",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbey",
+      "en": "Mbey",
+      "slug": "mbey"
+    },
+    "code": {
+      "id": "GAB006004077",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "13.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbizo",
+      "en": "Mbizo",
+      "slug": "mbizo"
+    },
+    "code": {
+      "id": "GAB006004078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.667",
+      "lon": "14.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboulet",
+      "en": "Mboulet",
+      "slug": "mboulet"
+    },
+    "code": {
+      "id": "GAB006004079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.212",
+      "lon": "14.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mekambo",
+      "en": "Mekambo",
+      "slug": "mekambo"
+    },
+    "code": {
+      "id": "GAB006004080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.007",
+      "lon": "13.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mekampo",
+      "en": "Mekampo",
+      "slug": "mekampo"
+    },
+    "code": {
+      "id": "GAB006004081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.007",
+      "lon": "13.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Meko",
+      "en": "Meko",
+      "slug": "meko"
+    },
+    "code": {
+      "id": "GAB006004082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.854",
+      "lon": "13.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Melongo",
+      "en": "Melongo",
+      "slug": "melongo"
+    },
+    "code": {
+      "id": "GAB006004083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.717",
+      "lon": "13.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Metunga",
+      "en": "Metunga",
+      "slug": "metunga"
+    },
+    "code": {
+      "id": "GAB006004084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.767",
+      "lon": "13.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mindemba",
+      "en": "Mindemba",
+      "slug": "mindemba"
+    },
+    "code": {
+      "id": "GAB006004085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.695",
+      "lon": "14.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Modjoko",
+      "en": "Modjoko",
+      "slug": "modjoko"
+    },
+    "code": {
+      "id": "GAB006004086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.8",
+      "lon": "14.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndoundouma",
+      "en": "Ndoundouma",
+      "slug": "ndoundouma"
+    },
+    "code": {
+      "id": "GAB006004087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.933",
+      "lon": "13.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngando",
+      "en": "Ngando",
+      "slug": "ngando"
+    },
+    "code": {
+      "id": "GAB006004088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.077",
+      "lon": "14.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngouengoue",
+      "en": "Ngouengoue",
+      "slug": "ngouengoue"
+    },
+    "code": {
+      "id": "GAB006004089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.833",
+      "lon": "13.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Niatazokou",
+      "en": "Niatazokou",
+      "slug": "niatazokou"
+    },
+    "code": {
+      "id": "GAB006004090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.85",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzela",
+      "en": "Nzela",
+      "slug": "nzela"
+    },
+    "code": {
+      "id": "GAB006004091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.767",
+      "lon": "13.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzibobouya",
+      "en": "Nzibobouya",
+      "slug": "nzibobouya"
+    },
+    "code": {
+      "id": "GAB006004092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.983",
+      "lon": "13.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyabe",
+      "en": "Oyabe",
+      "slug": "oyabe"
+    },
+    "code": {
+      "id": "GAB006004093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.733",
+      "lon": "13.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyouma",
+      "en": "Oyouma",
+      "slug": "oyouma"
+    },
+    "code": {
+      "id": "GAB006004094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.833",
+      "lon": "13.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Petialongo",
+      "en": "Petialongo",
+      "slug": "petialongo"
+    },
+    "code": {
+      "id": "GAB006004095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.7",
+      "lon": "13.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Salo",
+      "en": "Salo",
+      "slug": "salo"
+    },
+    "code": {
+      "id": "GAB006004096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.9",
+      "lon": "14.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toumbi I",
+      "en": "Toumbi I",
+      "slug": "toumbi-i"
+    },
+    "code": {
+      "id": "GAB006004097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.117",
+      "lon": "14.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Toumbi II",
+      "en": "Toumbi II",
+      "slug": "toumbi-ii"
+    },
+    "code": {
+      "id": "GAB006004098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.165",
+      "lon": "14.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Venelle",
+      "en": "Venelle",
+      "slug": "venelle"
+    },
+    "code": {
+      "id": "GAB006004099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.017",
+      "lon": "13.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yoko",
+      "en": "Yoko",
+      "slug": "yoko"
+    },
+    "code": {
+      "id": "GAB006004100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.983",
+      "lon": "13.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zokokota",
+      "en": "Zokokota",
+      "slug": "zokokota"
+    },
+    "code": {
+      "id": "GAB006004101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.867",
+      "lon": "13.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004102",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zokoma",
+      "en": "Zokoma",
+      "slug": "zokoma"
+    },
+    "code": {
+      "id": "GAB006004102",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.783",
+      "lon": "13.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zoula",
+      "en": "Zoula",
+      "slug": "zoula"
+    },
+    "code": {
+      "id": "GAB006004103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006004",
+      "level": 2,
+      "name": {
+        "local": "Zadie",
+        "en": "Zadie",
+        "slug": "zadie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      },
+      {
+        "id": "GAB006004",
+        "level": 2,
+        "name": {
+          "local": "Zadie",
+          "en": "Zadie",
+          "slug": "zadie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.097",
+      "lon": "14.055"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

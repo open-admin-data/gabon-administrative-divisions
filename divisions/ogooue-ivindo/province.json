@@ -1,0 +1,30 @@
+{
+  "id": "GAB006",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ogooue-Ivindo",
+    "en": "Ogooue-Ivindo",
+    "slug": "ogooue-ivindo"
+  },
+  "code": {
+    "id": "GAB006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 4,
+    "settlement": 350
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.496",
+    "lon": "12.841"
+  },
+  "metadata": {},
+  "source": {}
+}

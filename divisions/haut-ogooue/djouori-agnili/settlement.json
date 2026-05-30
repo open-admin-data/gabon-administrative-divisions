@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "GAB002002001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akalla",
+      "en": "Akalla",
+      "slug": "akalla"
+    },
+    "code": {
+      "id": "GAB002002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.449",
+      "lon": "14.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bai",
+      "en": "Bai",
+      "slug": "bai"
+    },
+    "code": {
+      "id": "GAB002002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.417",
+      "lon": "13.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diere",
+      "en": "Diere",
+      "slug": "diere"
+    },
+    "code": {
+      "id": "GAB002002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.491",
+      "lon": "13.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekalla",
+      "en": "Ekalla",
+      "slug": "ekalla"
+    },
+    "code": {
+      "id": "GAB002002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.449",
+      "lon": "14.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyouga",
+      "en": "Eyouga",
+      "slug": "eyouga"
+    },
+    "code": {
+      "id": "GAB002002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.559",
+      "lon": "13.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kabaga",
+      "en": "Kabaga",
+      "slug": "kabaga"
+    },
+    "code": {
+      "id": "GAB002002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.364",
+      "lon": "13.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kabaga I",
+      "en": "Kabaga I",
+      "slug": "kabaga-i"
+    },
+    "code": {
+      "id": "GAB002002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.364",
+      "lon": "13.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kabaga II",
+      "en": "Kabaga II",
+      "slug": "kabaga-ii"
+    },
+    "code": {
+      "id": "GAB002002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.383",
+      "lon": "13.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kandouo",
+      "en": "Kandouo",
+      "slug": "kandouo"
+    },
+    "code": {
+      "id": "GAB002002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "14.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kandwou",
+      "en": "Kandwou",
+      "slug": "kandwou"
+    },
+    "code": {
+      "id": "GAB002002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.55",
+      "lon": "14.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kassiami I",
+      "en": "Kassiami I",
+      "slug": "kassiami-i"
+    },
+    "code": {
+      "id": "GAB002002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "13.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kassiami II",
+      "en": "Kassiami II",
+      "slug": "kassiami-ii"
+    },
+    "code": {
+      "id": "GAB002002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.3",
+      "lon": "13.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kelle",
+      "en": "Kelle",
+      "slug": "kelle"
+    },
+    "code": {
+      "id": "GAB002002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.602",
+      "lon": "13.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kelle I",
+      "en": "Kelle I",
+      "slug": "kelle-i"
+    },
+    "code": {
+      "id": "GAB002002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.602",
+      "lon": "13.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekei",
+      "en": "Lekei",
+      "slug": "lekei"
+    },
+    "code": {
+      "id": "GAB002002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.488",
+      "lon": "13.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekei I",
+      "en": "Lekei I",
+      "slug": "lekei-i"
+    },
+    "code": {
+      "id": "GAB002002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.488",
+      "lon": "13.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekei II",
+      "en": "Lekei II",
+      "slug": "lekei-ii"
+    },
+    "code": {
+      "id": "GAB002002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.477",
+      "lon": "13.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekei III",
+      "en": "Lekei III",
+      "slug": "lekei-iii"
+    },
+    "code": {
+      "id": "GAB002002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.483",
+      "lon": "13.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lewai",
+      "en": "Lewai",
+      "slug": "lewai"
+    },
+    "code": {
+      "id": "GAB002002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "13.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngwoni",
+      "en": "Ngwoni",
+      "slug": "ngwoni"
+    },
+    "code": {
+      "id": "GAB002002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.5",
+      "lon": "13.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obia I",
+      "en": "Obia I",
+      "slug": "obia-i"
+    },
+    "code": {
+      "id": "GAB002002022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "13.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obia II",
+      "en": "Obia II",
+      "slug": "obia-ii"
+    },
+    "code": {
+      "id": "GAB002002023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.517",
+      "lon": "13.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ombili",
+      "en": "Ombili",
+      "slug": "ombili"
+    },
+    "code": {
+      "id": "GAB002002024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.533",
+      "lon": "13.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ondili",
+      "en": "Ondili",
+      "slug": "ondili"
+    },
+    "code": {
+      "id": "GAB002002025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.565",
+      "lon": "13.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Onkara",
+      "en": "Onkara",
+      "slug": "onkara"
+    },
+    "code": {
+      "id": "GAB002002026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.491",
+      "lon": "14.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Posso",
+      "en": "Posso",
+      "slug": "posso"
+    },
+    "code": {
+      "id": "GAB002002027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "13.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002002028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soubba",
+      "en": "Soubba",
+      "slug": "soubba"
+    },
+    "code": {
+      "id": "GAB002002028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002002",
+      "level": 2,
+      "name": {
+        "local": "Djouori-Agnili",
+        "en": "Djouori-Agnili",
+        "slug": "djouori-agnili"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002002",
+        "level": 2,
+        "name": {
+          "local": "Djouori-Agnili",
+          "en": "Djouori-Agnili",
+          "slug": "djouori-agnili"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.515",
+      "lon": "14.103"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

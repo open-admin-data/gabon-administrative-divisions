@@ -1,0 +1,2324 @@
+[
+  {
+    "id": "GAB001004001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adzebe",
+      "en": "Adzebe",
+      "slug": "adzebe"
+    },
+    "code": {
+      "id": "GAB001004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.4",
+      "lon": "9.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Afane-Mendone",
+      "en": "Afane-Mendone",
+      "slug": "afane-mendone"
+    },
+    "code": {
+      "id": "GAB001004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.4",
+      "lon": "9.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akournam",
+      "en": "Akournam",
+      "slug": "akournam"
+    },
+    "code": {
+      "id": "GAB001004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.34",
+      "lon": "9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akourname",
+      "en": "Akourname",
+      "slug": "akourname"
+    },
+    "code": {
+      "id": "GAB001004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.34",
+      "lon": "9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ambowe",
+      "en": "Ambowe",
+      "slug": "ambowe"
+    },
+    "code": {
+      "id": "GAB001004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.433",
+      "lon": "9.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Anelakici",
+      "en": "Anelakici",
+      "slug": "anelakici"
+    },
+    "code": {
+      "id": "GAB001004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "9.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Anongomiani",
+      "en": "Anongomiani",
+      "slug": "anongomiani"
+    },
+    "code": {
+      "id": "GAB001004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.45",
+      "lon": "9.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Assougoula Emo",
+      "en": "Assougoula Emo",
+      "slug": "assougoula-emo"
+    },
+    "code": {
+      "id": "GAB001004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.417",
+      "lon": "9.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atenda-Simba",
+      "en": "Atenda-Simba",
+      "slug": "atenda-simba"
+    },
+    "code": {
+      "id": "GAB001004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "9.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atonda-Simba",
+      "en": "Atonda-Simba",
+      "slug": "atonda-simba"
+    },
+    "code": {
+      "id": "GAB001004010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.4",
+      "lon": "9.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atouda-Simba",
+      "en": "Atouda-Simba",
+      "slug": "atouda-simba"
+    },
+    "code": {
+      "id": "GAB001004011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.417",
+      "lon": "9.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bikele",
+      "en": "Bikele",
+      "slug": "bikele"
+    },
+    "code": {
+      "id": "GAB001004012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.409",
+      "lon": "9.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bizango-Bibere",
+      "en": "Bizango-Bibere",
+      "slug": "bizango-bibere"
+    },
+    "code": {
+      "id": "GAB001004014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "9.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Conicoue",
+      "en": "Conicoue",
+      "slug": "conicoue"
+    },
+    "code": {
+      "id": "GAB001004015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "9.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Coniquet",
+      "en": "Coniquet",
+      "slug": "coniquet"
+    },
+    "code": {
+      "id": "GAB001004016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.267",
+      "lon": "9.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Conniquet",
+      "en": "Conniquet",
+      "slug": "conniquet"
+    },
+    "code": {
+      "id": "GAB001004017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.267",
+      "lon": "9.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Edouangani I",
+      "en": "Edouangani I",
+      "slug": "edouangani-i"
+    },
+    "code": {
+      "id": "GAB001004018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.467",
+      "lon": "9.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Edouangani II",
+      "en": "Edouangani II",
+      "slug": "edouangani-ii"
+    },
+    "code": {
+      "id": "GAB001004019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.45",
+      "lon": "9.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ilou",
+      "en": "Ilou",
+      "slug": "ilou"
+    },
+    "code": {
+      "id": "GAB001004020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "9.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Konikue",
+      "en": "Konikue",
+      "slug": "konikue"
+    },
+    "code": {
+      "id": "GAB001004021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "9.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kringer",
+      "en": "Kringer",
+      "slug": "kringer"
+    },
+    "code": {
+      "id": "GAB001004022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.417",
+      "lon": "9.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kwaben",
+      "en": "Kwaben",
+      "slug": "kwaben"
+    },
+    "code": {
+      "id": "GAB001004023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.4",
+      "lon": "9.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lalala",
+      "en": "Lalala",
+      "slug": "lalala"
+    },
+    "code": {
+      "id": "GAB001004024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.369",
+      "lon": "9.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Les Bambous",
+      "en": "Les Bambous",
+      "slug": "les-bambous"
+    },
+    "code": {
+      "id": "GAB001004025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.433",
+      "lon": "9.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Libreville",
+      "en": "Libreville",
+      "slug": "libreville"
+    },
+    "code": {
+      "id": "GAB001004026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "9.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Louis",
+      "en": "Louis",
+      "slug": "louis"
+    },
+    "code": {
+      "id": "GAB001004027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.417",
+      "lon": "9.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Macouma",
+      "en": "Macouma",
+      "slug": "macouma"
+    },
+    "code": {
+      "id": "GAB001004028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "9.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Macuma",
+      "en": "Macuma",
+      "slug": "macuma"
+    },
+    "code": {
+      "id": "GAB001004029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "9.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mindoube",
+      "en": "Mindoube",
+      "slug": "mindoube"
+    },
+    "code": {
+      "id": "GAB001004030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "9.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndomba",
+      "en": "Ndomba",
+      "slug": "ndomba"
+    },
+    "code": {
+      "id": "GAB001004031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.341",
+      "lon": "9.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkog Ebel",
+      "en": "Nkog Ebel",
+      "slug": "nkog-ebel"
+    },
+    "code": {
+      "id": "GAB001004032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.433",
+      "lon": "9.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nomba",
+      "en": "Nomba",
+      "slug": "nomba"
+    },
+    "code": {
+      "id": "GAB001004033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.341",
+      "lon": "9.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nseng-Mitang",
+      "en": "Nseng-Mitang",
+      "slug": "nseng-mitang"
+    },
+    "code": {
+      "id": "GAB001004034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.417",
+      "lon": "9.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nvanayeme",
+      "en": "Nvanayeme",
+      "slug": "nvanayeme"
+    },
+    "code": {
+      "id": "GAB001004035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "9.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzeng Ayong",
+      "en": "Nzeng Ayong",
+      "slug": "nzeng-ayong"
+    },
+    "code": {
+      "id": "GAB001004036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.429",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzong-Ayong",
+      "en": "Nzong-Ayong",
+      "slug": "nzong-ayong"
+    },
+    "code": {
+      "id": "GAB001004037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.429",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovendo",
+      "en": "Ovendo",
+      "slug": "ovendo"
+    },
+    "code": {
+      "id": "GAB001004038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.291",
+      "lon": "9.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovolondzam",
+      "en": "Ovolondzam",
+      "slug": "ovolondzam"
+    },
+    "code": {
+      "id": "GAB001004039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.317",
+      "lon": "9.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Owenda",
+      "en": "Owenda",
+      "slug": "owenda"
+    },
+    "code": {
+      "id": "GAB001004040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.291",
+      "lon": "9.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Owendo",
+      "en": "Owendo",
+      "slug": "owendo"
+    },
+    "code": {
+      "id": "GAB001004041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.291",
+      "lon": "9.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Quaben",
+      "en": "Quaben",
+      "slug": "quaben"
+    },
+    "code": {
+      "id": "GAB001004042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.4",
+      "lon": "9.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sibang",
+      "en": "Sibang",
+      "slug": "sibang"
+    },
+    "code": {
+      "id": "GAB001004043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.419",
+      "lon": "9.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sibangua",
+      "en": "Sibangua",
+      "slug": "sibangua"
+    },
+    "code": {
+      "id": "GAB001004044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001004",
+      "level": 2,
+      "name": {
+        "local": "Libreville",
+        "en": "Libreville",
+        "slug": "libreville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001004",
+        "level": 2,
+        "name": {
+          "local": "Libreville",
+          "en": "Libreville",
+          "slug": "libreville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.419",
+      "lon": "9.505"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

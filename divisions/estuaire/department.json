@@ -1,0 +1,190 @@
+[
+  {
+    "id": "GAB001001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Komo",
+      "en": "Komo",
+      "slug": "komo"
+    },
+    "code": {
+      "id": "GAB001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001",
+      "level": 1,
+      "name": {
+        "local": "Estuaire",
+        "en": "Estuaire",
+        "slug": "estuaire"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 177
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.277",
+      "lon": "10.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Komo-Mondah",
+      "en": "Komo-Mondah",
+      "slug": "komo-mondah"
+    },
+    "code": {
+      "id": "GAB001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001",
+      "level": 1,
+      "name": {
+        "local": "Estuaire",
+        "en": "Estuaire",
+        "slug": "estuaire"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 140
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.271",
+      "lon": "9.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Libreville",
+      "en": "Libreville",
+      "slug": "libreville"
+    },
+    "code": {
+      "id": "GAB001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001",
+      "level": 1,
+      "name": {
+        "local": "Estuaire",
+        "en": "Estuaire",
+        "slug": "estuaire"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.377",
+      "lon": "9.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Noya",
+      "en": "Noya",
+      "slug": "noya"
+    },
+    "code": {
+      "id": "GAB001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001",
+      "level": 1,
+      "name": {
+        "local": "Estuaire",
+        "en": "Estuaire",
+        "slug": "estuaire"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 118
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.788",
+      "lon": "9.81"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "GAB004004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Louetsi-Bibaka",
+    "en": "Louetsi-Bibaka",
+    "slug": "louetsi-bibaka"
+  },
+  "code": {
+    "id": "GAB004004",
+    "iso": null
+  },
+  "parent": {
+    "id": "GAB004",
+    "level": 1,
+    "name": {
+      "local": "Ngounie",
+      "en": "Ngounie",
+      "slug": "ngounie"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "GAB004",
+      "level": 1,
+      "name": {
+        "local": "Ngounie",
+        "en": "Ngounie",
+        "slug": "ngounie"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 63
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.202",
+    "lon": "12.258"
+  },
+  "metadata": {},
+  "source": {}
+}

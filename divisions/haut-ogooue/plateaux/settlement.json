@@ -1,0 +1,2108 @@
+[
+  {
+    "id": "GAB002009001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abouyi",
+      "en": "Abouyi",
+      "slug": "abouyi"
+    },
+    "code": {
+      "id": "GAB002009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.586",
+      "lon": "14.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alieme",
+      "en": "Alieme",
+      "slug": "alieme"
+    },
+    "code": {
+      "id": "GAB002009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.772",
+      "lon": "14.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ekwy",
+      "en": "Ekwy",
+      "slug": "ekwy"
+    },
+    "code": {
+      "id": "GAB002009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.796",
+      "lon": "14.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fortifie du Lekoni",
+      "en": "Fortifie du Lekoni",
+      "slug": "fortifie-du-lekoni"
+    },
+    "code": {
+      "id": "GAB002009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.584",
+      "lon": "14.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fortifie du Liconi",
+      "en": "Fortifie du Liconi",
+      "slug": "fortifie-du-liconi"
+    },
+    "code": {
+      "id": "GAB002009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.584",
+      "lon": "14.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kabala",
+      "en": "Kabala",
+      "slug": "kabala"
+    },
+    "code": {
+      "id": "GAB002009006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.671",
+      "lon": "14.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kalami",
+      "en": "Kalami",
+      "slug": "kalami"
+    },
+    "code": {
+      "id": "GAB002009007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.817",
+      "lon": "13.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kantsaga",
+      "en": "Kantsaga",
+      "slug": "kantsaga"
+    },
+    "code": {
+      "id": "GAB002009009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.717",
+      "lon": "14.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kessala",
+      "en": "Kessala",
+      "slug": "kessala"
+    },
+    "code": {
+      "id": "GAB002009010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.869",
+      "lon": "13.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kewaga",
+      "en": "Kewaga",
+      "slug": "kewaga"
+    },
+    "code": {
+      "id": "GAB002009012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.833",
+      "lon": "13.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kika",
+      "en": "Kika",
+      "slug": "kika"
+    },
+    "code": {
+      "id": "GAB002009013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.827",
+      "lon": "14.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leba",
+      "en": "Leba",
+      "slug": "leba"
+    },
+    "code": {
+      "id": "GAB002009014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.723",
+      "lon": "14.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebba",
+      "en": "Lebba",
+      "slug": "lebba"
+    },
+    "code": {
+      "id": "GAB002009015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.723",
+      "lon": "14.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebba I",
+      "en": "Lebba I",
+      "slug": "lebba-i"
+    },
+    "code": {
+      "id": "GAB002009016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.723",
+      "lon": "14.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebba II",
+      "en": "Lebba II",
+      "slug": "lebba-ii"
+    },
+    "code": {
+      "id": "GAB002009017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.717",
+      "lon": "14.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebba III",
+      "en": "Lebba III",
+      "slug": "lebba-iii"
+    },
+    "code": {
+      "id": "GAB002009018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.717",
+      "lon": "14.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leconi",
+      "en": "Leconi",
+      "slug": "leconi"
+    },
+    "code": {
+      "id": "GAB002009019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.584",
+      "lon": "14.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lecori",
+      "en": "Lecori",
+      "slug": "lecori"
+    },
+    "code": {
+      "id": "GAB002009020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.584",
+      "lon": "14.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lehou",
+      "en": "Lehou",
+      "slug": "lehou"
+    },
+    "code": {
+      "id": "GAB002009021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.778",
+      "lon": "14.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekoni",
+      "en": "Lekoni",
+      "slug": "lekoni"
+    },
+    "code": {
+      "id": "GAB002009022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.584",
+      "lon": "14.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekori",
+      "en": "Lekori",
+      "slug": "lekori"
+    },
+    "code": {
+      "id": "GAB002009023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.254",
+      "lon": "14.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Leou",
+      "en": "Leou",
+      "slug": "leou"
+    },
+    "code": {
+      "id": "GAB002009024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.778",
+      "lon": "14.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lewou",
+      "en": "Lewou",
+      "slug": "lewou"
+    },
+    "code": {
+      "id": "GAB002009025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.778",
+      "lon": "14.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Liconi",
+      "en": "Liconi",
+      "slug": "liconi"
+    },
+    "code": {
+      "id": "GAB002009026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.584",
+      "lon": "14.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbia",
+      "en": "Mbia",
+      "slug": "mbia"
+    },
+    "code": {
+      "id": "GAB002009027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.196",
+      "lon": "14.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbie",
+      "en": "Mbie",
+      "slug": "mbie"
+    },
+    "code": {
+      "id": "GAB002009028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.85",
+      "lon": "14.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mboma",
+      "en": "Mboma",
+      "slug": "mboma"
+    },
+    "code": {
+      "id": "GAB002009029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.788",
+      "lon": "14.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mpfoubi",
+      "en": "Mpfoubi",
+      "slug": "mpfoubi"
+    },
+    "code": {
+      "id": "GAB002009030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2",
+      "lon": "14.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nchoulou",
+      "en": "Nchoulou",
+      "slug": "nchoulou"
+    },
+    "code": {
+      "id": "GAB002009031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.853",
+      "lon": "14.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkiga",
+      "en": "Nkiga",
+      "slug": "nkiga"
+    },
+    "code": {
+      "id": "GAB002009032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.827",
+      "lon": "14.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obana",
+      "en": "Obana",
+      "slug": "obana"
+    },
+    "code": {
+      "id": "GAB002009033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.485",
+      "lon": "14.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Okala",
+      "en": "Okala",
+      "slug": "okala"
+    },
+    "code": {
+      "id": "GAB002009034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.716",
+      "lon": "14.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Olina",
+      "en": "Olina",
+      "slug": "olina"
+    },
+    "code": {
+      "id": "GAB002009035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.602",
+      "lon": "14.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ompouyi",
+      "en": "Ompouyi",
+      "slug": "ompouyi"
+    },
+    "code": {
+      "id": "GAB002009036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.58",
+      "lon": "14.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ossagui",
+      "en": "Ossagui",
+      "slug": "ossagui"
+    },
+    "code": {
+      "id": "GAB002009037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.767",
+      "lon": "14.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ossouele",
+      "en": "Ossouele",
+      "slug": "ossouele"
+    },
+    "code": {
+      "id": "GAB002009038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.089",
+      "lon": "14.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Otana",
+      "en": "Otana",
+      "slug": "otana"
+    },
+    "code": {
+      "id": "GAB002009039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.043",
+      "lon": "14.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pfoubi",
+      "en": "Pfoubi",
+      "slug": "pfoubi"
+    },
+    "code": {
+      "id": "GAB002009040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2",
+      "lon": "14.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB002009041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Saye",
+      "en": "Saye",
+      "slug": "saye"
+    },
+    "code": {
+      "id": "GAB002009041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB002009",
+      "level": 2,
+      "name": {
+        "local": "Plateaux",
+        "en": "Plateaux",
+        "slug": "plateaux"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB002",
+        "level": 1,
+        "name": {
+          "local": "Haut-Ogooue",
+          "en": "Haut-Ogooue",
+          "slug": "haut-ogooue"
+        }
+      },
+      {
+        "id": "GAB002009",
+        "level": 2,
+        "name": {
+          "local": "Plateaux",
+          "en": "Plateaux",
+          "slug": "plateaux"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.754",
+      "lon": "14.177"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

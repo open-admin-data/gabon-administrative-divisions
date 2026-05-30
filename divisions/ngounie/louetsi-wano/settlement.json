@@ -1,0 +1,2486 @@
+[
+  {
+    "id": "GAB004005001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Benza",
+      "en": "Benza",
+      "slug": "benza"
+    },
+    "code": {
+      "id": "GAB004005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.15",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bina-Lttemba",
+      "en": "Bina-Lttemba",
+      "slug": "bina-lttemba"
+    },
+    "code": {
+      "id": "GAB004005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.317",
+      "lon": "11.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boukandi",
+      "en": "Boukandi",
+      "slug": "boukandi"
+    },
+    "code": {
+      "id": "GAB004005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.167",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouroumba",
+      "en": "Bouroumba",
+      "slug": "bouroumba"
+    },
+    "code": {
+      "id": "GAB004005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.2",
+      "lon": "11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Boutombi",
+      "en": "Boutombi",
+      "slug": "boutombi"
+    },
+    "code": {
+      "id": "GAB004005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.083",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Canda",
+      "en": "Canda",
+      "slug": "canda"
+    },
+    "code": {
+      "id": "GAB004005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.208",
+      "lon": "11.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Diboundi",
+      "en": "Diboundi",
+      "slug": "diboundi"
+    },
+    "code": {
+      "id": "GAB004005007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.233",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fouroumanga",
+      "en": "Fouroumanga",
+      "slug": "fouroumanga"
+    },
+    "code": {
+      "id": "GAB004005008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.2",
+      "lon": "11.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ibaga",
+      "en": "Ibaga",
+      "slug": "ibaga"
+    },
+    "code": {
+      "id": "GAB004005009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.2",
+      "lon": "11.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ikouka",
+      "en": "Ikouka",
+      "slug": "ikouka"
+    },
+    "code": {
+      "id": "GAB004005010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.117",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ikoya",
+      "en": "Ikoya",
+      "slug": "ikoya"
+    },
+    "code": {
+      "id": "GAB004005011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.217",
+      "lon": "11.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Imeno",
+      "en": "Imeno",
+      "slug": "imeno"
+    },
+    "code": {
+      "id": "GAB004005012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.2",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Irougou",
+      "en": "Irougou",
+      "slug": "irougou"
+    },
+    "code": {
+      "id": "GAB004005013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.233",
+      "lon": "11.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itaba",
+      "en": "Itaba",
+      "slug": "itaba"
+    },
+    "code": {
+      "id": "GAB004005014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.117",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Itogo",
+      "en": "Itogo",
+      "slug": "itogo"
+    },
+    "code": {
+      "id": "GAB004005015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.183",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kanda",
+      "en": "Kanda",
+      "slug": "kanda"
+    },
+    "code": {
+      "id": "GAB004005016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.208",
+      "lon": "11.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kanga",
+      "en": "Kanga",
+      "slug": "kanga"
+    },
+    "code": {
+      "id": "GAB004005017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.3",
+      "lon": "11.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouagna",
+      "en": "Kouagna",
+      "slug": "kouagna"
+    },
+    "code": {
+      "id": "GAB004005018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.233",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lebamba",
+      "en": "Lebamba",
+      "slug": "lebamba"
+    },
+    "code": {
+      "id": "GAB004005020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.212",
+      "lon": "11.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lekimbou",
+      "en": "Lekimbou",
+      "slug": "lekimbou"
+    },
+    "code": {
+      "id": "GAB004005021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.317",
+      "lon": "11.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lemboumbou",
+      "en": "Lemboumbou",
+      "slug": "lemboumbou"
+    },
+    "code": {
+      "id": "GAB004005023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.2",
+      "lon": "11.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Levama",
+      "en": "Levama",
+      "slug": "levama"
+    },
+    "code": {
+      "id": "GAB004005024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.333",
+      "lon": "11.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Loukila",
+      "en": "Loukila",
+      "slug": "loukila"
+    },
+    "code": {
+      "id": "GAB004005025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.217",
+      "lon": "11.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mabengo",
+      "en": "Mabengo",
+      "slug": "mabengo"
+    },
+    "code": {
+      "id": "GAB004005026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.183",
+      "lon": "11.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mahounda",
+      "en": "Mahounda",
+      "slug": "mahounda"
+    },
+    "code": {
+      "id": "GAB004005027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.2",
+      "lon": "11.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Makombo",
+      "en": "Makombo",
+      "slug": "makombo"
+    },
+    "code": {
+      "id": "GAB004005028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.217",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandji",
+      "en": "Mandji",
+      "slug": "mandji"
+    },
+    "code": {
+      "id": "GAB004005029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.118",
+      "lon": "11.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mapanga",
+      "en": "Mapanga",
+      "slug": "mapanga"
+    },
+    "code": {
+      "id": "GAB004005030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.217",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massegue",
+      "en": "Massegue",
+      "slug": "massegue"
+    },
+    "code": {
+      "id": "GAB004005031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.047",
+      "lon": "11.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayenga",
+      "en": "Mayenga",
+      "slug": "mayenga"
+    },
+    "code": {
+      "id": "GAB004005032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.233",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbigou",
+      "en": "Mbigou",
+      "slug": "mbigou"
+    },
+    "code": {
+      "id": "GAB004005033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.117",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbina Letembe",
+      "en": "Mbina Letembe",
+      "slug": "mbina-letembe"
+    },
+    "code": {
+      "id": "GAB004005034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.317",
+      "lon": "11.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbouda",
+      "en": "Mbouda",
+      "slug": "mbouda"
+    },
+    "code": {
+      "id": "GAB004005035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.283",
+      "lon": "11.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Memba",
+      "en": "Memba",
+      "slug": "memba"
+    },
+    "code": {
+      "id": "GAB004005036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.154",
+      "lon": "11.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mondou",
+      "en": "Mondou",
+      "slug": "mondou"
+    },
+    "code": {
+      "id": "GAB004005037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.15",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moudiapoula",
+      "en": "Moudiapoula",
+      "slug": "moudiapoula"
+    },
+    "code": {
+      "id": "GAB004005038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.217",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mougambi",
+      "en": "Mougambi",
+      "slug": "mougambi"
+    },
+    "code": {
+      "id": "GAB004005039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.133",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukoua",
+      "en": "Moukoua",
+      "slug": "moukoua"
+    },
+    "code": {
+      "id": "GAB004005040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.1",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukoundou",
+      "en": "Moukoundou",
+      "slug": "moukoundou"
+    },
+    "code": {
+      "id": "GAB004005041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.193",
+      "lon": "11.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moussitou",
+      "en": "Moussitou",
+      "slug": "moussitou"
+    },
+    "code": {
+      "id": "GAB004005042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.133",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouyamba",
+      "en": "Mouyamba",
+      "slug": "mouyamba"
+    },
+    "code": {
+      "id": "GAB004005043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.089",
+      "lon": "11.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndende",
+      "en": "Ndende",
+      "slug": "ndende"
+    },
+    "code": {
+      "id": "GAB004005044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.2",
+      "lon": "11.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngossi",
+      "en": "Ngossi",
+      "slug": "ngossi"
+    },
+    "code": {
+      "id": "GAB004005045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.167",
+      "lon": "11.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoundzi",
+      "en": "Ngoundzi",
+      "slug": "ngoundzi"
+    },
+    "code": {
+      "id": "GAB004005046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.233",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nyanga",
+      "en": "Nyanga",
+      "slug": "nyanga"
+    },
+    "code": {
+      "id": "GAB004005047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.233",
+      "lon": "11.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004005048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Poungou",
+      "en": "Poungou",
+      "slug": "poungou"
+    },
+    "code": {
+      "id": "GAB004005048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004005",
+      "level": 2,
+      "name": {
+        "local": "Louetsi-Wano",
+        "en": "Louetsi-Wano",
+        "slug": "louetsi-wano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004005",
+        "level": 2,
+        "name": {
+          "local": "Louetsi-Wano",
+          "en": "Louetsi-Wano",
+          "slug": "louetsi-wano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.2",
+      "lon": "11.533"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

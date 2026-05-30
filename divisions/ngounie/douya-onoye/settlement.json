@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "GAB004003001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayoumbi",
+      "en": "Ayoumbi",
+      "slug": "ayoumbi"
+    },
+    "code": {
+      "id": "GAB004003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.883",
+      "lon": "11.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Banoi",
+      "en": "Banoi",
+      "slug": "banoi"
+    },
+    "code": {
+      "id": "GAB004003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.842",
+      "lon": "11.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Beau Village",
+      "en": "Beau Village",
+      "slug": "beau-village"
+    },
+    "code": {
+      "id": "GAB004003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.85",
+      "lon": "11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Benze",
+      "en": "Benze",
+      "slug": "benze"
+    },
+    "code": {
+      "id": "GAB004003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.8",
+      "lon": "11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Binienzi",
+      "en": "Binienzi",
+      "slug": "binienzi"
+    },
+    "code": {
+      "id": "GAB004003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2",
+      "lon": "11.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dikoka",
+      "en": "Dikoka",
+      "slug": "dikoka"
+    },
+    "code": {
+      "id": "GAB004003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.9",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dikouka",
+      "en": "Dikouka",
+      "slug": "dikouka"
+    },
+    "code": {
+      "id": "GAB004003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.4",
+      "lon": "11.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dilalou",
+      "en": "Dilalou",
+      "slug": "dilalou"
+    },
+    "code": {
+      "id": "GAB004003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.95",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dimina",
+      "en": "Dimina",
+      "slug": "dimina"
+    },
+    "code": {
+      "id": "GAB004003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.933",
+      "lon": "11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Doubani",
+      "en": "Doubani",
+      "slug": "doubani"
+    },
+    "code": {
+      "id": "GAB004003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.883",
+      "lon": "11.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Egmounga",
+      "en": "Egmounga",
+      "slug": "egmounga"
+    },
+    "code": {
+      "id": "GAB004003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.883",
+      "lon": "11.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Icoumba",
+      "en": "Icoumba",
+      "slug": "icoumba"
+    },
+    "code": {
+      "id": "GAB004003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.9",
+      "lon": "11.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Idoumi",
+      "en": "Idoumi",
+      "slug": "idoumi"
+    },
+    "code": {
+      "id": "GAB004003013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "11.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Igouna",
+      "en": "Igouna",
+      "slug": "igouna"
+    },
+    "code": {
+      "id": "GAB004003014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.885",
+      "lon": "11.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ilendo",
+      "en": "Ilendo",
+      "slug": "ilendo"
+    },
+    "code": {
+      "id": "GAB004003015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.967",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ivouta",
+      "en": "Ivouta",
+      "slug": "ivouta"
+    },
+    "code": {
+      "id": "GAB004003016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "11.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keri",
+      "en": "Keri",
+      "slug": "keri"
+    },
+    "code": {
+      "id": "GAB004003017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.954",
+      "lon": "11.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keri I",
+      "en": "Keri I",
+      "slug": "keri-i"
+    },
+    "code": {
+      "id": "GAB004003018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.954",
+      "lon": "11.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Keri II",
+      "en": "Keri II",
+      "slug": "keri-ii"
+    },
+    "code": {
+      "id": "GAB004003019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "11.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koko Maguema",
+      "en": "Koko Maguema",
+      "slug": "koko-maguema"
+    },
+    "code": {
+      "id": "GAB004003020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.081",
+      "lon": "11.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lvouta",
+      "en": "Lvouta",
+      "slug": "lvouta"
+    },
+    "code": {
+      "id": "GAB004003021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "11.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003022",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Malaba",
+      "en": "Malaba",
+      "slug": "malaba"
+    },
+    "code": {
+      "id": "GAB004003022",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.917",
+      "lon": "11.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mandi",
+      "en": "Mandi",
+      "slug": "mandi"
+    },
+    "code": {
+      "id": "GAB004003023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "10.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mondo II",
+      "en": "Mondo II",
+      "slug": "mondo-ii"
+    },
+    "code": {
+      "id": "GAB004003024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.783",
+      "lon": "10.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moubigou",
+      "en": "Moubigou",
+      "slug": "moubigou"
+    },
+    "code": {
+      "id": "GAB004003025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.878",
+      "lon": "11.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouila",
+      "en": "Mouila",
+      "slug": "mouila"
+    },
+    "code": {
+      "id": "GAB004003026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.863",
+      "lon": "11.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moukidi",
+      "en": "Moukidi",
+      "slug": "moukidi"
+    },
+    "code": {
+      "id": "GAB004003027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.112",
+      "lon": "10.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moulandou Fouala",
+      "en": "Moulandou Fouala",
+      "slug": "moulandou-fouala"
+    },
+    "code": {
+      "id": "GAB004003028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.98",
+      "lon": "11.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moundou",
+      "en": "Moundou",
+      "slug": "moundou"
+    },
+    "code": {
+      "id": "GAB004003029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.417",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moutassou",
+      "en": "Moutassou",
+      "slug": "moutassou"
+    },
+    "code": {
+      "id": "GAB004003030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.058",
+      "lon": "11.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Moutsima",
+      "en": "Moutsima",
+      "slug": "moutsima"
+    },
+    "code": {
+      "id": "GAB004003031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mouzoume",
+      "en": "Mouzoume",
+      "slug": "mouzoume"
+    },
+    "code": {
+      "id": "GAB004003032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.067",
+      "lon": "11.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoguina I",
+      "en": "Ngoguina I",
+      "slug": "ngoguina-i"
+    },
+    "code": {
+      "id": "GAB004003033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.833",
+      "lon": "11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003034",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoguina II",
+      "en": "Ngoguina II",
+      "slug": "ngoguina-ii"
+    },
+    "code": {
+      "id": "GAB004003034",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.817",
+      "lon": "11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoua Bikoka",
+      "en": "Ngoua Bikoka",
+      "slug": "ngoua-bikoka"
+    },
+    "code": {
+      "id": "GAB004003035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.917",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoumbi I",
+      "en": "Ngoumbi I",
+      "slug": "ngoumbi-i"
+    },
+    "code": {
+      "id": "GAB004003036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.9",
+      "lon": "11.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoumbi II",
+      "en": "Ngoumbi II",
+      "slug": "ngoumbi-ii"
+    },
+    "code": {
+      "id": "GAB004003037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.9",
+      "lon": "11.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzakoumenga",
+      "en": "Nzakoumenga",
+      "slug": "nzakoumenga"
+    },
+    "code": {
+      "id": "GAB004003038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.933",
+      "lon": "11.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Pingo",
+      "en": "Pingo",
+      "slug": "pingo"
+    },
+    "code": {
+      "id": "GAB004003039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.317",
+      "lon": "10.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tandou Filou",
+      "en": "Tandou Filou",
+      "slug": "tandou-filou"
+    },
+    "code": {
+      "id": "GAB004003040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.837",
+      "lon": "10.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tendi",
+      "en": "Tendi",
+      "slug": "tendi"
+    },
+    "code": {
+      "id": "GAB004003041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.25",
+      "lon": "10.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB004003042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yengui",
+      "en": "Yengui",
+      "slug": "yengui"
+    },
+    "code": {
+      "id": "GAB004003042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB004003",
+      "level": 2,
+      "name": {
+        "local": "Douya-Onoye",
+        "en": "Douya-Onoye",
+        "slug": "douya-onoye"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB004",
+        "level": 1,
+        "name": {
+          "local": "Ngounie",
+          "en": "Ngounie",
+          "slug": "ngounie"
+        }
+      },
+      {
+        "id": "GAB004003",
+        "level": 2,
+        "name": {
+          "local": "Douya-Onoye",
+          "en": "Douya-Onoye",
+          "slug": "douya-onoye"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.983",
+      "lon": "11.3"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

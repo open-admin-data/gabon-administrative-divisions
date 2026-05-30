@@ -1,0 +1,190 @@
+[
+  {
+    "id": "GAB006001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ivindo",
+      "en": "Ivindo",
+      "slug": "ivindo"
+    },
+    "code": {
+      "id": "GAB006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Ivindo",
+        "en": "Ogooue-Ivindo",
+        "slug": "ogooue-ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 122
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.664",
+      "lon": "12.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Lope",
+      "en": "Lope",
+      "slug": "lope"
+    },
+    "code": {
+      "id": "GAB006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Ivindo",
+        "en": "Ogooue-Ivindo",
+        "slug": "ogooue-ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 95
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.086",
+      "lon": "11.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mvoung",
+      "en": "Mvoung",
+      "slug": "mvoung"
+    },
+    "code": {
+      "id": "GAB006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Ivindo",
+        "en": "Ogooue-Ivindo",
+        "slug": "ogooue-ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.345",
+      "lon": "12.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB006004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Zadie",
+      "en": "Zadie",
+      "slug": "zadie"
+    },
+    "code": {
+      "id": "GAB006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB006",
+      "level": 1,
+      "name": {
+        "local": "Ogooue-Ivindo",
+        "en": "Ogooue-Ivindo",
+        "slug": "ogooue-ivindo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB006",
+        "level": 1,
+        "name": {
+          "local": "Ogooue-Ivindo",
+          "en": "Ogooue-Ivindo",
+          "slug": "ogooue-ivindo"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 101
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.887",
+      "lon": "13.854"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

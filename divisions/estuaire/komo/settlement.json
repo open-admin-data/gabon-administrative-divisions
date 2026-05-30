@@ -1,0 +1,9560 @@
+[
+  {
+    "id": "GAB001001001",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abenelan",
+      "en": "Abenelan",
+      "slug": "abenelan"
+    },
+    "code": {
+      "id": "GAB001001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001002",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abenelang",
+      "en": "Abenelang",
+      "slug": "abenelang"
+    },
+    "code": {
+      "id": "GAB001001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.233",
+      "lon": "10.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001003",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Abian Minfakh",
+      "en": "Abian Minfakh",
+      "slug": "abian-minfakh"
+    },
+    "code": {
+      "id": "GAB001001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.233",
+      "lon": "10.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001004",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Acondjo",
+      "en": "Acondjo",
+      "slug": "acondjo"
+    },
+    "code": {
+      "id": "GAB001001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.202",
+      "lon": "9.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001005",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aconjo",
+      "en": "Aconjo",
+      "slug": "aconjo"
+    },
+    "code": {
+      "id": "GAB001001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.202",
+      "lon": "9.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001006",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adamenzork",
+      "en": "Adamenzork",
+      "slug": "adamenzork"
+    },
+    "code": {
+      "id": "GAB001001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.6",
+      "lon": "10.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001007",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adza",
+      "en": "Adza",
+      "slug": "adza"
+    },
+    "code": {
+      "id": "GAB001001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.333",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001008",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adzabilone",
+      "en": "Adzabilone",
+      "slug": "adzabilone"
+    },
+    "code": {
+      "id": "GAB001001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001009",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Adzak",
+      "en": "Adzak",
+      "slug": "adzak"
+    },
+    "code": {
+      "id": "GAB001001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "10.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001010",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Afakma",
+      "en": "Afakma",
+      "slug": "afakma"
+    },
+    "code": {
+      "id": "GAB001001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.017",
+      "lon": "9.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001011",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Afan Nzogh",
+      "en": "Afan Nzogh",
+      "slug": "afan-nzogh"
+    },
+    "code": {
+      "id": "GAB001001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "10.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001012",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Agonenzork",
+      "en": "Agonenzork",
+      "slug": "agonenzork"
+    },
+    "code": {
+      "id": "GAB001001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001013",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Agonzork",
+      "en": "Agonzork",
+      "slug": "agonzork"
+    },
+    "code": {
+      "id": "GAB001001013",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.081",
+      "lon": "9.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001014",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ahdok Fala",
+      "en": "Ahdok Fala",
+      "slug": "ahdok-fala"
+    },
+    "code": {
+      "id": "GAB001001014",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "10.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001015",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akana-Bour",
+      "en": "Akana-Bour",
+      "slug": "akana-bour"
+    },
+    "code": {
+      "id": "GAB001001015",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001016",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ako-Name",
+      "en": "Ako-Name",
+      "slug": "ako-name"
+    },
+    "code": {
+      "id": "GAB001001016",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.359",
+      "lon": "9.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001017",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akondje",
+      "en": "Akondje",
+      "slug": "akondje"
+    },
+    "code": {
+      "id": "GAB001001017",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.202",
+      "lon": "9.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001018",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akondjo",
+      "en": "Akondjo",
+      "slug": "akondjo"
+    },
+    "code": {
+      "id": "GAB001001018",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.202",
+      "lon": "9.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001019",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akoumar",
+      "en": "Akoumar",
+      "slug": "akoumar"
+    },
+    "code": {
+      "id": "GAB001001019",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.15",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001020",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akourman",
+      "en": "Akourman",
+      "slug": "akourman"
+    },
+    "code": {
+      "id": "GAB001001020",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.083",
+      "lon": "9.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001021",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Akourmane",
+      "en": "Akourmane",
+      "slug": "akourmane"
+    },
+    "code": {
+      "id": "GAB001001021",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.083",
+      "lon": "10.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001023",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alarmake",
+      "en": "Alarmake",
+      "slug": "alarmake"
+    },
+    "code": {
+      "id": "GAB001001023",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.15",
+      "lon": "10.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001024",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alarmakei",
+      "en": "Alarmakei",
+      "slug": "alarmakei"
+    },
+    "code": {
+      "id": "GAB001001024",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.033",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001025",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alen Nkogadza",
+      "en": "Alen Nkogadza",
+      "slug": "alen-nkogadza"
+    },
+    "code": {
+      "id": "GAB001001025",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "10.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001026",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alen Nkok-Aza",
+      "en": "Alen Nkok-Aza",
+      "slug": "alen-nkok-aza"
+    },
+    "code": {
+      "id": "GAB001001026",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "10.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001027",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alen-Abanga",
+      "en": "Alen-Abanga",
+      "slug": "alen-abanga"
+    },
+    "code": {
+      "id": "GAB001001027",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "10.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001028",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alen-Como",
+      "en": "Alen-Como",
+      "slug": "alen-como"
+    },
+    "code": {
+      "id": "GAB001001028",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "10.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001029",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alene Koraza",
+      "en": "Alene Koraza",
+      "slug": "alene-koraza"
+    },
+    "code": {
+      "id": "GAB001001029",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.317",
+      "lon": "10.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001030",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alene Makora",
+      "en": "Alene Makora",
+      "slug": "alene-makora"
+    },
+    "code": {
+      "id": "GAB001001030",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.317",
+      "lon": "10.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001031",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alona",
+      "en": "Alona",
+      "slug": "alona"
+    },
+    "code": {
+      "id": "GAB001001031",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.15",
+      "lon": "10.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001032",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Alos",
+      "en": "Alos",
+      "slug": "alos"
+    },
+    "code": {
+      "id": "GAB001001032",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "10.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001033",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Aloum",
+      "en": "Aloum",
+      "slug": "aloum"
+    },
+    "code": {
+      "id": "GAB001001033",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.191",
+      "lon": "9.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001035",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andem",
+      "en": "Andem",
+      "slug": "andem"
+    },
+    "code": {
+      "id": "GAB001001035",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.323",
+      "lon": "9.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001036",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andeme",
+      "en": "Andeme",
+      "slug": "andeme"
+    },
+    "code": {
+      "id": "GAB001001036",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "10"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001037",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andok Foula",
+      "en": "Andok Foula",
+      "slug": "andok-foula"
+    },
+    "code": {
+      "id": "GAB001001037",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "10.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001038",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andokh Nfang",
+      "en": "Andokh Nfang",
+      "slug": "andokh-nfang"
+    },
+    "code": {
+      "id": "GAB001001038",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "10.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001039",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andouako",
+      "en": "Andouako",
+      "slug": "andouako"
+    },
+    "code": {
+      "id": "GAB001001039",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001040",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Andoume",
+      "en": "Andoume",
+      "slug": "andoume"
+    },
+    "code": {
+      "id": "GAB001001040",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.433",
+      "lon": "10.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001041",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Angare",
+      "en": "Angare",
+      "slug": "angare"
+    },
+    "code": {
+      "id": "GAB001001041",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.233",
+      "lon": "10.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001042",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ango",
+      "en": "Ango",
+      "slug": "ango"
+    },
+    "code": {
+      "id": "GAB001001042",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "10.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001043",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Angonenzork",
+      "en": "Angonenzork",
+      "slug": "angonenzork"
+    },
+    "code": {
+      "id": "GAB001001043",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001044",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Angoune",
+      "en": "Angoune",
+      "slug": "angoune"
+    },
+    "code": {
+      "id": "GAB001001044",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.25",
+      "lon": "9.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001045",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Anzem",
+      "en": "Anzem",
+      "slug": "anzem"
+    },
+    "code": {
+      "id": "GAB001001045",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.6",
+      "lon": "10.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001046",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Asseng",
+      "en": "Asseng",
+      "slug": "asseng"
+    },
+    "code": {
+      "id": "GAB001001046",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.359",
+      "lon": "9.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001047",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Assoka",
+      "en": "Assoka",
+      "slug": "assoka"
+    },
+    "code": {
+      "id": "GAB001001047",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "10.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001048",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Assoum Mabiala",
+      "en": "Assoum Mabiala",
+      "slug": "assoum-mabiala"
+    },
+    "code": {
+      "id": "GAB001001048",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001049",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Atoum",
+      "en": "Atoum",
+      "slug": "atoum"
+    },
+    "code": {
+      "id": "GAB001001049",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.183",
+      "lon": "10.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001050",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Avang-Biloug",
+      "en": "Avang-Biloug",
+      "slug": "avang-biloug"
+    },
+    "code": {
+      "id": "GAB001001050",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.017",
+      "lon": "9.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001051",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayeghe",
+      "en": "Ayeghe",
+      "slug": "ayeghe"
+    },
+    "code": {
+      "id": "GAB001001051",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "10.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001052",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ayeme",
+      "en": "Ayeme",
+      "slug": "ayeme"
+    },
+    "code": {
+      "id": "GAB001001052",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.033",
+      "lon": "10.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001055",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibiara",
+      "en": "Bibiara",
+      "slug": "bibiara"
+    },
+    "code": {
+      "id": "GAB001001055",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "10.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001056",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bibolo",
+      "en": "Bibolo",
+      "slug": "bibolo"
+    },
+    "code": {
+      "id": "GAB001001056",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001057",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bissobinam",
+      "en": "Bissobinam",
+      "slug": "bissobinam"
+    },
+    "code": {
+      "id": "GAB001001057",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.25",
+      "lon": "10.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001059",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bitan",
+      "en": "Bitan",
+      "slug": "bitan"
+    },
+    "code": {
+      "id": "GAB001001059",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001060",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bouma",
+      "en": "Bouma",
+      "slug": "bouma"
+    },
+    "code": {
+      "id": "GAB001001060",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001061",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Bumba",
+      "en": "Bumba",
+      "slug": "bumba"
+    },
+    "code": {
+      "id": "GAB001001061",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.167",
+      "lon": "9.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001062",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Congona",
+      "en": "Congona",
+      "slug": "congona"
+    },
+    "code": {
+      "id": "GAB001001062",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.179",
+      "lon": "10.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001063",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dame",
+      "en": "Dame",
+      "slug": "dame"
+    },
+    "code": {
+      "id": "GAB001001063",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.28",
+      "lon": "10.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001064",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dameu",
+      "en": "Dameu",
+      "slug": "dameu"
+    },
+    "code": {
+      "id": "GAB001001064",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.28",
+      "lon": "10.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001065",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Debarcadere d'Akondjo",
+      "en": "Debarcadere d'Akondjo",
+      "slug": "debarcadere-dakondjo"
+    },
+    "code": {
+      "id": "GAB001001065",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.202",
+      "lon": "9.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001066",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Djogeboat",
+      "en": "Djogeboat",
+      "slug": "djogeboat"
+    },
+    "code": {
+      "id": "GAB001001066",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.167",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001067",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Douaniang",
+      "en": "Douaniang",
+      "slug": "douaniang"
+    },
+    "code": {
+      "id": "GAB001001067",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.302",
+      "lon": "10.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001068",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Duma",
+      "en": "Duma",
+      "slug": "duma"
+    },
+    "code": {
+      "id": "GAB001001068",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "10.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001069",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dume",
+      "en": "Dume",
+      "slug": "dume"
+    },
+    "code": {
+      "id": "GAB001001069",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "10.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001070",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Dzoguengone",
+      "en": "Dzoguengone",
+      "slug": "dzoguengone"
+    },
+    "code": {
+      "id": "GAB001001070",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.133",
+      "lon": "10.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001071",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebamou",
+      "en": "Ebamou",
+      "slug": "ebamou"
+    },
+    "code": {
+      "id": "GAB001001071",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "10.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001072",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebe",
+      "en": "Ebe",
+      "slug": "ebe"
+    },
+    "code": {
+      "id": "GAB001001072",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "10.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001073",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ebiane",
+      "en": "Ebiane",
+      "slug": "ebiane"
+    },
+    "code": {
+      "id": "GAB001001073",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "10.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001074",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elelem",
+      "en": "Elelem",
+      "slug": "elelem"
+    },
+    "code": {
+      "id": "GAB001001074",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.467",
+      "lon": "10.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001075",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elong Eko",
+      "en": "Elong Eko",
+      "slug": "elong-eko"
+    },
+    "code": {
+      "id": "GAB001001075",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "10.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001076",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Elong-Eko",
+      "en": "Elong-Eko",
+      "slug": "elong-eko"
+    },
+    "code": {
+      "id": "GAB001001076",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.317",
+      "lon": "9.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001078",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Esissie",
+      "en": "Esissie",
+      "slug": "esissie"
+    },
+    "code": {
+      "id": "GAB001001078",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001079",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evinayong",
+      "en": "Evinayong",
+      "slug": "evinayong"
+    },
+    "code": {
+      "id": "GAB001001079",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "10.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001080",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evoredoule",
+      "en": "Evoredoule",
+      "slug": "evoredoule"
+    },
+    "code": {
+      "id": "GAB001001080",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.167",
+      "lon": "10.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001081",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evormakok",
+      "en": "Evormakok",
+      "slug": "evormakok"
+    },
+    "code": {
+      "id": "GAB001001081",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "10.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001082",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Evoula",
+      "en": "Evoula",
+      "slug": "evoula"
+    },
+    "code": {
+      "id": "GAB001001082",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.1",
+      "lon": "9.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001083",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyamayong",
+      "en": "Eyamayong",
+      "slug": "eyamayong"
+    },
+    "code": {
+      "id": "GAB001001083",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.667",
+      "lon": "10.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001084",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyameyong",
+      "en": "Eyameyong",
+      "slug": "eyameyong"
+    },
+    "code": {
+      "id": "GAB001001084",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.183",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001085",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Eyeme",
+      "en": "Eyeme",
+      "slug": "eyeme"
+    },
+    "code": {
+      "id": "GAB001001085",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001086",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fala",
+      "en": "Fala",
+      "slug": "fala"
+    },
+    "code": {
+      "id": "GAB001001086",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001087",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fouanga",
+      "en": "Fouanga",
+      "slug": "fouanga"
+    },
+    "code": {
+      "id": "GAB001001087",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.25",
+      "lon": "10.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001088",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foula",
+      "en": "Foula",
+      "slug": "foula"
+    },
+    "code": {
+      "id": "GAB001001088",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001089",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foula Bifoun",
+      "en": "Foula Bifoun",
+      "slug": "foula-bifoun"
+    },
+    "code": {
+      "id": "GAB001001089",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001090",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Foula Bifum",
+      "en": "Foula Bifum",
+      "slug": "foula-bifum"
+    },
+    "code": {
+      "id": "GAB001001090",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001091",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Fulabifum",
+      "en": "Fulabifum",
+      "slug": "fulabifum"
+    },
+    "code": {
+      "id": "GAB001001091",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001092",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ingou",
+      "en": "Ingou",
+      "slug": "ingou"
+    },
+    "code": {
+      "id": "GAB001001092",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001093",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Issangafoum",
+      "en": "Issangafoum",
+      "slug": "issangafoum"
+    },
+    "code": {
+      "id": "GAB001001093",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "10.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001094",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Jogeboat",
+      "en": "Jogeboat",
+      "slug": "jogeboat"
+    },
+    "code": {
+      "id": "GAB001001094",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.167",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001095",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kafele",
+      "en": "Kafele",
+      "slug": "kafele"
+    },
+    "code": {
+      "id": "GAB001001095",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.155",
+      "lon": "10.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001096",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kaleton",
+      "en": "Kaleton",
+      "slug": "kaleton"
+    },
+    "code": {
+      "id": "GAB001001096",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.333",
+      "lon": "10.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001097",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kam",
+      "en": "Kam",
+      "slug": "kam"
+    },
+    "code": {
+      "id": "GAB001001097",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.417",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001098",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kango",
+      "en": "Kango",
+      "slug": "kango"
+    },
+    "code": {
+      "id": "GAB001001098",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.179",
+      "lon": "10.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001099",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Karamaien",
+      "en": "Karamaien",
+      "slug": "karamaien"
+    },
+    "code": {
+      "id": "GAB001001099",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.15",
+      "lon": "10.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001100",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kimene",
+      "en": "Kimene",
+      "slug": "kimene"
+    },
+    "code": {
+      "id": "GAB001001100",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "10.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001101",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Kouame",
+      "en": "Kouame",
+      "slug": "kouame"
+    },
+    "code": {
+      "id": "GAB001001101",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.189",
+      "lon": "10.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001103",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Koumiki",
+      "en": "Koumiki",
+      "slug": "koumiki"
+    },
+    "code": {
+      "id": "GAB001001103",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "10.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001104",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lafond",
+      "en": "Lafond",
+      "slug": "lafond"
+    },
+    "code": {
+      "id": "GAB001001104",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.15",
+      "lon": "10.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001105",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lama",
+      "en": "Lama",
+      "slug": "lama"
+    },
+    "code": {
+      "id": "GAB001001105",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "9.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001106",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lamba",
+      "en": "Lamba",
+      "slug": "lamba"
+    },
+    "code": {
+      "id": "GAB001001106",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001107",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Lendama",
+      "en": "Lendama",
+      "slug": "lendama"
+    },
+    "code": {
+      "id": "GAB001001107",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.2",
+      "lon": "10.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001126",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "M'Foua",
+      "en": "M'Foua",
+      "slug": "mfoua"
+    },
+    "code": {
+      "id": "GAB001001126",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.4",
+      "lon": "10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001108",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Madaga",
+      "en": "Madaga",
+      "slug": "madaga"
+    },
+    "code": {
+      "id": "GAB001001108",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "10.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001109",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mafa",
+      "en": "Mafa",
+      "slug": "mafa"
+    },
+    "code": {
+      "id": "GAB001001109",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.19",
+      "lon": "10.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001110",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mafou",
+      "en": "Mafou",
+      "slug": "mafou"
+    },
+    "code": {
+      "id": "GAB001001110",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.19",
+      "lon": "10.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001111",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mafu",
+      "en": "Mafu",
+      "slug": "mafu"
+    },
+    "code": {
+      "id": "GAB001001111",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.19",
+      "lon": "10.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001112",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Massoro",
+      "en": "Massoro",
+      "slug": "massoro"
+    },
+    "code": {
+      "id": "GAB001001112",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "10.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001113",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mayengone",
+      "en": "Mayengone",
+      "slug": "mayengone"
+    },
+    "code": {
+      "id": "GAB001001113",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "10.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001114",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbalene",
+      "en": "Mbalene",
+      "slug": "mbalene"
+    },
+    "code": {
+      "id": "GAB001001114",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.437",
+      "lon": "10.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001115",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbel Alen",
+      "en": "Mbel Alen",
+      "slug": "mbel-alen"
+    },
+    "code": {
+      "id": "GAB001001115",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.437",
+      "lon": "10.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001116",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbissa",
+      "en": "Mbissa",
+      "slug": "mbissa"
+    },
+    "code": {
+      "id": "GAB001001116",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "10.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001117",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mbogha",
+      "en": "Mbogha",
+      "slug": "mbogha"
+    },
+    "code": {
+      "id": "GAB001001117",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.183",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001118",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mechui",
+      "en": "Mechui",
+      "slug": "mechui"
+    },
+    "code": {
+      "id": "GAB001001118",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "10.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001119",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Melen",
+      "en": "Melen",
+      "slug": "melen"
+    },
+    "code": {
+      "id": "GAB001001119",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.217",
+      "lon": "10.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001120",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Messang",
+      "en": "Messang",
+      "slug": "messang"
+    },
+    "code": {
+      "id": "GAB001001120",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.267",
+      "lon": "10.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001121",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Messoum",
+      "en": "Messoum",
+      "slug": "messoum"
+    },
+    "code": {
+      "id": "GAB001001121",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.417",
+      "lon": "10"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001122",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfang",
+      "en": "Mfang",
+      "slug": "mfang"
+    },
+    "code": {
+      "id": "GAB001001122",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.278",
+      "lon": "10.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001123",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfeme",
+      "en": "Mfeme",
+      "slug": "mfeme"
+    },
+    "code": {
+      "id": "GAB001001123",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001124",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfoa",
+      "en": "Mfoa",
+      "slug": "mfoa"
+    },
+    "code": {
+      "id": "GAB001001124",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.4",
+      "lon": "10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001125",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfoa-Arebe",
+      "en": "Mfoa-Arebe",
+      "slug": "mfoa-arebe"
+    },
+    "code": {
+      "id": "GAB001001125",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "10.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001127",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfoua-Avebe",
+      "en": "Mfoua-Avebe",
+      "slug": "mfoua-avebe"
+    },
+    "code": {
+      "id": "GAB001001127",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "10.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001128",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mfoul Mengoma",
+      "en": "Mfoul Mengoma",
+      "slug": "mfoul-mengoma"
+    },
+    "code": {
+      "id": "GAB001001128",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.417",
+      "lon": "10.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001129",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mimbi",
+      "en": "Mimbi",
+      "slug": "mimbi"
+    },
+    "code": {
+      "id": "GAB001001129",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001130",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Misseghe",
+      "en": "Misseghe",
+      "slug": "misseghe"
+    },
+    "code": {
+      "id": "GAB001001130",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.167",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001131",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mpiala",
+      "en": "Mpiala",
+      "slug": "mpiala"
+    },
+    "code": {
+      "id": "GAB001001131",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.698",
+      "lon": "10.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001132",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvang-Ayong",
+      "en": "Mvang-Ayong",
+      "slug": "mvang-ayong"
+    },
+    "code": {
+      "id": "GAB001001132",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.017",
+      "lon": "9.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001133",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Mvomo",
+      "en": "Mvomo",
+      "slug": "mvomo"
+    },
+    "code": {
+      "id": "GAB001001133",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.55",
+      "lon": "10.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001134",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndoua",
+      "en": "Ndoua",
+      "slug": "ndoua"
+    },
+    "code": {
+      "id": "GAB001001134",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "10.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001135",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ndouanieng",
+      "en": "Ndouanieng",
+      "slug": "ndouanieng"
+    },
+    "code": {
+      "id": "GAB001001135",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.302",
+      "lon": "10.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001136",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngorondzaye",
+      "en": "Ngorondzaye",
+      "slug": "ngorondzaye"
+    },
+    "code": {
+      "id": "GAB001001136",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.383",
+      "lon": "10.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001137",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngou",
+      "en": "Ngou",
+      "slug": "ngou"
+    },
+    "code": {
+      "id": "GAB001001137",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "10.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001138",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ngoulemve",
+      "en": "Ngoulemve",
+      "slug": "ngoulemve"
+    },
+    "code": {
+      "id": "GAB001001138",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.567",
+      "lon": "10.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001139",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nia Name",
+      "en": "Nia Name",
+      "slug": "nia-name"
+    },
+    "code": {
+      "id": "GAB001001139",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.271",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001140",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nianam",
+      "en": "Nianam",
+      "slug": "nianam"
+    },
+    "code": {
+      "id": "GAB001001140",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "10.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001142",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkomi",
+      "en": "Nkomi",
+      "slug": "nkomi"
+    },
+    "code": {
+      "id": "GAB001001142",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "10.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001143",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkong",
+      "en": "Nkong",
+      "slug": "nkong"
+    },
+    "code": {
+      "id": "GAB001001143",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.45",
+      "lon": "10.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001144",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoua",
+      "en": "Nkoua",
+      "slug": "nkoua"
+    },
+    "code": {
+      "id": "GAB001001144",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.233",
+      "lon": "10.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001146",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nkoumeti",
+      "en": "Nkoumeti",
+      "slug": "nkoumeti"
+    },
+    "code": {
+      "id": "GAB001001146",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "10.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001147",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nouako",
+      "en": "Nouako",
+      "slug": "nouako"
+    },
+    "code": {
+      "id": "GAB001001147",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "10.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001148",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nsele",
+      "en": "Nsele",
+      "slug": "nsele"
+    },
+    "code": {
+      "id": "GAB001001148",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.155",
+      "lon": "10.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001149",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nseng-Afoun",
+      "en": "Nseng-Afoun",
+      "slug": "nseng-afoun"
+    },
+    "code": {
+      "id": "GAB001001149",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001150",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ntoum",
+      "en": "Ntoum",
+      "slug": "ntoum"
+    },
+    "code": {
+      "id": "GAB001001150",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "10.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001151",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzamaligue",
+      "en": "Nzamaligue",
+      "slug": "nzamaligue"
+    },
+    "code": {
+      "id": "GAB001001151",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.307",
+      "lon": "10.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001152",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzamalique",
+      "en": "Nzamalique",
+      "slug": "nzamalique"
+    },
+    "code": {
+      "id": "GAB001001152",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.307",
+      "lon": "10.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001153",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzamanene",
+      "en": "Nzamanene",
+      "slug": "nzamanene"
+    },
+    "code": {
+      "id": "GAB001001153",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.283",
+      "lon": "10.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001154",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzeng-Bour",
+      "en": "Nzeng-Bour",
+      "slug": "nzeng-bour"
+    },
+    "code": {
+      "id": "GAB001001154",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.083",
+      "lon": "10.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001155",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzeng-Meyong",
+      "en": "Nzeng-Meyong",
+      "slug": "nzeng-meyong"
+    },
+    "code": {
+      "id": "GAB001001155",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "10.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001157",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzing Meyong",
+      "en": "Nzing Meyong",
+      "slug": "nzing-meyong"
+    },
+    "code": {
+      "id": "GAB001001157",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.287",
+      "lon": "10.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001158",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzogho-Mintang",
+      "en": "Nzogho-Mintang",
+      "slug": "nzogho-mintang"
+    },
+    "code": {
+      "id": "GAB001001158",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.208",
+      "lon": "10.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001159",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzogmitang",
+      "en": "Nzogmitang",
+      "slug": "nzogmitang"
+    },
+    "code": {
+      "id": "GAB001001159",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.183",
+      "lon": "10.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001160",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzogomintang",
+      "en": "Nzogomintang",
+      "slug": "nzogomintang"
+    },
+    "code": {
+      "id": "GAB001001160",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.208",
+      "lon": "10.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001161",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzong-Meyond",
+      "en": "Nzong-Meyond",
+      "slug": "nzong-meyond"
+    },
+    "code": {
+      "id": "GAB001001161",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.1",
+      "lon": "10.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001162",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzork",
+      "en": "Nzork",
+      "slug": "nzork"
+    },
+    "code": {
+      "id": "GAB001001162",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "10.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001163",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoro Bindzene",
+      "en": "Nzoro Bindzene",
+      "slug": "nzoro-bindzene"
+    },
+    "code": {
+      "id": "GAB001001163",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.417",
+      "lon": "10.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001164",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoro Mitang",
+      "en": "Nzoro Mitang",
+      "slug": "nzoro-mitang"
+    },
+    "code": {
+      "id": "GAB001001164",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.45",
+      "lon": "10.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001165",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Nzoua",
+      "en": "Nzoua",
+      "slug": "nzoua"
+    },
+    "code": {
+      "id": "GAB001001165",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.35",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001166",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Obinamboum",
+      "en": "Obinamboum",
+      "slug": "obinamboum"
+    },
+    "code": {
+      "id": "GAB001001166",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.433",
+      "lon": "10.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001167",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Omvan",
+      "en": "Omvan",
+      "slug": "omvan"
+    },
+    "code": {
+      "id": "GAB001001167",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "10.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001168",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Omvane",
+      "en": "Omvane",
+      "slug": "omvane"
+    },
+    "code": {
+      "id": "GAB001001168",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "10.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001169",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Onvane",
+      "en": "Onvane",
+      "slug": "onvane"
+    },
+    "code": {
+      "id": "GAB001001169",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.633",
+      "lon": "10.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001170",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oussourfan",
+      "en": "Oussourfan",
+      "slug": "oussourfan"
+    },
+    "code": {
+      "id": "GAB001001170",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.417",
+      "lon": "10.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001171",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovane Bibang",
+      "en": "Ovane Bibang",
+      "slug": "ovane-bibang"
+    },
+    "code": {
+      "id": "GAB001001171",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "10.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001172",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovel Kol",
+      "en": "Ovel Kol",
+      "slug": "ovel-kol"
+    },
+    "code": {
+      "id": "GAB001001172",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.1",
+      "lon": "10.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001173",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ovok-Sone",
+      "en": "Ovok-Sone",
+      "slug": "ovok-sone"
+    },
+    "code": {
+      "id": "GAB001001173",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.367",
+      "lon": "9.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001174",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Oyan",
+      "en": "Oyan",
+      "slug": "oyan"
+    },
+    "code": {
+      "id": "GAB001001174",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.002",
+      "lon": "10.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001175",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Regnault",
+      "en": "Regnault",
+      "slug": "regnault"
+    },
+    "code": {
+      "id": "GAB001001175",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.167",
+      "lon": "9.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001176",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sizakang",
+      "en": "Sizakang",
+      "slug": "sizakang"
+    },
+    "code": {
+      "id": "GAB001001176",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "10.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001177",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Soulfane",
+      "en": "Soulfane",
+      "slug": "soulfane"
+    },
+    "code": {
+      "id": "GAB001001177",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001178",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sounga-Milare",
+      "en": "Sounga-Milare",
+      "slug": "sounga-milare"
+    },
+    "code": {
+      "id": "GAB001001178",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.083",
+      "lon": "10.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001179",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sulfan",
+      "en": "Sulfan",
+      "slug": "sulfan"
+    },
+    "code": {
+      "id": "GAB001001179",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001180",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Sulfane",
+      "en": "Sulfane",
+      "slug": "sulfane"
+    },
+    "code": {
+      "id": "GAB001001180",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "10.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001181",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tem",
+      "en": "Tem",
+      "slug": "tem"
+    },
+    "code": {
+      "id": "GAB001001181",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.1",
+      "lon": "9.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001182",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Tornebeim",
+      "en": "Tornebeim",
+      "slug": "tornebeim"
+    },
+    "code": {
+      "id": "GAB001001182",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.033",
+      "lon": "9.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001183",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Vanayeme",
+      "en": "Vanayeme",
+      "slug": "vanayeme"
+    },
+    "code": {
+      "id": "GAB001001183",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.267",
+      "lon": "10.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001184",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Varmoko",
+      "en": "Varmoko",
+      "slug": "varmoko"
+    },
+    "code": {
+      "id": "GAB001001184",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.3",
+      "lon": "10.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001185",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Yameyang",
+      "en": "Yameyang",
+      "slug": "yameyang"
+    },
+    "code": {
+      "id": "GAB001001185",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.05",
+      "lon": "10.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001186",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zamanene",
+      "en": "Zamanene",
+      "slug": "zamanene"
+    },
+    "code": {
+      "id": "GAB001001186",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.1",
+      "lon": "10.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "GAB001001187",
+    "level": 3,
+    "level_name": {
+      "local": "Localité",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Zoulameyong",
+      "en": "Zoulameyong",
+      "slug": "zoulameyong"
+    },
+    "code": {
+      "id": "GAB001001187",
+      "iso": null
+    },
+    "parent": {
+      "id": "GAB001001",
+      "level": 2,
+      "name": {
+        "local": "Komo",
+        "en": "Komo",
+        "slug": "komo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "GAB001",
+        "level": 1,
+        "name": {
+          "local": "Estuaire",
+          "en": "Estuaire",
+          "slug": "estuaire"
+        }
+      },
+      {
+        "id": "GAB001001",
+        "level": 2,
+        "name": {
+          "local": "Komo",
+          "en": "Komo",
+          "slug": "komo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.233",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

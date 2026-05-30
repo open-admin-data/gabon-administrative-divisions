@@ -1,0 +1,30 @@
+{
+  "id": "GAB003",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Moyen-Ogooue",
+    "en": "Moyen-Ogooue",
+    "slug": "moyen-ogooue"
+  },
+  "code": {
+    "id": "GAB003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 2,
+    "settlement": 306
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.462",
+    "lon": "10.43"
+  },
+  "metadata": {},
+  "source": {}
+}
