@@ -26,5 +26,9 @@
     "lon": "12.512"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ga/provinces/ogooue-lolo/",
+    "api": "https://openadmindata.org/api/ga/"
+  }
 }

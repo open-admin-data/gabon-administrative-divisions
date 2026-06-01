@@ -27,7 +27,11 @@
       "lon": "11.048"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ga/provinces/nyanga/",
+      "api": "https://openadmindata.org/api/ga/"
+    }
   },
   {
     "id": "GAB004",
@@ -57,7 +61,11 @@
       "lon": "11.364"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ga/provinces/ngounie/",
+      "api": "https://openadmindata.org/api/ga/"
+    }
   },
   {
     "id": "GAB008",
@@ -87,7 +95,11 @@
       "lon": "9.542"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ga/provinces/ogooue-maritime/",
+      "api": "https://openadmindata.org/api/ga/"
+    }
   },
   {
     "id": "GAB002",
@@ -117,7 +129,11 @@
       "lon": "13.659"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ga/provinces/haut-ogooue/",
+      "api": "https://openadmindata.org/api/ga/"
+    }
   },
   {
     "id": "GAB003",
@@ -147,7 +163,11 @@
       "lon": "10.43"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ga/provinces/moyen-ogooue/",
+      "api": "https://openadmindata.org/api/ga/"
+    }
   },
   {
     "id": "GAB007",
@@ -177,7 +197,11 @@
       "lon": "12.512"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ga/provinces/ogooue-lolo/",
+      "api": "https://openadmindata.org/api/ga/"
+    }
   },
   {
     "id": "GAB001",
@@ -207,7 +231,11 @@
       "lon": "9.857"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ga/provinces/estuaire/",
+      "api": "https://openadmindata.org/api/ga/"
+    }
   },
   {
     "id": "GAB006",
@@ -237,7 +265,11 @@
       "lon": "12.841"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ga/provinces/ogooue-ivindo/",
+      "api": "https://openadmindata.org/api/ga/"
+    }
   },
   {
     "id": "GAB009",
@@ -267,6 +299,10 @@
       "lon": "11.549"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ga/provinces/woleu-ntem/",
+      "api": "https://openadmindata.org/api/ga/"
+    }
   }
 ]

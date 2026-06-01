@@ -26,5 +26,9 @@
     "lon": "9.857"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ga/provinces/estuaire/",
+    "api": "https://openadmindata.org/api/ga/"
+  }
 }

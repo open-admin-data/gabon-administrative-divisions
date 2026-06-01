@@ -26,5 +26,9 @@
     "lon": "9.542"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ga/provinces/ogooue-maritime/",
+    "api": "https://openadmindata.org/api/ga/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "11.048"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ga/provinces/nyanga/",
+    "api": "https://openadmindata.org/api/ga/"
+  }
 }

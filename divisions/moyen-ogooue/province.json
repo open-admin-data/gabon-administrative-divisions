@@ -26,5 +26,9 @@
     "lon": "10.43"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ga/provinces/moyen-ogooue/",
+    "api": "https://openadmindata.org/api/ga/"
+  }
 }
