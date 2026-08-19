@@ -3,7 +3,7 @@
 > 4 departments, 350 settlements
 > Code: GAB006
 > Coordinates: 0.496, 12.841
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Departments
 

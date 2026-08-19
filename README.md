@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/ga](https://openadmindata.org/ga/) |
 | API | [openadmindata.org/api/ga](https://openadmindata.org/api/ga/) |
+| National Anthem | [🎵 Listen & Download Gabon National Anthem MP3](https://onlygames.me/national-anthems/ga/) |
 
 ## Browse by Province
 
