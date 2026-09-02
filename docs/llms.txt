@@ -10,7 +10,7 @@
 - Total departments: 48
 - Total settlements: 4,192
 - Coordinates: included (all levels)
-- Last updated: 2026-08-20
+- Last updated: 2026-09-02
 - License: CC-BY-4.0
 
 ## Aggregate Data Files
