@@ -12,11 +12,12 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/ga](https://openadmindata.org/ga/) |
 | API | [openadmindata.org/api/ga](https://openadmindata.org/api/ga/) |
 | Flag | [PNG](https://onlygames.me/flags-png/ga/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Gabon National Anthem MP3](https://onlygames.me/national-anthems/ga/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/gab) · [Population](https://nationdata.org/population/country/gab) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by Province
 
